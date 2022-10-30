@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WordPress FAQ</title>
+    <link>https://wordpress-faq.com/post/</link>
+    <description>Recent content in Posts on WordPress FAQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 30 Oct 2022 18:17:29 +0100</lastBuildDate><atom:link href="https://wordpress-faq.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Was ist der Unterschied zwischen wordpress.org und wordpress.com?</title>
+      <link>https://wordpress-faq.com/was-ist-der-unterschied-zwischen-wordpress-org-und-wordpress-com/</link>
+      <pubDate>Sun, 30 Oct 2022 18:17:29 +0100</pubDate>
+      
+      <guid>https://wordpress-faq.com/was-ist-der-unterschied-zwischen-wordpress-org-und-wordpress-com/</guid>
+      
+      <description>&lt;p&gt;Nun, zunächst solltest du dir klar sein, was WordPress überhaupt ist. WordPress ist eine kostenlos Software, genauer ein Content-Management-System, die auf einem Web-Server installiert wird. WordPress ist ein sehr weit verbreitetes Blog-System, dass mittlerweile auch für Shops, Portale und andere Projekte verwendet wird.&lt;/p&gt;
+&lt;p&gt;Wenn du dich selber um die Installation kümmerst, z.B. auf einem Shared-Hosting-Anbieter wie all-inkl oder sogar auf einem vServer, kannst du dir WordPress von &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;wordpress.org &lt;!-- raw HTML omitted --&gt;herunterladen&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Wenn du die Installation und Verwaltung nicht übernehmen möchtest, kannst du dich auf &lt;!-- raw HTML omitted --&gt;wordpress.com&lt;!-- raw HTML omitted --&gt; anmelden. Auch das ist kostenlos, allerdings mit eingeschränkter Funktionalität. Brauchst du zusätzliche Funktionen, kannst du diese gegen eine monatliche Gebühr freischalten.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Warum Sehe Ich Nur Einen Weissen Bildschirm</title>
+      <link>https://wordpress-faq.com/warum-sehe-ich-nur-einen-weissen-bildschirm/</link>
+      <pubDate>Sun, 30 Oct 2022 18:09:34 +0100</pubDate>
+      
+      <guid>https://wordpress-faq.com/warum-sehe-ich-nur-einen-weissen-bildschirm/</guid>
+      
+      <description>&lt;p&gt;Der berühmte White-Screen-Of-Death oder WSOD! Nun, du kannst unbesorgt sein, der WSOD ist weniger gefährlich, also du denkst. Deine WordPress-Seite ist nicht ganz verloren. Du musst lediglich dafür sorgen, dass die Fehlermeldungen korrekt ausgegeben werden. Das ist z.B. aus Sicherheitsgründen zunächst deaktiviert. Wie das funktioniert, &lt;a href=&#34;https://wordpress-faq.com/wie-aktiviere-ich-den-debug-modus/&#34; title=&#34;beschreibe ich hier&#34;&gt;beschreibe ich hier&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Wie aktiviere ich den Debug-Modus?</title>
+      <link>https://wordpress-faq.com/wie-aktiviere-ich-den-debug-modus/</link>
+      <pubDate>Sun, 30 Oct 2022 17:34:44 +0100</pubDate>
+      
+      <guid>https://wordpress-faq.com/wie-aktiviere-ich-den-debug-modus/</guid>
+      
+      <description>&lt;p&gt;Der Debug-Modus ist nicht nur bei der Fehlersuche, sondern auch bei der Entwicklung eines Themes oder Plugins von großer Bedeutung. Aus Sicherheitsgründen ist diese Funktion standardmäßig deaktiviert, da damit unter Umständen sensible Informationen über den Server öffentlich sichtbar sind.&lt;/p&gt;
+&lt;h2 id=&#34;das-wordpress-spezifische-vorgehen&#34;&gt;Das WordPress-spezifische Vorgehen&lt;/h2&gt;
+&lt;p&gt;Den Debug-Modus aktivierst du in der Datei wp-config.php mit der folgenden Zeile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;define( &#39;WP_DEBUG&#39;, true );
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ist die Zeile nicht vorhanden, fügst du sie direkt am Anfang der Datei hinzu – das gilt natürlich auch für die nächsten beiden Paramter.&lt;/p&gt;
+&lt;p&gt;Der Debug-Modus kann Fehlermeldungen entweder direkt auf der Seite ausgeben (“inline”) oder in eine Datei speichern. Der folgende Parameter in der wp-config.php sorgt dafür, dass die Fehlermeldungen in der Datei debug.log im Ordner wp-content abgelegt werden:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;define( &#39;WP_DEBUG_LOG&#39;, true ); 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Das ist vor allem dann sinnvoll, wenn du deine Seite über einen gewissen Zeitraum beobachten und Fehlermeldungen sammeln willst.&lt;/p&gt;
+&lt;p&gt;Die Fehlermeldungen werden standardmäßig auch auf der Seite ausgegeben. Willst du das verhindern, kannst du in der wp-config.php den folgenden Parameter nutzen:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;define(&#39;WP_DEBUG_DISPLAY&#39;, false);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Daneben gibt es noch einige andere Parameter, die hier genauer beschrieben sind.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Die folgenden Absätze lassen sich übrigens auf jeden Webserver der PHP und Apache nutzt anwenden!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;das-php-spezifische-vorgehen&#34;&gt;Das PHP-spezifische Vorgehen&lt;/h2&gt;
+&lt;p&gt;Die oben beschriebenen Parameter sind eigentlich nur die vereinfachten Parameter. Im Hintergrund greift WordPress auf PHP-spezifische Parameter zurück. Wenn du auf Nummer Sicher gehen willst und ausschließen willst, dass WordPress fehlerhaft ist, kannst du die Fehlerausgabe auch ohne den Umweg über WordPress setzen.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;error_reporting(E_ALL);
+ini_set(&#39;display_errors&#39;, 1);
+ini_set(&amp;quot;log_errors&amp;quot;, 1);
+ini_set(&amp;quot;error_log&amp;quot;, &amp;quot;/pfad/zu/wordpress/temp/php-error.log&amp;quot;);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Die erste Zeile aktiviert zunächst den PHP-Debug-Modus, die zweite Zeile sorgt dafür, dass die Meldungen auch auf der Seite angezeigt werden. Die beiden letzten Zeilen sind wiederum dafür da, die Fehler auch in einer Datei abzulegen.&lt;/p&gt;
+&lt;h2 id=&#34;das-apache-spezifische-vorgehen&#34;&gt;Das Apache-spezifische Vorgehen&lt;/h2&gt;
+&lt;p&gt;Das war aber noch nicht alles. Es geht tatsächlich noch einen Schritt “professioneller”, indem du den Web-Server (Apache) direkt dazu anleitest, Fehlermeldungen auszugeben. Und jetzt wird es wirklich kompliziert, denn hier kannst du eine Menge mehr einstellen. Die folgenden Parameter gehören in die .htacces-Datei im Hauptordner deiner Webseite:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;php_flag display_startup_errors on
+php_flag display_errors on
+php_flag html_errors on
+php_flag log_errors on
+
+#  Wenn du das volle Entertainment brauchst
+# nimm auch das hier mit - für alle Copy&amp;amp;Paste-Cowbowys, die 
+# den Warnhinweis nicht lesen, habe ich die Zeilen auskommentiert
+# php_flag ignore_repeated_errors off
+# php_flag ignore_repeated_source off
+# php_flag report_memleaks on
+# php_flag track_errors on
+# php_value docref_root 0
+# php_value docref_ext 0
+# php_value error_log /pfad/zu/wordpress/temp/php-error.log
+# php_value error_reporting -1
+# php_value log_errors_max_len 0
+
+# &amp;lt;Files php_errors.log&amp;gt;
+#      Order allow,deny
+#      Deny from all
+#      Satisfy All
+# &amp;lt;/Files&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Wichtig: Nicht unbeaufsichtigt debuggen!&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Das Debug-Log kann sensible Informationen beinhalten und außerdem die Leistung des Servers beeinträchtigen sowie unnötig Speicherplatz verbrauchen. Du solltest das Debugging also nur bei Bedarf aktivieren.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
