@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  
+  <meta name="author" content="">
+
+  
+  
+  <meta name="description" content="Der Debug-Modus ist nicht nur bei der Fehlersuche, sondern auch bei der Entwicklung eines Themes oder Plugins von großer Bedeutung. Aus Sicherheitsgründen ist diese Funktion standardmäßig deaktiviert, da damit unter Umständen sensible Informationen über den Server öffentlich sichtbar sind.
+Das WordPress-spezifische Vorgehen Den Debug-Modus aktivierst du in der Datei wp-config.php mit der folgenden Zeile:
+define( &#39;WP_DEBUG&#39;, true ); Ist die Zeile nicht vorhanden, fügst du sie direkt am Anfang der Datei hinzu – das gilt natürlich auch für die nächsten beiden Paramter.">
+  
+
+  
+  <link rel="icon" href="https://wordpress-faq.com/favicon.ico">
+
+  
+  
+  <meta name="keywords" content=" hugo  latex  theme ">
+  
+
+  
+  
+
+  
+  <meta property="og:title" content="Wie aktiviere ich den Debug-Modus?" />
+<meta property="og:description" content="Der Debug-Modus ist nicht nur bei der Fehlersuche, sondern auch bei der Entwicklung eines Themes oder Plugins von großer Bedeutung. Aus Sicherheitsgründen ist diese Funktion standardmäßig deaktiviert, da damit unter Umständen sensible Informationen über den Server öffentlich sichtbar sind.
+Das WordPress-spezifische Vorgehen Den Debug-Modus aktivierst du in der Datei wp-config.php mit der folgenden Zeile:
+define( &#39;WP_DEBUG&#39;, true ); Ist die Zeile nicht vorhanden, fügst du sie direkt am Anfang der Datei hinzu – das gilt natürlich auch für die nächsten beiden Paramter." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://wordpress-faq.com/wie-aktiviere-ich-den-debug-modus/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2022-10-30T17:34:44+01:00" />
+<meta property="article:modified_time" content="2022-10-30T17:34:44+01:00" />
+
+
+
+  
+  <link rel="canonical" href="https://wordpress-faq.com/wie-aktiviere-ich-den-debug-modus/">
+
+  
+  
+  <meta itemprop="name" content="Wie aktiviere ich den Debug-Modus?">
+<meta itemprop="description" content="Der Debug-Modus ist nicht nur bei der Fehlersuche, sondern auch bei der Entwicklung eines Themes oder Plugins von großer Bedeutung. Aus Sicherheitsgründen ist diese Funktion standardmäßig deaktiviert, da damit unter Umständen sensible Informationen über den Server öffentlich sichtbar sind.
+Das WordPress-spezifische Vorgehen Den Debug-Modus aktivierst du in der Datei wp-config.php mit der folgenden Zeile:
+define( &#39;WP_DEBUG&#39;, true ); Ist die Zeile nicht vorhanden, fügst du sie direkt am Anfang der Datei hinzu – das gilt natürlich auch für die nächsten beiden Paramter."><meta itemprop="datePublished" content="2022-10-30T17:34:44+01:00" />
+<meta itemprop="dateModified" content="2022-10-30T17:34:44+01:00" />
+<meta itemprop="wordCount" content="453">
+<meta itemprop="keywords" content="" />
+
+  
+  <link media="screen" rel="stylesheet" href='https://wordpress-faq.com/css/common.css'>
+  <link media="screen" rel="stylesheet" href='https://wordpress-faq.com/css/content.css'>
+
+  
+  
+  <title>Wie aktiviere ich den Debug-Modus? - WordPress FAQ</title>
+  
+
+  
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Wie aktiviere ich den Debug-Modus?"/>
+<meta name="twitter:description" content="Der Debug-Modus ist nicht nur bei der Fehlersuche, sondern auch bei der Entwicklung eines Themes oder Plugins von großer Bedeutung. Aus Sicherheitsgründen ist diese Funktion standardmäßig deaktiviert, da damit unter Umständen sensible Informationen über den Server öffentlich sichtbar sind.
+Das WordPress-spezifische Vorgehen Den Debug-Modus aktivierst du in der Datei wp-config.php mit der folgenden Zeile:
+define( &#39;WP_DEBUG&#39;, true ); Ist die Zeile nicht vorhanden, fügst du sie direkt am Anfang der Datei hinzu – das gilt natürlich auch für die nächsten beiden Paramter."/>
+
+
+  
+<link rel="stylesheet" href='https://wordpress-faq.com/css/single.css'>
+
+</head>
+
+<body>
+  <div id="wrapper">
+    <header id="header">
+  <h1>
+    <a href="https://wordpress-faq.com/">WordPress FAQ</a>
+  </h1>
+
+  <nav>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/">Post</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/post/">Archives</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      <a class="link" href="/about/">About</a>
+    </span>
+    
+  </nav>
+</header>
+
+    
+<main id="main" class="post">
+  
+  
+  <h1>Wie aktiviere ich den Debug-Modus?</h1>
+  
+  
+  <article class="content">
+    
+    <p>Der Debug-Modus ist nicht nur bei der Fehlersuche, sondern auch bei der Entwicklung eines Themes oder Plugins von großer Bedeutung. Aus Sicherheitsgründen ist diese Funktion standardmäßig deaktiviert, da damit unter Umständen sensible Informationen über den Server öffentlich sichtbar sind.</p>
+<h2 id="das-wordpress-spezifische-vorgehen">Das WordPress-spezifische Vorgehen</h2>
+<p>Den Debug-Modus aktivierst du in der Datei wp-config.php mit der folgenden Zeile:</p>
+<pre><code>define( 'WP_DEBUG', true );
+</code></pre>
+<p>Ist die Zeile nicht vorhanden, fügst du sie direkt am Anfang der Datei hinzu – das gilt natürlich auch für die nächsten beiden Paramter.</p>
+<p>Der Debug-Modus kann Fehlermeldungen entweder direkt auf der Seite ausgeben (“inline”) oder in eine Datei speichern. Der folgende Parameter in der wp-config.php sorgt dafür, dass die Fehlermeldungen in der Datei debug.log im Ordner wp-content abgelegt werden:</p>
+<pre><code>define( 'WP_DEBUG_LOG', true ); 
+</code></pre>
+<p>Das ist vor allem dann sinnvoll, wenn du deine Seite über einen gewissen Zeitraum beobachten und Fehlermeldungen sammeln willst.</p>
+<p>Die Fehlermeldungen werden standardmäßig auch auf der Seite ausgegeben. Willst du das verhindern, kannst du in der wp-config.php den folgenden Parameter nutzen:</p>
+<pre><code>define('WP_DEBUG_DISPLAY', false);
+</code></pre>
+<p>Daneben gibt es noch einige andere Parameter, die hier genauer beschrieben sind.</p>
+<blockquote>
+<p>Die folgenden Absätze lassen sich übrigens auf jeden Webserver der PHP und Apache nutzt anwenden!</p>
+</blockquote>
+<h2 id="das-php-spezifische-vorgehen">Das PHP-spezifische Vorgehen</h2>
+<p>Die oben beschriebenen Parameter sind eigentlich nur die vereinfachten Parameter. Im Hintergrund greift WordPress auf PHP-spezifische Parameter zurück. Wenn du auf Nummer Sicher gehen willst und ausschließen willst, dass WordPress fehlerhaft ist, kannst du die Fehlerausgabe auch ohne den Umweg über WordPress setzen.</p>
+<pre><code>error_reporting(E_ALL);
+ini_set('display_errors', 1);
+ini_set(&quot;log_errors&quot;, 1);
+ini_set(&quot;error_log&quot;, &quot;/pfad/zu/wordpress/temp/php-error.log&quot;);
+</code></pre>
+<p>Die erste Zeile aktiviert zunächst den PHP-Debug-Modus, die zweite Zeile sorgt dafür, dass die Meldungen auch auf der Seite angezeigt werden. Die beiden letzten Zeilen sind wiederum dafür da, die Fehler auch in einer Datei abzulegen.</p>
+<h2 id="das-apache-spezifische-vorgehen">Das Apache-spezifische Vorgehen</h2>
+<p>Das war aber noch nicht alles. Es geht tatsächlich noch einen Schritt “professioneller”, indem du den Web-Server (Apache) direkt dazu anleitest, Fehlermeldungen auszugeben. Und jetzt wird es wirklich kompliziert, denn hier kannst du eine Menge mehr einstellen. Die folgenden Parameter gehören in die .htacces-Datei im Hauptordner deiner Webseite:</p>
+<pre><code>php_flag display_startup_errors on
+php_flag display_errors on
+php_flag html_errors on
+php_flag log_errors on
+
+#  Wenn du das volle Entertainment brauchst
+# nimm auch das hier mit - für alle Copy&amp;Paste-Cowbowys, die 
+# den Warnhinweis nicht lesen, habe ich die Zeilen auskommentiert
+# php_flag ignore_repeated_errors off
+# php_flag ignore_repeated_source off
+# php_flag report_memleaks on
+# php_flag track_errors on
+# php_value docref_root 0
+# php_value docref_ext 0
+# php_value error_log /pfad/zu/wordpress/temp/php-error.log
+# php_value error_reporting -1
+# php_value log_errors_max_len 0
+
+# &lt;Files php_errors.log&gt;
+#      Order allow,deny
+#      Deny from all
+#      Satisfy All
+# &lt;/Files&gt;
+</code></pre>
+<blockquote>
+<p><strong>Wichtig: Nicht unbeaufsichtigt debuggen!</strong></p>
+</blockquote>
+<p>Das Debug-Log kann sensible Informationen beinhalten und außerdem die Leistung des Servers beeinträchtigen sowie unnötig Speicherplatz verbrauchen. Du solltest das Debugging also nur bei Bedarf aktivieren.</p>
+
+    
+  </article>
+  <div class="paginator">
+    
+    <a></a>
+    
+    
+    <a class="link" href="https://wordpress-faq.com/warum-sehe-ich-nur-einen-weissen-bildschirm/">next →</a>
+    
+  </div>
+  <div class="comment">
+    
+    
+    
+    
+    
+    
+  </div>
+  
+</main>
+
+    <footer id="footer">
+  <div>
+    <span>© 2019</span> - <span>2022</span>
+  </div>
+
+  <div>
+    <span>Powered by </span>
+    <a class="link" href="https://gohugo.io/">Hugo</a>
+    <span> 🍦 Theme </span>
+    <a class="link" href="https://github.com/queensferryme/hugo-theme-texify">TeXify</a>
+  </div>
+
+  <div class="footnote">
+    <span>Follow me on <a class=link href=https://github.com/queensferryme>GitHub</a>,
+<a class=link href=https://twitter.com/queensferryme>Twitter</a> or
+<a class=link href=/index.xml>RSS</a> |
+<a class=link href=https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank rel=noopener>CC BY-NC-SA 4.0</a>
+</span>
+  </div>
+</footer>
+
+  </div>
+
+  
+  
+
+  
+  
+
+  
+  
+
+</body>
+
+</html>
