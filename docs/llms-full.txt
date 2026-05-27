@@ -6,7 +6,7 @@ lastmod: 2026-05-27
 tags: 
 What is WordPress FAQ? WordPress FAQ is a community-sourced reference site that turns real Reddit discussions into concise, searchable answers about WordPress plugins, themes, and configurations.
 Every page on this site represents a real question that WordPress users ask — and the answer reflects what the community actually reports, not what plugin vendors claim.
-How content is generated Crawling — We monitor WordPress-related subreddits (r/Wordpress, r/WPDev, etc.) for recurring questions about plugin and theme compatibility. Summarisation — An AI model (GPT-4o) reads the top-voted threads and extracts the consensus verdict, known issues, and FAQ pairs. No content is fabricated; it is always grounded in the source posts. Publishing — Pages are written in Markdown with structured frontmatter containing verdict, confidence level, and source count, then built with Hugo into static HTML. Confidence levels Level Meaning high 10+ concordant community reports; strong consensus medium 5–9 reports; general agreement with some edge cases low Fewer than 5 reports; proceed with caution Sources All content is sourced from publicly available Reddit community discussions. We link back to source threads where available.
+How content is generated Crawling — We monitor WordPress-related subreddits (r/Wordpress, r/WPDev, etc.) for recurring questions about plugin and theme compatibility. Summarisation — An AI model (Gemini) reads the top-voted threads and extracts the consensus verdict, known issues, and FAQ pairs. No content is fabricated; it is always grounded in the source posts. Publishing — Pages are written in Markdown with structured frontmatter containing verdict, confidence level, and source count, then built with Hugo into static HTML. Confidence levels Level Meaning high 10+ concordant community reports; strong consensus medium 5–9 reports; general agreement with some edge cases low Fewer than 5 reports; proceed with caution Sources All content is sourced from publicly available Reddit community discussions. We link back to source threads where available.
 The site is rebuilt regularly as new community reports come in. The &ldquo;last updated&rdquo; date on each page reflects the most recent data crawl for that topic.
 Contact Have a correction or a missing topic? Open an issue on GitHub.
 ---
@@ -38,6 +38,28 @@ Since Elementor sites can become heavy, the community recommends using optimized
 ---
 
 ---
+title: Beaver Builder and Elementor Compatibility Guide
+url: https://wordpress-faq.com/compatibility/beaver-builder-elementor/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: While Elementor and Beaver Builder can technically run on the same site, doing so causes performance issues, so they should be used separately.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: page-builder, performance, conflict
+faq:
+  - q: Can I use Elementor and Beaver Builder together on the same WordPress site?
+    a: Yes, they can technically run on the same site, but it is highly discouraged due to performance degradation, script conflicts, and redundant asset loading.
+  - q: Which is easier to learn, Elementor or Beaver Builder?
+    a: Beaver Builder is often cited as easier to learn for beginners and agency workflows, while Elementor offers a more robust feature set but a steeper learning curve.
+While Elementor and Beaver Builder can technically run on the same site, doing so causes performance issues, so they should be used separately. Based on 5 community reports.
+Known Issues Running multiple page builders simultaneously slows down page load speeds. Asset loading conflicts between Elementor and Beaver Builder scripts. Community Q&amp;A Can I use Elementor and Beaver Builder together on the same WordPress site?
+Yes, they can technically run on the same site, but it is highly discouraged due to performance degradation, script conflicts, and redundant asset loading.
+Which is easier to learn, Elementor or Beaver Builder?
+Beaver Builder is often cited as easier to learn for beginners and agency workflows, while Elementor offers a more robust feature set but a steeper learning curve.
+---
+
+---
 title: Divi and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-elementor/
 date: 2026-05-27
@@ -57,6 +79,32 @@ Known Issues Severe page speed and performance degradation Shortcode clutter whe
 While technically possible, it is highly discouraged because loading two heavy page builder frameworks severely impacts site loading speeds and causes layout conflicts.
 What happens to my content if I switch from Divi to Elementor?
 Divi leaves behind a large amount of shortcode clutter when deactivated. You will need to manually rebuild your pages within Elementor to restore proper layout and styling.
+---
+
+---
+title: Elementor 3.26 Released: AI Features and Loop Builder Improvements
+url: https://wordpress-faq.com/news/elementor-3-26-released/
+date: 2026-05-10
+lastmod: 2026-05-27
+verdict: Elementor 3.26 is mostly welcomed for loop builder improvements, but the community has concerns about AI features being enabled by default and data-sharing implications.
+confidence: medium
+sources: 21
+schema_type: NewsArticle
+tags: page-builder, performance, widgets
+faq:
+  - q: Should I update to Elementor 3.26?
+    a: Most users report it is safe to update. The loop builder improvements are significant for those using dynamic content. Check your AI feature settings after updating.
+  - q: What are the AI features in Elementor 3.26?
+    a: Elementor 3.26 adds an AI writing assistant that can generate text directly in the editor. It requires an Elementor account and is opt-in, but some users report it defaults to enabled.
+  - q: Are there any breaking changes in Elementor 3.26?
+    a: No major breaking changes reported. A few niche compatibility issues with specific third-party Elementor addons have been noted, but the core product appears stable.
+Elementor 3.26 is mostly welcomed for loop builder improvements, but the community has concerns about AI features being enabled by default and data-sharing implications. Based on 21 Reddit community posts.
+Key Highlights Loop builder gets significant stability and performance improvements New AI writing assistant integrated into the text editor widget Dynamic tags expanded with more custom field sources Community debate around AI data-sharing opt-out buried in settings Community Reactions Should I update to Elementor 3.26?
+Most users report it is safe to update. The loop builder improvements are significant for those using dynamic content. Check your AI feature settings after updating.
+What are the AI features in Elementor 3.26?
+Elementor 3.26 adds an AI writing assistant that can generate text directly in the editor. It requires an Elementor account and is opt-in, but some users report it defaults to enabled.
+Are there any breaking changes in Elementor 3.26?
+No major breaking changes reported. A few niche compatibility issues with specific third-party Elementor addons have been noted, but the core product appears stable.
 ---
 
 ---
@@ -215,5 +263,57 @@ Known Issues Backend advertising and bloat from both plugins can clutter the Wor
 Yes, Elementor and Yoast SEO are fully compatible. Yoast SEO includes a dedicated integration that allows you to optimize your content directly within the Elementor live editor.
 Does using Elementor and Yoast SEO together slow down my website?
 While both plugins are feature-rich, they do not inherently cause performance issues if configured correctly. However, adding too many extra Elementor add-ons can lead to backend bloat.
+---
+
+---
+title: WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable
+url: https://wordpress-faq.com/news/woocommerce-9-8-released/
+date: 2026-05-20
+lastmod: 2026-05-27
+verdict: WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
+confidence: high
+sources: 28
+schema_type: NewsArticle
+tags: ecommerce, performance, migration
+faq:
+  - q: Will WooCommerce 9.8 break my store?
+    a: Most stores upgrade cleanly. The biggest risk is custom extensions or plugins that hook into legacy order tables and have not been updated for HPOS compatibility. Test on staging first.
+  - q: Do I need to migrate to Checkout Blocks after WooCommerce 9.8?
+    a: Not immediately. The legacy shortcode checkout still works, but WooCommerce recommends migrating to Checkout Blocks for long-term support and new features.
+  - q: What is HPOS and why does it matter?
+    a: HPOS (High-Performance Order Storage) stores orders in custom database tables instead of post meta, dramatically improving query performance for large stores with thousands of orders.
+WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing. Based on 28 Reddit community posts.
+Key Highlights High-Performance Order Storage (HPOS) is now the default for new installations Checkout Blocks declared stable and recommended over legacy shortcode checkout Significant query performance improvements for large stores Custom order table incompatibilities still exist in some older extensions Community Reactions Will WooCommerce 9.8 break my store?
+Most stores upgrade cleanly. The biggest risk is custom extensions or plugins that hook into legacy order tables and have not been updated for HPOS compatibility. Test on staging first.
+Do I need to migrate to Checkout Blocks after WooCommerce 9.8?
+Not immediately. The legacy shortcode checkout still works, but WooCommerce recommends migrating to Checkout Blocks for long-term support and new features.
+What is HPOS and why does it matter?
+HPOS (High-Performance Order Storage) stores orders in custom database tables instead of post meta, dramatically improving query performance for large stores with thousands of orders.
+---
+
+---
+title: WordPress 6.8 Released: Performance and Accessibility Improvements
+url: https://wordpress-faq.com/news/wordpress-6-8-released/
+date: 2026-04-25
+lastmod: 2026-05-27
+verdict: The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
+confidence: high
+sources: 34
+schema_type: NewsArticle
+tags: wordpress-core, performance, gutenberg
+faq:
+  - q: Is WordPress 6.8 safe to update to?
+    a: Yes, the community reports WordPress 6.8 is safe to update. No major plugin compatibility regressions have been widely reported. As always, test on staging first.
+  - q: What are the main changes in WordPress 6.8?
+    a: The main community-noticed changes are faster block editor performance on large posts, improved font library tools, and a batch of accessibility fixes in the admin area.
+  - q: Does WordPress 6.8 break Elementor or WooCommerce?
+    a: No widespread incompatibility reports. A few users noted minor editor quirks with older Elementor versions, but updating to the latest Elementor resolved them.
+The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported. Based on 34 Reddit community posts.
+Key Highlights Block editor rendering is noticeably faster on large posts New font library improvements reduce plugin dependency for typography Several long-standing accessibility issues in the admin fixed No major plugin compatibility regressions reported by the community Community Reactions Is WordPress 6.8 safe to update to?
+Yes, the community reports WordPress 6.8 is safe to update. No major plugin compatibility regressions have been widely reported. As always, test on staging first.
+What are the main changes in WordPress 6.8?
+The main community-noticed changes are faster block editor performance on large posts, improved font library tools, and a batch of accessibility fixes in the admin area.
+Does WordPress 6.8 break Elementor or WooCommerce?
+No widespread incompatibility reports. A few users noted minor editor quirks with older Elementor versions, but updating to the latest Elementor resolved them.
 ---
 

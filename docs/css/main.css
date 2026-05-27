@@ -49,3 +49,87 @@ li { margin-bottom: 0.3rem; }
 .page-footer a { color: #555; }
 
 footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-size: 0.875rem; color: #888; }
+
+/* ── News section ── */
+.news-section {
+  background: #f0f7ff;
+  border: 1px solid #c8e0f8;
+  border-radius: 6px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+}
+.news-section h2 { margin-top: 0; }
+.news-label {
+  background: #0066cc;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 3px;
+  margin-right: 0.5rem;
+}
+.news-list { list-style: none; padding: 0; }
+.news-item {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #d0e8f8;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  gap: 0.1rem 1rem;
+}
+.news-item:last-child { border-bottom: none; }
+.news-title { font-weight: 600; font-size: 1rem; grid-column: 1; }
+.news-date { font-size: 0.8rem; color: #888; grid-column: 2; grid-row: 1; white-space: nowrap; }
+.news-verdict { font-size: 0.875rem; color: #444; grid-column: 1 / -1; margin: 0; }
+.view-all { font-size: 0.875rem; font-weight: 600; }
+
+/* ── Plugin taxonomy ── */
+.plugin-section { margin-bottom: 2rem; }
+.plugin-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.plugin-list li { margin: 0; }
+.plugin-list a {
+  display: inline-block;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid #c8d8e8;
+  border-radius: 20px;
+  font-size: 0.875rem;
+  text-decoration: none;
+  background: #f8fbff;
+  color: #0055aa;
+}
+.plugin-list a:hover { background: #e0eeff; border-color: #88aadd; }
+.plugin-list .count { color: #888; font-size: 0.8rem; }
+
+/* ── News article badge ── */
+.news-badge {
+  display: inline-block;
+  background: #0066cc;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 3px;
+  margin-bottom: 0.75rem;
+}
+
+/* ── Source note ── */
+.source-note { color: #555; }
+
+/* ── Nav in header ── */
+header { display: flex; align-items: center; gap: 1.5rem; }
+header nav { display: flex; gap: 1rem; }
+header nav a { font-size: 0.9rem; text-decoration: none; color: #555; }
+header nav a:hover { color: #0066cc; }
+
+/* ── Related sidebar ── */
+.related { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee; }
