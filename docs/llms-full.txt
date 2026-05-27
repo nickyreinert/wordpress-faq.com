@@ -1,0 +1,219 @@
+---
+title: About WordPress FAQ
+url: https://wordpress-faq.com/about/
+date: 2026-01-01
+lastmod: 2026-05-27
+tags: 
+What is WordPress FAQ? WordPress FAQ is a community-sourced reference site that turns real Reddit discussions into concise, searchable answers about WordPress plugins, themes, and configurations.
+Every page on this site represents a real question that WordPress users ask — and the answer reflects what the community actually reports, not what plugin vendors claim.
+How content is generated Crawling — We monitor WordPress-related subreddits (r/Wordpress, r/WPDev, etc.) for recurring questions about plugin and theme compatibility. Summarisation — An AI model (GPT-4o) reads the top-voted threads and extracts the consensus verdict, known issues, and FAQ pairs. No content is fabricated; it is always grounded in the source posts. Publishing — Pages are written in Markdown with structured frontmatter containing verdict, confidence level, and source count, then built with Hugo into static HTML. Confidence levels Level Meaning high 10+ concordant community reports; strong consensus medium 5–9 reports; general agreement with some edge cases low Fewer than 5 reports; proceed with caution Sources All content is sourced from publicly available Reddit community discussions. We link back to source threads where available.
+The site is rebuilt regularly as new community reports come in. The &ldquo;last updated&rdquo; date on each page reflects the most recent data crawl for that topic.
+Contact Have a correction or a missing topic? Open an issue on GitHub.
+---
+
+---
+title: Astra and Elementor Compatibility Guide
+url: https://wordpress-faq.com/compatibility/astra-elementor/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: page-builder, performance, ecommerce, speed
+faq:
+  - q: Are Astra and Elementor compatible?
+    a: Yes, Astra is fully compatible with Elementor. It is one of the most popular theme choices for Elementor users due to its lightweight structure and starter templates.
+  - q: Does Astra work well with Elementor for WooCommerce?
+    a: Yes, Astra Pro offers extensive WooCommerce features, grid options, and modern layouts that integrate seamlessly with Elementor's page builder.
+  - q: How do I keep my Astra and Elementor site fast?
+    a: Since Elementor sites can become heavy, the community recommends using optimized hosting with built-in caching and a CDN to maintain fast page speeds.
+Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat. Based on 5 community reports.
+Known Issues Elementor sites can become heavy and require optimized hosting/caching Potential confusion between Astra&rsquo;s block editor integration and Elementor&rsquo;s page builder Community Q&amp;A Are Astra and Elementor compatible?
+Yes, Astra is fully compatible with Elementor. It is one of the most popular theme choices for Elementor users due to its lightweight structure and starter templates.
+Does Astra work well with Elementor for WooCommerce?
+Yes, Astra Pro offers extensive WooCommerce features, grid options, and modern layouts that integrate seamlessly with Elementor&rsquo;s page builder.
+How do I keep my Astra and Elementor site fast?
+Since Elementor sites can become heavy, the community recommends using optimized hosting with built-in caching and a CDN to maintain fast page speeds.
+---
+
+---
+title: Divi and Elementor Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-elementor/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: page-builder, performance, conflict, migration
+faq:
+  - q: Can I run both Divi and Elementor on the same WordPress site?
+    a: While technically possible, it is highly discouraged because loading two heavy page builder frameworks severely impacts site loading speeds and causes layout conflicts.
+  - q: What happens to my content if I switch from Divi to Elementor?
+    a: Divi leaves behind a large amount of shortcode clutter when deactivated. You will need to manually rebuild your pages within Elementor to restore proper layout and styling.
+Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other. Based on 5 community reports.
+Known Issues Severe page speed and performance degradation Shortcode clutter when disabling Divi Layout and styling conflicts between builder CSS files Community Q&amp;A Can I run both Divi and Elementor on the same WordPress site?
+While technically possible, it is highly discouraged because loading two heavy page builder frameworks severely impacts site loading speeds and causes layout conflicts.
+What happens to my content if I switch from Divi to Elementor?
+Divi leaves behind a large amount of shortcode clutter when deactivated. You will need to manually rebuild your pages within Elementor to restore proper layout and styling.
+---
+
+---
+title: Elementor and Contact Form 7 Compatibility Guide
+url: https://wordpress-faq.com/compatibility/contact-form-7-elementor/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Elementor and Contact Form 7 work well together, with CF7 favored for advanced API integrations and Elementor Pro chosen for native design control.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: forms, page-builder, conflict
+faq:
+  - q: Is Contact Form 7 compatible with Elementor?
+    a: Yes, Contact Form 7 is fully compatible with Elementor. You can easily embed CF7 forms into Elementor layouts using shortcodes or dedicated widgets.
+  - q: Should I use Elementor Forms or Contact Form 7?
+    a: Elementor Pro Forms offer a visual builder and native styling, while Contact Form 7 is free and preferred for complex third-party API integrations.
+Elementor and Contact Form 7 work well together, with CF7 favored for advanced API integrations and Elementor Pro chosen for native design control. Based on 5 community reports.
+Known Issues Free form builders like Contact Form 7 require additional plugins to save form submissions to the database. Community Q&amp;A Is Contact Form 7 compatible with Elementor?
+Yes, Contact Form 7 is fully compatible with Elementor. You can easily embed CF7 forms into Elementor layouts using shortcodes or dedicated widgets.
+Should I use Elementor Forms or Contact Form 7?
+Elementor Pro Forms offer a visual builder and native styling, while Contact Form 7 is free and preferred for complex third-party API integrations.
+---
+
+---
+title: Elementor and GeneratePress Compatibility Guide
+url: https://wordpress-faq.com/compatibility/elementor-generatepress/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: GeneratePress is highly recommended as a lightweight, stable, and fully compatible theme base for Elementor page builder projects.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: page-builder, performance, conflict
+faq:
+  - q: Is GeneratePress compatible with Elementor?
+    a: Yes, GeneratePress is highly compatible with Elementor. It is a lightweight, stable theme that does not interfere with Elementor's builder scripts.
+  - q: Why is GeneratePress recommended for Elementor users?
+    a: It keeps the website fast, stable, and WooCommerce-ready without bloat, serving as an excellent foundation for Elementor's page builder.
+GeneratePress is highly recommended as a lightweight, stable, and fully compatible theme base for Elementor page builder projects. Based on 5 community reports.
+Known Issues Potential homepage display issues when assigning static pages in WordPress Reading settings. Community Q&amp;A Is GeneratePress compatible with Elementor?
+Yes, GeneratePress is highly compatible with Elementor. It is a lightweight, stable theme that does not interfere with Elementor&rsquo;s builder scripts.
+Why is GeneratePress recommended for Elementor users?
+It keeps the website fast, stable, and WooCommerce-ready without bloat, serving as an excellent foundation for Elementor&rsquo;s page builder.
+---
+
+---
+title: Elementor and WooCommerce Compatibility Guide
+url: https://wordpress-faq.com/compatibility/elementor-woocommerce/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Elementor and WooCommerce are highly compatible, but users often face performance bloat that requires optimization plugins, VPS hosting, or lightweight translation alternatives.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: ecommerce, page-builder, performance, speed, widgets
+faq:
+  - q: Are Elementor and WooCommerce compatible?
+    a: Yes, Elementor and WooCommerce are fully compatible, allowing you to build custom online stores. However, combining them can cause performance bloat if not properly optimized.
+  - q: How can I fix speed issues with Elementor and WooCommerce?
+    a: To resolve performance issues, consider using a VPS instead of shared hosting, optimizing assets with plugins like Asset Cleanup, and using lightweight translation plugins like Polylang instead of WPML.
+  - q: Can I display WooCommerce brands in Elementor product grids?
+    a: Yes, you can use third-party Elementor addons like Product X or search the WordPress plugin directory for dedicated WooCommerce brand grid widgets.
+Elementor and WooCommerce are highly compatible, but users often face performance bloat that requires optimization plugins, VPS hosting, or lightweight translation alternatives. Based on 5 community reports.
+Known Issues Performance bloat when combining Elementor, WooCommerce, and heavy translation plugins like WPML. Finding specific niche widgets like WooCommerce Brand displays within standard Elementor grids. Community Q&amp;A Are Elementor and WooCommerce compatible?
+Yes, Elementor and WooCommerce are fully compatible, allowing you to build custom online stores. However, combining them can cause performance bloat if not properly optimized.
+How can I fix speed issues with Elementor and WooCommerce?
+To resolve performance issues, consider using a VPS instead of shared hosting, optimizing assets with plugins like Asset Cleanup, and using lightweight translation plugins like Polylang instead of WPML.
+Can I display WooCommerce brands in Elementor product grids?
+Yes, you can use third-party Elementor addons like Product X or search the WordPress plugin directory for dedicated WooCommerce brand grid widgets.
+---
+
+---
+title: Elementor and Wordfence Compatibility Guide
+url: https://wordpress-faq.com/compatibility/elementor-wordfence/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Elementor and Wordfence are highly compatible, though users may need to temporarily enable Wordfence's Learning Mode to prevent firewall false positives during page editing.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: page-builder, security, conflict
+faq:
+  - q: Are Elementor and Wordfence compatible?
+    a: Yes, Elementor and Wordfence work well together. You may just need to configure Wordfence's firewall to avoid blocking Elementor's saving processes.
+  - q: Why does Wordfence block Elementor from saving pages?
+    a: This happens when the Wordfence Web Application Firewall flags Elementor's AJAX requests as suspicious. Whitelist these actions using Wordfence Learning Mode.
+Elementor and Wordfence are highly compatible, though users may need to temporarily enable Wordfence&rsquo;s Learning Mode to prevent firewall false positives during page editing. Based on 5 community reports.
+Known Issues Wordfence firewall may occasionally block Elementor&rsquo;s AJAX saving requests as false positives. Admin actions in Elementor might trigger Wordfence security alerts if Learning Mode is disabled. Community Q&amp;A Are Elementor and Wordfence compatible?
+Yes, Elementor and Wordfence work well together. You may just need to configure Wordfence&rsquo;s firewall to avoid blocking Elementor&rsquo;s saving processes.
+Why does Wordfence block Elementor from saving pages?
+This happens when the Wordfence Web Application Firewall flags Elementor&rsquo;s AJAX requests as suspicious. Whitelist these actions using Wordfence Learning Mode.
+---
+
+---
+title: Elementor and WP Rocket Compatibility Guide
+url: https://wordpress-faq.com/compatibility/elementor-wp-rocket/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Elementor and WP Rocket are highly compatible, but users must carefully configure file optimization settings to prevent layout and styling conflicts.
+confidence: low
+sources: 5
+schema_type: FAQPage
+tags: page-builder, caching, performance, speed, conflict
+faq:
+  - q: Are Elementor and WP Rocket compatible?
+    a: Yes, Elementor and WP Rocket are fully compatible. WP Rocket helps optimize the performance of Elementor-built sites by caching pages and minifying files.
+  - q: How do I prevent WP Rocket from breaking my Elementor pages?
+    a: To avoid layout conflicts, exclude Elementor's CSS and JS files from minification or deferral settings in WP Rocket if you notice broken designs.
+Elementor and WP Rocket are highly compatible, but users must carefully configure file optimization settings to prevent layout and styling conflicts. Based on 5 community reports.
+Known Issues Minification of Elementor CSS/JS can sometimes break page layouts Combine Files option in WP Rocket may cause rendering issues with Elementor widgets Community Q&amp;A Are Elementor and WP Rocket compatible?
+Yes, Elementor and WP Rocket are fully compatible. WP Rocket helps optimize the performance of Elementor-built sites by caching pages and minifying files.
+How do I prevent WP Rocket from breaking my Elementor pages?
+To avoid layout conflicts, exclude Elementor&rsquo;s CSS and JS files from minification or deferral settings in WP Rocket if you notice broken designs.
+---
+
+---
+title: Elementor and WPForms Compatibility Guide
+url: https://wordpress-faq.com/compatibility/elementor-wpforms/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Elementor and WPForms are fully compatible, with WPForms offering a dedicated Elementor widget and native email template customization.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: forms, page-builder, conflict, email
+faq:
+  - q: Are Elementor and WPForms compatible?
+    a: Yes, WPForms is fully compatible with Elementor and includes a dedicated widget to easily embed forms into your Elementor layouts.
+  - q: How do I customize WPForms email templates in Elementor?
+    a: WPForms features a native drag-and-drop email template builder, allowing you to customize notifications without needing external Elementor add-ons.
+Elementor and WPForms are fully compatible, with WPForms offering a dedicated Elementor widget and native email template customization. Based on 5 community reports.
+Known Issues Outdated theme templates can cause layout breaks Email template customization may require external add-ons or HTML for advanced layouts Community Q&amp;A Are Elementor and WPForms compatible?
+Yes, WPForms is fully compatible with Elementor and includes a dedicated widget to easily embed forms into your Elementor layouts.
+How do I customize WPForms email templates in Elementor?
+WPForms features a native drag-and-drop email template builder, allowing you to customize notifications without needing external Elementor add-ons.
+---
+
+---
+title: Elementor and Yoast SEO Compatibility Guide
+url: https://wordpress-faq.com/compatibility/elementor-yoast-seo/
+date: 2026-05-27
+lastmod: 2026-05-27
+verdict: Elementor and Yoast SEO are fully compatible and integrate directly, though some users express concern over backend bloat and advertising.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: seo, page-builder, conflict, speed
+faq:
+  - q: Are Elementor and Yoast SEO compatible?
+    a: Yes, Elementor and Yoast SEO are fully compatible. Yoast SEO includes a dedicated integration that allows you to optimize your content directly within the Elementor live editor.
+  - q: Does using Elementor and Yoast SEO together slow down my website?
+    a: While both plugins are feature-rich, they do not inherently cause performance issues if configured correctly. However, adding too many extra Elementor add-ons can lead to backend bloat.
+Elementor and Yoast SEO are fully compatible and integrate directly, though some users express concern over backend bloat and advertising. Based on 5 community reports.
+Known Issues Backend advertising and bloat from both plugins can clutter the WordPress dashboard. Potential script conflicts if using multiple redundant Elementor add-ons alongside SEO plugins. Community Q&amp;A Are Elementor and Yoast SEO compatible?
+Yes, Elementor and Yoast SEO are fully compatible. Yoast SEO includes a dedicated integration that allows you to optimize your content directly within the Elementor live editor.
+Does using Elementor and Yoast SEO together slow down my website?
+While both plugins are feature-rich, they do not inherently cause performance issues if configured correctly. However, adding too many extra Elementor add-ons can lead to backend bloat.
+---
+

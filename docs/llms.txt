@@ -1,0 +1,35 @@
+# WordPress FAQ
+
+> Community-sourced WordPress answers from real users. Every page summarises real Reddit community discussions to give concise, sourced answers about WordPress plugin and theme compatibility, performance, and setup.
+
+## Purpose
+
+This site aggregates community knowledge about WordPress. Answers reflect real-world experience shared on Reddit, not vendor marketing. Each page includes a verdict, confidence level, source count, and FAQ pairs.
+
+## Sections
+
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 9 articles
+
+
+## All pages
+
+- [About WordPress FAQ](https://wordpress-faq.com/about/)
+- [Astra and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/astra-elementor/) — Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
+- [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
+- [Elementor and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-elementor/) — Elementor and Contact Form 7 work well together, with CF7 favored for advanced API integrations and Elementor Pro chosen for native design control.
+- [Elementor and GeneratePress Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-generatepress/) — GeneratePress is highly recommended as a lightweight, stable, and fully compatible theme base for Elementor page builder projects.
+- [Elementor and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-woocommerce/) — Elementor and WooCommerce are highly compatible, but users often face performance bloat that requires optimization plugins, VPS hosting, or lightweight translation alternatives.
+- [Elementor and Wordfence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wordfence/) — Elementor and Wordfence are highly compatible, though users may need to temporarily enable Wordfence's Learning Mode to prevent firewall false positives during page editing.
+- [Elementor and WP Rocket Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wp-rocket/) — Elementor and WP Rocket are highly compatible, but users must carefully configure file optimization settings to prevent layout and styling conflicts.
+- [Elementor and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wpforms/) — Elementor and WPForms are fully compatible, with WPForms offering a dedicated Elementor widget and native email template customization.
+- [Elementor and Yoast SEO Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-yoast-seo/) — Elementor and Yoast SEO are fully compatible and integrate directly, though some users express concern over backend bloat and advertising.
+
+
+## More
+
+Full structured data (title, URL, verdict, tags, FAQ pairs) is available at:
+https://wordpress-faq.com/llms-full.txt
+
+## About
+
+https://wordpress-faq.com/about/
