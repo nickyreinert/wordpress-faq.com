@@ -326,6 +326,34 @@ Reddit Sources Life After Divi (r/Wordpress) Ditching Elementor. What next, Bric
 ---
 
 ---
+title: Divi and Kadence Compatibility and Migration Guide
+url: https://wordpress-faq.com/compatibility/divi-kadence-compatibility/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: There is no direct compatibility between Divi and Kadence, requiring a manual rebuild of layouts when migrating between these two distinct builders.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: page-builder, performance, migration, ecommerce, gutenberg
+faq:
+  - q: Can I automatically migrate a Divi site to Kadence?
+    a: No, there is no automatic migration tool. You must manually rebuild your pages using Kadence blocks and templates to ensure proper performance.
+  - q: Is Divi compatible with Kadence?
+    a: They are not compatible. Divi relies on its own proprietary builder and shortcodes, whereas Kadence is built on the native WordPress Gutenberg block editor.
+  - q: Which is better for WooCommerce, Divi or Kadence?
+    a: Both support WooCommerce, but they offer different workflows. Divi has a longer track record, while Kadence is generally considered faster and more lightweight.
+There is no direct compatibility between Divi and Kadence, requiring a manual rebuild of layouts when migrating between these two distinct builders. Based on 8 community reports.
+Linked sources: 9.
+Known Issues No automatic migration path for Divi layouts to Kadence blocks Divi uses shortcode-based formatting while Kadence uses Gutenberg blocks Manual rebuild required for site migration Community Q&amp;A Can I automatically migrate a Divi site to Kadence?
+No, there is no automatic migration tool. You must manually rebuild your pages using Kadence blocks and templates to ensure proper performance.
+Is Divi compatible with Kadence?
+They are not compatible. Divi relies on its own proprietary builder and shortcodes, whereas Kadence is built on the native WordPress Gutenberg block editor.
+Which is better for WooCommerce, Divi or Kadence?
+Both support WooCommerce, but they offer different workflows. Divi has a longer track record, while Kadence is generally considered faster and more lightweight.
+Reddit Sources I posted my free WordPress theme here yesterday. You roasted it. Here&rsquo;s what I changed and why I&rsquo;m sticking with the rest. (r/Wordpress) I&rsquo;ve decided, I utterly hate block builders. Why are they agonizingly bad at UX? (r/Wordpress) I suggest not updating to Kadence Theme v1.5.0. They added this permanent Liquid Web panel (r/Wordpress) Elementor vs. Bricks in 2026 Time to Switch? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Migrate old WP Divi-Builder site into new Format e.g. Kadence/Gutenberg (r/Wordpress) kadence compatible email verifier (r/Wordpress) Divi Vs Kadence for Wocommerce (r/Wordpress) Kadence vs Divi (r/Wordpress)
+---
+
+---
 title: Divi and Oxygen Builder Compatibility Explained
 url: https://wordpress-faq.com/compatibility/divi-oxygen-builder/
 date: 2026-05-28

@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 51 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 52 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -28,6 +28,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
 - [Divi and GeneratePress Compatibility and Performance](https://wordpress-faq.com/compatibility/divi-generatepress/) — GeneratePress is preferred for performance and clean code, while Divi is a heavy page builder that may cause bloat and slower load times.
 - [Divi and Hello Elementor Compatibility Explained](https://wordpress-faq.com/compatibility/divi-hello-elementor-compatibility/) — Divi and Hello Elementor are both comprehensive theme frameworks and should not be used simultaneously on the same WordPress installation.
+- [Divi and Kadence Compatibility and Migration Guide](https://wordpress-faq.com/compatibility/divi-kadence-compatibility/) — There is no direct compatibility between Divi and Kadence, requiring a manual rebuild of layouts when migrating between these two distinct builders.
 - [Divi and Oxygen Builder Compatibility Explained](https://wordpress-faq.com/compatibility/divi-oxygen-builder/) — Running Divi and Oxygen Builder together is not recommended as they are both comprehensive page builders that will cause significant conflicts.
 - [Easy Digital Downloads and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/) — Elementor is fully compatible with Easy Digital Downloads, especially when paired with lightweight themes like Hello Elementor or Astra.
 - [Elementor & All-in-One WP Security Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-security-elementor/) — Elementor and All-in-One WP Security are compatible, but aggressive firewall settings may block Elementor's editor, requiring rule adjustments.
