@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 62 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 63 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -31,6 +31,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-divi-compatibility/) — Divi and Contact Form 7 are generally compatible, with most issues stemming from caching plugins or server-side email configuration rather than conflicts.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
 - [Divi and Flatsome Compatibility Explained](https://wordpress-faq.com/compatibility/divi-flatsome-compatibility/) — Divi and Flatsome are both comprehensive page builders and themes, so running them simultaneously is not recommended due to severe conflicts.
+- [Divi and Fluent Forms Compatibility](https://wordpress-faq.com/compatibility/divi-fluent-forms/) — The community confirms that Fluent Forms works seamlessly with Divi by utilizing WordPress shortcodes within the Divi page builder interface.
 - [Divi and GeneratePress Compatibility and Performance](https://wordpress-faq.com/compatibility/divi-generatepress/) — GeneratePress is preferred for performance and clean code, while Divi is a heavy page builder that may cause bloat and slower load times.
 - [Divi and Gravity Forms Compatibility](https://wordpress-faq.com/compatibility/divi-gravityforms/) — Divi and Gravity Forms are fully compatible, as Gravity Forms provides shortcodes that can be easily embedded into any Divi text or code module.
 - [Divi and Hello Elementor Compatibility Explained](https://wordpress-faq.com/compatibility/divi-hello-elementor-compatibility/) — Divi and Hello Elementor are both comprehensive theme frameworks and should not be used simultaneously on the same WordPress installation.

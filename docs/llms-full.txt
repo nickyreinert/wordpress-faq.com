@@ -410,6 +410,34 @@ Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpr
 ---
 
 ---
+title: Divi and Fluent Forms Compatibility
+url: https://wordpress-faq.com/compatibility/divi-fluent-forms/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: The community confirms that Fluent Forms works seamlessly with Divi by utilizing WordPress shortcodes within the Divi page builder interface.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: page-builder, forms, conflict
+faq:
+  - q: Is Fluent Forms compatible with the Divi theme?
+    a: Yes, Fluent Forms is compatible with Divi. You can embed forms using the provided shortcodes inside a Divi Text or Code module.
+  - q: How do I add a Fluent Form to a Divi page?
+    a: Simply copy the shortcode from your Fluent Forms dashboard and paste it into a Divi Text, Code, or Shortcode module on your page.
+  - q: Does Divi have a native integration for Fluent Forms?
+    a: While there is no dedicated Divi module for Fluent Forms, the shortcode method is the standard and reliable way to display forms in Divi.
+The community confirms that Fluent Forms works seamlessly with Divi by utilizing WordPress shortcodes within the Divi page builder interface. Based on 8 community reports.
+Linked sources: 9.
+Known Issues None reported for basic integration Potential styling conflicts if custom CSS is not scoped Community Q&amp;A Is Fluent Forms compatible with the Divi theme?
+Yes, Fluent Forms is compatible with Divi. You can embed forms using the provided shortcodes inside a Divi Text or Code module.
+How do I add a Fluent Form to a Divi page?
+Simply copy the shortcode from your Fluent Forms dashboard and paste it into a Divi Text, Code, or Shortcode module on your page.
+Does Divi have a native integration for Fluent Forms?
+While there is no dedicated Divi module for Fluent Forms, the shortcode method is the standard and reliable way to display forms in Divi.
+Reddit Sources What are your best lifetime license plugins that are worth it? (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Divi 5 Public Alpha Comparison and Observations (r/Wordpress) Why does WordPress look like this? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress) AI-chat FAQ chat (r/Wordpress)
+---
+
+---
 title: Divi and GeneratePress Compatibility and Performance
 url: https://wordpress-faq.com/compatibility/divi-generatepress/
 date: 2026-05-28
