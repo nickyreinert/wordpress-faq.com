@@ -730,6 +730,34 @@ Reddit Sources Divi 5 Public Alpha Comparison and Observations (r/Wordpress) Can
 ---
 
 ---
+title: Divi and Wordfence Compatibility Explained
+url: https://wordpress-faq.com/compatibility/divi-wordfence-compatibility/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Wordfence are fully compatible and can be used together on any WordPress site without technical conflicts.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: security, page-builder, conflict
+faq:
+  - q: Are Divi and Wordfence compatible?
+    a: Yes, Divi and Wordfence are fully compatible. Divi is a page builder theme, while Wordfence is a security plugin; they perform different functions and do not conflict.
+  - q: Does Wordfence block Divi builder features?
+    a: Generally, no. However, if you experience issues saving pages in the Divi builder, check the Wordfence Live Traffic logs to see if the firewall is blocking AJAX requests.
+  - q: Do I need a security plugin if I use Divi?
+    a: Yes, using a security plugin like Wordfence is recommended for all WordPress sites, regardless of the theme or page builder you are using.
+Divi and Wordfence are fully compatible and can be used together on any WordPress site without technical conflicts. Based on 8 community reports.
+Linked sources: 9.
+Known Issues No direct technical conflicts reported between Divi and Wordfence Ensure Wordfence firewall rules do not block Divi builder AJAX requests Community Q&amp;A Are Divi and Wordfence compatible?
+Yes, Divi and Wordfence are fully compatible. Divi is a page builder theme, while Wordfence is a security plugin; they perform different functions and do not conflict.
+Does Wordfence block Divi builder features?
+Generally, no. However, if you experience issues saving pages in the Divi builder, check the Wordfence Live Traffic logs to see if the firewall is blocking AJAX requests.
+Do I need a security plugin if I use Divi?
+Yes, using a security plugin like Wordfence is recommended for all WordPress sites, regardless of the theme or page builder you are using.
+Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) I wish I knew when I started as a WordPress beginner (r/Wordpress) What&rsquo;s your WordPress tool stack for 2025? (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) If you could get any WordPress premium plugin for free, which one would you pick? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) WordPress is broken. The core team won&rsquo;t fix it. So I did. Free theme, GPL, replaces 5+ plugins. (r/Wordpress) Vibe coding page builder? (r/Wordpress) Building a WordPress plugin that uses AI to help WooCommerce customers write better reviews - looking for feedback before launch (r/Wordpress)
+---
+
+---
 title: Divi and WPForms Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-wpforms-compatibility/
 date: 2026-05-28

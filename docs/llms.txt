@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 67 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 68 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -43,6 +43,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and SEOPress Compatibility Guide](https://wordpress-faq.com/compatibility/divi-seopress/) — Divi and SEOPress are fully compatible, as most SEO plugins function independently of the Divi page builder interface via standard shortcodes.
 - [Divi and SureCart Compatibility Guide](https://wordpress-faq.com/compatibility/divi-surecart-compatibility/) — Divi and SureCart are compatible, as SureCart provides shortcodes that can be easily embedded into Divi's page builder modules.
 - [Divi and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/divi-woocommerce/) — Divi provides native WooCommerce support, but advanced store functionality often requires additional plugins or custom development for stability.
+- [Divi and Wordfence Compatibility Explained](https://wordpress-faq.com/compatibility/divi-wordfence-compatibility/) — Divi and Wordfence are fully compatible and can be used together on any WordPress site without technical conflicts.
 - [Divi and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/divi-wpforms-compatibility/) — Divi and WPForms are fully compatible, as WPForms shortcodes can be easily embedded into any Divi text or code module without technical conflicts.
 - [Divi and Yoast SEO Compatibility Guide](https://wordpress-faq.com/compatibility/divi-yoast-seo/) — Divi and Yoast SEO are generally compatible, though users should verify HTML output and use shortcodes to ensure proper integration across pages.
 - [Easy Digital Downloads and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/) — Elementor is fully compatible with Easy Digital Downloads, especially when paired with lightweight themes like Hello Elementor or Astra.
