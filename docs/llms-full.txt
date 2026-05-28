@@ -466,6 +466,34 @@ Reddit Sources WordPress Just Got Three AI Integrations in Four Days — Here&rs
 ---
 
 ---
+title: Divi and Yoast SEO Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-yoast-seo/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Yoast SEO are generally compatible, though users should verify HTML output and use shortcodes to ensure proper integration across pages.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: seo, page-builder, conflict, shortcodes
+faq:
+  - q: Are Divi and Yoast SEO compatible?
+    a: Yes, they are compatible. You can use both on the same WordPress site without major issues.
+  - q: How do I use Yoast SEO with Divi page builder?
+    a: You can use Divi's text or code modules to insert shortcodes, which ensures that Yoast SEO can properly read and analyze your page content.
+  - q: What should I do if Yoast SEO doesn't detect Divi content?
+    a: Check the generated HTML output of your Divi modules. If content is missing, ensure you are using standard Divi modules that output readable text.
+Divi and Yoast SEO are generally compatible, though users should verify HTML output and use shortcodes to ensure proper integration across pages. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Potential conflicts with generated HTML elements SEO meta data may require manual verification in Divi layouts Community Q&amp;A Are Divi and Yoast SEO compatible?
+Yes, they are compatible. You can use both on the same WordPress site without major issues.
+How do I use Yoast SEO with Divi page builder?
+You can use Divi&rsquo;s text or code modules to insert shortcodes, which ensures that Yoast SEO can properly read and analyze your page content.
+What should I do if Yoast SEO doesn&rsquo;t detect Divi content?
+Check the generated HTML output of your Divi modules. If content is missing, ensure you are using standard Divi modules that output readable text.
+Reddit Sources Apparently Yoast SEO Has Gone Woke?? (r/Wordpress) I posted my free WordPress theme here yesterday. You roasted it. Here&rsquo;s what I changed and why I&rsquo;m sticking with the rest. (r/Wordpress) What&rsquo;s your WordPress tool stack for 2025? (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Is Page Builder compatible with YoastSEO? (r/Wordpress) Issues with using Yoast SEO and Divi? (r/Wordpress) WordPress is broken. The core team won&rsquo;t fix it. So I did. Free theme, GPL, replaces 5+ plugins. (r/Wordpress)
+---
+
+---
 title: Easy Digital Downloads and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/
 date: 2026-05-28
