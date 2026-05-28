@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 32 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 33 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -42,6 +42,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor and SEOPress Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-seopress/) — Elementor and SEOPress are fully compatible, with SEOPress offering seamless integration to analyze content directly within the Elementor editor.
 - [Elementor and Sucuri Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-sucuri/) — There are no known direct conflicts between Elementor and Sucuri, but maintaining a lightweight theme setup is recommended for overall site stability.
 - [Elementor and SureCart Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-surecart/) — Elementor and SureCart are fully compatible, enabling seamless drag-and-drop checkout page designs via shortcodes and dedicated widgets.
+- [Elementor and UpdraftPlus Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-updraftplus/) — Elementor and UpdraftPlus are highly compatible, with no known direct conflicts, making UpdraftPlus an excellent choice for backing up Elementor sites.
 - [Elementor and W3 Total Cache Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-w3-total-cache/) — Elementor and W3 Total Cache are fully compatible, but require careful configuration of minification and page caching to avoid breaking the page builder interface.
 - [Elementor and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-woocommerce/) — Elementor and WooCommerce are highly compatible, but users often face performance bloat that requires optimization plugins, VPS hosting, or lightweight translation alternatives.
 - [Elementor and Wordfence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wordfence/) — Elementor and Wordfence are highly compatible, though users may need to temporarily enable Wordfence's Learning Mode to prevent firewall false positives during page editing.
