@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 35 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 36 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -38,6 +38,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor and Kadence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-kadence/) — While technically possible to use both, combining Elementor and Kadence often leads to layout conflicts and performance bloat, so choosing one is highly recommended.
 - [Elementor and LearnDash Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-learndash/) — Elementor and LearnDash are generally compatible, though using a lightweight theme like Hello Elementor is recommended to avoid potential conflicts.
 - [Elementor and LiteSpeed Cache Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-litespeed-cache/) — Elementor and LiteSpeed Cache are highly compatible, but users must regenerate Elementor CSS and purge LiteSpeed/CDN caches to see layout updates.
+- [Elementor and MemberPress Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-memberpress/) — Elementor and MemberPress are compatible, but users must disable ReadyLaunch and enable Elementor support for custom post types in settings.
 - [Elementor and Ninja Forms Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-ninja-forms/) — Elementor and Ninja Forms are fully compatible, serving as a reliable alternative when Elementor's native form widget lacks advanced features.
 - [Elementor and Perfmatters Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-perfmatters/) — Elementor and Perfmatters are highly compatible, with Perfmatters being widely recommended to optimize and speed up heavy Elementor-based websites.
 - [Elementor and Rank Math Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-rankmath/) — Elementor and Rank Math are fully compatible, though some users recommend lighter SEO alternatives to prevent performance bloat.
