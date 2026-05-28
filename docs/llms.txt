@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 11 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 12 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -23,6 +23,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor 3.26 Released: AI Features and Loop Builder Improvements](https://wordpress-faq.com/news/elementor-3-26-released/) — Elementor 3.26 is mostly welcomed for loop builder improvements, but the community has concerns about AI features being enabled by default and data-sharing implications.
 - [Elementor and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-elementor/) — Elementor and Contact Form 7 work well together, with CF7 favored for advanced API integrations and Elementor Pro chosen for native design control.
 - [Elementor and GeneratePress Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-generatepress/) — GeneratePress is highly recommended as a lightweight, stable, and fully compatible theme base for Elementor page builder projects.
+- [Elementor and Hello Elementor Theme Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-hello-elementor/) — Hello Elementor is the official, lightweight blank canvas theme designed for seamless compatibility and optimal performance with the Elementor page builder.
 - [Elementor and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-woocommerce/) — Elementor and WooCommerce are highly compatible, but users often face performance bloat that requires optimization plugins, VPS hosting, or lightweight translation alternatives.
 - [Elementor and Wordfence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wordfence/) — Elementor and Wordfence are highly compatible, though users may need to temporarily enable Wordfence's Learning Mode to prevent firewall false positives during page editing.
 - [Elementor and WP Rocket Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wp-rocket/) — Elementor and WP Rocket are highly compatible, but users must carefully configure file optimization settings to prevent layout and styling conflicts.
