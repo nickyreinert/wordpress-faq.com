@@ -622,6 +622,34 @@ Reddit Sources I posted my free WordPress theme here yesterday. You roasted it. 
 ---
 
 ---
+title: Divi and LiteSpeed Cache Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-litespeed-cache/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and LiteSpeed Cache are compatible, but users must carefully configure caching settings to prevent visual breakage and layout conflicts.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: performance, caching, page-builder, conflict, speed
+faq:
+  - q: Are Divi and LiteSpeed Cache compatible?
+    a: Yes, they are compatible, but Divi's complex structure requires precise LiteSpeed Cache settings to avoid breaking site elements.
+  - q: Why does my Divi site break when using LiteSpeed Cache?
+    a: This usually happens due to aggressive CSS/JS minification or concatenation settings in LiteSpeed Cache that conflict with Divi's dynamic scripts.
+  - q: How do I fix layout issues after enabling LiteSpeed Cache on Divi?
+    a: Try clearing all caches, regenerating Divi's static CSS files, and disabling 'Combine CSS' or 'JS Minify' settings in the LiteSpeed plugin.
+Divi and LiteSpeed Cache are compatible, but users must carefully configure caching settings to prevent visual breakage and layout conflicts. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Aggressive minification breaking Divi modules CSS conflict after theme updates White screen issues during plugin configuration Community Q&amp;A Are Divi and LiteSpeed Cache compatible?
+Yes, they are compatible, but Divi&rsquo;s complex structure requires precise LiteSpeed Cache settings to avoid breaking site elements.
+Why does my Divi site break when using LiteSpeed Cache?
+This usually happens due to aggressive CSS/JS minification or concatenation settings in LiteSpeed Cache that conflict with Divi&rsquo;s dynamic scripts.
+How do I fix layout issues after enabling LiteSpeed Cache on Divi?
+Try clearing all caches, regenerating Divi&rsquo;s static CSS files, and disabling &lsquo;Combine CSS&rsquo; or &lsquo;JS Minify&rsquo; settings in the LiteSpeed plugin.
+Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Divi 5 Public Alpha Comparison and Observations (r/Wordpress) WordPress/ Litespeed Cache Setting Assistance (r/Wordpress) I have a website on Divi optimised with LiteSpeed Cache and I absolutely hate it (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Looking for a Database Optimization Plugin Compatible with LiteSpeed Cache (r/Wordpress) Which image optimization plugin is compatible with litespeed cache plugnin? (r/Wordpress) Updated WP, Elementor, ElementsKit, Pro Elements to latest version. Header is very unstable now. (r/Wordpress)
+---
+
+---
 title: Divi and Ninja Forms Compatibility
 url: https://wordpress-faq.com/compatibility/divi-ninja-forms/
 date: 2026-05-28
