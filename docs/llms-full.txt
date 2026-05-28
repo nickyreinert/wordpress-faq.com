@@ -542,6 +542,30 @@ Reddit Sources Life After Divi (r/Wordpress) Ditching Elementor. What next, Bric
 ---
 
 ---
+title: Divi and iThemes Security Compatibility
+url: https://wordpress-faq.com/compatibility/divi-ithemes-security/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and iThemes Security are generally compatible, as most security plugins function independently of the Divi page builder interface.
+confidence: low
+sources: 8
+schema_type: FAQPage
+tags: page-builder, security, conflict, login
+faq:
+  - q: Are Divi and iThemes Security compatible?
+    a: Yes, they are generally compatible as they operate on different layers of the WordPress stack.
+  - q: Do security plugins break Divi page builder?
+    a: Rarely, but strict security settings can sometimes block the AJAX requests required for the Divi visual builder to save changes.
+Divi and iThemes Security are generally compatible, as most security plugins function independently of the Divi page builder interface. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Potential white screen errors during major Divi version updates Conflicts with security-based login redirects Community Q&amp;A Are Divi and iThemes Security compatible?
+Yes, they are generally compatible as they operate on different layers of the WordPress stack.
+Do security plugins break Divi page builder?
+Rarely, but strict security settings can sometimes block the AJAX requests required for the Divi visual builder to save changes.
+Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Divi 5 Public Alpha Comparison and Observations (r/Wordpress) Why does WordPress look like this? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Ajax Search Lite vs Ivory Search - Which is better? (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress) AI-chat FAQ chat (r/Wordpress)
+---
+
+---
 title: Divi and Kadence Compatibility and Migration Guide
 url: https://wordpress-faq.com/compatibility/divi-kadence-compatibility/
 date: 2026-05-28
