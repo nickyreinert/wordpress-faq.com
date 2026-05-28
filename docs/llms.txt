@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 78 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 79 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -31,6 +31,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Beaver Builder Compatibility and Usage](https://wordpress-faq.com/compatibility/beaver-builder-divi/) — Running Divi and Beaver Builder simultaneously is strongly discouraged due to significant performance overhead, potential conflicts, and code bloat.
 - [Divi and Blocksy Compatibility Explained](https://wordpress-faq.com/compatibility/blocksy-divi-compatibility/) — While Divi and Blocksy can technically coexist on a WordPress site, they are rarely used together because Blocksy is optimized for Gutenberg.
 - [Divi and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-divi-compatibility/) — Divi and Contact Form 7 are generally compatible, with most issues stemming from caching plugins or server-side email configuration rather than conflicts.
+- [Divi and Duplicator Compatibility Guide](https://wordpress-faq.com/compatibility/divi-duplicator-compatibility/) — Divi is generally compatible with most plugins like Duplicator, provided you utilize shortcodes within the Divi builder interface for content.
 - [Divi and Easy Digital Downloads Compatibility](https://wordpress-faq.com/compatibility/divi-easy-digital-downloads/) — Divi and Easy Digital Downloads are generally compatible, as most EDD features can be integrated into Divi layouts using standard shortcodes.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
 - [Divi and Flatsome Compatibility Explained](https://wordpress-faq.com/compatibility/divi-flatsome-compatibility/) — Divi and Flatsome are both comprehensive page builders and themes, so running them simultaneously is not recommended due to severe conflicts.
