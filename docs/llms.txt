@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 47 articles
-- [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -21,6 +21,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Astra and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/astra-elementor/) — Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
 - [Beaver Builder and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-elementor/) — While Elementor and Beaver Builder can technically run on the same site, doing so causes performance issues, so they should be used separately.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
+- [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
 - [Divi and Beaver Builder Compatibility and Usage](https://wordpress-faq.com/compatibility/beaver-builder-divi/) — Running Divi and Beaver Builder simultaneously is strongly discouraged due to significant performance overhead, potential conflicts, and code bloat.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
