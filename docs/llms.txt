@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 58 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 62 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -28,13 +28,17 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-divi/) — Divi and All in One SEO are generally compatible, as most SEO plugins function independently of the Divi page builder interface.
 - [Divi and Beaver Builder Compatibility and Usage](https://wordpress-faq.com/compatibility/beaver-builder-divi/) — Running Divi and Beaver Builder simultaneously is strongly discouraged due to significant performance overhead, potential conflicts, and code bloat.
 - [Divi and Blocksy Compatibility Explained](https://wordpress-faq.com/compatibility/blocksy-divi-compatibility/) — While Divi and Blocksy can technically coexist on a WordPress site, they are rarely used together because Blocksy is optimized for Gutenberg.
+- [Divi and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-divi-compatibility/) — Divi and Contact Form 7 are generally compatible, with most issues stemming from caching plugins or server-side email configuration rather than conflicts.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
 - [Divi and Flatsome Compatibility Explained](https://wordpress-faq.com/compatibility/divi-flatsome-compatibility/) — Divi and Flatsome are both comprehensive page builders and themes, so running them simultaneously is not recommended due to severe conflicts.
 - [Divi and GeneratePress Compatibility and Performance](https://wordpress-faq.com/compatibility/divi-generatepress/) — GeneratePress is preferred for performance and clean code, while Divi is a heavy page builder that may cause bloat and slower load times.
+- [Divi and Gravity Forms Compatibility](https://wordpress-faq.com/compatibility/divi-gravityforms/) — Divi and Gravity Forms are fully compatible, as Gravity Forms provides shortcodes that can be easily embedded into any Divi text or code module.
 - [Divi and Hello Elementor Compatibility Explained](https://wordpress-faq.com/compatibility/divi-hello-elementor-compatibility/) — Divi and Hello Elementor are both comprehensive theme frameworks and should not be used simultaneously on the same WordPress installation.
 - [Divi and Kadence Compatibility and Migration Guide](https://wordpress-faq.com/compatibility/divi-kadence-compatibility/) — There is no direct compatibility between Divi and Kadence, requiring a manual rebuild of layouts when migrating between these two distinct builders.
 - [Divi and Oxygen Builder Compatibility Explained](https://wordpress-faq.com/compatibility/divi-oxygen-builder/) — Running Divi and Oxygen Builder together is not recommended as they are both comprehensive page builders that will cause significant conflicts.
 - [Divi and RankMath Compatibility Guide](https://wordpress-faq.com/compatibility/divi-rankmath/) — Divi and RankMath are fully compatible and function seamlessly together for standard WordPress SEO optimization tasks.
+- [Divi and SEOPress Compatibility Guide](https://wordpress-faq.com/compatibility/divi-seopress/) — Divi and SEOPress are fully compatible, as most SEO plugins function independently of the Divi page builder interface via standard shortcodes.
+- [Divi and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/divi-wpforms-compatibility/) — Divi and WPForms are fully compatible, as WPForms shortcodes can be easily embedded into any Divi text or code module without technical conflicts.
 - [Divi and Yoast SEO Compatibility Guide](https://wordpress-faq.com/compatibility/divi-yoast-seo/) — Divi and Yoast SEO are generally compatible, though users should verify HTML output and use shortcodes to ensure proper integration across pages.
 - [Easy Digital Downloads and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/) — Elementor is fully compatible with Easy Digital Downloads, especially when paired with lightweight themes like Hello Elementor or Astra.
 - [Elementor & All-in-One WP Security Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-security-elementor/) — Elementor and All-in-One WP Security are compatible, but aggressive firewall settings may block Elementor's editor, requiring rule adjustments.

@@ -332,6 +332,34 @@ Reddit Sources What&rsquo;s your WordPress tool stack for 2025? (r/Wordpress) Wi
 ---
 
 ---
+title: Divi and Contact Form 7 Compatibility Guide
+url: https://wordpress-faq.com/compatibility/contact-form-7-divi-compatibility/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Contact Form 7 are generally compatible, with most issues stemming from caching plugins or server-side email configuration rather than conflicts.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: forms, page-builder, caching, email, conflict, shortcodes
+faq:
+  - q: Are Divi and Contact Form 7 compatible?
+    a: Yes, they are fully compatible. You can easily integrate Contact Form 7 into Divi layouts by using the standard shortcode within a Text or Code module.
+  - q: Why is my Contact Form 7 form not submitting in Divi?
+    a: Submission issues are usually caused by caching plugins like LiteSpeed or Autoptimize. Try disabling JS minification or deferral to see if the form functionality returns.
+  - q: What should I do if my contact form stops sending emails?
+    a: Check if your hosting provider has disabled PHP mail. It is recommended to use an SMTP plugin or an API-based mailer to ensure reliable email delivery.
+Divi and Contact Form 7 are generally compatible, with most issues stemming from caching plugins or server-side email configuration rather than conflicts. Based on 5 community reports.
+Linked sources: 5.
+Known Issues Caching plugins interfering with form submission scripts Server-side PHP mailer failures reCaptcha validation errors Community Q&amp;A Are Divi and Contact Form 7 compatible?
+Yes, they are fully compatible. You can easily integrate Contact Form 7 into Divi layouts by using the standard shortcode within a Text or Code module.
+Why is my Contact Form 7 form not submitting in Divi?
+Submission issues are usually caused by caching plugins like LiteSpeed or Autoptimize. Try disabling JS minification or deferral to see if the form functionality returns.
+What should I do if my contact form stops sending emails?
+Check if your hosting provider has disabled PHP mail. It is recommended to use an SMTP plugin or an API-based mailer to ensure reliable email delivery.
+Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Contact Form 7 suddenly stopped working yesterday.. errors.. (r/Wordpress) Litespeed plugin and contact form 7 compatibility issue (r/Wordpress) Vibe coding page builder? (r/Wordpress)
+---
+
+---
 title: Divi and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-elementor/
 date: 2026-05-27
@@ -407,6 +435,30 @@ GeneratePress is widely considered better for SEO due to its lightweight code, m
 Does Divi slow down my WordPress website?
 Divi is a feature-rich page builder that can lead to slower load times if not properly optimized, whereas GeneratePress is designed specifically for speed.
 Reddit Sources With Kadence going down the gutter as they are acquired by Liquidweb, what other lightweight/performant alternatives do you folks recommend? (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Best Wordpress Builder (r/Wordpress) Elementor is a sinking ship - which raft should I jump onto? (r/Wordpress) WordPress Block Editor Theme vs Page Builder (r/Wordpress) Page builder with high google page speed score (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Astra vs Divi vs OceanWp vs generatepress, Which is best SEO friendly WP theme ? (r/Wordpress) What Is the Best Way to Build a WordPress Theme with AI Today? (r/Wordpress)
+---
+
+---
+title: Divi and Gravity Forms Compatibility
+url: https://wordpress-faq.com/compatibility/divi-gravityforms/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Gravity Forms are fully compatible, as Gravity Forms provides shortcodes that can be easily embedded into any Divi text or code module.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: page-builder, forms, conflict
+faq:
+  - q: Are Divi and Gravity Forms compatible?
+    a: Yes, they are compatible. You can display Gravity Forms in Divi by using the provided shortcode within a text or code module.
+  - q: How do I add a Gravity Form to a Divi page?
+    a: Simply copy the shortcode from your Gravity Form settings and paste it into a Divi Text, Code, or Blurb module.
+Divi and Gravity Forms are fully compatible, as Gravity Forms provides shortcodes that can be easily embedded into any Divi text or code module. Based on 1 community reports.
+Linked sources: 1.
+Known Issues None reported for standard shortcode implementation Community Q&amp;A Are Divi and Gravity Forms compatible?
+Yes, they are compatible. You can display Gravity Forms in Divi by using the provided shortcode within a text or code module.
+How do I add a Gravity Form to a Divi page?
+Simply copy the shortcode from your Gravity Form settings and paste it into a Divi Text, Code, or Blurb module.
+Reddit Sources Struggling to find a ticket system compatible with Divi (r/Wordpress)
 ---
 
 ---
@@ -519,6 +571,54 @@ You can use RankMath&rsquo;s SEO analysis tools directly within the WordPress ed
 Does Divi interfere with RankMath SEO settings?
 Generally no, but Divi&rsquo;s custom post type layouts may occasionally require manual configuration to ensure RankMath metadata displays correctly.
 Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Why does WordPress look like this? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Any way for bulk woocomerce csv with SEO? (r/Wordpress) The events calendar Meta title and description (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress) AI-chat FAQ chat (r/Wordpress)
+---
+
+---
+title: Divi and SEOPress Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-seopress/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and SEOPress are fully compatible, as most SEO plugins function independently of the Divi page builder interface via standard shortcodes.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: seo, page-builder, shortcodes, conflict
+faq:
+  - q: Are Divi and SEOPress compatible?
+    a: Yes, Divi and SEOPress are compatible. SEOPress handles site-wide SEO settings, while Divi manages page design, and they do not conflict.
+  - q: How do I use SEOPress with Divi?
+    a: You can use SEOPress by installing the plugin and configuring your meta tags in the post editor; Divi will not interfere with these settings.
+Divi and SEOPress are fully compatible, as most SEO plugins function independently of the Divi page builder interface via standard shortcodes. Based on 5 community reports.
+Linked sources: 5.
+Known Issues Potential minor styling conflicts if custom SEO meta boxes are not rendered correctly within the Divi builder interface. Community Q&amp;A Are Divi and SEOPress compatible?
+Yes, Divi and SEOPress are compatible. SEOPress handles site-wide SEO settings, while Divi manages page design, and they do not conflict.
+How do I use SEOPress with Divi?
+You can use SEOPress by installing the plugin and configuring your meta tags in the post editor; Divi will not interfere with these settings.
+Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Built an SEO plugin for all WordPress, use GPT-5 for SEO meta data and more (r/Wordpress) Which WordPress plugin companies have the best support? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Vibe coding page builder? (r/Wordpress)
+---
+
+---
+title: Divi and WPForms Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-wpforms-compatibility/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and WPForms are fully compatible, as WPForms shortcodes can be easily embedded into any Divi text or code module without technical conflicts.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: page-builder, forms, conflict, shortcodes
+faq:
+  - q: Are Divi and WPForms compatible?
+    a: Yes, they are compatible. You can use WPForms on a Divi site by inserting the form shortcode into a Divi Text or Code module.
+  - q: How do I add a WPForms form to a Divi page?
+    a: Simply copy the shortcode provided by WPForms and paste it into a 'Code' or 'Text' module within the Divi Builder interface.
+Divi and WPForms are fully compatible, as WPForms shortcodes can be easily embedded into any Divi text or code module without technical conflicts. Based on 5 community reports.
+Linked sources: 5.
+Known Issues None reported, standard shortcode implementation is recommended. Community Q&amp;A Are Divi and WPForms compatible?
+Yes, they are compatible. You can use WPForms on a Divi site by inserting the form shortcode into a Divi Text or Code module.
+How do I add a WPForms form to a Divi page?
+Simply copy the shortcode provided by WPForms and paste it into a &lsquo;Code&rsquo; or &lsquo;Text&rsquo; module within the Divi Builder interface.
+Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress)
 ---
 
 ---
