@@ -922,6 +922,34 @@ Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) I rebuil
 ---
 
 ---
+title: Divi and WP Super Cache Compatibility
+url: https://wordpress-faq.com/compatibility/divi-wp-super-cache/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and WP Super Cache are fully compatible, provided that caching settings are configured to exclude dynamic Divi builder elements if needed.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: page-builder, caching, performance, conflict, speed
+faq:
+  - q: Is WP Super Cache compatible with Divi?
+    a: Yes, WP Super Cache is compatible with Divi and can significantly improve your site's loading speed when configured properly.
+  - q: Do I need to exclude Divi files from caching?
+    a: Usually no, but if you experience layout issues, ensure that Divi's internal CSS/JS minification is handled carefully alongside the cache plugin.
+  - q: How do I clear Divi cache after changes?
+    a: After making changes in the Divi Builder, you should clear both the Divi static CSS file cache and the WP Super Cache to see updates.
+Divi and WP Super Cache are fully compatible, provided that caching settings are configured to exclude dynamic Divi builder elements if needed. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Potential conflicts with dynamic builder elements Caching of minified CSS/JS files Incorrect cache clearing after Divi updates Community Q&amp;A Is WP Super Cache compatible with Divi?
+Yes, WP Super Cache is compatible with Divi and can significantly improve your site&rsquo;s loading speed when configured properly.
+Do I need to exclude Divi files from caching?
+Usually no, but if you experience layout issues, ensure that Divi&rsquo;s internal CSS/JS minification is handled carefully alongside the cache plugin.
+How do I clear Divi cache after changes?
+After making changes in the Divi Builder, you should clear both the Divi static CSS file cache and the WP Super Cache to see updates.
+Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Why does WordPress look like this? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Questions about new theme + site updates + new hosting (order of operations, etc.) (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress)
+---
+
+---
 title: Divi and WPForms Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-wpforms-compatibility/
 date: 2026-05-28
