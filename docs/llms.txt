@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 11 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 10 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -28,6 +28,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor and WP Rocket Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wp-rocket/) — Elementor and WP Rocket are highly compatible, but users must carefully configure file optimization settings to prevent layout and styling conflicts.
 - [Elementor and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wpforms/) — Elementor and WPForms are fully compatible, with WPForms offering a dedicated Elementor widget and native email template customization.
 - [Elementor and Yoast SEO Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-yoast-seo/) — Elementor and Yoast SEO are fully compatible and integrate directly, though some users express concern over backend bloat and advertising.
+- [Elementor vs Oxygen Builder Compatibility & Comparison](https://wordpress-faq.com/compatibility/elementor-oxygen-builder/) — Elementor and Oxygen Builder are separate page builders that cannot be used together on the same page, though they can coexist on a single site.
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 
