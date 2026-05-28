@@ -360,6 +360,30 @@ Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpr
 ---
 
 ---
+title: Divi and Easy Digital Downloads Compatibility
+url: https://wordpress-faq.com/compatibility/divi-easy-digital-downloads/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Easy Digital Downloads are generally compatible, as most EDD features can be integrated into Divi layouts using standard shortcodes.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: ecommerce, page-builder, shortcodes, conflict
+faq:
+  - q: Is Divi compatible with Easy Digital Downloads?
+    a: Yes, Divi is compatible with Easy Digital Downloads. You can display EDD products and checkout flows by inserting the plugin's shortcodes into Divi's text or code modules.
+  - q: How do I add Easy Digital Downloads to a Divi page?
+    a: The most reliable method is to use the shortcodes provided by Easy Digital Downloads and place them inside a Divi Code or Text module on your desired page.
+Divi and Easy Digital Downloads are generally compatible, as most EDD features can be integrated into Divi layouts using standard shortcodes. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Potential layout conflicts if not using shortcodes correctly Divi 5 alpha instability reported in some environments Community Q&amp;A Is Divi compatible with Easy Digital Downloads?
+Yes, Divi is compatible with Easy Digital Downloads. You can display EDD products and checkout flows by inserting the plugin&rsquo;s shortcodes into Divi&rsquo;s text or code modules.
+How do I add Easy Digital Downloads to a Divi page?
+The most reliable method is to use the shortcodes provided by Easy Digital Downloads and place them inside a Divi Code or Text module on your desired page.
+Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Divi 5 Public Alpha Comparison and Observations (r/Wordpress) Why does WordPress look like this? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Ajax Search Lite vs Ivory Search - Which is better? (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress) AI-chat FAQ chat (r/Wordpress)
+---
+
+---
 title: Divi and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-elementor/
 date: 2026-05-27
