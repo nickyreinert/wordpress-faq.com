@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 77 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 78 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -48,6 +48,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and SEOPress Compatibility Guide](https://wordpress-faq.com/compatibility/divi-seopress/) — Divi and SEOPress are fully compatible, as most SEO plugins function independently of the Divi page builder interface via standard shortcodes.
 - [Divi and Sucuri Compatibility Guide](https://wordpress-faq.com/compatibility/divi-sucuri/) — Divi and Sucuri are fully compatible as Sucuri operates at the server and security layer, independent of the Divi page builder interface.
 - [Divi and SureCart Compatibility Guide](https://wordpress-faq.com/compatibility/divi-surecart-compatibility/) — Divi and SureCart are compatible, as SureCart provides shortcodes that can be easily embedded into Divi's page builder modules.
+- [Divi and UpdraftPlus Compatibility](https://wordpress-faq.com/compatibility/divi-updraftplus/) — There are no known compatibility issues between Divi and UpdraftPlus as they operate in distinct areas of the WordPress ecosystem.
 - [Divi and W3 Total Cache Compatibility](https://wordpress-faq.com/compatibility/divi-w3-total-cache/) — Divi and W3 Total Cache are generally compatible, though users should ensure minification settings are configured correctly to avoid layout issues.
 - [Divi and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/divi-woocommerce/) — Divi provides native WooCommerce support, but advanced store functionality often requires additional plugins or custom development for stability.
 - [Divi and Wordfence Compatibility Explained](https://wordpress-faq.com/compatibility/divi-wordfence-compatibility/) — Divi and Wordfence are fully compatible and can be used together on any WordPress site without technical conflicts.

@@ -862,6 +862,34 @@ Reddit Sources Best WordPress YouTube channels in 2025 (r/Wordpress) Ditching El
 ---
 
 ---
+title: Divi and UpdraftPlus Compatibility
+url: https://wordpress-faq.com/compatibility/divi-updraftplus/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: There are no known compatibility issues between Divi and UpdraftPlus as they operate in distinct areas of the WordPress ecosystem.
+confidence: high
+sources: 8
+schema_type: FAQPage
+tags: page-builder, backup, conflict, performance
+faq:
+  - q: Are Divi and UpdraftPlus compatible?
+    a: Yes, they are fully compatible. Divi is a page builder theme, while UpdraftPlus is a backup plugin; they do not interfere with each other.
+  - q: Does using UpdraftPlus slow down my Divi site?
+    a: UpdraftPlus only runs during scheduled backup times or manual triggers, so it does not impact the front-end performance of your Divi website.
+  - q: Can I use UpdraftPlus to back up my Divi layouts?
+    a: Yes, UpdraftPlus backs up your entire WordPress database and file system, which includes all Divi settings, layouts, and custom CSS.
+There are no known compatibility issues between Divi and UpdraftPlus as they operate in distinct areas of the WordPress ecosystem. Based on 8 community reports.
+Linked sources: 9.
+Known Issues None reported Community Q&amp;A Are Divi and UpdraftPlus compatible?
+Yes, they are fully compatible. Divi is a page builder theme, while UpdraftPlus is a backup plugin; they do not interfere with each other.
+Does using UpdraftPlus slow down my Divi site?
+UpdraftPlus only runs during scheduled backup times or manual triggers, so it does not impact the front-end performance of your Divi website.
+Can I use UpdraftPlus to back up my Divi layouts?
+Yes, UpdraftPlus backs up your entire WordPress database and file system, which includes all Divi settings, layouts, and custom CSS.
+Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Can anyone tell me why random plugins get installed and mess up my site? (r/Wordpress) Why does WordPress look like this? (r/Wordpress) Unkown PHP scripts show up, gets to all other WP websites. WordFence is installed on all. (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress)
+---
+
+---
 title: Divi and W3 Total Cache Compatibility
 url: https://wordpress-faq.com/compatibility/divi-w3-total-cache/
 date: 2026-05-28
