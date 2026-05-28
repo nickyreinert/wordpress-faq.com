@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 15 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 16 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -16,6 +16,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## All pages
 
 - [About WordPress FAQ](https://wordpress-faq.com/about/)
+- [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/astra-elementor/) — Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
 - [Beaver Builder and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-elementor/) — While Elementor and Beaver Builder can technically run on the same site, doing so causes performance issues, so they should be used separately.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
