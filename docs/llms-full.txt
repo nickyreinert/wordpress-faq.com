@@ -546,6 +546,30 @@ Reddit Sources I posted my free WordPress theme here yesterday. You roasted it. 
 ---
 
 ---
+title: Divi and Ninja Forms Compatibility
+url: https://wordpress-faq.com/compatibility/divi-ninja-forms/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Ninja Forms are fully compatible, as Divi supports standard WordPress shortcodes which can be embedded into any page or post layout.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: page-builder, forms, conflict, shortcodes
+faq:
+  - q: Are Divi and Ninja Forms compatible?
+    a: Yes, they are compatible. You can easily integrate Ninja Forms into a Divi-built page by using the plugin's shortcode within a Divi text or code module.
+  - q: How do I add a Ninja Form to a Divi page?
+    a: Simply copy the shortcode provided by Ninja Forms and paste it into a Divi Text, Code, or Shortcode module on your desired page.
+Divi and Ninja Forms are fully compatible, as Divi supports standard WordPress shortcodes which can be embedded into any page or post layout. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Potential bloat when using heavy form plugins with page builders Requires manual shortcode placement within Divi modules Community Q&amp;A Are Divi and Ninja Forms compatible?
+Yes, they are compatible. You can easily integrate Ninja Forms into a Divi-built page by using the plugin&rsquo;s shortcode within a Divi text or code module.
+How do I add a Ninja Form to a Divi page?
+Simply copy the shortcode provided by Ninja Forms and paste it into a Divi Text, Code, or Shortcode module on your desired page.
+Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Why does WordPress look like this? (r/Wordpress) choosing a better starting point for 2025 | Astra|nexter|others (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Need help finding the right plugin(s) (r/Wordpress) Starting A Membership Site On MemberPress - Page Builder &amp; Classic Theme Or Block Theme? (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress)
+---
+
+---
 title: Divi and Oxygen Builder Compatibility Explained
 url: https://wordpress-faq.com/compatibility/divi-oxygen-builder/
 date: 2026-05-28

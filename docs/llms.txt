@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 63 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 64 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -36,6 +36,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Gravity Forms Compatibility](https://wordpress-faq.com/compatibility/divi-gravityforms/) — Divi and Gravity Forms are fully compatible, as Gravity Forms provides shortcodes that can be easily embedded into any Divi text or code module.
 - [Divi and Hello Elementor Compatibility Explained](https://wordpress-faq.com/compatibility/divi-hello-elementor-compatibility/) — Divi and Hello Elementor are both comprehensive theme frameworks and should not be used simultaneously on the same WordPress installation.
 - [Divi and Kadence Compatibility and Migration Guide](https://wordpress-faq.com/compatibility/divi-kadence-compatibility/) — There is no direct compatibility between Divi and Kadence, requiring a manual rebuild of layouts when migrating between these two distinct builders.
+- [Divi and Ninja Forms Compatibility](https://wordpress-faq.com/compatibility/divi-ninja-forms/) — Divi and Ninja Forms are fully compatible, as Divi supports standard WordPress shortcodes which can be embedded into any page or post layout.
 - [Divi and Oxygen Builder Compatibility Explained](https://wordpress-faq.com/compatibility/divi-oxygen-builder/) — Running Divi and Oxygen Builder together is not recommended as they are both comprehensive page builders that will cause significant conflicts.
 - [Divi and RankMath Compatibility Guide](https://wordpress-faq.com/compatibility/divi-rankmath/) — Divi and RankMath are fully compatible and function seamlessly together for standard WordPress SEO optimization tasks.
 - [Divi and SEOPress Compatibility Guide](https://wordpress-faq.com/compatibility/divi-seopress/) — Divi and SEOPress are fully compatible, as most SEO plugins function independently of the Divi page builder interface via standard shortcodes.
