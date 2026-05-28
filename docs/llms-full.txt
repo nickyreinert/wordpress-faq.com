@@ -261,6 +261,34 @@ Reddit Sources I rebuilt my WordPress cache + speed optimization plugin from scr
 ---
 
 ---
+title: Elementor and Autoptimize Compatibility Guide
+url: https://wordpress-faq.com/compatibility/autoptimize-elementor/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Elementor and Autoptimize are compatible, but users must exclude Elementor's scripts and jQuery from optimization to prevent the editor and layout from breaking.
+confidence: medium
+sources: 6
+schema_type: FAQPage
+tags: page-builder, performance, caching, speed, conflict
+faq:
+  - q: Are Elementor and Autoptimize compatible?
+    a: Yes, they are compatible, but you must configure Autoptimize carefully by excluding Elementor's JavaScript and CSS files to avoid breaking the page builder and frontend layout.
+  - q: Why does the Elementor editor fail to load with Autoptimize active?
+    a: This usually happens because Autoptimize aggregates and defers Elementor's core editor scripts. Excluding 'elementor' from JS optimization resolves this issue.
+  - q: How do I prevent Autoptimize from breaking my Elementor layout?
+    a: Go to Autoptimize settings and add 'js/jquery/jquery.min.js' and 'elementor' to the script exclusion list, and ensure CSS optimization does not break critical rendering paths.
+Elementor and Autoptimize are compatible, but users must exclude Elementor&rsquo;s scripts and jQuery from optimization to prevent the editor and layout from breaking. Based on 6 community reports.
+Linked sources: 6.
+Known Issues JS optimization can break the Elementor editor loading screen. CSS aggregation may cause layout shifts or style rendering issues on Elementor pages. Render-blocking jQuery exclusion is often required to keep widgets functioning. Community Q&amp;A Are Elementor and Autoptimize compatible?
+Yes, they are compatible, but you must configure Autoptimize carefully by excluding Elementor&rsquo;s JavaScript and CSS files to avoid breaking the page builder and frontend layout.
+Why does the Elementor editor fail to load with Autoptimize active?
+This usually happens because Autoptimize aggregates and defers Elementor&rsquo;s core editor scripts. Excluding &rsquo;elementor&rsquo; from JS optimization resolves this issue.
+How do I prevent Autoptimize from breaking my Elementor layout?
+Go to Autoptimize settings and add &lsquo;js/jquery/jquery.min.js&rsquo; and &rsquo;elementor&rsquo; to the script exclusion list, and ensure CSS optimization does not break critical rendering paths.
+Reddit Sources Multi-layer Parallax for free &amp; elementor compatible? (r/Wordpress) Cache Enabler / Wp Super Cache / W3 Total Cache / LiteSpeed (r/Wordpress) WordPress theme Elementor-based compatible with BAGS / Drip App (Gang Sheet Builder) (r/Wordpress) Is there an Elementor-compatible product grid/carousel plugin/widget that gives the option to display the WooCommerce BRAND? (r/Wordpress) Having trouble finding Elementor 3.32 compatible theme or template kit Most are breaking after installation (r/Wordpress) [DISCUSSION] Looking for the Best WordPress Theme Compatible with Elementor for a Fully Customizable Blog (r/Wordpress)
+---
+
+---
 title: Elementor and Contact Form 7 Compatibility Guide
 url: https://wordpress-faq.com/compatibility/contact-form-7-elementor/
 date: 2026-05-27
