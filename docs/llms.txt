@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 17 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 18 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -23,6 +23,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
 - [Elementor 3.26 Released: AI Features and Loop Builder Improvements](https://wordpress-faq.com/news/elementor-3-26-released/) — Elementor 3.26 is mostly welcomed for loop builder improvements, but the community has concerns about AI features being enabled by default and data-sharing implications.
+- [Elementor and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-elementor/) — Elementor and All in One SEO (AIOSEO) are fully compatible, allowing users to optimize SEO settings directly within the Elementor editor interface.
 - [Elementor and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-elementor/) — Elementor and Contact Form 7 work well together, with CF7 favored for advanced API integrations and Elementor Pro chosen for native design control.
 - [Elementor and Flatsome Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-flatsome/) — While technically compatible, using Elementor with Flatsome is highly redundant and not recommended because Flatsome relies on its own proprietary UX Builder.
 - [Elementor and GeneratePress Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-generatepress/) — GeneratePress is highly recommended as a lightweight, stable, and fully compatible theme base for Elementor page builder projects.
