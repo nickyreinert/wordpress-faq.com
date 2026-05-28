@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 57 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 58 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -25,6 +25,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
+- [Divi and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-divi/) — Divi and All in One SEO are generally compatible, as most SEO plugins function independently of the Divi page builder interface.
 - [Divi and Beaver Builder Compatibility and Usage](https://wordpress-faq.com/compatibility/beaver-builder-divi/) — Running Divi and Beaver Builder simultaneously is strongly discouraged due to significant performance overhead, potential conflicts, and code bloat.
 - [Divi and Blocksy Compatibility Explained](https://wordpress-faq.com/compatibility/blocksy-divi-compatibility/) — While Divi and Blocksy can technically coexist on a WordPress site, they are rarely used together because Blocksy is optimized for Gutenberg.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
