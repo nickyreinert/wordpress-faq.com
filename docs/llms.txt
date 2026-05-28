@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 53 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 54 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -27,6 +27,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Beaver Builder Compatibility and Usage](https://wordpress-faq.com/compatibility/beaver-builder-divi/) — Running Divi and Beaver Builder simultaneously is strongly discouraged due to significant performance overhead, potential conflicts, and code bloat.
 - [Divi and Blocksy Compatibility Explained](https://wordpress-faq.com/compatibility/blocksy-divi-compatibility/) — While Divi and Blocksy can technically coexist on a WordPress site, they are rarely used together because Blocksy is optimized for Gutenberg.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
+- [Divi and Flatsome Compatibility Explained](https://wordpress-faq.com/compatibility/divi-flatsome-compatibility/) — Divi and Flatsome are both comprehensive page builders and themes, so running them simultaneously is not recommended due to severe conflicts.
 - [Divi and GeneratePress Compatibility and Performance](https://wordpress-faq.com/compatibility/divi-generatepress/) — GeneratePress is preferred for performance and clean code, while Divi is a heavy page builder that may cause bloat and slower load times.
 - [Divi and Hello Elementor Compatibility Explained](https://wordpress-faq.com/compatibility/divi-hello-elementor-compatibility/) — Divi and Hello Elementor are both comprehensive theme frameworks and should not be used simultaneously on the same WordPress installation.
 - [Divi and Kadence Compatibility and Migration Guide](https://wordpress-faq.com/compatibility/divi-kadence-compatibility/) — There is no direct compatibility between Divi and Kadence, requiring a manual rebuild of layouts when migrating between these two distinct builders.
