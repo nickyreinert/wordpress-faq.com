@@ -242,6 +242,34 @@ Divi leaves behind a large amount of shortcode clutter when deactivated. You wil
 ---
 
 ---
+title: Divi and GeneratePress Compatibility and Performance
+url: https://wordpress-faq.com/compatibility/divi-generatepress/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: GeneratePress is preferred for performance and clean code, while Divi is a heavy page builder that may cause bloat and slower load times.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: performance, seo, page-builder, speed, conflict
+faq:
+  - q: Are Divi and GeneratePress compatible?
+    a: They are technically compatible as they can both run on the same WordPress installation, but they are rarely used together because they serve different design philosophies.
+  - q: Which is better for SEO: Divi or GeneratePress?
+    a: GeneratePress is widely considered better for SEO due to its lightweight code, minimal bloat, and superior performance scores compared to Divi.
+  - q: Does Divi slow down my WordPress website?
+    a: Divi is a feature-rich page builder that can lead to slower load times if not properly optimized, whereas GeneratePress is designed specifically for speed.
+GeneratePress is preferred for performance and clean code, while Divi is a heavy page builder that may cause bloat and slower load times. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Divi can cause site bloat and slower page load speeds Page builders often conflict with lightweight theme architectures Plugin integration usually relies on shortcodes for Divi compatibility Community Q&amp;A Are Divi and GeneratePress compatible?
+They are technically compatible as they can both run on the same WordPress installation, but they are rarely used together because they serve different design philosophies.
+Which is better for SEO: Divi or GeneratePress?
+GeneratePress is widely considered better for SEO due to its lightweight code, minimal bloat, and superior performance scores compared to Divi.
+Does Divi slow down my WordPress website?
+Divi is a feature-rich page builder that can lead to slower load times if not properly optimized, whereas GeneratePress is designed specifically for speed.
+Reddit Sources With Kadence going down the gutter as they are acquired by Liquidweb, what other lightweight/performant alternatives do you folks recommend? (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Best Wordpress Builder (r/Wordpress) Elementor is a sinking ship - which raft should I jump onto? (r/Wordpress) WordPress Block Editor Theme vs Page Builder (r/Wordpress) Page builder with high google page speed score (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Astra vs Divi vs OceanWp vs generatepress, Which is best SEO friendly WP theme ? (r/Wordpress) What Is the Best Way to Build a WordPress Theme with AI Today? (r/Wordpress)
+---
+
+---
 title: Divi and Oxygen Builder Compatibility Explained
 url: https://wordpress-faq.com/compatibility/divi-oxygen-builder/
 date: 2026-05-28
