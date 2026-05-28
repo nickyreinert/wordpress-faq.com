@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 54 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 55 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -20,6 +20,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
 - [Astra and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/astra-elementor/) — Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
+- [Avada and Divi Compatibility and Comparison](https://wordpress-faq.com/compatibility/avada-divi/) — Both Avada and Divi are considered heavy, feature-bloated page builders that often lead to significant theme lock-in and performance challenges.
 - [Beaver Builder and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-elementor/) — While Elementor and Beaver Builder can technically run on the same site, doing so causes performance issues, so they should be used separately.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
