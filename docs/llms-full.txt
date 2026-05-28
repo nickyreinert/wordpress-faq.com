@@ -248,6 +248,34 @@ Reddit Sources Do You Still Use Page Builders, or Have You Switched Fully to Blo
 ---
 
 ---
+title: Divi and Blocksy Compatibility Explained
+url: https://wordpress-faq.com/compatibility/blocksy-divi-compatibility/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: While Divi and Blocksy can technically coexist on a WordPress site, they are rarely used together because Blocksy is optimized for Gutenberg.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: page-builder, performance, gutenberg, conflict
+faq:
+  - q: Can I use Divi and Blocksy together?
+    a: Yes, they are technically compatible, but it is generally not recommended as both are powerful design tools that can conflict or cause bloat.
+  - q: Is Blocksy better than Divi for performance?
+    a: Yes, Blocksy is widely considered more lightweight and performant because it is built specifically for the native WordPress Gutenberg editor.
+  - q: Does Blocksy support Divi shortcodes?
+    a: Blocksy does not natively support Divi shortcodes, though you can manually insert them into content areas if the Divi plugin is active.
+While Divi and Blocksy can technically coexist on a WordPress site, they are rarely used together because Blocksy is optimized for Gutenberg. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Divi shortcode bloat Redundant design systems Performance overhead when using both Community Q&amp;A Can I use Divi and Blocksy together?
+Yes, they are technically compatible, but it is generally not recommended as both are powerful design tools that can conflict or cause bloat.
+Is Blocksy better than Divi for performance?
+Yes, Blocksy is widely considered more lightweight and performant because it is built specifically for the native WordPress Gutenberg editor.
+Does Blocksy support Divi shortcodes?
+Blocksy does not natively support Divi shortcodes, though you can manually insert them into content areas if the Divi plugin is active.
+Reddit Sources What&rsquo;s your WordPress tool stack for 2025? (r/Wordpress) With Kadence going down the gutter as they are acquired by Liquidweb, what other lightweight/performant alternatives do you folks recommend? (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) What’s the fastest WordPress page builder in 2025? (r/Wordpress) Elementor is a sinking ship - which raft should I jump onto? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Divi to Blocksy Pro? (r/Wordpress) (AMP) Blocksy Theme + Elementor = Not AMP Compatible. (r/Wordpress) How long do I need to learn WP enough to be able to do a website like this one (r/Wordpress)
+---
+
+---
 title: Divi and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-elementor/
 date: 2026-05-27
