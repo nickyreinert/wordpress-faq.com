@@ -726,6 +726,34 @@ Reddit Sources WordPress Just Got Three AI Integrations in Four Days — Here&rs
 ---
 
 ---
+title: Divi and Perfmatters Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-perfmatters/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Perfmatters are fully compatible and often used together to improve site performance through script management and caching.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: performance, page-builder, caching, speed, conflict
+faq:
+  - q: Are Divi and Perfmatters compatible?
+    a: Yes, Divi and Perfmatters are compatible. Perfmatters can help optimize the loading of Divi's assets by disabling unused scripts.
+  - q: How do I optimize Divi using Perfmatters?
+    a: Use the Perfmatters Script Manager to disable Divi-specific scripts on pages where they are not needed to reduce total page weight.
+  - q: Will Perfmatters break my Divi layout?
+    a: If you disable critical Divi scripts or CSS files, your layout may break. Always test in a staging environment after changing optimization settings.
+Divi and Perfmatters are fully compatible and often used together to improve site performance through script management and caching. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Potential conflicts with script minification settings Requires careful configuration of Perfmatters script manager Community Q&amp;A Are Divi and Perfmatters compatible?
+Yes, Divi and Perfmatters are compatible. Perfmatters can help optimize the loading of Divi&rsquo;s assets by disabling unused scripts.
+How do I optimize Divi using Perfmatters?
+Use the Perfmatters Script Manager to disable Divi-specific scripts on pages where they are not needed to reduce total page weight.
+Will Perfmatters break my Divi layout?
+If you disable critical Divi scripts or CSS files, your layout may break. Always test in a staging environment after changing optimization settings.
+Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) I rebuilt my WordPress cache + speed optimization plugin from scratch — looking for feedback (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) If you could get any WordPress premium plugin for free, which one would you pick? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Need Help / Assistance / Suggestions on How to Further Optimize Web (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress)
+---
+
+---
 title: Divi and RankMath Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-rankmath/
 date: 2026-05-28
