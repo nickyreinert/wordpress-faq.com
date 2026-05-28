@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 27 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 28 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -34,6 +34,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor and Hello Elementor Theme Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-hello-elementor/) — Hello Elementor is the official, lightweight blank canvas theme designed for seamless compatibility and optimal performance with the Elementor page builder.
 - [Elementor and iThemes Security Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-ithemes-security/) — Elementor and iThemes Security (Solid Security) are highly compatible, though minor configuration adjustments may be needed for admin AJAX and file permissions.
 - [Elementor and Kadence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-kadence/) — While technically possible to use both, combining Elementor and Kadence often leads to layout conflicts and performance bloat, so choosing one is highly recommended.
+- [Elementor and LiteSpeed Cache Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-litespeed-cache/) — Elementor and LiteSpeed Cache are highly compatible, but users must regenerate Elementor CSS and purge LiteSpeed/CDN caches to see layout updates.
 - [Elementor and Ninja Forms Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-ninja-forms/) — Elementor and Ninja Forms are fully compatible, serving as a reliable alternative when Elementor's native form widget lacks advanced features.
 - [Elementor and Rank Math Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-rankmath/) — Elementor and Rank Math are fully compatible, though some users recommend lighter SEO alternatives to prevent performance bloat.
 - [Elementor and SEOPress Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-seopress/) — Elementor and SEOPress are fully compatible, with SEOPress offering seamless integration to analyze content directly within the Elementor editor.
