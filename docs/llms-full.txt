@@ -304,6 +304,30 @@ Reddit Sources Forking WordPress is a waste of time - I already tried (r/Wordpre
 ---
 
 ---
+title: Divi and Autoptimize Compatibility
+url: https://wordpress-faq.com/compatibility/autoptimize-divi/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: Divi and Autoptimize are generally compatible, though users should carefully configure minification settings to avoid potential layout conflicts.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: page-builder, caching, performance, conflict, speed
+faq:
+  - q: Are Divi and Autoptimize compatible?
+    a: Yes, they are compatible, but you must ensure that Autoptimize's minification settings do not interfere with Divi's dynamic CSS and JS files.
+  - q: What settings should I use for Autoptimize with Divi?
+    a: It is recommended to exclude Divi's core scripts from minification if you experience layout issues, and always clear your cache after changes.
+Divi and Autoptimize are generally compatible, though users should carefully configure minification settings to avoid potential layout conflicts. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Minification conflicts CSS rendering delays JavaScript execution errors Community Q&amp;A Are Divi and Autoptimize compatible?
+Yes, they are compatible, but you must ensure that Autoptimize&rsquo;s minification settings do not interfere with Divi&rsquo;s dynamic CSS and JS files.
+What settings should I use for Autoptimize with Divi?
+It is recommended to exclude Divi&rsquo;s core scripts from minification if you experience layout issues, and always clear your cache after changes.
+Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Divi 5 Public Alpha Comparison and Observations (r/Wordpress) Why does WordPress look like this? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Busco ideas de diseño: Blog tipo Cómic Web con Divi (r/Wordpress) Vibe coding page builder? (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress) AI-chat FAQ chat (r/Wordpress)
+---
+
+---
 title: Divi and Beaver Builder Compatibility and Usage
 url: https://wordpress-faq.com/compatibility/beaver-builder-divi/
 date: 2026-05-28
