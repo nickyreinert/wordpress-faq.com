@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 19 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 20 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -27,6 +27,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-elementor/) — Elementor and Contact Form 7 work well together, with CF7 favored for advanced API integrations and Elementor Pro chosen for native design control.
 - [Elementor and Flatsome Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-flatsome/) — While technically compatible, using Elementor with Flatsome is highly redundant and not recommended because Flatsome relies on its own proprietary UX Builder.
 - [Elementor and GeneratePress Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-generatepress/) — GeneratePress is highly recommended as a lightweight, stable, and fully compatible theme base for Elementor page builder projects.
+- [Elementor and Gravity Forms Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-gravityforms/) — Elementor and Gravity Forms are highly compatible, with native widgets and third-party addons making integration and styling seamless.
 - [Elementor and Hello Elementor Theme Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-hello-elementor/) — Hello Elementor is the official, lightweight blank canvas theme designed for seamless compatibility and optimal performance with the Elementor page builder.
 - [Elementor and Kadence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-kadence/) — While technically possible to use both, combining Elementor and Kadence often leads to layout conflicts and performance bloat, so choosing one is highly recommended.
 - [Elementor and Rank Math Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-rankmath/) — Elementor and Rank Math are fully compatible, though some users recommend lighter SEO alternatives to prevent performance bloat.
