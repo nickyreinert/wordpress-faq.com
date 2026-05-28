@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 45 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 46 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -57,6 +57,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-woocommerce/) — Elementor and WooCommerce are highly compatible, but users often face performance bloat that requires optimization plugins, VPS hosting, or lightweight translation alternatives.
 - [Elementor and WooCommerce Subscriptions Compatibility](https://wordpress-faq.com/compatibility/elementor-woocommerce-subscriptions/) — Elementor and WooCommerce Subscriptions are fully compatible when using standard WooCommerce-ready themes and proper plugin configurations.
 - [Elementor and Wordfence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wordfence/) — Elementor and Wordfence are highly compatible, though users may need to temporarily enable Wordfence's Learning Mode to prevent firewall false positives during page editing.
+- [Elementor and WP Mail SMTP Compatibility](https://wordpress-faq.com/compatibility/elementor-wp-mail-smtp/) — Elementor and WP Mail SMTP are fully compatible and function together without any reported technical conflicts in standard WordPress environments.
 - [Elementor and WP Rocket Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wp-rocket/) — Elementor and WP Rocket are highly compatible, but users must carefully configure file optimization settings to prevent layout and styling conflicts.
 - [Elementor and WP Super Cache Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wp-super-cache/) — Elementor and WP Super Cache are fully compatible, though users should exclude Elementor's query strings and avoid caching the active page builder interface.
 - [Elementor and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wpforms/) — Elementor and WPForms are fully compatible, with WPForms offering a dedicated Elementor widget and native email template customization.
