@@ -202,6 +202,34 @@ Reddit Sources I&rsquo;m Michael Makijenko, the founder of Visual Composer Websi
 ---
 
 ---
+title: Elementor and Kadence Compatibility Guide
+url: https://wordpress-faq.com/compatibility/elementor-kadence/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: While technically possible to use both, combining Elementor and Kadence often leads to layout conflicts and performance bloat, so choosing one is highly recommended.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: page-builder, gutenberg, performance, conflict, speed
+faq:
+  - q: Can I use Elementor and Kadence Blocks together on the same WordPress site?
+    a: Yes, but it is not recommended. Running both page builders simultaneously can cause layout conflicts, template overrides, and significantly slow down your site's performance.
+  - q: What happens to my Elementor content if I switch to Kadence?
+    a: Elementor content does not automatically convert into Kadence or Gutenberg blocks. You will need to manually rebuild your pages in the block editor after disabling Elementor.
+  - q: Why is my Kadence homepage layout not showing up after installing Elementor?
+    a: This is often caused by Elementor's Theme Builder grabbing the homepage via a display condition. Check your Elementor templates and exclude the front page to restore your Kadence layout.
+While technically possible to use both, combining Elementor and Kadence often leads to layout conflicts and performance bloat, so choosing one is highly recommended. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Layout conflicts when Elementor Theme Builder overrides Kadence templates. Performance degradation and heavy page sizes when loading both asset libraries. Elementor content does not automatically convert to Kadence/Gutenberg blocks when switching. Community Q&amp;A Can I use Elementor and Kadence Blocks together on the same WordPress site?
+Yes, but it is not recommended. Running both page builders simultaneously can cause layout conflicts, template overrides, and significantly slow down your site&rsquo;s performance.
+What happens to my Elementor content if I switch to Kadence?
+Elementor content does not automatically convert into Kadence or Gutenberg blocks. You will need to manually rebuild your pages in the block editor after disabling Elementor.
+Why is my Kadence homepage layout not showing up after installing Elementor?
+This is often caused by Elementor&rsquo;s Theme Builder grabbing the homepage via a display condition. Check your Elementor templates and exclude the front page to restore your Kadence layout.
+Reddit Sources Elementor vs Beaver Builder (r/Wordpress) Elementor vs. Theme? Is it necessary to have both? (r/Wordpress) WordPress devs — what theme are you using for audit / accounting firm sites? (r/Wordpress) Best theme for woocommerce with unlimited licences option. (r/Wordpress) kadence compatible email verifier (r/Wordpress) Help! Custom Elementor Header not working with new theme (r/Wordpress) Trouble with Gutenberg/Kadence in Elementor (r/Wordpress) Elementor conflicting with Kadence Blocks (r/Wordpress)
+---
+
+---
 title: Elementor and WooCommerce Compatibility Guide
 url: https://wordpress-faq.com/compatibility/elementor-woocommerce/
 date: 2026-05-27
