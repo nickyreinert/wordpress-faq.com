@@ -838,6 +838,34 @@ Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) I wish I
 ---
 
 ---
+title: Divi and WP Rocket Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-wp-rocket/
+date: 2026-05-28
+lastmod: 2026-05-28
+verdict: WP Rocket is fully compatible with Divi, provided that caching and minification settings are configured to avoid conflicts with Divi's built-in features.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: performance, caching, speed, page-builder, conflict
+faq:
+  - q: Is WP Rocket compatible with the Divi theme?
+    a: Yes, WP Rocket is compatible with Divi. However, you should ensure that you do not enable redundant minification or caching settings that might conflict with Divi's internal performance options.
+  - q: Should I use WP Rocket if my host provides caching?
+    a: If your hosting provider offers a dedicated optimization plugin, it is often recommended to use that instead of WP Rocket to avoid performance conflicts and server-side issues.
+  - q: How do I optimize Divi for better speed?
+    a: Beyond using a caching plugin like WP Rocket, focus on image optimization, using high-quality hosting, and minimizing the number of third-party plugins installed on your site.
+WP Rocket is fully compatible with Divi, provided that caching and minification settings are configured to avoid conflicts with Divi&rsquo;s built-in features. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Potential conflicts with minification settings Redundant caching if host-specific plugins are active Community Q&amp;A Is WP Rocket compatible with the Divi theme?
+Yes, WP Rocket is compatible with Divi. However, you should ensure that you do not enable redundant minification or caching settings that might conflict with Divi&rsquo;s internal performance options.
+Should I use WP Rocket if my host provides caching?
+If your hosting provider offers a dedicated optimization plugin, it is often recommended to use that instead of WP Rocket to avoid performance conflicts and server-side issues.
+How do I optimize Divi for better speed?
+Beyond using a caching plugin like WP Rocket, focus on image optimization, using high-quality hosting, and minimizing the number of third-party plugins installed on your site.
+Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) I rebuilt my WordPress cache + speed optimization plugin from scratch — looking for feedback (r/Wordpress) What&rsquo;s your WordPress tool stack for 2025? (r/Wordpress) Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpress + SSG? (r/Wordpress) Can anyone tell me why random plugins get installed and mess up my site? (r/Wordpress) Using WP Rocket and Ezoic? Are they compatible? (r/Wordpress) Struggling to find a ticket system compatible with Divi (r/Wordpress) Need Help / Assistance / Suggestions on How to Further Optimize Web (r/Wordpress) Would WP Rocket help speed my slow Divi theme website? (r/Wordpress)
+---
+
+---
 title: Divi and WPForms Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-wpforms-compatibility/
 date: 2026-05-28
