@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 79 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 80 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -26,6 +26,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
 - [Divi and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-divi/) — Divi and All in One SEO are generally compatible, as most SEO plugins function independently of the Divi page builder interface.
+- [Divi and All-in-One WP Migration Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-migration-divi/) — Divi and All-in-One WP Migration are technically compatible, though migration failures are usually caused by server resource limits or hosting constraints.
 - [Divi and All-in-One WP Security Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-security-divi/) — Divi and All-in-One WP Security are generally compatible, as most security plugins function independently of the Divi page builder interface.
 - [Divi and Autoptimize Compatibility](https://wordpress-faq.com/compatibility/autoptimize-divi/) — Divi and Autoptimize are generally compatible, though users should carefully configure minification settings to avoid potential layout conflicts.
 - [Divi and Beaver Builder Compatibility and Usage](https://wordpress-faq.com/compatibility/beaver-builder-divi/) — Running Divi and Beaver Builder simultaneously is strongly discouraged due to significant performance overhead, potential conflicts, and code bloat.
