@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 81 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 80 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -62,6 +62,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor & All-in-One WP Security Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-security-elementor/) — Elementor and All-in-One WP Security are compatible, but aggressive firewall settings may block Elementor's editor, requiring rule adjustments.
 - [Elementor 3.26 Released: AI Features and Loop Builder Improvements](https://wordpress-faq.com/news/elementor-3-26-released/) — Elementor 3.26 is mostly welcomed for loop builder improvements, but the community has concerns about AI features being enabled by default and data-sharing implications.
 - [Elementor and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-elementor/) — Elementor and All in One SEO (AIOSEO) are fully compatible, allowing users to optimize SEO settings directly within the Elementor editor interface.
+- [Elementor and All-in-One WP Migration Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-migration-elementor/) — Elementor and All-in-One WP Migration are generally compatible, provided that site security and file integrity are maintained during the transfer.
 - [Elementor and Autoptimize Compatibility Guide](https://wordpress-faq.com/compatibility/autoptimize-elementor/) — Elementor and Autoptimize are compatible, but users must exclude Elementor's scripts and jQuery from optimization to prevent the editor and layout from breaking.
 - [Elementor and BuddyPress Compatibility Guide](https://wordpress-faq.com/compatibility/buddypress-elementor/) — Elementor and BuddyPress are generally compatible, but users often need custom CSS to ensure consistent styling across dynamic community pages.
 - [Elementor and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-elementor/) — Elementor and Contact Form 7 work well together, with CF7 favored for advanced API integrations and Elementor Pro chosen for native design control.

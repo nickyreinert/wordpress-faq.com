@@ -133,3 +133,23 @@ header nav a:hover { color: #0066cc; }
 
 /* ── Related sidebar ── */
 .related { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee; }
+
+/* ── FAQ section ── */
+.faq-section { margin-bottom: 2.5rem; }
+.faq-section h2 { border-bottom: 2px solid #0066cc; padding-bottom: 0.4rem; }
+.faq-list { margin: 0; padding: 0; }
+.faq-item { padding: 1rem 0; border-bottom: 1px solid #eee; }
+.faq-item:last-child { border-bottom: none; }
+.faq-question { font-weight: 600; color: #111; margin-bottom: 0.3rem; font-size: 1rem; }
+.faq-answer { margin: 0; color: #444; line-height: 1.6; font-size: 0.95rem; }
+
+/* ── Comparison section ── */
+.comparison-section { margin-bottom: 2.5rem; }
+.comparison-section h2 { border-bottom: 2px solid #e07000; padding-bottom: 0.4rem; }
+
+/* ── Compatibility section ── */
+.compat-section { margin-bottom: 2.5rem; }
+.page-list--grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 0.25rem 1.5rem; }
+.verdict-short--high { color: #1a7a1a; }
+.verdict-short--medium { color: #7a5a00; }
+.verdict-short--low { color: #aa2200; }
