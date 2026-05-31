@@ -29,4 +29,16 @@ Allow: /
 User-agent: Meta-ExternalAgent
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
 Sitemap: https://wordpress-faq.com/sitemap.xml
