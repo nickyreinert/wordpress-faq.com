@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 81 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 82 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -34,6 +34,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Contact Form 7 Compatibility Guide](https://wordpress-faq.com/compatibility/contact-form-7-divi-compatibility/) — Divi and Contact Form 7 are generally compatible, with most issues stemming from caching plugins or server-side email configuration rather than conflicts.
 - [Divi and Duplicator Compatibility Guide](https://wordpress-faq.com/compatibility/divi-duplicator-compatibility/) — Divi is generally compatible with most plugins like Duplicator, provided you utilize shortcodes within the Divi builder interface for content.
 - [Divi and Easy Digital Downloads Compatibility](https://wordpress-faq.com/compatibility/divi-easy-digital-downloads/) — Divi and Easy Digital Downloads are generally compatible, as most EDD features can be integrated into Divi layouts using standard shortcodes.
+- [Divi and Elementor Compatibility and Comparison](https://wordpress-faq.com/compatibility/divi-elementor-compatibility/) — Divi and Elementor are separate page builders that cannot be used simultaneously on the same site due to significant code and structural conflicts.
 - [Divi and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/divi-elementor/) — Running Divi and Elementor simultaneously causes severe performance degradation and layout conflicts, so users should choose one or the other.
 - [Divi and Flatsome Compatibility Explained](https://wordpress-faq.com/compatibility/divi-flatsome-compatibility/) — Divi and Flatsome are both comprehensive page builders and themes, so running them simultaneously is not recommended due to severe conflicts.
 - [Divi and Fluent Forms Compatibility](https://wordpress-faq.com/compatibility/divi-fluent-forms/) — The community confirms that Fluent Forms works seamlessly with Divi by utilizing WordPress shortcodes within the Divi page builder interface.
