@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 3 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 1 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 2 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -115,6 +115,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
+- [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress.com vs WordPress.org: Key Differences Explained](https://wordpress-faq.com/comparison/wordpress-com-vs-wordpress-org/) — WordPress.org is recommended for full control and ownership, while WordPress.com is better for users seeking a managed, simplified experience.
 
 
