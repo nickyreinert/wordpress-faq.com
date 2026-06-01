@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 10 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
-- [Hostings](https://wordpress-faq.com/hosting/) — 5 articles
+- [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 4 articles
 - [Reviews](https://wordpress-faq.com/review/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
@@ -132,6 +132,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
+- [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
 - [WordPress vs Website Builder: Choosing the Right Platform](https://wordpress-faq.com/comparison/website-builder-vs-wordpress/) — WordPress offers superior control and scalability for those willing to manage technical tasks, while website builders provide easier, turnkey solutions.
 - [WordPress.com vs WordPress.org: Key Differences Explained](https://wordpress-faq.com/comparison/wordpress-com-vs-wordpress-org/) — WordPress.org is recommended for full control and ownership, while WordPress.com is better for users seeking a managed, simplified experience.
 
