@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 10 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 11 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 4 articles
@@ -134,6 +134,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
 - [WordPress vs Website Builder: Choosing the Right Platform](https://wordpress-faq.com/comparison/website-builder-vs-wordpress/) — WordPress offers superior control and scalability for those willing to manage technical tasks, while website builders provide easier, turnkey solutions.
+- [WordPress vs Wix: Platform Comparison](https://wordpress-faq.com/comparison/wordpress-wix/) — WordPress is generally considered superior for long-term scalability and SEO, while Wix is preferred for beginners seeking a simple, turnkey solution.
 - [WordPress.com vs WordPress.org: Key Differences Explained](https://wordpress-faq.com/comparison/wordpress-com-vs-wordpress-org/) — WordPress.org is recommended for full control and ownership, while WordPress.com is better for users seeking a managed, simplified experience.
 
 
