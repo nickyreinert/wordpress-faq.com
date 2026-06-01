@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 90 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 91 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -26,6 +26,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Beaver Builder and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-elementor/) — While Elementor and Beaver Builder can technically run on the same site, doing so causes performance issues, so they should be used separately.
 - [Beaver Builder and Flatsome Theme Compatibility](https://wordpress-faq.com/compatibility/beaver-builder-flatsome/) — Beaver Builder is generally compatible with Flatsome, but using two page builders simultaneously can lead to significant performance and layout conflicts.
 - [Beaver Builder and Rank Math Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-rankmath/) — Beaver Builder and Rank Math are fully compatible and work seamlessly together for on-page SEO optimization.
+- [Beaver Builder and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-wpforms/) — Beaver Builder and WPForms are fully compatible and work together reliably for WordPress site development.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
