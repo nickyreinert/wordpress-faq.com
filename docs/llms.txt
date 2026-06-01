@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 14 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 15 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 12 articles
@@ -34,6 +34,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best Cheap WordPress Hosting for Beginners Guide](https://wordpress-faq.com/hosting/best-cheap-wordpress-hosting-beginners/) — Beginners should prioritize managed WordPress hosting providers that offer built-in caching and security features to ensure optimal site performance.
 - [Best Free WordPress Themes for 2025: Performance & SEO](https://wordpress-faq.com/theme/best-free-wordpress-themes-2025/) — Community consensus favors lightweight, block-based FSE themes over bloated legacy options for better performance and long-term site stability.
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
+- [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/comparison/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best WordPress Hosting 2025: Managed vs Unmanaged Options](https://wordpress-faq.com/hosting/best-wordpress-hosting-2025/) — Community consensus suggests Cloudways for managed ease and DigitalOcean for cost-effective performance if you have server management skills.
 - [Best WordPress Hosting for Small Business Guide](https://wordpress-faq.com/hosting/best-wordpress-hosting-small-business/) — Managed cloud hosting providers are recommended over shared plans for better scalability and performance in small business WooCommerce environments.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
