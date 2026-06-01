@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 3 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 2 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 3 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
 
@@ -113,6 +113,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor vs Oxygen Builder Compatibility & Comparison](https://wordpress-faq.com/compatibility/elementor-oxygen-builder/) — Elementor and Oxygen Builder are separate page builders that cannot be used together on the same page, though they can coexist on a single site.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
+- [Understanding WordPress: How It Works and Core Concepts](https://wordpress-faq.com/howto/wordpress-fundamentals/) — WordPress is a powerful, flexible CMS that requires careful plugin management and database optimization to maintain high performance and security.
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
