@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 6 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 7 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 3 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 3 articles
@@ -118,6 +118,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor vs Oxygen Builder Compatibility & Comparison](https://wordpress-faq.com/compatibility/elementor-oxygen-builder/) — Elementor and Oxygen Builder are separate page builders that cannot be used together on the same page, though they can coexist on a single site.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
+- [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dedicated-shared-vps-hosting/) — Shared hosting is ideal for small sites, while VPS and dedicated servers offer the necessary resources and control for high-traffic professional websites.
 - [Understanding WordPress: How It Works and Core Concepts](https://wordpress-faq.com/howto/wordpress-fundamentals/) — WordPress is a powerful, flexible CMS that requires careful plugin management and database optimization to maintain high performance and security.
 - [Why Use WordPress for Your Website: Benefits and Comparison](https://wordpress-faq.com/comparison/wordpress-benefits-comparison/) — WordPress is widely considered the best choice for businesses requiring full code ownership, extensive customization, and long-term cost efficiency.
 - [Why WordPress is Popular and Dominates Market Share](https://wordpress-faq.com/review/wordpress-market-share-popularity/) — WordPress remains the industry leader due to its massive plugin ecosystem, ease of use for non-developers, and unparalleled community support.
