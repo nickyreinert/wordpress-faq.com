@@ -2440,6 +2440,34 @@ Reddit Sources [DISCUSSION] WordPress 6.9 &ldquo;Gene&rdquo; Released - And It&r
 ---
 
 ---
+title: Is WordPress Free to Use? Understanding Costs
+url: https://wordpress-faq.com/compatibility/wordpress-cost-usage/
+date: 2026-06-01
+lastmod: 2026-06-01
+verdict: The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
+confidence: high
+sources: 8
+schema_type: FAQPage
+tags: hosting, ecommerce, performance, security, analytics
+faq:
+  - q: Is WordPress software free?
+    a: Yes, the WordPress.org software is open-source and free to download and install on your own server.
+  - q: Do I have to pay for WordPress hosting?
+    a: Yes, while the software is free, you must pay a hosting provider to store your website files and make them accessible online.
+  - q: Are there costs beyond hosting?
+    a: Yes, you will typically need to pay for a domain name, and you may choose to purchase premium themes or plugins for extra functionality.
+The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Hidden costs associated with premium themes and plugins Hosting fees are mandatory for self-hosted sites Maintenance costs for security and performance Community Q&amp;A Is WordPress software free?
+Yes, the WordPress.org software is open-source and free to download and install on your own server.
+Do I have to pay for WordPress hosting?
+Yes, while the software is free, you must pay a hosting provider to store your website files and make them accessible online.
+Are there costs beyond hosting?
+Yes, you will typically need to pay for a domain name, and you may choose to purchase premium themes or plugins for extra functionality.
+Reddit Sources Cloudflare R2 + Media Cloud Sync plugin feedback? (r/Wordpress) Free plug-in for filterable table? (r/Wordpress) I rebuilt Health Check &amp; Troubleshooting because the official one keeps locking people out (r/Wordpress) SoloDev Question: trying to launch FLOSC plugin without burning out (r/Wordpress) My multivendor marketplace plugin got approved and is on wp repo (Feedback needed) (r/Wordpress) Tired of crypto spams hitting your Wordpress contact forms? Here is what worked for me (r/Wordpress) Feedback please (not promoting) (r/Wordpress) What&rsquo;s the best way to turn a WordPress site into a mobile app? (r/Wordpress)
+---
+
+---
 title: WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable
 url: https://wordpress-faq.com/news/woocommerce-9-8-released/
 date: 2026-05-20
