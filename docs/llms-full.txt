@@ -2816,6 +2816,38 @@ Reddit Sources WP Pusher vs. Git Updater vs. VersionPress for workflow (r/Wordpr
 ---
 
 ---
+title: How to Create a Child Theme in WordPress
+url: https://wordpress-faq.com/howto/create-child-theme-wordpress/
+date: 2026-06-01
+lastmod: 2026-06-01
+verdict: Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates.
+confidence: high
+sources: 8
+schema_type: HowTo
+tags: theme, gutenberg, performance, conflict
+faq:
+  - q: What is a WordPress child theme?
+    a: A child theme is a theme that inherits the functionality and styling of another theme, known as the parent theme, allowing you to make modifications.
+  - q: Why should I use a child theme instead of editing the parent theme?
+    a: If you edit the parent theme directly, your changes will be overwritten whenever you update the theme. A child theme keeps your customizations safe.
+  - q: Should I use @import in my child theme's CSS?
+    a: No, using @import is no longer considered best practice; it is recommended to use the wp_enqueue_scripts action in your functions.php file instead.
+  - q: Can I add custom PHP functionality to a child theme?
+    a: Yes, you can add PHP code to the functions.php file of your child theme, though complex features are often better suited for a custom plugin.
+Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Using @import in CSS is deprecated Functionality should ideally be in a plugin Community Q&amp;A What is a WordPress child theme?
+A child theme is a theme that inherits the functionality and styling of another theme, known as the parent theme, allowing you to make modifications.
+Why should I use a child theme instead of editing the parent theme?
+If you edit the parent theme directly, your changes will be overwritten whenever you update the theme. A child theme keeps your customizations safe.
+Should I use @import in my child theme&rsquo;s CSS?
+No, using @import is no longer considered best practice; it is recommended to use the wp_enqueue_scripts action in your functions.php file instead.
+Can I add custom PHP functionality to a child theme?
+Yes, you can add PHP code to the functions.php file of your child theme, though complex features are often better suited for a custom plugin.
+Reddit Sources Why is hosting your own email so difficult? (r/webdev) Am I over my head? Accepted a client job for a Wordpress website having never touched Wordpress and not done PHP/webdev in a few years (r/webdev) Creating a base theme / framework (r/ProWordPress) Developer starting to work with wordpress (r/ProWordPress) Agency refusing to transfer WP Engine site (r/webdev) Custom search form on site where content is not on the index.php template (r/ProWordPress) How To Create A Child Theme In Wordpress (r/ProWordPress) Posted in /r/cscareerquestions but I think it might fit better here. Am I ready for an agency job? How do I go about getting one? (r/webdev)
+---
+
+---
 title: How to Install a WordPress Theme
 url: https://wordpress-faq.com/howto/install-wordpress-theme/
 date: 2026-06-01

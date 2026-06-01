@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 15 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 14 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 15 articles
 - [Reviews](https://wordpress-faq.com/review/) — 1 articles
 - [Themes](https://wordpress-faq.com/theme/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
@@ -128,6 +128,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Choose a Domain Name for WordPress](https://wordpress-faq.com/howto/choosing-wordpress-domain-name/) — Choose a short, memorable, and brandable domain name that avoids hyphens and uses a reputable registrar for long-term stability and SEO success.
 - [How to Choose a WordPress Theme](https://wordpress-faq.com/howto/choosing-wordpress-theme/) — Community consensus suggests prioritizing lightweight, stable themes like Astra or Enfold over feature-bloated options to ensure better site performance.
 - [How to Choose WordPress Hosting](https://wordpress-faq.com/hosting/wordpress-hosting-selection/) — Choose a host based on your specific traffic needs, support quality, and technical requirements rather than just the lowest price point.
+- [How to Create a Child Theme in WordPress](https://wordpress-faq.com/howto/create-child-theme-wordpress/) — Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates.
 - [How to Install a WordPress Theme](https://wordpress-faq.com/howto/install-wordpress-theme/) — Installing a WordPress theme is best achieved via the Appearance menu in the dashboard or by uploading a zip file through the theme installer.
 - [How to Install SSL Certificate on WordPress](https://wordpress-faq.com/howto/install-ssl-certificate-wordpress/) — The most reliable way to install an SSL certificate is to request it directly from your hosting provider to ensure proper server-side configuration.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/how-to-install-wordpress/) — Manual installation provides the most reliable foundation for long-term site performance and security.
