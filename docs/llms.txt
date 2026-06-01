@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 88 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 90 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -22,8 +22,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Astra and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/astra-elementor/) — Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
 - [Avada and Beaver Builder Compatibility Overview](https://wordpress-faq.com/compatibility/avada-beaver-builder/) — While technically compatible, using Beaver Builder alongside Avada's built-in Fusion Builder is generally discouraged due to performance and bloat.
 - [Avada and Divi Compatibility and Comparison](https://wordpress-faq.com/compatibility/avada-divi/) — Both Avada and Divi are considered heavy, feature-bloated page builders that often lead to significant theme lock-in and performance challenges.
+- [Beaver Builder and All-in-One SEO Compatibility](https://wordpress-faq.com/compatibility/all-in-one-seo-beaver-builder/) — Beaver Builder and All-in-One SEO are fully compatible and commonly used together to manage page content and meta data effectively.
 - [Beaver Builder and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-elementor/) — While Elementor and Beaver Builder can technically run on the same site, doing so causes performance issues, so they should be used separately.
 - [Beaver Builder and Flatsome Theme Compatibility](https://wordpress-faq.com/compatibility/beaver-builder-flatsome/) — Beaver Builder is generally compatible with Flatsome, but using two page builders simultaneously can lead to significant performance and layout conflicts.
+- [Beaver Builder and Rank Math Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-rankmath/) — Beaver Builder and Rank Math are fully compatible and work seamlessly together for on-page SEO optimization.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
