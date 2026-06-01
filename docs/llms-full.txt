@@ -1162,6 +1162,30 @@ Reddit Sources Ditching Elementor. What next, Bricks, Oxygen, or Headless Wordpr
 ---
 
 ---
+title: Divi and WPML Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-wpml/
+date: 2026-06-01
+lastmod: 2026-06-01
+verdict: Divi and WPML are generally compatible, though users should follow official documentation to ensure all page builder modules translate correctly.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: page-builder, conflict, multisite
+faq:
+  - q: Are Divi and WPML compatible?
+    a: Yes, Divi and WPML are compatible, but you must use the WPML Multilingual CMS version and follow the specific integration guidelines provided by WPML.
+  - q: How do I translate Divi layouts with WPML?
+    a: You can translate Divi layouts using the WPML Translation Editor, which allows you to translate text strings and module content directly within the Divi builder interface.
+Divi and WPML are generally compatible, though users should follow official documentation to ensure all page builder modules translate correctly. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Translation of custom Divi modules String translation conflicts Layout synchronization errors Community Q&amp;A Are Divi and WPML compatible?
+Yes, Divi and WPML are compatible, but you must use the WPML Multilingual CMS version and follow the specific integration guidelines provided by WPML.
+How do I translate Divi layouts with WPML?
+You can translate Divi layouts using the WPML Translation Editor, which allows you to translate text strings and module content directly within the Divi builder interface.
+Reddit Sources I built a 94KB WordPress theme that replaces 5 plugins. Here&rsquo;s the architecture behind it. (r/webdev)
+---
+
+---
 title: Divi and Yoast SEO Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-yoast-seo/
 date: 2026-05-28
