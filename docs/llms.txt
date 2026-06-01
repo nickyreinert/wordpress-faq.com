@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 16 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 17 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 15 articles
@@ -33,6 +33,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Beaver Builder and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-wpforms/) — Beaver Builder and WPForms are fully compatible and work together reliably for WordPress site development.
 - [Best Cheap WordPress Hosting for Beginners Guide](https://wordpress-faq.com/hosting/best-cheap-wordpress-hosting-beginners/) — Beginners should prioritize managed WordPress hosting providers that offer built-in caching and security features to ensure optimal site performance.
 - [Best Free WordPress Themes for 2025: Performance & SEO](https://wordpress-faq.com/theme/best-free-wordpress-themes-2025/) — Community consensus favors lightweight, block-based FSE themes over bloated legacy options for better performance and long-term site stability.
+- [Best Lightweight and Fast WordPress Themes](https://wordpress-faq.com/comparison/lightweight-wordpress-themes/) — Community consensus suggests using minimal starter themes or building custom solutions to ensure the highest possible site performance.
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/comparison/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best WordPress Hosting 2025: Managed vs Unmanaged Options](https://wordpress-faq.com/hosting/best-wordpress-hosting-2025/) — Community consensus suggests Cloudways for managed ease and DigitalOcean for cost-effective performance if you have server management skills.
