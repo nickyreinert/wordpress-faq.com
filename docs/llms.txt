@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 7 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 8 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 3 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 3 articles
@@ -34,6 +34,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
 - [Best WordPress Hosting 2025: Managed vs Unmanaged Options](https://wordpress-faq.com/hosting/best-wordpress-hosting-2025/) — Community consensus suggests Cloudways for managed ease and DigitalOcean for cost-effective performance if you have server management skills.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
+- [Bluehost vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-siteground/) — Both hosts are considered accessible entry-level options for WordPress, though individual performance and support experiences vary widely among users.
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
 - [Divi and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-divi/) — Divi and All in One SEO are generally compatible, as most SEO plugins function independently of the Divi page builder interface.
