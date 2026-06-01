@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 82 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 83 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -47,6 +47,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Ninja Forms Compatibility](https://wordpress-faq.com/compatibility/divi-ninja-forms/) — Divi and Ninja Forms are fully compatible, as Divi supports standard WordPress shortcodes which can be embedded into any page or post layout.
 - [Divi and Oxygen Builder Compatibility Explained](https://wordpress-faq.com/compatibility/divi-oxygen-builder/) — Running Divi and Oxygen Builder together is not recommended as they are both comprehensive page builders that will cause significant conflicts.
 - [Divi and Perfmatters Compatibility Guide](https://wordpress-faq.com/compatibility/divi-perfmatters/) — Divi and Perfmatters are fully compatible and often used together to improve site performance through script management and caching.
+- [Divi and Polylang Compatibility Guide](https://wordpress-faq.com/compatibility/divi-polylang/) — Divi and Polylang are generally compatible, though users may need to use the Polylang for Divi plugin to ensure full translation support for modules.
 - [Divi and RankMath Compatibility Guide](https://wordpress-faq.com/compatibility/divi-rankmath/) — Divi and RankMath are fully compatible and function seamlessly together for standard WordPress SEO optimization tasks.
 - [Divi and SEOPress Compatibility Guide](https://wordpress-faq.com/compatibility/divi-seopress/) — Divi and SEOPress are fully compatible, as most SEO plugins function independently of the Divi page builder interface via standard shortcodes.
 - [Divi and Sucuri Compatibility Guide](https://wordpress-faq.com/compatibility/divi-sucuri/) — Divi and Sucuri are fully compatible as Sucuri operates at the server and security layer, independent of the Divi page builder interface.

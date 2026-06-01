@@ -838,6 +838,30 @@ Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) I rebuil
 ---
 
 ---
+title: Divi and Polylang Compatibility Guide
+url: https://wordpress-faq.com/compatibility/divi-polylang/
+date: 2026-06-01
+lastmod: 2026-06-01
+verdict: Divi and Polylang are generally compatible, though users may need to use the Polylang for Divi plugin to ensure full translation support for modules.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: page-builder, conflict, multisite
+faq:
+  - q: Does Divi work with Polylang?
+    a: Yes, Divi is compatible with Polylang, but you often need the Polylang for Divi extension to translate specific builder modules and library items.
+  - q: How do I translate Divi pages with Polylang?
+    a: You can translate pages by creating a duplicate in the secondary language via the Polylang meta box and then editing the content within the Divi builder.
+Divi and Polylang are generally compatible, though users may need to use the Polylang for Divi plugin to ensure full translation support for modules. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Translation of Divi Library layouts Syncing custom post types across languages Community Q&amp;A Does Divi work with Polylang?
+Yes, Divi is compatible with Polylang, but you often need the Polylang for Divi extension to translate specific builder modules and library items.
+How do I translate Divi pages with Polylang?
+You can translate pages by creating a duplicate in the secondary language via the Polylang meta box and then editing the content within the Divi builder.
+Reddit Sources I built a 94KB WordPress theme that replaces 5 plugins. Here&rsquo;s the architecture behind it. (r/webdev)
+---
+
+---
 title: Divi and RankMath Compatibility Guide
 url: https://wordpress-faq.com/compatibility/divi-rankmath/
 date: 2026-05-28
