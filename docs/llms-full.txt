@@ -318,6 +318,34 @@ Reddit Sources Everything you need to know before you start developing with Word
 ---
 
 ---
+title: Best Free WordPress Themes for 2025: Performance & SEO
+url: https://wordpress-faq.com/theme/best-free-wordpress-themes-2025/
+date: 2026-06-01
+lastmod: 2026-06-01
+verdict: Community consensus favors lightweight, block-based FSE themes over bloated legacy options for better performance and long-term site stability.
+confidence: medium
+sources: 7
+schema_type: FAQPage
+tags: performance, seo, gutenberg, speed
+faq:
+  - q: What are the best free WordPress themes for 2025?
+    a: The community recommends lightweight, block-based themes like Ollie or the default Twenty Twenty-Five theme for better performance and SEO.
+  - q: Should I use a bloated theme or a blank theme?
+    a: Experts advise avoiding bloated themes. Using a lightweight FSE theme or building a custom blank theme provides better control and faster load times.
+  - q: Does theme choice affect SEO?
+    a: Yes, lightweight themes improve site speed, which is a critical factor for SEO rankings and user experience.
+Community consensus favors lightweight, block-based FSE themes over bloated legacy options for better performance and long-term site stability. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Bloated themes negatively impact Core Web Vitals Switching themes often requires significant layout rebuilding Legacy themes may lack full Gutenberg compatibility Community Q&amp;A What are the best free WordPress themes for 2025?
+The community recommends lightweight, block-based themes like Ollie or the default Twenty Twenty-Five theme for better performance and SEO.
+Should I use a bloated theme or a blank theme?
+Experts advise avoiding bloated themes. Using a lightweight FSE theme or building a custom blank theme provides better control and faster load times.
+Does theme choice affect SEO?
+Yes, lightweight themes improve site speed, which is a critical factor for SEO rankings and user experience.
+Reddit Sources Why WordPress is Still the Best Choice for Businesses in 2025 ? (r/Wordpress) Understanding the WP sustainability debacle (r/Wordpress) FSE Theme Fundamentals (From scratch, child theme or&hellip;?) (r/Wordpress) Conseil pour un multi-sites astra/spectra ou autres&hellip; (r/Wordpress) Questions to get started on Wordpress (r/Wordpress) Paying for a Ecommerce redesign (r/Wordpress) finally seeing ranking improvements because I switched best fastest loading theme (r/Wordpress)
+---
+
+---
 title: Best Managed WordPress Hosting Guide
 url: https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/
 date: 2026-06-01
