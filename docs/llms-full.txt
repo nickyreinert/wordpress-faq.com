@@ -1078,6 +1078,30 @@ Reddit Sources Divi 5 Public Alpha Comparison and Observations (r/Wordpress) Can
 ---
 
 ---
+title: Divi and WooCommerce Subscriptions Compatibility
+url: https://wordpress-faq.com/compatibility/divi-woocommerce-subscriptions/
+date: 2026-06-01
+lastmod: 2026-06-01
+verdict: Divi and WooCommerce Subscriptions are generally compatible, though custom CSS or template overrides may be required for a seamless checkout design.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: ecommerce, page-builder, checkout, conflict
+faq:
+  - q: Does Divi work with WooCommerce Subscriptions?
+    a: Yes, Divi is compatible with WooCommerce Subscriptions, but you may need to adjust CSS or use Divi's WooCommerce modules to ensure the subscription checkout flows look correct.
+  - q: Are there known styling issues with Divi and Subscriptions?
+    a: Users often report that the default WooCommerce subscription tables or buttons may not inherit Divi's global styles, requiring custom CSS to align them.
+Divi and WooCommerce Subscriptions are generally compatible, though custom CSS or template overrides may be required for a seamless checkout design. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Styling inconsistencies on subscription checkout pages Template override requirements for custom subscription layouts Community Q&amp;A Does Divi work with WooCommerce Subscriptions?
+Yes, Divi is compatible with WooCommerce Subscriptions, but you may need to adjust CSS or use Divi&rsquo;s WooCommerce modules to ensure the subscription checkout flows look correct.
+Are there known styling issues with Divi and Subscriptions?
+Users often report that the default WooCommerce subscription tables or buttons may not inherit Divi&rsquo;s global styles, requiring custom CSS to align them.
+Reddit Sources Plugin recommendations for subscription based model (r/woocommerce)
+---
+
+---
 title: Divi and Wordfence Compatibility Explained
 url: https://wordpress-faq.com/compatibility/divi-wordfence-compatibility/
 date: 2026-05-28

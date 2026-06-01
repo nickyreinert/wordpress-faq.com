@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 85 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 86 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 2 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -56,6 +56,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and UpdraftPlus Compatibility](https://wordpress-faq.com/compatibility/divi-updraftplus/) — There are no known compatibility issues between Divi and UpdraftPlus as they operate in distinct areas of the WordPress ecosystem.
 - [Divi and W3 Total Cache Compatibility](https://wordpress-faq.com/compatibility/divi-w3-total-cache/) — Divi and W3 Total Cache are generally compatible, though users should ensure minification settings are configured correctly to avoid layout issues.
 - [Divi and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/divi-woocommerce/) — Divi provides native WooCommerce support, but advanced store functionality often requires additional plugins or custom development for stability.
+- [Divi and WooCommerce Subscriptions Compatibility](https://wordpress-faq.com/compatibility/divi-woocommerce-subscriptions/) — Divi and WooCommerce Subscriptions are generally compatible, though custom CSS or template overrides may be required for a seamless checkout design.
 - [Divi and Wordfence Compatibility Explained](https://wordpress-faq.com/compatibility/divi-wordfence-compatibility/) — Divi and Wordfence are fully compatible and can be used together on any WordPress site without technical conflicts.
 - [Divi and WP Rocket Compatibility Guide](https://wordpress-faq.com/compatibility/divi-wp-rocket/) — WP Rocket is fully compatible with Divi, provided that caching and minification settings are configured to avoid conflicts with Divi's built-in features.
 - [Divi and WP Super Cache Compatibility](https://wordpress-faq.com/compatibility/divi-wp-super-cache/) — Divi and WP Super Cache are fully compatible, provided that caching settings are configured to exclude dynamic Divi builder elements if needed.
