@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 15 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 16 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 92 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 15 articles
@@ -147,6 +147,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
+- [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.
 - [WordPress vs Ghost: Blogging Platform Comparison](https://wordpress-faq.com/comparison/ghost-wordpress-comparison/) — WordPress is generally recommended for most users due to its extensive plugin ecosystem and the ease of finding support for common technical issues.
 - [WordPress vs Shopify for Ecommerce Comparison](https://wordpress-faq.com/comparison/shopify-wordpress/) — WordPress offers superior control and customization for tech-savvy users, while Shopify provides a simpler, faster setup for those prioritizing ease of use.
 - [WordPress vs Squarespace: Platform Comparison](https://wordpress-faq.com/comparison/squarespace-wordpress/) — WordPress offers superior control and scalability for advanced users, while Squarespace provides a simpler, managed experience for beginners.
