@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 27 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 95 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 50 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 51 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -54,6 +54,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
 - [Cloudways vs Kinsta Managed WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-kinsta/) — Cloudways offers superior flexibility and value for developers, while Kinsta provides a premium, fully managed experience for high-traffic sites.
+- [Configuring WooCommerce Shipping Methods and Plugins](https://wordpress-faq.com/howto/woocommerce-shipping-configuration/) — Community consensus suggests using specialized plugins like PluginHive or EasyPost for complex carrier integrations, while flat rates suffice for simple setups.
 - [Divi and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-divi/) — Divi and All in One SEO are generally compatible, as most SEO plugins function independently of the Divi page builder interface.
 - [Divi and All-in-One WP Migration Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-migration-divi/) — Divi and All-in-One WP Migration are technically compatible, though migration failures are usually caused by server resource limits or hosting constraints.
 - [Divi and All-in-One WP Security Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-security-divi/) — Divi and All-in-One WP Security are generally compatible, as most security plugins function independently of the Divi page builder interface.
