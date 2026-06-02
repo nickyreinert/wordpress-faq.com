@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 29 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 71 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 72 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -169,6 +169,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Create Custom WordPress Templates](https://wordpress-faq.com/howto/custom-wordpress-template-creation/) — The community recommends using boilerplate themes like Underscores and testing all template changes on a staging site before deploying to production.
 - [How to Customize WordPress Themes Without Coding](https://wordpress-faq.com/howto/customize-wordpress-theme-no-coding/) — Users can effectively customize themes without coding by utilizing visual page builders like Divi or Astra's built-in hook and customizer features.
 - [How to Disable XML-RPC in WordPress Safely](https://wordpress-faq.com/howto/disable-xmlrpc-wordpress/) — Disabling XML-RPC is a common security hardening step, though modern WordPress core has mitigated many of the original brute force vulnerabilities.
+- [How to Embed YouTube Videos in WordPress Efficiently](https://wordpress-faq.com/howto/embed-youtube-video-wordpress/) — Using lazy loading or dedicated plugins is the recommended approach to prevent YouTube embeds from negatively impacting your website page load speed.
 - [How to Enable Gzip Compression in WordPress](https://wordpress-faq.com/howto/enable-gzip-compression-wordpress/) — Enabling Gzip compression is a highly effective way to reduce file sizes and significantly improve your WordPress website's overall loading speed.
 - [How to Enable WordPress Debug Mode for Troubleshooting](https://wordpress-faq.com/howto/wordpress-debug-mode-enable/) — Enabling WP_DEBUG in your wp-config.php file is the standard and most effective method for diagnosing critical WordPress errors and conflicts.
 - [How to Fix a Hacked WordPress Site](https://wordpress-faq.com/error/fix-hacked-wordpress-site/) — The community consensus is that most hacks stem from outdated plugins or poor hosting security, requiring a clean reinstall to fully recover.
