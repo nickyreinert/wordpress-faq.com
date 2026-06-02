@@ -3044,6 +3044,30 @@ Reddit Sources I&rsquo;m Michael Makijenko, the founder of Visual Composer Websi
 ---
 
 ---
+title: Gutenberg vs Classic Editor: Comparison and User Sentiment
+url: https://wordpress-faq.com/comparison/classic-editor-gutenberg/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Community sentiment remains polarized, with many users preferring the Classic Editor for stability while others adapt to Gutenberg's block-based workflow.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: gutenberg, page-builder, conflict
+faq:
+  - q: Is Gutenberg better than the Classic Editor?
+    a: Gutenberg offers a modern block-based editing experience, while the Classic Editor provides a traditional, simpler interface preferred by many long-time users.
+  - q: Can I keep using the Classic Editor?
+    a: Yes, you can install the official Classic Editor plugin to disable Gutenberg and restore the previous editing experience.
+Community sentiment remains polarized, with many users preferring the Classic Editor for stability while others adapt to Gutenberg&rsquo;s block-based workflow. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Steep learning curve for long-time users Negative user ratings on initial release Compatibility concerns with legacy themes Community Q&amp;A Is Gutenberg better than the Classic Editor?
+Gutenberg offers a modern block-based editing experience, while the Classic Editor provides a traditional, simpler interface preferred by many long-time users.
+Can I keep using the Classic Editor?
+Yes, you can install the official Classic Editor plugin to disable Gutenberg and restore the previous editing experience.
+Reddit Sources Gutenberg impressions and WordCamp Boston, July 2018 (r/Wordpress)
+---
+
+---
 title: How Many WordPress Plugins Are Too Many?
 url: https://wordpress-faq.com/compatibility/wordpress-plugin-count-optimization/
 date: 2026-06-01

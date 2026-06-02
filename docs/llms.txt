@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 23 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 24 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 94 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 20 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -136,6 +136,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Performance and SEO](https://wordpress-faq.com/howto/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching plugins and query monitoring tools to resolve performance bottlenecks effectively.
 - [Free vs Premium WordPress Plugins: Are They Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/) — Premium plugins are generally worth the investment for professional support and advanced features, though free versions often suffice for basic needs.
+- [Gutenberg vs Classic Editor: Comparison and User Sentiment](https://wordpress-faq.com/comparison/classic-editor-gutenberg/) — Community sentiment remains polarized, with many users preferring the Classic Editor for stability while others adapt to Gutenberg's block-based workflow.
 - [How Many WordPress Plugins Are Too Many?](https://wordpress-faq.com/compatibility/wordpress-plugin-count-optimization/) — There is no fixed limit, as performance depends on plugin quality, code efficiency, and server resources rather than the raw count of installations.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard to ensure proper user role assignment and database integrity.
