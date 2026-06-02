@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 17 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 93 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 18 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 19 articles
 - [Reviews](https://wordpress-faq.com/review/) — 1 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
@@ -133,6 +133,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/change-wordpress-site-title-tagline/) — The site title and tagline are primarily managed in General Settings, though SEO plugins often override these values for search engine results.
 - [How to Choose a Domain Name for WordPress](https://wordpress-faq.com/howto/choosing-wordpress-domain-name/) — Choose a short, memorable, and brandable domain name that avoids hyphens and uses a reputable registrar for long-term stability and SEO success.
 - [How to Choose a WordPress Theme](https://wordpress-faq.com/howto/choosing-wordpress-theme/) — Community consensus suggests prioritizing lightweight, stable themes like Astra or Enfold over feature-bloated options to ensure better site performance.
+- [How to Choose the Right WordPress Plugins for Your Website](https://wordpress-faq.com/howto/choosing-wordpress-plugins/) — Prioritize plugins that are actively maintained, lightweight, and essential to your site's core functionality to avoid performance degradation.
 - [How to Choose WordPress Hosting](https://wordpress-faq.com/hosting/wordpress-hosting-selection/) — Choose a host based on your specific traffic needs, support quality, and technical requirements rather than just the lowest price point.
 - [How to Create a Child Theme in WordPress](https://wordpress-faq.com/howto/create-child-theme-wordpress/) — Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates.
 - [How to Customize WordPress Themes Without Coding](https://wordpress-faq.com/howto/customize-wordpress-theme-no-coding/) — Users can effectively customize themes without coding by utilizing visual page builders like Divi or Astra's built-in hook and customizer features.
