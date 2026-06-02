@@ -3616,6 +3616,34 @@ Reddit Sources WooCommerce Quick Set-Up | 46+ Essential Checklist (Own Workflow)
 ---
 
 ---
+title: How to Create a WordPress Plugin from Scratch
+url: https://wordpress-faq.com/howto/wordpress-plugin-development/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Developing custom plugins requires a solid understanding of PHP, WordPress hooks, and secure coding practices to ensure site stability and performance.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: security, performance, gutenberg, conflict
+faq:
+  - q: What is the first step to creating a WordPress plugin?
+    a: Create a folder in your wp-content/plugins directory and add a PHP file with a standard plugin header comment to register it.
+  - q: How do I handle dependencies for block plugins?
+    a: You must install the @wordpress/scripts package locally within your plugin folder using npm to manage build scripts and dependencies.
+  - q: Is it safe to use AI to write WordPress plugin code?
+    a: AI can assist, but you must act as a code reviewer to ensure security, verify logic, and prevent vulnerabilities in the generated output.
+Developing custom plugins requires a solid understanding of PHP, WordPress hooks, and secure coding practices to ensure site stability and performance. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Dependency management errors with wp-scripts Security vulnerabilities in AI-generated code Conflicts with existing theme functions Community Q&amp;A What is the first step to creating a WordPress plugin?
+Create a folder in your wp-content/plugins directory and add a PHP file with a standard plugin header comment to register it.
+How do I handle dependencies for block plugins?
+You must install the @wordpress/scripts package locally within your plugin folder using npm to manage build scripts and dependencies.
+Is it safe to use AI to write WordPress plugin code?
+AI can assist, but you must act as a code reviewer to ensure security, verify logic, and prevent vulnerabilities in the generated output.
+Reddit Sources Taking over clusterf*ck sites (r/Wordpress) Blocks aren’t Registering (r/Wordpress) Building WordPress plugins with AI (Claude): how safe is it? (r/Wordpress) I finally built the AI WordPress tool I needed for my own client work. Looking for beta testers. (r/Wordpress) Cant import products of a subdomain to Google merchant center (r/Wordpress) Taken over messy WordPress account, need help making it more user friendly (r/Wordpress) Unpopular Opinion: Most wordpress plugins will be obsolete within 1 year. (r/Wordpress) Coded Websites vs WordPress Websites: Which One Is Right for You? (r/Wordpress)
+---
+
+---
 title: How to Create an XML Sitemap in WordPress
 url: https://wordpress-faq.com/howto/create-xml-sitemap-wordpress/
 date: 2026-06-02
