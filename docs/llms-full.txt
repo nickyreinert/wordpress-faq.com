@@ -4352,6 +4352,30 @@ Reddit Sources Why is Genesis popular? (r/Wordpress) Frustrated with WordPress D
 ---
 
 ---
+title: How to Use WP_Query in WordPress
+url: https://wordpress-faq.com/howto/wp-query-wordpress/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Using WP_Query requires proper REST API configuration and ensuring show_in_rest is enabled for custom post types to appear in block editors.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: gutenberg, database, performance
+faq:
+  - q: How do I use WP_Query to fetch custom post types?
+    a: You must define your custom post type with 'show_in_rest' => true in your registration code to ensure it is accessible to the block editor.
+  - q: Why is my custom post type not showing in the Query Loop block?
+    a: It is likely because the 'show_in_rest' argument is missing in your register_post_type function, which prevents Gutenberg from querying the data.
+Using WP_Query requires proper REST API configuration and ensuring show_in_rest is enabled for custom post types to appear in block editors. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Missing show_in_rest parameter REST API configuration errors Database resource exhaustion from complex queries Community Q&amp;A How do I use WP_Query to fetch custom post types?
+You must define your custom post type with &lsquo;show_in_rest&rsquo; =&gt; true in your registration code to ensure it is accessible to the block editor.
+Why is my custom post type not showing in the Query Loop block?
+It is likely because the &lsquo;show_in_rest&rsquo; argument is missing in your register_post_type function, which prevents Gutenberg from querying the data.
+Reddit Sources WordPress Just Got Three AI Integrations in Four Days — Here&rsquo;s What Each One Actually Does (r/Wordpress) WP + ACF + Elementor - Associate a Post Category with a custom Post Type entry? (r/Wordpress) WordPress Internal Search Resource Exhaustion DoS (r/Wordpress) How do you actually know a WordPress plugin is safe? (r/Wordpress) wordpress hybrid (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress) WordPress’ Inherent Bottlenecks &amp; Architectural Limits (r/Wordpress) How to check if the post-type dropdown in the Query Loop block is populated with data? (r/Wordpress)
+---
+
+---
 title: How to Write SEO Friendly WordPress Posts
 url: https://wordpress-faq.com/howto/seo-friendly-wordpress-posts/
 date: 2026-06-02
