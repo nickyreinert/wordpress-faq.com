@@ -3420,6 +3420,30 @@ Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s 
 ---
 
 ---
+title: How to Add Custom Fonts to WordPress
+url: https://wordpress-faq.com/howto/wordpress-custom-fonts-guide/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Adding custom fonts via CSS or dedicated plugins is effective, provided you limit font weights to maintain site speed and performance.
+confidence: low
+sources: 4
+schema_type: HowTo
+tags: performance, speed, gutenberg
+faq:
+  - q: How do I add custom fonts to WordPress without a plugin?
+    a: You can add custom fonts by uploading the font files to your theme's folder and using the @font-face CSS rule in your stylesheet.
+  - q: Do custom fonts slow down my WordPress site?
+    a: Yes, loading too many font files or weights can increase page load times; it is recommended to use modern formats like WOFF2.
+Adding custom fonts via CSS or dedicated plugins is effective, provided you limit font weights to maintain site speed and performance. Based on 4 community reports.
+Linked sources: 4.
+Known Issues Excessive font loading can negatively impact Core Web Vitals Flash of Unstyled Text (FOUT) during initial page load Community Q&amp;A How do I add custom fonts to WordPress without a plugin?
+You can add custom fonts by uploading the font files to your theme&rsquo;s folder and using the @font-face CSS rule in your stylesheet.
+Do custom fonts slow down my WordPress site?
+Yes, loading too many font files or weights can increase page load times; it is recommended to use modern formats like WOFF2.
+Reddit Sources Who is WordPress now for? (r/ProWordPress) I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce) The Ultimate WordPress Pagespeed Guide (r/ProWordPress) My current Wordpress Security and Speed To-Do List, what do you think? (r/webdev)
+---
+
+---
 title: How to Add Custom Post Types in WordPress
 url: https://wordpress-faq.com/howto/add-custom-post-type-wordpress/
 date: 2026-06-02
