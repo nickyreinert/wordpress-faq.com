@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 26 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 95 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 25 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 26 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -173,6 +173,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Database Optimization and Performance Guide](https://wordpress-faq.com/howto/wordpress-database-optimization/) — Community consensus suggests that database performance is best improved by optimizing data architecture and implementing object caching like Redis.
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
+- [WordPress Image Optimization Guide: Best Practices](https://wordpress-faq.com/howto/wordpress-image-optimization-guide/) — Optimizing images is essential for reducing page load times and improving core web vitals for better search engine rankings.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
 - [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.
 - [WordPress vs Ghost: Blogging Platform Comparison](https://wordpress-faq.com/comparison/ghost-wordpress-comparison/) — WordPress is generally recommended for most users due to its extensive plugin ecosystem and the ease of finding support for common technical issues.
