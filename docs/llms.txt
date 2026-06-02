@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 29 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 68 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 69 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -172,6 +172,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Fix a Hacked WordPress Site](https://wordpress-faq.com/error/fix-hacked-wordpress-site/) — The community consensus is that most hacks stem from outdated plugins or poor hosting security, requiring a clean reinstall to fully recover.
 - [How to Fix WordPress Performance Issues Caused by Plugins](https://wordpress-faq.com/howto/wordpress-performance-optimization/) — Excessive use of plugins is the primary cause of WordPress site slowdowns, which can be mitigated through careful selection and managed hosting.
 - [How to Hide Your WordPress Login Page](https://wordpress-faq.com/howto/hide-wordpress-login-page/) — Using a security plugin or WAF to change the login URL is the recommended method to reduce brute force attacks on your WordPress website.
+- [How to Import and Export WordPress Content](https://wordpress-faq.com/howto/wordpress-content-import-export/) — Community consensus suggests using specialized migration plugins or XML tools while manually verifying permalinks and 301 redirects to protect SEO.
 - [How to Improve WordPress Page Speed Scores](https://wordpress-faq.com/howto/wordpress-page-speed-optimization/) — Community consensus suggests focusing on database cleanup, minimizing plugin usage, and implementing caching solutions rather than chasing scores.
 - [How to Install a WordPress Theme](https://wordpress-faq.com/howto/install-wordpress-theme/) — Installing a WordPress theme is best achieved via the Appearance menu in the dashboard or by uploading a zip file through the theme installer.
 - [How to Install SSL Certificate on WordPress](https://wordpress-faq.com/howto/install-ssl-certificate-wordpress/) — The most reliable way to install an SSL certificate is to request it directly from your hosting provider to ensure proper server-side configuration.

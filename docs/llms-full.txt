@@ -4016,6 +4016,34 @@ Reddit Sources Why is nobody using Cloudflare Zero Trust for WordPress admin? (r
 ---
 
 ---
+title: How to Import and Export WordPress Content
+url: https://wordpress-faq.com/howto/wordpress-content-import-export/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Community consensus suggests using specialized migration plugins or XML tools while manually verifying permalinks and 301 redirects to protect SEO.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: migration, seo, database, performance
+faq:
+  - q: How do I migrate content from Squarespace to WordPress?
+    a: Use the built-in XML import tool, then verify all slugs and images. Use the Redirection plugin to set up 301 redirects for any changed URLs.
+  - q: What is the best way to move WordPress data between environments?
+    a: Professional migration plugins like Migrate DB Pro are recommended for database synchronization, while version control like Git is best for theme files.
+  - q: How can I prevent SEO loss during a site migration?
+    a: Maintain your existing permalink structure, map all old URLs to new ones using 301 redirects, and audit your site for 404 errors post-migration.
+Community consensus suggests using specialized migration plugins or XML tools while manually verifying permalinks and 301 redirects to protect SEO. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Broken image paths after migration Permalinks not matching original structure Loss of custom post type metadata 404 errors on redirected pages Community Q&amp;A How do I migrate content from Squarespace to WordPress?
+Use the built-in XML import tool, then verify all slugs and images. Use the Redirection plugin to set up 301 redirects for any changed URLs.
+What is the best way to move WordPress data between environments?
+Professional migration plugins like Migrate DB Pro are recommended for database synchronization, while version control like Git is best for theme files.
+How can I prevent SEO loss during a site migration?
+Maintain your existing permalink structure, map all old URLs to new ones using 301 redirects, and audit your site for 404 errors post-migration.
+Reddit Sources est way to migrate ~70 content pages from Squarespace to WordPress without losing SEO (keeping slugs, restructuring content) (r/Wordpress) Plugins I wish I&rsquo;d discovered earlier – all solid (from plugins for beginners to pros) (r/Wordpress) Big Decision to make :( should I transition a large website from Joomla to Wordpress? (r/Wordpress) How do you handle WordPress migrations for custom post types (and ACF data)? (r/Wordpress) Safety while giving someone access to work on my site. (r/Wordpress) How we built a 500-page WordPress demo site in 2 minutes. Yes, 2 minutes. (r/Wordpress) WordPress Devs: Tired of Manual Data Hell with ACF, JetEngine, MetaBox, or Woo? (r/Wordpress)
+---
+
+---
 title: How to Improve WordPress Page Speed Scores
 url: https://wordpress-faq.com/howto/wordpress-page-speed-optimization/
 date: 2026-06-02
