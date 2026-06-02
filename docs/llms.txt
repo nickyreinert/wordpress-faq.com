@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 26 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 95 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 24 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 25 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -151,6 +151,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Choose WordPress Hosting](https://wordpress-faq.com/hosting/wordpress-hosting-selection/) — Choose a host based on your specific traffic needs, support quality, and technical requirements rather than just the lowest price point.
 - [How to Create a Child Theme in WordPress](https://wordpress-faq.com/howto/create-child-theme-wordpress/) — Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates.
 - [How to Customize WordPress Themes Without Coding](https://wordpress-faq.com/howto/customize-wordpress-theme-no-coding/) — Users can effectively customize themes without coding by utilizing visual page builders like Divi or Astra's built-in hook and customizer features.
+- [How to Enable Gzip Compression in WordPress](https://wordpress-faq.com/howto/enable-gzip-compression-wordpress/) — Enabling Gzip compression is a highly effective way to reduce file sizes and significantly improve your WordPress website's overall loading speed.
 - [How to Fix WordPress Performance Issues Caused by Plugins](https://wordpress-faq.com/howto/wordpress-performance-optimization/) — Excessive use of plugins is the primary cause of WordPress site slowdowns, which can be mitigated through careful selection and managed hosting.
 - [How to Install a WordPress Theme](https://wordpress-faq.com/howto/install-wordpress-theme/) — Installing a WordPress theme is best achieved via the Appearance menu in the dashboard or by uploading a zip file through the theme installer.
 - [How to Install SSL Certificate on WordPress](https://wordpress-faq.com/howto/install-ssl-certificate-wordpress/) — The most reliable way to install an SSL certificate is to request it directly from your hosting provider to ensure proper server-side configuration.
