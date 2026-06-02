@@ -4182,6 +4182,38 @@ Reddit Sources Why Do You Even Need WordPress Maintenance Services? Understandin
 ---
 
 ---
+title: WordPress Performance Audit Checklist: Best Practices
+url: https://wordpress-faq.com/howto/wordpress-performance-audit-checklist/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching.
+confidence: high
+sources: 7
+schema_type: HowTo
+tags: performance, speed, database, images, caching, cdn
+faq:
+  - q: How can I improve my WordPress site speed?
+    a: Focus on image optimization, implementing object and page caching, cleaning up your database, and using a CDN for asset delivery.
+  - q: Does plugin bloat affect WordPress performance?
+    a: Yes, excessive plugins can increase server load and TTFB; use modular plugins or remove unnecessary ones to maintain site speed.
+  - q: What is the best way to handle WordPress images?
+    a: Use modern formats like WebP or AVIF, implement lazy loading, and ensure images are properly sized for the display container.
+  - q: How do I clean up a WordPress database?
+    a: Regularly remove orphaned tables, post revisions, and expired transients to reduce database size and improve query performance.
+Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Plugin bloat causing site slowdowns Unoptimized high-resolution product images Database bloat from post revisions and transients Community Q&amp;A How can I improve my WordPress site speed?
+Focus on image optimization, implementing object and page caching, cleaning up your database, and using a CDN for asset delivery.
+Does plugin bloat affect WordPress performance?
+Yes, excessive plugins can increase server load and TTFB; use modular plugins or remove unnecessary ones to maintain site speed.
+What is the best way to handle WordPress images?
+Use modern formats like WebP or AVIF, implement lazy loading, and ensure images are properly sized for the display container.
+How do I clean up a WordPress database?
+Regularly remove orphaned tables, post revisions, and expired transients to reduce database size and improve query performance.
+Reddit Sources A checklist I use before launching any new WordPress site (r/Wordpress) WordPress Speed Optimization: A Practical Checklist for Website owners (and Busy Devs) (r/Wordpress) Modern image optimization for WordPress in 2025 — practical setup, pitfalls, and what’s working for you? (r/Wordpress) 20-Point Checklist for WooCommerce: Speed, Security, and Sales Optimization (r/woocommerce) Built 100+ WordPress sites in 8 months. What should I be auditing in my own workflow? (r/Wordpress) The “boring” WordPress ops stack that stops 90% of downtime, hacks, and surprise bills (a practical playbook) (r/Wordpress) Checklist: The Hidden WordPress Performance Issues That Slow Sites After 100k Visitors (r/Wordpress)
+---
+
+---
 title: WordPress Post-Installation Configuration Checklist
 url: https://wordpress-faq.com/howto/wordpress-configuration-checklist/
 date: 2026-06-01
