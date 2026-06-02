@@ -3760,6 +3760,34 @@ Reddit Sources Robots.txt allegedly blocks sitemap urls says Google&rsquo;s sear
 ---
 
 ---
+title: How to Create and Manage Menus in WordPress
+url: https://wordpress-faq.com/howto/create-wordpress-menu/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: WordPress menus are managed via the Appearance menu or the Full Site Editor, depending on your theme's compatibility and structure.
+confidence: low
+sources: 8
+schema_type: HowTo
+tags: gutenberg, widgets, shortcodes
+faq:
+  - q: How do I create a new menu in WordPress?
+    a: Navigate to Appearance > Menus in your dashboard, click 'create a new menu', name it, and add your desired pages or links.
+  - q: Why can't I see the Menus option in my dashboard?
+    a: If you are using a block-based theme, the traditional Menus page is replaced by the Navigation block within the Full Site Editor.
+  - q: How do I add a menu to my website header?
+    a: Go to Appearance > Menus, select your menu, and assign it to the 'Primary' or 'Header' menu location defined by your theme.
+WordPress menus are managed via the Appearance menu or the Full Site Editor, depending on your theme&rsquo;s compatibility and structure. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Full Site Editor navigation can be confusing for new users Theme-specific CSS may override custom menu placements Mobile menu toggles often require specific theme support Community Q&amp;A How do I create a new menu in WordPress?
+Navigate to Appearance &gt; Menus in your dashboard, click &lsquo;create a new menu&rsquo;, name it, and add your desired pages or links.
+Why can&rsquo;t I see the Menus option in my dashboard?
+If you are using a block-based theme, the traditional Menus page is replaced by the Navigation block within the Full Site Editor.
+How do I add a menu to my website header?
+Go to Appearance &gt; Menus, select your menu, and assign it to the &lsquo;Primary&rsquo; or &lsquo;Header&rsquo; menu location defined by your theme.
+Reddit Sources Serious issues with the Full Site Editor, it&rsquo;s confusing AF (r/Wordpress) Why can&rsquo;t I make a carousel slider? (r/Wordpress) How to create webpage that has the same 4 sections on it, but in a different order depending on the menu item the user chooses? (r/Wordpress) how to set the post type in the WordPress &hellip;.? (r/Wordpress) Different style of navigation menu (r/Wordpress) Looking for feedback on an idea - AI-generated WordPress plugins (r/Wordpress) Looking for feedback on an idea - AI-generated WordPress plugins (r/Wordpress) Paying for a Ecommerce redesign (r/Wordpress)
+---
+
+---
 title: How to Create Custom WordPress Templates
 url: https://wordpress-faq.com/howto/custom-wordpress-template-creation/
 date: 2026-06-02
