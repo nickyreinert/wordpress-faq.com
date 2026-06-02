@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 25 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 26 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 94 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 21 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -165,6 +165,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
+- [WordPress Blocks vs Shortcodes: Key Differences Explained](https://wordpress-faq.com/comparison/gutenberg-shortcodes/) — Blocks are the modern, visual standard for WordPress content, while shortcodes are considered legacy tools for simple dynamic functionality.
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
