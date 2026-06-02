@@ -3684,6 +3684,34 @@ Reddit Sources Why is nobody using Cloudflare Zero Trust for WordPress admin? (r
 ---
 
 ---
+title: How to Improve WordPress Page Speed Scores
+url: https://wordpress-faq.com/howto/wordpress-page-speed-optimization/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Community consensus suggests focusing on database cleanup, minimizing plugin usage, and implementing caching solutions rather than chasing scores.
+confidence: medium
+sources: 6
+schema_type: HowTo
+tags: performance, speed, caching, cdn, database
+faq:
+  - q: How can I improve my WordPress page speed score?
+    a: Focus on optimizing your database, reducing the number of active plugins, implementing a CDN like Cloudflare, and minimizing external script loading.
+  - q: Does using too many plugins slow down WordPress?
+    a: Yes, excessive plugins can lead to site bloat and increased TTFB, especially if they load heavy scripts or perform complex database queries.
+  - q: What is the best way to clean up a WordPress database?
+    a: You can optimize the wp-options table by removing autoloaded data that is no longer needed, which significantly improves server response times.
+Community consensus suggests focusing on database cleanup, minimizing plugin usage, and implementing caching solutions rather than chasing scores. Based on 6 community reports.
+Linked sources: 6.
+Known Issues Plugin bloat causing slow TTFB Excessive external scripts like Google Tag Manager Unoptimized wp-options table Community Q&amp;A How can I improve my WordPress page speed score?
+Focus on optimizing your database, reducing the number of active plugins, implementing a CDN like Cloudflare, and minimizing external script loading.
+Does using too many plugins slow down WordPress?
+Yes, excessive plugins can lead to site bloat and increased TTFB, especially if they load heavy scripts or perform complex database queries.
+What is the best way to clean up a WordPress database?
+You can optimize the wp-options table by removing autoloaded data that is no longer needed, which significantly improves server response times.
+Reddit Sources [AMA] I&rsquo;m a WordPress Speed Optimization Expert ready to answer your questions. Ask me anything! (r/Wordpress) How are Shopify stores so (at least, perceptually) fast? (r/Wordpress) Trying to Improve WordPress Website (r/Wordpress) Optimizing for Site Speed - Are these Plugins redundant and how do I compare changes? (r/Wordpress) Are Thousands of WordPress Users Being Misled by PageSpeed on Performance? (r/Wordpress) The Ultimate WordPress Page speed Guide (r/Wordpress)
+---
+
+---
 title: How to Install a WordPress Theme
 url: https://wordpress-faq.com/howto/install-wordpress-theme/
 date: 2026-06-01
