@@ -3364,6 +3364,34 @@ Reddit Sources How can I TRULY customize/modernize “My Account” page? (r/woo
 ---
 
 ---
+title: How to Add Custom Post Types in WordPress
+url: https://wordpress-faq.com/howto/add-custom-post-type-wordpress/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Adding custom post types is best achieved via the register_post_type function in functions.php or by using the Advanced Custom Fields plugin.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: gutenberg, widgets, shortcodes, database
+faq:
+  - q: How do I enable Gutenberg for a custom post type?
+    a: You can enable the block editor by adding 'show_in_rest' => true to your register_post_type arguments in your functions.php file.
+  - q: Do I need a plugin to create custom post types?
+    a: No, you can register them manually via code, but plugins like ACF or CPT UI simplify the process for users without coding experience.
+  - q: Where should I add the custom post type code?
+    a: The code should be added to your child theme's functions.php file or a custom functionality plugin to ensure changes persist after updates.
+Adding custom post types is best achieved via the register_post_type function in functions.php or by using the Advanced Custom Fields plugin. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Gutenberg editor not appearing on custom post types Conflict with existing theme post type registration Complexity of managing time zones for event-based post types Community Q&amp;A How do I enable Gutenberg for a custom post type?
+You can enable the block editor by adding &lsquo;show_in_rest&rsquo; =&gt; true to your register_post_type arguments in your functions.php file.
+Do I need a plugin to create custom post types?
+No, you can register them manually via code, but plugins like ACF or CPT UI simplify the process for users without coding experience.
+Where should I add the custom post type code?
+The code should be added to your child theme&rsquo;s functions.php file or a custom functionality plugin to ensure changes persist after updates.
+Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s how the calendar grid works. (r/Wordpress) Built a complete 3D product configurator system for WordPress/WooCommerce with containerized architecture - sharing the technical approach (r/Wordpress) WordPress Plugin Development help (r/Wordpress) Enabling Gutenberg (Block Editor) with custom post type from old theme (r/Wordpress) Wordpress Text Variables or Snippets (r/Wordpress) WordPress custom AJAX form submits silently — no email sent, no console errors (r/Wordpress) I asked for help in the elementor community already but im just trying to see if someone here has a better solution.. (r/Wordpress) Notification for Telegram is now MCP-Compatible — Let AI Agents Send Telegram Messages from WordPress (r/Wordpress)
+---
+
+---
 title: How to Add Schema Markup to WordPress
 url: https://wordpress-faq.com/howto/add-schema-markup-wordpress/
 date: 2026-06-02
