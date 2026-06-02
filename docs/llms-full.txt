@@ -3484,6 +3484,34 @@ Reddit Sources I Made a Free e-commerce website. Plugins and methods. (r/Wordpre
 ---
 
 ---
+title: How to Disable XML-RPC in WordPress Safely
+url: https://wordpress-faq.com/howto/disable-xmlrpc-wordpress/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Disabling XML-RPC is a common security hardening step, though modern WordPress core has mitigated many of the original brute force vulnerabilities.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: security, performance, conflict
+faq:
+  - q: Should I disable xmlrpc.php on my WordPress site?
+    a: If you do not use the WordPress mobile app or external services that rely on XML-RPC, disabling it is a recommended security hardening practice.
+  - q: How do I disable XML-RPC in WordPress?
+    a: The safest way is to use a security or optimization plugin like Admin and Site Enhancements (ASE) or Perfmatters to handle the configuration.
+  - q: Will WordPress updates re-enable XML-RPC?
+    a: If you modify or delete the core xmlrpc.php file, WordPress updates will overwrite your changes, so using a plugin is the preferred method.
+Disabling XML-RPC is a common security hardening step, though modern WordPress core has mitigated many of the original brute force vulnerabilities. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Modifying core files directly is overwritten by WordPress updates Some legacy mobile apps or external services may require XML-RPC to function Community Q&amp;A Should I disable xmlrpc.php on my WordPress site?
+If you do not use the WordPress mobile app or external services that rely on XML-RPC, disabling it is a recommended security hardening practice.
+How do I disable XML-RPC in WordPress?
+The safest way is to use a security or optimization plugin like Admin and Site Enhancements (ASE) or Perfmatters to handle the configuration.
+Will WordPress updates re-enable XML-RPC?
+If you modify or delete the core xmlrpc.php file, WordPress updates will overwrite your changes, so using a plugin is the preferred method.
+Reddit Sources PSA - if Cloudflare cache rate of your WordPress suddenly drops, check xmlrpc.php. Just caught a 288k-request/day brute force attack using this (r/Wordpress) Removing Feeds, XML, Emojis, etc. (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress) Top 5 Ways WordPress Sites Get Compromised (and how to fix them) (r/Wordpress) The “boring” WordPress ops stack that stops 90% of downtime, hacks, and surprise bills (a practical playbook) (r/Wordpress) Guide to securing your WordPress site (r/Wordpress) Disable XMLRPC.PHP (r/Wordpress) Help site compromised (r/Wordpress)
+---
+
+---
 title: How to Enable Gzip Compression in WordPress
 url: https://wordpress-faq.com/howto/enable-gzip-compression-wordpress/
 date: 2026-06-02
