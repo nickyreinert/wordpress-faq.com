@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 27 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 95 articles
 - [Errors](https://wordpress-faq.com/error/) — 2 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 39 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 40 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -146,6 +146,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How Many WordPress Plugins Are Too Many?](https://wordpress-faq.com/compatibility/wordpress-plugin-count-optimization/) — There is no fixed limit, as performance depends on plugin quality, code efficiency, and server resources rather than the raw count of installations.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard to ensure proper user role assignment and database integrity.
+- [How to Add Schema Markup to WordPress](https://wordpress-faq.com/howto/add-schema-markup-wordpress/) — Using a dedicated SEO plugin is the most reliable way to implement schema markup without manual coding errors.
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/change-wordpress-site-title-tagline/) — The site title and tagline are primarily managed in General Settings, though SEO plugins often override these values for search engine results.
 - [How to Choose a Domain Name for WordPress](https://wordpress-faq.com/howto/choosing-wordpress-domain-name/) — Choose a short, memorable, and brandable domain name that avoids hyphens and uses a reputable registrar for long-term stability and SEO success.
 - [How to Choose a WordPress Theme](https://wordpress-faq.com/howto/choosing-wordpress-theme/) — Community consensus suggests prioritizing lightweight, stable themes like Astra or Enfold over feature-bloated options to ensure better site performance.
