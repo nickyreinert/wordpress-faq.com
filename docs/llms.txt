@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 27 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 95 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 51 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 52 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -175,6 +175,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Secure WordPress Admin Login](https://wordpress-faq.com/howto/secure-wordpress-admin-login/) — The community consensus is that robust security requires 2FA, limiting login attempts, and keeping all themes and plugins updated regularly.
 - [How to Set and Customize WordPress Permalink Structures](https://wordpress-faq.com/howto/wordpress-permalink-structure-guide/) — Use the built-in Post Name permalink setting for optimal SEO and stability, avoiding complex custom rewrite rules whenever possible.
 - [How to Set Up WordPress for the First Time](https://wordpress-faq.com/howto/wordpress-setup-guide/) — Community consensus suggests prioritizing security, clear site messaging, and performance optimization from the very first installation.
+- [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-integration/) — Using a CDN like Cloudflare or BunnyCDN is the most effective way to improve global site speed and reduce strain on your primary hosting server.
 - [How to Write SEO Friendly WordPress Posts](https://wordpress-faq.com/howto/seo-friendly-wordpress-posts/) — Community consensus suggests using lightweight themes like GeneratePress and focusing on site speed to achieve optimal SEO results for WordPress blogs.
