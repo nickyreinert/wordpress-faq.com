@@ -3740,6 +3740,30 @@ Reddit Sources I&rsquo;m lost, what am I doing wrong? (r/Wordpress) Moving Webap
 ---
 
 ---
+title: How to Prevent Spam Comments in WordPress
+url: https://wordpress-faq.com/howto/prevent-wordpress-spam-comments/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: The community consensus is to use a combination of native WordPress discussion settings and a dedicated anti-spam plugin like Akismet or Antispam Bee.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: security, ecommerce, performance
+faq:
+  - q: How do I stop spam comments in WordPress?
+    a: You can enable comment moderation in Settings > Discussion, use a plugin like Akismet, or implement a CAPTCHA solution.
+  - q: Are plugins necessary for WordPress spam protection?
+    a: While native settings help, plugins are highly recommended to automate the filtering process and reduce manual moderation time.
+The community consensus is to use a combination of native WordPress discussion settings and a dedicated anti-spam plugin like Akismet or Antispam Bee. Based on 1 community reports.
+Linked sources: 1.
+Known Issues False positives in automated spam filters Increased database size from spam entries Community Q&amp;A How do I stop spam comments in WordPress?
+You can enable comment moderation in Settings &gt; Discussion, use a plugin like Akismet, or implement a CAPTCHA solution.
+Are plugins necessary for WordPress spam protection?
+While native settings help, plugins are highly recommended to automate the filtering process and reduce manual moderation time.
+Reddit Sources Store Owners - Discuss Process flows and workarounds for annoyances (r/woocommerce)
+---
+
+---
 title: How to Reduce WordPress Server Response Time
 url: https://wordpress-faq.com/howto/reduce-wordpress-server-response-time/
 date: 2026-06-02
