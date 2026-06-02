@@ -3044,6 +3044,30 @@ Reddit Sources I&rsquo;m Michael Makijenko, the founder of Visual Composer Websi
 ---
 
 ---
+title: Full Site Editing in WordPress Explained
+url: https://wordpress-faq.com/howto/full-site-editing-wordpress/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Full Site Editing provides a block-based approach to theme customization that replaces traditional customizers for modern WordPress users.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: gutenberg, page-builder, performance
+faq:
+  - q: What is Full Site Editing in WordPress?
+    a: Full Site Editing is a collection of features that allows users to edit every part of their site, including headers, footers, and templates, using blocks.
+  - q: Do I need a special theme for Full Site Editing?
+    a: Yes, you need a block-based theme to utilize the full capabilities of the Site Editor in WordPress.
+Full Site Editing provides a block-based approach to theme customization that replaces traditional customizers for modern WordPress users. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Steep learning curve for legacy users Theme compatibility limitations Performance overhead with complex block structures Community Q&amp;A What is Full Site Editing in WordPress?
+Full Site Editing is a collection of features that allows users to edit every part of their site, including headers, footers, and templates, using blocks.
+Do I need a special theme for Full Site Editing?
+Yes, you need a block-based theme to utilize the full capabilities of the Site Editor in WordPress.
+Reddit Sources Head of Digital - Feeling burnt out. (r/webdev)
+---
+
+---
 title: Gutenberg vs Classic Editor: Comparison and User Sentiment
 url: https://wordpress-faq.com/comparison/classic-editor-gutenberg/
 date: 2026-06-02
