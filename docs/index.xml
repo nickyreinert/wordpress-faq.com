@@ -114,7 +114,11 @@ Directories should generally be set to 755 and individual files to 644 to balanc
 Linked sources: 1.
 Known Issues Lack of specific plugin recommendations Outdated image format standards Community Q&amp;amp;A How do I optimize images in WordPress?
 You can optimize images by compressing them before upload, using WebP formats, and implementing lazy loading via plugins or native settings.
-Does image optimization improve SEO?</description></item><item><title>WordPress Malware Removal Guide</title><link>https://wordpress-faq.com/howto/wordpress-malware-removal/</link><pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/howto/wordpress-malware-removal/</guid><description>Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections. Based on 2 community reports.
+Does image optimization improve SEO?</description></item><item><title>WordPress Internal Linking Strategy Best Practices</title><link>https://wordpress-faq.com/howto/wordpress-internal-linking-strategy/</link><pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/howto/wordpress-internal-linking-strategy/</guid><description>Internal linking is essential for distributing page authority and improving user experience across your WordPress website architecture. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Over-optimization of anchor text Broken internal links Orphaned content Community Q&amp;amp;A What is an internal linking strategy?
+An internal linking strategy is the practice of linking pages within your own website to help search engines crawl your site and users navigate content.
+How does internal linking help SEO?</description></item><item><title>WordPress Malware Removal Guide</title><link>https://wordpress-faq.com/howto/wordpress-malware-removal/</link><pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/howto/wordpress-malware-removal/</guid><description>Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections. Based on 2 community reports.
 Linked sources: 2.
 Known Issues Backdoor scripts remaining after file deletion Database injection persistence Core file modification Community Q&amp;amp;A How do I remove malware from WordPress?
 Start by taking a full backup, then replace all core files, scan plugins for malicious code, and update all passwords.
