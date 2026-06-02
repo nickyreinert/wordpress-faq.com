@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 18 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 19 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 20 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 93 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
@@ -38,6 +38,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/comparison/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best WordPress Hosting 2025: Managed vs Unmanaged Options](https://wordpress-faq.com/hosting/best-wordpress-hosting-2025/) — Community consensus suggests Cloudways for managed ease and DigitalOcean for cost-effective performance if you have server management skills.
 - [Best WordPress Hosting for Small Business Guide](https://wordpress-faq.com/hosting/best-wordpress-hosting-small-business/) — Managed cloud hosting providers are recommended over shared plans for better scalability and performance in small business WooCommerce environments.
+- [Best WordPress SEO Plugins for Bloggers](https://wordpress-faq.com/comparison/best-wordpress-seo-plugins/) — RankMath and Yoast remain the industry standards, though many users seek lighter alternatives to avoid unnecessary code bloat and performance issues.
 - [Best WordPress Themes for Blogs: Performance and Flexibility](https://wordpress-faq.com/theme/best-wordpress-themes-blogs/) — The community recommends using lightweight, multipurpose themes like GeneratePress, Astra, or Blocksy rather than niche-specific blog themes.
 - [Best WordPress Themes for Business Websites](https://wordpress-faq.com/theme/best-wordpress-business-themes/) — Community consensus favors lightweight block themes and full site editing over heavy page builders for better performance and SEO results.
 - [Best WordPress Themes for Portfolio Sites](https://wordpress-faq.com/theme/best-wordpress-themes-portfolio/) — Community consensus suggests using lightweight builders like Bricks or starter themes like Underscores for maximum flexibility and clean code.
