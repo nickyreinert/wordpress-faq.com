@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 21 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 22 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 94 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 20 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -40,6 +40,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Caching Plugins: Performance and Optimization](https://wordpress-faq.com/comparison/wordpress-caching-plugins/) — LiteSpeed Cache is widely considered the most effective caching solution for WordPress when paired with proper server-side object caching.
 - [Best WordPress Hosting 2025: Managed vs Unmanaged Options](https://wordpress-faq.com/hosting/best-wordpress-hosting-2025/) — Community consensus suggests Cloudways for managed ease and DigitalOcean for cost-effective performance if you have server management skills.
 - [Best WordPress Hosting for Small Business Guide](https://wordpress-faq.com/hosting/best-wordpress-hosting-small-business/) — Managed cloud hosting providers are recommended over shared plans for better scalability and performance in small business WooCommerce environments.
+- [Best WordPress Page Builder for WooCommerce 2025](https://wordpress-faq.com/comparison/bricks-woocommerce-page-builder/) — Bricks Builder is the community favorite for high-performance WooCommerce sites requiring advanced animations and AJAX functionality.
 - [Best WordPress Security Plugin: Expert Recommendations](https://wordpress-faq.com/compatibility/best-wordpress-security-plugin/) — Community consensus suggests that high-quality managed hosting with integrated security features is more effective than relying solely on plugins.
 - [Best WordPress SEO Plugins for Bloggers](https://wordpress-faq.com/comparison/best-wordpress-seo-plugins/) — RankMath and Yoast remain the industry standards, though many users seek lighter alternatives to avoid unnecessary code bloat and performance issues.
 - [Best WordPress SEO Plugins: Rank Math vs SureRank](https://wordpress-faq.com/comparison/rank-math-surerank/) — Community consensus suggests Rank Math is superior for advanced users, while SureRank is preferred for lightweight, simple site requirements.
