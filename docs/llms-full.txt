@@ -3820,6 +3820,30 @@ Reddit Sources Store Owners - Discuss Process flows and workarounds for annoyanc
 ---
 
 ---
+title: How to Redirect WordPress URLs Effectively
+url: https://wordpress-faq.com/howto/wordpress-url-redirects/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: Using a dedicated redirection plugin or editing the .htaccess file are the most reliable ways to manage URL redirects in WordPress without losing SEO.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: seo, migration, performance
+faq:
+  - q: How do I redirect a URL in WordPress?
+    a: You can use a plugin like Redirection or manually add 301 redirect rules to your .htaccess file.
+  - q: Do redirects hurt WordPress SEO?
+    a: Properly implemented 301 redirects pass link equity and do not hurt SEO; however, excessive redirects can slow down your site.
+Using a dedicated redirection plugin or editing the .htaccess file are the most reliable ways to manage URL redirects in WordPress without losing SEO. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Potential for 404 errors if regex patterns are incorrect Performance impact of excessive redirect rules in .htaccess Community Q&amp;A How do I redirect a URL in WordPress?
+You can use a plugin like Redirection or manually add 301 redirect rules to your .htaccess file.
+Do redirects hurt WordPress SEO?
+Properly implemented 301 redirects pass link equity and do not hurt SEO; however, excessive redirects can slow down your site.
+Reddit Sources est way to migrate ~70 content pages from Squarespace to WordPress without losing SEO (keeping slugs, restructuring content) (r/ProWordPress)
+---
+
+---
 title: How to Reduce WordPress Server Response Time
 url: https://wordpress-faq.com/howto/reduce-wordpress-server-response-time/
 date: 2026-06-02
