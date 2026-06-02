@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 28 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 58 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 59 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -149,6 +149,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard to ensure proper user role assignment and database integrity.
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/woocommerce-checkout-fields/) — Adding custom checkout fields is best achieved through dedicated plugins or custom code hooks within your child theme's functions.php file.
+- [How to Add Custom Fields in WordPress Without a Plugin](https://wordpress-faq.com/howto/add-custom-fields-wordpress-no-plugin/) — Adding custom fields manually requires basic PHP knowledge and creating a custom plugin file to register meta boxes and save data securely.
 - [How to Add Custom Post Types in WordPress](https://wordpress-faq.com/howto/add-custom-post-type-wordpress/) — Adding custom post types is best achieved via the register_post_type function in functions.php or by using the Advanced Custom Fields plugin.
 - [How to Add Schema Markup to WordPress](https://wordpress-faq.com/howto/add-schema-markup-wordpress/) — Using a dedicated SEO plugin is the most reliable way to implement schema markup without manual coding errors.
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/change-wordpress-site-title-tagline/) — The site title and tagline are primarily managed in General Settings, though SEO plugins often override these values for search engine results.
