@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 115 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 116 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -230,6 +230,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce-setup/) — The official WooCommerce Stripe plugin is the recommended approach, utilizing OAuth authentication for secure and reliable payment processing.
 - [How to Set Up WordPress for the First Time](https://wordpress-faq.com/howto/wordpress-setup-guide/) — Community consensus suggests prioritizing security, clear site messaging, and performance optimization from the very first installation.
 - [How to Setup Astra Theme in WordPress](https://wordpress-faq.com/howto/astra-wordpress-setup/) — Astra is widely considered a lightweight and highly customizable theme suitable for most WordPress projects.
+- [How to Setup Blocksy Theme in WordPress](https://wordpress-faq.com/howto/blocksy-wordpress-setup/) — Blocksy is a highly customizable and lightweight theme that integrates well with page builders like Elementor for professional website development.
 - [How to Setup Bricks Builder in WordPress](https://wordpress-faq.com/howto/bricks-builder-wordpress-setup/) — Bricks Builder is a powerful theme-based page builder that requires a clean WordPress installation for the best results.
 - [How to Setup Divi in WordPress](https://wordpress-faq.com/howto/divi-setup-guide/) — Divi is considered a solid long-term investment for WordPress users due to its lifetime license and extensive feature set for site building.
 - [How to Setup Elementor with WooCommerce](https://wordpress-faq.com/howto/elementor-woocommerce-setup/) — Elementor is a powerful tool for WooCommerce design, but users must monitor plugin conflicts and server-side session handling to ensure stability.
