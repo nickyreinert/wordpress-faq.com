@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 31 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 12 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 101 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
@@ -262,6 +262,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Internal Linking Strategy Best Practices](https://wordpress-faq.com/howto/wordpress-internal-linking-strategy/) — Internal linking is essential for distributing page authority and improving user experience across your WordPress website architecture.
 - [WordPress Local Development Setup Guide](https://wordpress-faq.com/howto/wordpress-local-development-setup/) — Community consensus favors lightweight tools like Laravel Valet or Bedrock over legacy stacks like MAMP or XAMPP for modern development workflows.
 - [WordPress Malware Removal Guide](https://wordpress-faq.com/howto/wordpress-malware-removal/) — Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections.
+- [WordPress Multisite vs Single Site Comparison](https://wordpress-faq.com/comparison/multisite-single-site/) — WordPress Multisite is generally discouraged for most users due to its high maintenance overhead and potential for complex site-wide conflicts.
 - [WordPress Multisite vs Single Site: When to Use Each](https://wordpress-faq.com/comparison/multisite-vs-single-site/) — Use Multisite for managing multiple related sites under one network, while single site is better for independent, standalone website installations.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/comparison/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that exists outside the blog timeline.
 - [WordPress Performance Audit Checklist: Best Practices](https://wordpress-faq.com/howto/wordpress-performance-audit-checklist/) — Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching.
