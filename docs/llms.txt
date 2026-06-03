@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 83 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 84 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 29 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
@@ -191,6 +191,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress Manually Without Plugins](https://wordpress-faq.com/howto/migrate-wordpress-without-plugin/) — Manual migration is reliable but requires technical knowledge of database management and file transfer protocols to ensure a successful site move.
 - [How to Migrate WordPress to a New Hosting Provider](https://wordpress-faq.com/howto/wordpress-migration-hosting/) — The most reliable way to migrate WordPress is using specialized import plugins or requesting a managed migration service from your new host.
 - [How to Migrate WordPress to a New Hosting Provider](https://wordpress-faq.com/howto/migrate-wordpress-hosting/) — Using dedicated migration plugins or manual database and file transfers is the most reliable way to switch hosting providers successfully.
+- [How to Migrate WordPress to Another Platform](https://wordpress-faq.com/howto/wordpress-migration-guide/) — Successful WordPress migration requires careful handling of database prefixes and file permissions to ensure the site functions on the new host.
 - [How to Noindex a Page in WordPress](https://wordpress-faq.com/howto/how-to-noindex-page-wordpress/) — The most reliable way to noindex a page in WordPress is by using an SEO plugin like Yoast or Rank Math to add the meta robots tag to the page header.
 - [How to Optimize WordPress Images for SEO and Performance](https://wordpress-faq.com/howto/optimize-wordpress-images-seo/) — Optimizing images through compression and descriptive naming is essential for improving both page load speeds and search engine rankings.
 - [How to Prevent Spam Comments in WordPress](https://wordpress-faq.com/howto/prevent-wordpress-spam-comments/) — The community consensus is to use a combination of native WordPress discussion settings and a dedicated anti-spam plugin like Akismet or Antispam Bee.
