@@ -5204,6 +5204,34 @@ Reddit Sources WordPress Just Got Three AI Integrations in Four Days — Here&rs
 ---
 
 ---
+title: How to Version Control WordPress with Git
+url: https://wordpress-faq.com/howto/git-version-control-wordpress/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Professional WordPress developers should use Git for themes and custom code, while managing database changes via local JSON or PHP array exports.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: database, hosting, performance
+faq:
+  - q: Should I track the entire WordPress core in Git?
+    a: It is generally recommended to track only your custom themes, plugins, and configuration files, rather than the entire WordPress core installation.
+  - q: How do I handle database changes in version control?
+    a: Use tools like ACF Local JSON or export database settings as PHP arrays to keep your site structure versioned alongside your code.
+  - q: Can I automate WordPress deployments with Git?
+    a: Yes, you can use CI/CD tools like GitHub Actions, DeployHQ, or built-in hosting features like RunCloud to auto-deploy code on push.
+Professional WordPress developers should use Git for themes and custom code, while managing database changes via local JSON or PHP array exports. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Database state is not natively tracked by Git Large media files can bloat repository size Plugin and core updates can cause deployment conflicts Community Q&amp;A Should I track the entire WordPress core in Git?
+It is generally recommended to track only your custom themes, plugins, and configuration files, rather than the entire WordPress core installation.
+How do I handle database changes in version control?
+Use tools like ACF Local JSON or export database settings as PHP arrays to keep your site structure versioned alongside your code.
+Can I automate WordPress deployments with Git?
+Yes, you can use CI/CD tools like GitHub Actions, DeployHQ, or built-in hosting features like RunCloud to auto-deploy code on push.
+Reddit Sources I’m being let go from my position which I had for almost a year (r/webdev) Wordpress Development Workflow (r/ProWordPress) What tools do you use when developing custom functionality in WordPress? (r/ProWordPress) Post release maintenance and version control on customer sites? (r/ProWordPress) Looking for recommendations on tool/application for version controlling database changes (r/ProWordPress) RunCloud git deployment (r/ProWordPress) WordPress FTP seems chaos to me (r/ProWordPress)
+---
+
+---
 title: How to Write SEO Friendly WordPress Posts
 url: https://wordpress-faq.com/howto/seo-friendly-wordpress-posts/
 date: 2026-06-02
