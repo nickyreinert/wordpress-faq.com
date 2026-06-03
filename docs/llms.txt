@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 31 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 97 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 98 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -149,6 +149,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How Many WordPress Plugins Are Too Many?](https://wordpress-faq.com/compatibility/wordpress-plugin-count-optimization/) — There is no fixed limit, as performance depends on plugin quality, code efficiency, and server resources rather than the raw count of installations.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [How to Add Ads to a WordPress Site](https://wordpress-faq.com/howto/add-ads-wordpress-site/) — The community recommends using reputable ad management plugins and maintaining strict security protocols to avoid malicious ad injections.
+- [How to Add Affiliate Links in WordPress](https://wordpress-faq.com/howto/affiliate-links-wordpress/) — Adding affiliate links can be done manually via redirects or by using specialized plugins for tracking, link cloaking, and automated product boxes.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard to ensure proper user role assignment and database integrity.
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/woocommerce-checkout-fields/) — Adding custom checkout fields is best achieved through dedicated plugins or custom code hooks within your child theme's functions.php file.
 - [How to Add Custom CSS to WordPress Safely](https://wordpress-faq.com/howto/add-custom-css-wordpress/) — The community recommends using the WordPress Customizer or a child theme to ensure your custom CSS remains intact after theme updates.
