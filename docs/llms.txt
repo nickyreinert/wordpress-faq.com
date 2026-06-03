@@ -11,6 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 12 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 101 articles
+- [Versions](https://wordpress-faq.com/version/) — 1 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
@@ -236,6 +237,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
 - [Kinsta vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/kinsta-siteground/) — Kinsta is preferred for high-traffic enterprise sites, while SiteGround is the superior choice for small businesses and budget-conscious users.
 - [Managing WooCommerce Product Variations and Imports](https://wordpress-faq.com/howto/woocommerce-product-variations/) — Efficient management of large WooCommerce catalogs requires CSV-based bulk importing and object caching to maintain site performance.
+- [Managing WordPress Version Updates and Theme Compatibility](https://wordpress-faq.com/version/wordpress-version-update/) — Always backup your site before performing any WordPress core, theme, or plugin updates to prevent potential data loss or site conflicts.
 - [Setting Up Continuous Deployment for WordPress](https://wordpress-faq.com/howto/wordpress-continuous-deployment-setup/) — Automating WordPress deployments via CI/CD pipelines significantly reduces human error and speeds up the release cycle for professional teams.
 - [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dedicated-shared-vps-hosting/) — Shared hosting is ideal for small sites, while VPS and dedicated servers offer the necessary resources and control for high-traffic professional websites.
 - [Troubleshooting WooCommerce Checkout Issues](https://wordpress-faq.com/error/woocommerce-checkout-error/) — Checkout failures are typically caused by theme block conflicts, plugin incompatibilities, or improper caching of the checkout page flow.
