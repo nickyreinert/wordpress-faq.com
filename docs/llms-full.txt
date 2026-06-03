@@ -3180,6 +3180,34 @@ Reddit Sources WordPress Speed Optimization: A Practical Checklist for Website o
 ---
 
 ---
+title: Fixing WordPress Database Connection Errors in Docker
+url: https://wordpress-faq.com/error/database-error-docker/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Database connection errors in Docker are typically caused by using localhost instead of the container service name in wp-config.php.
+confidence: high
+sources: 9
+schema_type: FAQPage
+tags: database, hosting, conflict
+faq:
+  - q: Why do I get a database connection error in Docker?
+    a: You are likely using 'localhost' as the DB_HOST. In Docker, you must use the service name defined in your docker-compose.yaml file.
+  - q: How do I fix WordPress database connection issues?
+    a: Verify your DB_HOST matches the container name, ensure the database container is running, and check that your credentials have proper permissions.
+  - q: Does WordPress support localhost for database connections in Docker?
+    a: No, 'localhost' refers to the WordPress container itself, not the database container. Use the service name (e.g., 'db') instead.
+Database connection errors in Docker are typically caused by using localhost instead of the container service name in wp-config.php. Based on 9 community reports.
+Linked sources: 6.
+Known Issues Incorrect DB_HOST value in wp-config.php Database container not fully initialized before WordPress starts Insufficient user permissions in MySQL/MariaDB Docker network resolution failures Community Q&amp;A Why do I get a database connection error in Docker?
+You are likely using &rsquo;localhost&rsquo; as the DB_HOST. In Docker, you must use the service name defined in your docker-compose.yaml file.
+How do I fix WordPress database connection issues?
+Verify your DB_HOST matches the container name, ensure the database container is running, and check that your credentials have proper permissions.
+Does WordPress support localhost for database connections in Docker?
+No, &rsquo;localhost&rsquo; refers to the WordPress container itself, not the database container. Use the service name (e.g., &lsquo;db&rsquo;) instead.
+Reddit Sources How I Stopped Brutal WordPress Attacks Using Fail2Ban on Ubuntu VPS (r/Wordpress) Built a complete 3D product configurator system for WordPress/WooCommerce with containerized architecture - sharing the technical approach (r/Wordpress) Docker+Wordpress+Caddy = The REST API encountered an error (cURL error 28 or 7) (r/Wordpress) Database issues with Wordpress Duplicator plugin and local Docker setup (r/Wordpress) Database connection error in Docker with MariaDB (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress)
+---
+
+---
 title: Free vs Premium WordPress Plugins: Are They Worth It?
 url: https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/
 date: 2026-06-02
