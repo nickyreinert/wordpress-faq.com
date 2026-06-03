@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 31 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 95 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 96 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -207,6 +207,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Restore WordPress from Backup Safely](https://wordpress-faq.com/howto/wordpress-restore-backup/) — Always perform a clean install and verify your backup files before restoring to ensure no malicious code or legacy bloat is reintroduced.
 - [How to Schedule Posts in WordPress](https://wordpress-faq.com/howto/wordpress-post-scheduling/) — WordPress includes a native scheduling feature in the post editor that allows users to set specific publication dates and times for their content.
 - [How to Secure WordPress Admin Login](https://wordpress-faq.com/howto/secure-wordpress-admin-login/) — The community consensus is that robust security requires 2FA, limiting login attempts, and keeping all themes and plugins updated regularly.
+- [How to Sell Digital Products on WordPress](https://wordpress-faq.com/howto/selling-digital-products-wordpress/) — WordPress is a powerful platform for selling digital goods, but it requires the user to manage their own hosting, security, and tax compliance.
 - [How to Set and Customize WordPress Permalink Structures](https://wordpress-faq.com/howto/wordpress-permalink-structure-guide/) — Use the built-in Post Name permalink setting for optimal SEO and stability, avoiding complex custom rewrite rules whenever possible.
 - [How to Set Up and Manage Comments in WordPress](https://wordpress-faq.com/howto/wordpress-comment-setup/) — WordPress provides native comment management tools, but most users prefer adding anti-spam plugins to maintain site security and performance.
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce-setup/) — The official WooCommerce Stripe plugin is the recommended approach, utilizing OAuth authentication for secure and reliable payment processing.
