@@ -5124,6 +5124,30 @@ Reddit Sources Built a dev-only content audit page inside Astro after migrating 
 ---
 
 ---
+title: How to Optimize Divi for WordPress Performance
+url: https://wordpress-faq.com/howto/divi-optimization-guide/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: performance, page-builder, caching, speed
+faq:
+  - q: How can I make my Divi website load faster?
+    a: Enable Divi's built-in performance settings, use a quality caching plugin, optimize your images, and minimize the use of heavy animations.
+  - q: Does Divi slow down WordPress?
+    a: Divi can be resource-intensive due to its feature set, but it can be highly optimized by following performance best practices and using a fast host.
+Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Heavy DOM structure Excessive CSS and JS loading Animation performance overhead Community Q&amp;A How can I make my Divi website load faster?
+Enable Divi&rsquo;s built-in performance settings, use a quality caching plugin, optimize your images, and minimize the use of heavy animations.
+Does Divi slow down WordPress?
+Divi can be resource-intensive due to its feature set, but it can be highly optimized by following performance best practices and using a fast host.
+Reddit Sources I just built my website with little coding experience (r/webdev)
+---
+
+---
 title: How to Optimize Elementor for WordPress Performance
 url: https://wordpress-faq.com/howto/elementor-performance-optimization/
 date: 2026-06-03
