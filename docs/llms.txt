@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Comparisons](https://wordpress-faq.com/comparison/) — 30 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 85 articles
-- [Comparisons](https://wordpress-faq.com/comparison/) — 29 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -236,6 +236,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Image Optimization Guide: Best Practices](https://wordpress-faq.com/howto/wordpress-image-optimization-guide/) — Optimizing images is essential for reducing page load times and improving core web vitals for better search engine rankings.
 - [WordPress Internal Linking Strategy Best Practices](https://wordpress-faq.com/howto/wordpress-internal-linking-strategy/) — Internal linking is essential for distributing page authority and improving user experience across your WordPress website architecture.
 - [WordPress Malware Removal Guide](https://wordpress-faq.com/howto/wordpress-malware-removal/) — Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections.
+- [WordPress Multisite vs Single Site: When to Use Each](https://wordpress-faq.com/comparison/multisite-vs-single-site/) — Use Multisite for managing multiple related sites under one network, while single site is better for independent, standalone website installations.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/comparison/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that exists outside the blog timeline.
 - [WordPress Performance Audit Checklist: Best Practices](https://wordpress-faq.com/howto/wordpress-performance-audit-checklist/) — Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
