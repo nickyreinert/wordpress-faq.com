@@ -4584,6 +4584,34 @@ Reddit Sources How to Prevent Incremental Slugs in WordPress Custom Post Type (r
 ---
 
 ---
+title: How to Set Up and Manage Comments in WordPress
+url: https://wordpress-faq.com/howto/wordpress-comment-setup/
+date: 2026-06-02
+lastmod: 2026-06-02
+verdict: WordPress provides native comment management tools, but most users prefer adding anti-spam plugins to maintain site security and performance.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: security, performance, database
+faq:
+  - q: How do I enable comments on my WordPress site?
+    a: Navigate to Settings > Discussion in your WordPress dashboard and check the box labeled 'Allow people to submit comments on new posts'.
+  - q: Can I disable comments for specific posts?
+    a: Yes, you can disable comments on individual posts by editing the post and unchecking 'Allow comments' in the Discussion meta box.
+  - q: How do I prevent spam in WordPress comments?
+    a: You can enable comment moderation in Settings > Discussion or install dedicated anti-spam plugins like Akismet to filter out unwanted content.
+WordPress provides native comment management tools, but most users prefer adding anti-spam plugins to maintain site security and performance. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Spam accumulation Performance impact on database Comment moderation overhead Community Q&amp;A How do I enable comments on my WordPress site?
+Navigate to Settings &gt; Discussion in your WordPress dashboard and check the box labeled &lsquo;Allow people to submit comments on new posts&rsquo;.
+Can I disable comments for specific posts?
+Yes, you can disable comments on individual posts by editing the post and unchecking &lsquo;Allow comments&rsquo; in the Discussion meta box.
+How do I prevent spam in WordPress comments?
+You can enable comment moderation in Settings &gt; Discussion or install dedicated anti-spam plugins like Akismet to filter out unwanted content.
+Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s how the calendar grid works. (r/Wordpress) WordPress Just Got Three AI Integrations in Four Days — Here&rsquo;s What Each One Actually Does (r/Wordpress) Enabling Gutenberg (Block Editor) with custom post type from old theme (r/Wordpress) Help with Understanding Hosting (r/Wordpress) Newbie questions (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress) Notification for Telegram is now MCP-Compatible — Let AI Agents Send Telegram Messages from WordPress (r/Wordpress) Help! My WordPress SSL expired and I’m zero-tech—looking for a free, simple, solid fix (r/Wordpress)
+---
+
+---
 title: How to Set Up Stripe in WooCommerce
 url: https://wordpress-faq.com/howto/stripe-woocommerce-setup/
 date: 2026-06-02
