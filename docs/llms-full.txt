@@ -6127,6 +6127,30 @@ Reddit Sources How I added crypto payments to my WooCommerce store (r/woocommerc
 ---
 
 ---
+title: WordPress 4.2.2 Security Patch and XSS Vulnerability
+url: https://wordpress-faq.com/error/wordpress-security-vulnerability/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: The 4.2.2 patch is a critical security update that addresses XSS vulnerabilities within the core add_query_arg function to protect site integrity.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: security, performance, conflict
+faq:
+  - q: What does the WordPress 4.2.2 patch fix?
+    a: The 4.2.2 update specifically addresses a cross-site scripting (XSS) vulnerability found in the add_query_arg function.
+  - q: Is the add_query_arg function still vulnerable?
+    a: While 4.2.2 provides a patch, some developers argue that the core function requires further hardening to fully prevent XSS attacks.
+The 4.2.2 patch is a critical security update that addresses XSS vulnerabilities within the core add_query_arg function to protect site integrity. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Incomplete sanitization of add_query_arg function Persistent XSS vulnerability risks Community Q&amp;A What does the WordPress 4.2.2 patch fix?
+The 4.2.2 update specifically addresses a cross-site scripting (XSS) vulnerability found in the add_query_arg function.
+Is the add_query_arg function still vulnerable?
+While 4.2.2 provides a patch, some developers argue that the core function requires further hardening to fully prevent XSS attacks.
+Reddit Sources WordPress 4.2.2 Released - Supposedly Fixes XSS Vulnerability [Discussion] (r/webdev)
+---
+
+---
 title: WordPress 6.8 Released: Performance and Accessibility Improvements
 url: https://wordpress-faq.com/news/wordpress-6-8-released/
 date: 2026-04-25

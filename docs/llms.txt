@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
-- [Errors](https://wordpress-faq.com/error/) — 12 articles
+- [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 101 articles
 - [Versions](https://wordpress-faq.com/version/) — 2 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
@@ -249,6 +249,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WooCommerce Abandoned Cart Recovery Solutions](https://wordpress-faq.com/comparison/woocommerce-abandoned-cart-recovery/) — Open-source plugins that allow direct ownership of WhatsApp Business API accounts are preferred over high-fee SaaS alternatives.
 - [WooCommerce Payment Gateway Setup and Configuration Guide](https://wordpress-faq.com/howto/woocommerce-payment-gateway-setup/) — Community consensus recommends using native Stripe and PayPal integrations for reliability rather than relying on third-party failover plugins.
+- [WordPress 4.2.2 Security Patch and XSS Vulnerability](https://wordpress-faq.com/error/wordpress-security-vulnerability/) — The 4.2.2 patch is a critical security update that addresses XSS vulnerabilities within the core add_query_arg function to protect site integrity.
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress Blocks vs Shortcodes: Key Differences Explained](https://wordpress-faq.com/comparison/gutenberg-shortcodes/) — Blocks are the modern, visual standard for WordPress content, while shortcodes are considered legacy tools for simple dynamic functionality.
