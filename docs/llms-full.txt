@@ -4088,6 +4088,34 @@ Reddit Sources I Made a Free e-commerce website. Plugins and methods. (r/Wordpre
 ---
 
 ---
+title: How to Disable Comments in WordPress
+url: https://wordpress-faq.com/howto/disable-comments-wordpress/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Disabling comments is best achieved via the WordPress Discussion settings or a dedicated plugin for site-wide control.
+confidence: low
+sources: 0
+schema_type: HowTo
+tags: performance, security, widgets
+faq:
+  - q: How do I disable comments on all WordPress posts?
+    a: Go to Settings > Discussion and uncheck 'Allow people to submit comments on new posts'.
+  - q: Can I disable comments for specific posts only?
+    a: Yes, edit the individual post and uncheck 'Allow comments' in the Discussion meta box.
+  - q: Is there a plugin to disable comments globally?
+    a: Yes, plugins like 'Disable Comments' allow you to remove all comment-related fields and settings site-wide.
+Disabling comments is best achieved via the WordPress Discussion settings or a dedicated plugin for site-wide control. Based on 0 community reports.
+Linked sources: 5.
+Known Issues Global settings may not affect existing posts Spam comments can still accumulate in database Community Q&amp;A How do I disable comments on all WordPress posts?
+Go to Settings &gt; Discussion and uncheck &lsquo;Allow people to submit comments on new posts&rsquo;.
+Can I disable comments for specific posts only?
+Yes, edit the individual post and uncheck &lsquo;Allow comments&rsquo; in the Discussion meta box.
+Is there a plugin to disable comments globally?
+Yes, plugins like &lsquo;Disable Comments&rsquo; allow you to remove all comment-related fields and settings site-wide.
+Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce) Store Owners - Discuss Process flows and workarounds for annoyances (r/woocommerce) Seeking Update For Disabling Billing Fields on Carts Containing Only Virtual Products (r/woocommerce) 7 Last-Minute speed-up tips for Black Friday (r/woocommerce) Combining a bunch of small WordPress tweaks into one lightweight plugin – looking for feedback (r/ProWordPress)
+---
+
+---
 title: How to Disable XML-RPC in WordPress Safely
 url: https://wordpress-faq.com/howto/disable-xmlrpc-wordpress/
 date: 2026-06-02
