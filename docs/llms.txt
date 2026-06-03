@@ -9,9 +9,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 31 articles
+- [Errors](https://wordpress-faq.com/error/) — 4 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 101 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
-- [Errors](https://wordpress-faq.com/error/) — 3 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -140,6 +140,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor vs Oxygen Builder Compatibility & Comparison](https://wordpress-faq.com/compatibility/elementor-oxygen-builder/) — Elementor and Oxygen Builder are separate page builders that cannot be used together on the same page, though they can coexist on a single site.
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Performance and SEO](https://wordpress-faq.com/howto/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching plugins and query monitoring tools to resolve performance bottlenecks effectively.
+- [Fixing the WordPress White Screen of Death](https://wordpress-faq.com/error/wordpress-white-screen-of-death-fix/) — The White Screen of Death is typically caused by plugin conflicts, theme errors, or memory limits, and is best resolved by enabling WP_DEBUG to identify the root cause.
 - [Fixing WordPress Core Web Vitals: LCP Optimization Guide](https://wordpress-faq.com/howto/wordpress-core-web-vitals-fix/) — Community consensus suggests prioritizing image optimization, removing lazy-loading from hero elements, and avoiding conflicting performance plugins.
 - [Free vs Premium WordPress Plugins: Are They Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/) — Premium plugins are generally worth the investment for professional support and advanced features, though free versions often suffice for basic needs.
 - [Free vs Premium WordPress Themes: Is It Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-themes/) — Premium themes generally offer better support and advanced features, but free themes are often sufficient for simple, lightweight website projects.
