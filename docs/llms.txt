@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 107 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 108 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -232,6 +232,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Bricks Builder in WordPress](https://wordpress-faq.com/howto/bricks-builder-wordpress-setup/) — Bricks Builder is a powerful theme-based page builder that requires a clean WordPress installation for the best results.
 - [How to Setup Divi in WordPress](https://wordpress-faq.com/howto/divi-setup-guide/) — Divi is considered a solid long-term investment for WordPress users due to its lifetime license and extensive feature set for site building.
 - [How to Setup Elementor with WooCommerce](https://wordpress-faq.com/howto/elementor-woocommerce-setup/) — Elementor is a powerful tool for WooCommerce design, but users must monitor plugin conflicts and server-side session handling to ensure stability.
+- [How to Setup Oxygen Builder in WordPress](https://wordpress-faq.com/howto/oxygen-builder-wordpress-setup/) — Oxygen Builder is a powerful, developer-friendly tool that requires a learning curve but offers high flexibility for custom WordPress site design.
 - [How to Setup WordPress Multisite: A Comprehensive Guide](https://wordpress-faq.com/howto/wordpress-multisite-setup/) — Always perform a full database backup before enabling multisite or running search and replace scripts to avoid permanent network configuration errors.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
