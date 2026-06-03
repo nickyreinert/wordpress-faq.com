@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 31 articles
-- [Errors](https://wordpress-faq.com/error/) — 8 articles
+- [Errors](https://wordpress-faq.com/error/) — 9 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 101 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -145,6 +145,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing WordPress Database Connection Errors in Docker](https://wordpress-faq.com/error/database-error-docker/) — Database connection errors in Docker are typically caused by using localhost instead of the container service name in wp-config.php.
 - [Fixing WordPress Login Redirect Loop Errors](https://wordpress-faq.com/error/wordpress-login-redirect-loop/) — Most login redirect loops are caused by corrupted .htaccess files, incorrect site URL settings in the database, or SSL/proxy configuration conflicts.
 - [Fixing WordPress Memory Limit Exhausted Errors](https://wordpress-faq.com/error/wordpress-memory-limit-exhausted/) — The consensus is to identify the specific plugin or script causing the memory leak rather than simply increasing the PHP memory limit indefinitely.
+- [Fixing WordPress Stuck in Maintenance Mode](https://wordpress-faq.com/error/wordpress-stuck-in-maintenance-mode/) — The maintenance mode error is typically resolved by manually deleting the .maintenance file from the root directory via FTP or file manager.
 - [Free vs Premium WordPress Plugins: Are They Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/) — Premium plugins are generally worth the investment for professional support and advanced features, though free versions often suffice for basic needs.
 - [Free vs Premium WordPress Themes: Is It Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-themes/) — Premium themes generally offer better support and advanced features, but free themes are often sufficient for simple, lightweight website projects.
 - [Full Site Editing in WordPress Explained](https://wordpress-faq.com/howto/full-site-editing-wordpress/) — Full Site Editing provides a block-based approach to theme customization that replaces traditional customizers for modern WordPress users.
