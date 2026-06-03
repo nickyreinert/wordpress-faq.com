@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 84 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 85 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 29 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
@@ -204,6 +204,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Set Up and Manage Comments in WordPress](https://wordpress-faq.com/howto/wordpress-comment-setup/) — WordPress provides native comment management tools, but most users prefer adding anti-spam plugins to maintain site security and performance.
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce-setup/) — The official WooCommerce Stripe plugin is the recommended approach, utilizing OAuth authentication for secure and reliable payment processing.
 - [How to Set Up WordPress for the First Time](https://wordpress-faq.com/howto/wordpress-setup-guide/) — Community consensus suggests prioritizing security, clear site messaging, and performance optimization from the very first installation.
+- [How to Setup WordPress Multisite: A Comprehensive Guide](https://wordpress-faq.com/howto/wordpress-multisite-setup/) — Always perform a full database backup before enabling multisite or running search and replace scripts to avoid permanent network configuration errors.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-integration/) — Using a CDN like Cloudflare or BunnyCDN is the most effective way to improve global site speed and reduce strain on your primary hosting server.
