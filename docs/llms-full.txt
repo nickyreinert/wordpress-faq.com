@@ -4372,6 +4372,34 @@ Reddit Sources Help with product filters and categories? (r/woocommerce) WooComm
 ---
 
 ---
+title: How to Migrate WordPress Manually Without Plugins
+url: https://wordpress-faq.com/howto/migrate-wordpress-without-plugin/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Manual migration is reliable but requires technical knowledge of database management and file transfer protocols to ensure a successful site move.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: migration, database, hosting, seo
+faq:
+  - q: Can I migrate WordPress without a plugin?
+    a: Yes, you can migrate manually by exporting your database via phpMyAdmin, copying files via FTP/SFTP, and updating the wp-config.php file.
+  - q: What is the most important step when migrating a site?
+    a: Ensuring you have a full backup of both your database and site files before starting any transfer process.
+  - q: How do I handle SEO during a manual migration?
+    a: Maintain your existing URL structure and implement 301 redirects if you are changing your domain name to preserve search engine rankings.
+Manual migration is reliable but requires technical knowledge of database management and file transfer protocols to ensure a successful site move. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Database connection errors Incorrect file permissions Broken internal links after domain change Missing .htaccess configuration Community Q&amp;A Can I migrate WordPress without a plugin?
+Yes, you can migrate manually by exporting your database via phpMyAdmin, copying files via FTP/SFTP, and updating the wp-config.php file.
+What is the most important step when migrating a site?
+Ensuring you have a full backup of both your database and site files before starting any transfer process.
+How do I handle SEO during a manual migration?
+Maintain your existing URL structure and implement 301 redirects if you are changing your domain name to preserve search engine rankings.
+Reddit Sources thinking about migrating my business site off elementor (r/Wordpress) What is your offboarding process for hosting/maintenance? (r/Wordpress) Shifting TLD&rsquo;s, multi-site and migration confusion (r/Wordpress) thinking about migrating my business site off elementor (r/Wordpress) Wordpress + Cloudflare Free Setup (r/Wordpress) I&rsquo;m actually proud of myself for simultaneously building both the front and back end of a WordPress site without actual previous coding knowledge. (r/Wordpress) If you want AI agents to edit your WordPress site in 2026, don&rsquo;t wait for 7.0. Here&rsquo;s why. (r/Wordpress) Happiness Engineer position at Automattic (r/Wordpress) Worst experience with Wordpress (r/Wordpress)
+---
+
+---
 title: How to Migrate WordPress to a New Hosting Provider
 url: https://wordpress-faq.com/howto/wordpress-migration-hosting/
 date: 2026-06-03

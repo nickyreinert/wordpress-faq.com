@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 78 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 79 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 29 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
@@ -185,6 +185,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Install SSL Certificate on WordPress](https://wordpress-faq.com/howto/install-ssl-certificate-wordpress/) — The most reliable way to install an SSL certificate is to request it directly from your hosting provider to ensure proper server-side configuration.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/how-to-install-wordpress/) — Manual installation provides the most reliable foundation for long-term site performance and security.
 - [How to Manage Categories and Tags in WordPress](https://wordpress-faq.com/howto/wordpress-categories-tags-management/) — WordPress provides native support for categories and tags, but complex filtering often requires additional plugins or custom taxonomy configurations.
+- [How to Migrate WordPress Manually Without Plugins](https://wordpress-faq.com/howto/migrate-wordpress-without-plugin/) — Manual migration is reliable but requires technical knowledge of database management and file transfer protocols to ensure a successful site move.
 - [How to Migrate WordPress to a New Hosting Provider](https://wordpress-faq.com/howto/wordpress-migration-hosting/) — The most reliable way to migrate WordPress is using specialized import plugins or requesting a managed migration service from your new host.
 - [How to Migrate WordPress to a New Hosting Provider](https://wordpress-faq.com/howto/migrate-wordpress-hosting/) — Using dedicated migration plugins or manual database and file transfers is the most reliable way to switch hosting providers successfully.
 - [How to Noindex a Page in WordPress](https://wordpress-faq.com/howto/how-to-noindex-page-wordpress/) — The most reliable way to noindex a page in WordPress is by using an SEO plugin like Yoast or Rank Math to add the meta robots tag to the page header.
