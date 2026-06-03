@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 31 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 88 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 89 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -239,6 +239,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
 - [WordPress Image Optimization Guide: Best Practices](https://wordpress-faq.com/howto/wordpress-image-optimization-guide/) — Optimizing images is essential for reducing page load times and improving core web vitals for better search engine rankings.
 - [WordPress Internal Linking Strategy Best Practices](https://wordpress-faq.com/howto/wordpress-internal-linking-strategy/) — Internal linking is essential for distributing page authority and improving user experience across your WordPress website architecture.
+- [WordPress Local Development Setup Guide](https://wordpress-faq.com/howto/wordpress-local-development-setup/) — Community consensus favors lightweight tools like Laravel Valet or Bedrock over legacy stacks like MAMP or XAMPP for modern development workflows.
 - [WordPress Malware Removal Guide](https://wordpress-faq.com/howto/wordpress-malware-removal/) — Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections.
 - [WordPress Multisite vs Single Site: When to Use Each](https://wordpress-faq.com/comparison/multisite-vs-single-site/) — Use Multisite for managing multiple related sites under one network, while single site is better for independent, standalone website installations.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/comparison/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that exists outside the blog timeline.
