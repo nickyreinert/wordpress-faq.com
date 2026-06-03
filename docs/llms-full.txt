@@ -5998,6 +5998,34 @@ Reddit Sources I’m still coding like it’s 2014: any advice/resources to catc
 ---
 
 ---
+title: WordPress Freelance Business Tips and Pricing Strategies
+url: https://wordpress-faq.com/howto/wordpress-freelance-business-tips/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Community consensus suggests charging flat fees for projects while maintaining high hourly rates for maintenance to ensure professional credibility.
+confidence: high
+sources: 8
+schema_type: HowTo
+tags: ecommerce, seo, performance, hosting, membership
+faq:
+  - q: Should I charge a flat fee or hourly rate for WordPress projects?
+    a: Most experienced freelancers recommend flat fees for new builds to incentivize efficiency, while using hourly rates for ongoing maintenance and edits.
+  - q: How do I find clients as a WordPress freelancer?
+    a: Focus on building a strong portfolio, networking at local meetups, and utilizing professional subreddits like r/forhire to find consistent work.
+  - q: Is it a mistake to offer discount rates to new clients?
+    a: Yes, offering deep discounts can signal low quality; instead, consider gifting a few hours of work to prove your value without devaluing your services.
+Community consensus suggests charging flat fees for projects while maintaining high hourly rates for maintenance to ensure professional credibility. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Pricing too low can sometimes deter high-quality clients Difficulty balancing speed with quality code Market saturation on freelance platforms Community Q&amp;A Should I charge a flat fee or hourly rate for WordPress projects?
+Most experienced freelancers recommend flat fees for new builds to incentivize efficiency, while using hourly rates for ongoing maintenance and edits.
+How do I find clients as a WordPress freelancer?
+Focus on building a strong portfolio, networking at local meetups, and utilizing professional subreddits like r/forhire to find consistent work.
+Is it a mistake to offer discount rates to new clients?
+Yes, offering deep discounts can signal low quality; instead, consider gifting a few hours of work to prove your value without devaluing your services.
+Reddit Sources Wordpress freelancers: what tech stack &amp; workflow do you use to efficiently build site UIs/frontends? (r/Wordpress) How much should I charge? Client is currently getting work from Fiverr (r/Wordpress) How do Wordpress freelancers find work? Could use some tips. (r/Wordpress) Wordpress &amp; Elementor Designer - Where to go from here? (r/Wordpress) Advice needed for website with articles and paywall. (r/Wordpress) Best Sites for Freelancing? (r/Wordpress) Business license for 1 freelance webpage? + advice please!! (r/Wordpress) What does it take to freelance WordPress? (r/Wordpress)
+---
+
+---
 title: WordPress Headless CMS Explained
 url: https://wordpress-faq.com/howto/wordpress-headless-cms/
 date: 2026-06-03
