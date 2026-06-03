@@ -3440,6 +3440,30 @@ Reddit Sources Head of Digital - Feeling burnt out. (r/webdev)
 ---
 
 ---
+title: Gutenberg Block Editor: New Features and Updates Guide
+url: https://wordpress-faq.com/version/gutenberg-editor-features/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: The Gutenberg block editor continues to evolve as the primary content creation tool for WordPress, offering improved flexibility and block-based design.
+confidence: low
+sources: 2
+schema_type: FAQPage
+tags: gutenberg, page-builder, widgets
+faq:
+  - q: What is the Gutenberg block editor?
+    a: Gutenberg is the default block-based editor for WordPress, allowing users to build content layouts using individual blocks instead of a single text area.
+  - q: How do I update Gutenberg features?
+    a: Gutenberg updates are bundled with WordPress core updates. Keep your WordPress installation updated to the latest version to access new features.
+The Gutenberg block editor continues to evolve as the primary content creation tool for WordPress, offering improved flexibility and block-based design. Based on 2 community reports.
+Linked sources: 2.
+Known Issues WYSIWYG editor integration challenges Theme compatibility with block patterns Community Q&amp;A What is the Gutenberg block editor?
+Gutenberg is the default block-based editor for WordPress, allowing users to build content layouts using individual blocks instead of a single text area.
+How do I update Gutenberg features?
+Gutenberg updates are bundled with WordPress core updates. Keep your WordPress installation updated to the latest version to access new features.
+Reddit Sources Here are 20 tips and tricks for beginners using WordPress: (r/Wordpress) Bootstrap vs Tailwind starter theme (r/ProWordPress)
+---
+
+---
 title: Gutenberg vs Classic Editor: Comparison and User Sentiment
 url: https://wordpress-faq.com/comparison/classic-editor-gutenberg/
 date: 2026-06-02
