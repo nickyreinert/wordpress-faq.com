@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 80 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 81 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 29 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Errors](https://wordpress-faq.com/error/) — 3 articles
@@ -157,6 +157,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Google Analytics to WordPress](https://wordpress-faq.com/howto/google-analytics-wordpress/) — Using a dedicated plugin is the recommended method for most users to ensure accurate tracking and compliance with privacy regulations.
 - [How to Add Schema Markup to WordPress](https://wordpress-faq.com/howto/add-schema-markup-wordpress/) — Using a dedicated SEO plugin is the most reliable way to implement schema markup without manual coding errors.
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/change-wordpress-site-title-tagline/) — The site title and tagline are primarily managed in General Settings, though SEO plugins often override these values for search engine results.
+- [How to Change Your WordPress Domain URL](https://wordpress-faq.com/howto/wordpress-domain-url-change/) — Changing a WordPress domain requires updating site settings, moving files, and performing a database search-and-replace to ensure all links function.
 - [How to Choose a Domain Name for WordPress](https://wordpress-faq.com/howto/choosing-wordpress-domain-name/) — Choose a short, memorable, and brandable domain name that avoids hyphens and uses a reputable registrar for long-term stability and SEO success.
 - [How to Choose a WordPress Theme](https://wordpress-faq.com/howto/choosing-wordpress-theme/) — Community consensus suggests prioritizing lightweight, stable themes like Astra or Enfold over feature-bloated options to ensure better site performance.
 - [How to Choose the Right WordPress Plugins for Your Website](https://wordpress-faq.com/howto/choosing-wordpress-plugins/) — Prioritize plugins that are actively maintained, lightweight, and essential to your site's core functionality to avoid performance degradation.

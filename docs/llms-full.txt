@@ -3580,6 +3580,34 @@ Reddit Sources Did I waste a year of my life developing a WordPress theme? (r/Wo
 ---
 
 ---
+title: How to Change Your WordPress Domain URL
+url: https://wordpress-faq.com/howto/wordpress-domain-url-change/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Changing a WordPress domain requires updating site settings, moving files, and performing a database search-and-replace to ensure all links function.
+confidence: high
+sources: 8
+schema_type: HowTo
+tags: migration, database, hosting, conflict
+faq:
+  - q: How do I change my WordPress site URL?
+    a: Navigate to Settings > General in your dashboard and update the WordPress Address and Site Address fields.
+  - q: Why are my images broken after changing my domain?
+    a: Images often retain hardcoded paths to the old domain; use a plugin like Better Search Replace to update these paths in your database.
+  - q: What should I do if I get locked out after changing my URL?
+    a: You can fix this by editing your wp-config.php file to define the site URL or by correcting the values directly in your database via phpMyAdmin.
+Changing a WordPress domain requires updating site settings, moving files, and performing a database search-and-replace to ensure all links function. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Loss of admin access after URL change Broken image links post-migration Database path inconsistencies DNS propagation delays Community Q&amp;A How do I change my WordPress site URL?
+Navigate to Settings &gt; General in your dashboard and update the WordPress Address and Site Address fields.
+Why are my images broken after changing my domain?
+Images often retain hardcoded paths to the old domain; use a plugin like Better Search Replace to update these paths in your database.
+What should I do if I get locked out after changing my URL?
+You can fix this by editing your wp-config.php file to define the site URL or by correcting the values directly in your database via phpMyAdmin.
+Reddit Sources Transferring a free domain name? (r/Wordpress) emergency help (r/Wordpress) Question about website migration (r/Wordpress) Google has indexed pages but not posts? Is this a common issue? (r/Wordpress) How do I change my Wordpress address URL? (r/Wordpress) Changing domain from subfolder (r/Wordpress) Lost content (r/Wordpress) How can I fix my broken images after migrating website? (I know the problem, just not how to fix it) (r/Wordpress)
+---
+
+---
 title: How to Choose a Domain Name for WordPress
 url: https://wordpress-faq.com/howto/choosing-wordpress-domain-name/
 date: 2026-06-01
