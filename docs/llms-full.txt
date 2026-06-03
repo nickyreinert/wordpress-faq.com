@@ -5556,6 +5556,30 @@ Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s 
 ---
 
 ---
+title: How to Setup Bricks Builder in WordPress
+url: https://wordpress-faq.com/howto/bricks-builder-wordpress-setup/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: Bricks Builder is a powerful theme-based page builder that requires a clean WordPress installation for the best results.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: page-builder, performance, images
+faq:
+  - q: How do I install Bricks Builder?
+    a: Download the zip file from your account, go to Appearance > Themes in WordPress, click Add New, upload the file, and activate it.
+  - q: Does Bricks Builder work with other themes?
+    a: Bricks is a theme itself, so it replaces your current theme. You should not run it alongside other themes.
+Bricks Builder is a powerful theme-based page builder that requires a clean WordPress installation for the best results. Based on 1 community reports.
+Linked sources: 1.
+Known Issues GD library stripping ICC profiles Safari color profile inconsistency Community Q&amp;A How do I install Bricks Builder?
+Download the zip file from your account, go to Appearance &gt; Themes in WordPress, click Add New, upload the file, and activate it.
+Does Bricks Builder work with other themes?
+Bricks is a theme itself, so it replaces your current theme. You should not run it alongside other themes.
+Reddit Sources Why is Safari/iPhone killing my Display P3 colors on WebP and AVIF? (r/webdev)
+---
+
+---
 title: How to Setup Divi in WordPress
 url: https://wordpress-faq.com/howto/divi-setup-guide/
 date: 2026-06-03
