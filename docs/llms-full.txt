@@ -3328,6 +3328,38 @@ Reddit Sources Wordpress gets stuck in in maintenance mode when installing new p
 ---
 
 ---
+title: Fixing WordPress Too Many Redirects Errors
+url: https://wordpress-faq.com/error/wordpress-too-many-redirects/
+date: 2026-06-03
+lastmod: 2026-06-03
+verdict: The error is typically caused by SSL configuration mismatches between the server and Cloudflare or incorrect site URL settings in wp-config.php.
+confidence: high
+sources: 8
+schema_type: FAQPage
+tags: security, hosting, caching, cdn, conflict
+faq:
+  - q: Why does my WordPress site show an ERR_TOO_MANY_REDIRECTS error?
+    a: This usually happens when there is a conflict between your server's SSL settings and your site's URL configuration, often triggered by Cloudflare or plugin settings.
+  - q: How do I fix redirect loops if I cannot access the dashboard?
+    a: Access your site via FTP or your host's file manager, edit the wp-config.php file, and manually define your WP_HOME and WP_SITEURL constants.
+  - q: Does Cloudflare cause too many redirects on WordPress?
+    a: Yes, if your Cloudflare SSL setting is set to 'Flexible' while your server expects 'Full' or 'Full (Strict)', it can create an infinite redirect loop.
+  - q: Can a corrupted .htaccess file cause redirect errors?
+    a: Yes, an improperly configured .htaccess file can force incorrect redirect rules; regenerating it often resolves the issue.
+The error is typically caused by SSL configuration mismatches between the server and Cloudflare or incorrect site URL settings in wp-config.php. Based on 8 community reports.
+Linked sources: 9.
+Known Issues SSL/HTTPS configuration mismatch Cloudflare Flexible vs Full SSL settings Incorrect WP_HOME and WP_SITEURL definitions Corrupted .htaccess file Plugin-induced redirect loops Community Q&amp;A Why does my WordPress site show an ERR_TOO_MANY_REDIRECTS error?
+This usually happens when there is a conflict between your server&rsquo;s SSL settings and your site&rsquo;s URL configuration, often triggered by Cloudflare or plugin settings.
+How do I fix redirect loops if I cannot access the dashboard?
+Access your site via FTP or your host&rsquo;s file manager, edit the wp-config.php file, and manually define your WP_HOME and WP_SITEURL constants.
+Does Cloudflare cause too many redirects on WordPress?
+Yes, if your Cloudflare SSL setting is set to &lsquo;Flexible&rsquo; while your server expects &lsquo;Full&rsquo; or &lsquo;Full (Strict)&rsquo;, it can create an infinite redirect loop.
+Can a corrupted .htaccess file cause redirect errors?
+Yes, an improperly configured .htaccess file can force incorrect redirect rules; regenerating it often resolves the issue.
+Reddit Sources Wordpress too many redirects error (r/Wordpress) Plugins I wish I&rsquo;d discovered earlier – all solid (from plugins for beginners to pros) (r/Wordpress) Website says too many redirects and doesn&rsquo;t load and Wordpress has a Cloudfare human verification upon login that I can&rsquo;t get past (r/Wordpress) Error: Too many redirects only on PC (r/Wordpress) 302 too many redirects error and mixed content error (r/Wordpress) Multilingual SEO Headaches for a Real Estate Site – Geo vs. Language Redirects? (r/Wordpress) Instead of homepage - Blog Hello World! (r/Wordpress) 🛠️ I’ll Migrate Your WordPress Website or Domain — Fast, Smooth &amp; Secure (r/Wordpress) &ldquo;ERR_TOO_MANY_REDIRECTS&rdquo; after port 80 and 443 blocked (r/Wordpress)
+---
+
+---
 title: Free vs Premium WordPress Plugins: Are They Worth It?
 url: https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/
 date: 2026-06-02
