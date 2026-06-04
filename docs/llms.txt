@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 130 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 131 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -243,6 +243,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Divi in WordPress](https://wordpress-faq.com/howto/divi-setup-guide/) — Divi is considered a solid long-term investment for WordPress users due to its lifetime license and extensive feature set for site building.
 - [How to Setup Elementor with WooCommerce](https://wordpress-faq.com/howto/elementor-woocommerce-setup/) — Elementor is a powerful tool for WooCommerce design, but users must monitor plugin conflicts and server-side session handling to ensure stability.
 - [How to Setup GeneratePress in WordPress](https://wordpress-faq.com/howto/generatepress-setup-guide/) — GeneratePress is a highly recommended, lightweight theme that integrates seamlessly with Gutenberg and various page builder plugins for performance.
+- [How to Setup Gravity Forms in WordPress](https://wordpress-faq.com/howto/gravityforms-wordpress-setup/) — Gravity Forms is a robust, reliable plugin that integrates seamlessly with WordPress via standard settings or the REST API for advanced users.
 - [How to Setup Hello Elementor in WordPress](https://wordpress-faq.com/howto/hello-elementor-setup/) — Hello Elementor is a lightweight, minimalist theme that serves as an ideal foundation for Elementor-based sites when paired with caching plugins.
 - [How to Setup Kadence Theme in WordPress](https://wordpress-faq.com/howto/kadence-wordpress-setup/) — Kadence is widely considered a high-performance, user-friendly theme that integrates seamlessly with the WordPress block editor for modern web design.
 - [How to Setup Oxygen Builder in WordPress](https://wordpress-faq.com/howto/oxygen-builder-wordpress-setup/) — Oxygen Builder is a powerful, developer-friendly tool that requires a learning curve but offers high flexibility for custom WordPress site design.
