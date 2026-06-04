@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 131 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 132 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -215,6 +215,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Noindex a Page in WordPress](https://wordpress-faq.com/howto/how-to-noindex-page-wordpress/) — The most reliable way to noindex a page in WordPress is by using an SEO plugin like Yoast or Rank Math to add the meta robots tag to the page header.
 - [How to Optimize Avada WordPress Theme Performance](https://wordpress-faq.com/howto/avada-optimization/) — Optimizing Avada requires disabling unused features, enabling built-in performance settings, and using a high-quality caching plugin for best results.
 - [How to Optimize Beaver Builder for WordPress Performance](https://wordpress-faq.com/howto/beaver-builder-optimization/) — Optimizing Beaver Builder requires a combination of lightweight hosting, effective caching, and minimizing the use of heavy third-party modules.
+- [How to Optimize Bricks Builder for WordPress Performance](https://wordpress-faq.com/howto/bricks-builder-optimization/) — Performance optimization in Bricks Builder relies primarily on minimizing asset bloat and implementing robust server-side caching solutions.
 - [How to Optimize Divi for WordPress Performance](https://wordpress-faq.com/howto/divi-optimization-guide/) — Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times.
 - [How to Optimize Elementor for WordPress Performance](https://wordpress-faq.com/howto/elementor-performance-optimization/) — Community consensus suggests that Elementor performance is best improved by minimizing bloat, using efficient hosting, and avoiding excessive plugins.
 - [How to Optimize Rank Math for WordPress SEO](https://wordpress-faq.com/howto/rankmath-seo-optimization/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that simplifies schema markup and indexing for WordPress users.

@@ -5172,6 +5172,34 @@ Reddit Sources What would be a fair average salary? (r/Wordpress)
 ---
 
 ---
+title: How to Optimize Bricks Builder for WordPress Performance
+url: https://wordpress-faq.com/howto/bricks-builder-optimization/
+date: 2026-06-04
+lastmod: 2026-06-04
+verdict: Performance optimization in Bricks Builder relies primarily on minimizing asset bloat and implementing robust server-side caching solutions.
+confidence: medium
+sources: 4
+schema_type: HowTo
+tags: performance, page-builder, caching, cdn, images, speed
+faq:
+  - q: How can I improve Bricks Builder page speed?
+    a: Focus on optimizing images, limiting custom fonts, and removing heavy entrance animations above the fold to improve core web vitals.
+  - q: Does using a CDN help with Bricks Builder performance?
+    a: Yes, caching public HTML at the edge via a CDN like Cloudflare can significantly reduce server response times for your visitors.
+  - q: Is Bricks Builder faster than other page builders?
+    a: Bricks is generally considered performant, but actual speed depends more on your design choices and server configuration than the builder itself.
+Performance optimization in Bricks Builder relies primarily on minimizing asset bloat and implementing robust server-side caching solutions. Based on 4 community reports.
+Linked sources: 4.
+Known Issues Excessive use of high-resolution images Overloading pages with multiple custom fonts Unnecessary entrance animations above the fold Community Q&amp;A How can I improve Bricks Builder page speed?
+Focus on optimizing images, limiting custom fonts, and removing heavy entrance animations above the fold to improve core web vitals.
+Does using a CDN help with Bricks Builder performance?
+Yes, caching public HTML at the edge via a CDN like Cloudflare can significantly reduce server response times for your visitors.
+Is Bricks Builder faster than other page builders?
+Bricks is generally considered performant, but actual speed depends more on your design choices and server configuration than the builder itself.
+Reddit Sources How are you improving your dev experience and speeding up workflows with WordPress? (r/Wordpress) Why does everyone think that Breakdance is fast? (r/Wordpress) To Page Builder Users: What’s your workflow and what are the pros/cons for you? (r/Wordpress) Need help with page speed optimization (can pay) (r/Wordpress)
+---
+
+---
 title: How to Optimize Divi for WordPress Performance
 url: https://wordpress-faq.com/howto/divi-optimization-guide/
 date: 2026-06-03
