@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 134 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 135 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -219,6 +219,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize Divi for WordPress Performance](https://wordpress-faq.com/howto/divi-optimization-guide/) — Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times.
 - [How to Optimize Elementor for WordPress Performance](https://wordpress-faq.com/howto/elementor-performance-optimization/) — Community consensus suggests that Elementor performance is best improved by minimizing bloat, using efficient hosting, and avoiding excessive plugins.
 - [How to Optimize Rank Math for WordPress SEO](https://wordpress-faq.com/howto/rankmath-seo-optimization/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that simplifies schema markup and indexing for WordPress users.
+- [How to Optimize WooCommerce Performance for WordPress](https://wordpress-faq.com/howto/ecommerce-performance-woocommerce/) — Community consensus suggests prioritizing high single-core CPU performance and server-side tuning over simply installing multiple caching plugins.
 - [How to Optimize WordPress Images for SEO and Performance](https://wordpress-faq.com/howto/optimize-wordpress-images-seo/) — Optimizing images through compression and descriptive naming is essential for improving both page load speeds and search engine rankings.
 - [How to Optimize WPForms for WordPress Performance](https://wordpress-faq.com/howto/optimize-wpforms-wordpress/) — Community consensus suggests keeping form plugins lightweight by disabling unnecessary assets and using conditional logic to reduce page bloat.
 - [How to Optimize Yoast SEO for WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-optimization/) — Yoast SEO remains a highly popular and reliable choice for WordPress users, though competitors like Rank Math offer more features for advanced users.
