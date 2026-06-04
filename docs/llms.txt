@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 125 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 126 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -246,6 +246,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Rank Math SEO in WordPress](https://wordpress-faq.com/howto/rankmath-wordpress-setup/) — Rank Math is widely considered a user-friendly and powerful SEO plugin that simplifies complex technical configurations for WordPress site owners.
 - [How to Setup SEOPress in WordPress](https://wordpress-faq.com/howto/seopress-wordpress-setup/) — SEOPress is considered a powerful, lightweight technical SEO tool that is best suited for users who prefer a set-it-and-forget-it configuration.
 - [How to Setup WordPress Multisite: A Comprehensive Guide](https://wordpress-faq.com/howto/wordpress-multisite-setup/) — Always perform a full database backup before enabling multisite or running search and replace scripts to avoid permanent network configuration errors.
+- [How to Setup WPForms in WordPress](https://wordpress-faq.com/howto/wpforms-wordpress-setup/) — WPForms is widely considered a user-friendly, drag-and-drop form builder suitable for beginners and professionals alike.
 - [How to Setup Yoast SEO in WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-setup/) — Yoast SEO is a highly effective tool for managing on-page optimization and technical SEO settings for WordPress websites.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
