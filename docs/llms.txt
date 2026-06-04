@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Howtos](https://wordpress-faq.com/howto/) — 122 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 121 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -217,6 +217,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize Beaver Builder for WordPress Performance](https://wordpress-faq.com/howto/beaver-builder-optimization/) — Optimizing Beaver Builder requires a combination of lightweight hosting, effective caching, and minimizing the use of heavy third-party modules.
 - [How to Optimize Divi for WordPress Performance](https://wordpress-faq.com/howto/divi-optimization-guide/) — Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times.
 - [How to Optimize Elementor for WordPress Performance](https://wordpress-faq.com/howto/elementor-performance-optimization/) — Community consensus suggests that Elementor performance is best improved by minimizing bloat, using efficient hosting, and avoiding excessive plugins.
+- [How to Optimize Rank Math for WordPress SEO](https://wordpress-faq.com/howto/rankmath-seo-optimization/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that simplifies schema markup and indexing for WordPress users.
 - [How to Optimize WordPress Images for SEO and Performance](https://wordpress-faq.com/howto/optimize-wordpress-images-seo/) — Optimizing images through compression and descriptive naming is essential for improving both page load speeds and search engine rankings.
 - [How to Optimize Yoast SEO for WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-optimization/) — Yoast SEO remains a highly popular and reliable choice for WordPress users, though competitors like Rank Math offer more features for advanced users.
 - [How to Prevent Spam Comments in WordPress](https://wordpress-faq.com/howto/prevent-wordpress-spam-comments/) — The community consensus is to use a combination of native WordPress discussion settings and a dedicated anti-spam plugin like Akismet or Antispam Bee.
