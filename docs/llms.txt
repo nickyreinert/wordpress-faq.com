@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 127 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 128 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -236,6 +236,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup All-in-One SEO in WordPress](https://wordpress-faq.com/howto/all-in-one-seo-wordpress-setup/) — The community recommends following the official setup wizard and verifying plugin compatibility to ensure optimal SEO performance for your site.
 - [How to Setup Astra Theme in WordPress](https://wordpress-faq.com/howto/astra-wordpress-setup/) — Astra is widely considered a lightweight and highly customizable theme suitable for most WordPress projects.
 - [How to Setup Avada Theme in WordPress](https://wordpress-faq.com/howto/avada-wordpress-setup/) — Avada is a powerful theme, but it should be used as the primary builder to avoid layout conflicts with other page builder plugins.
+- [How to Setup Beaver Builder in WordPress](https://wordpress-faq.com/howto/beaver-builder-setup/) — Beaver Builder is a reliable page builder that integrates well with most themes for creating custom layouts without requiring advanced coding knowledge.
 - [How to Setup Blocksy Theme in WordPress](https://wordpress-faq.com/howto/blocksy-wordpress-setup/) — Blocksy is a highly customizable and lightweight theme that integrates well with page builders like Elementor for professional website development.
 - [How to Setup Bricks Builder in WordPress](https://wordpress-faq.com/howto/bricks-builder-wordpress-setup/) — Bricks Builder is a powerful theme-based page builder that requires a clean WordPress installation for the best results.
 - [How to Setup Divi in WordPress](https://wordpress-faq.com/howto/divi-setup-guide/) — Divi is considered a solid long-term investment for WordPress users due to its lifetime license and extensive feature set for site building.
