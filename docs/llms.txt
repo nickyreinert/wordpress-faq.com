@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 150 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 151 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -213,6 +213,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress to Another Platform](https://wordpress-faq.com/howto/wordpress-migration-guide/) — Successful WordPress migration requires careful handling of database prefixes and file permissions to ensure the site functions on the new host.
 - [How to Monetize a WordPress Blog Effectively](https://wordpress-faq.com/howto/monetize-wordpress-blog/) — Focus on building consistent organic traffic and quality content before investing in paid growth experts or complex monetization strategies.
 - [How to Noindex a Page in WordPress](https://wordpress-faq.com/howto/how-to-noindex-page-wordpress/) — The most reliable way to noindex a page in WordPress is by using an SEO plugin like Yoast or Rank Math to add the meta robots tag to the page header.
+- [How to Optimize Autoptimize for WordPress Performance](https://wordpress-faq.com/howto/autoptimize-wordpress-optimization/) — Autoptimize is effective for minification, but should be used sparingly alongside other caching solutions to avoid site-breaking conflicts.
 - [How to Optimize Avada WordPress Theme Performance](https://wordpress-faq.com/howto/avada-optimization/) — Optimizing Avada requires disabling unused features, enabling built-in performance settings, and using a high-quality caching plugin for best results.
 - [How to Optimize Beaver Builder for WordPress Performance](https://wordpress-faq.com/howto/beaver-builder-optimization/) — Optimizing Beaver Builder requires a combination of lightweight hosting, effective caching, and minimizing the use of heavy third-party modules.
 - [How to Optimize Bricks Builder for WordPress Performance](https://wordpress-faq.com/howto/bricks-builder-optimization/) — Performance optimization in Bricks Builder relies primarily on minimizing asset bloat and implementing robust server-side caching solutions.
