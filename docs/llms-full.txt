@@ -7172,6 +7172,30 @@ Reddit Sources WP Security and Performance Questions! Am I doing it right? (r/Wo
 ---
 
 ---
+title: Optimizing Wordfence for WordPress Performance
+url: https://wordpress-faq.com/howto/wordfence-optimization/
+date: 2026-06-04
+lastmod: 2026-06-04
+verdict: Community consensus suggests keeping Wordfence settings minimal and scheduling scans during off-peak hours to prevent server resource exhaustion.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: security, performance, caching, database
+faq:
+  - q: Does Wordfence slow down my WordPress site?
+    a: Wordfence can impact performance during heavy scans; ensure you schedule scans for off-peak hours and disable unnecessary logging features.
+  - q: How can I reduce Wordfence resource usage?
+    a: Limit the scan intensity, disable 'Scan images' if not needed, and clear the Live Traffic logs regularly to keep your database lean.
+Community consensus suggests keeping Wordfence settings minimal and scheduling scans during off-peak hours to prevent server resource exhaustion. Based on 1 community reports.
+Linked sources: 6.
+Known Issues High CPU usage during full site scans Database bloat from extensive log history Conflicts with aggressive caching plugins Community Q&amp;A Does Wordfence slow down my WordPress site?
+Wordfence can impact performance during heavy scans; ensure you schedule scans for off-peak hours and disable unnecessary logging features.
+How can I reduce Wordfence resource usage?
+Limit the scan intensity, disable &lsquo;Scan images&rsquo; if not needed, and clear the Live Traffic logs regularly to keep your database lean.
+Reddit Sources How To Make A WordPress Site Faster (r/Wordpress) What are your favorite WordPress plug-ins that you always install? (r/Wordpress) WP Security and Performance Questions! Am I doing it right? (r/Wordpress) Help optimizing (r/Wordpress) Built a personal Wordpress site on Blocksy + Elementor + FluentCRM. Mistakes I would undo and one signup problem I am stuck on. (r/Wordpress) Paying for a Ecommerce redesign (r/Wordpress)
+---
+
+---
 title: Setting Up Continuous Deployment for WordPress
 url: https://wordpress-faq.com/howto/wordpress-continuous-deployment-setup/
 date: 2026-06-03
