@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 120 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 121 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 96 articles
 - [Reviews](https://wordpress-faq.com/review/) — 2 articles
@@ -241,6 +241,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Hello Elementor in WordPress](https://wordpress-faq.com/howto/hello-elementor-setup/) — Hello Elementor is a lightweight, minimalist theme that serves as an ideal foundation for Elementor-based sites when paired with caching plugins.
 - [How to Setup Kadence Theme in WordPress](https://wordpress-faq.com/howto/kadence-wordpress-setup/) — Kadence is widely considered a high-performance, user-friendly theme that integrates seamlessly with the WordPress block editor for modern web design.
 - [How to Setup Oxygen Builder in WordPress](https://wordpress-faq.com/howto/oxygen-builder-wordpress-setup/) — Oxygen Builder is a powerful, developer-friendly tool that requires a learning curve but offers high flexibility for custom WordPress site design.
+- [How to Setup Rank Math SEO in WordPress](https://wordpress-faq.com/howto/rankmath-wordpress-setup/) — Rank Math is widely considered a user-friendly and powerful SEO plugin that simplifies complex technical configurations for WordPress site owners.
 - [How to Setup WordPress Multisite: A Comprehensive Guide](https://wordpress-faq.com/howto/wordpress-multisite-setup/) — Always perform a full database backup before enabling multisite or running search and replace scripts to avoid permanent network configuration errors.
 - [How to Setup Yoast SEO in WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-setup/) — Yoast SEO is a highly effective tool for managing on-page optimization and technical SEO settings for WordPress websites.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
