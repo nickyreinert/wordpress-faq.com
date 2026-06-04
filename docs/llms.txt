@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 129 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 130 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -264,6 +264,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Managing WooCommerce Product Variations and Imports](https://wordpress-faq.com/howto/woocommerce-product-variations/) — Efficient management of large WooCommerce catalogs requires CSV-based bulk importing and object caching to maintain site performance.
 - [Managing WordPress Version Updates and Theme Compatibility](https://wordpress-faq.com/version/wordpress-version-update/) — Always backup your site before performing any WordPress core, theme, or plugin updates to prevent potential data loss or site conflicts.
 - [Optimizing All in One SEO for WordPress Performance](https://wordpress-faq.com/howto/all-in-one-seo-optimization/) — Proper configuration and avoiding plugin bloat are essential for maintaining site performance while using All in One SEO.
+- [Optimizing Contact Form 7 for WordPress Performance](https://wordpress-faq.com/howto/contact-form-7-optimization/) — Community consensus suggests limiting script loading to specific pages and using Akismet to reduce spam overhead for better site performance.
 - [Optimizing GeneratePress for WordPress Performance](https://wordpress-faq.com/howto/generatepress-performance-optimization/) — GeneratePress is highly performant, but requires proper caching and asset management to achieve optimal Core Web Vitals scores.
 - [Optimizing Hello Elementor for WordPress Speed](https://wordpress-faq.com/howto/hello-elementor-performance/) — Optimizing Hello Elementor requires image compression, efficient caching, and minimizing external requests to achieve high performance scores.
 - [Optimizing Oxygen Builder for WordPress Performance](https://wordpress-faq.com/howto/oxygen-builder-performance/) — Oxygen Builder is highly performant by default, but requires disciplined template management and minimal bloat to maintain optimal site speeds.
