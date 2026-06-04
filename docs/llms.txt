@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 151 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 152 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -264,6 +264,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup SEOPress in WordPress](https://wordpress-faq.com/howto/seopress-wordpress-setup/) — SEOPress is considered a powerful, lightweight technical SEO tool that is best suited for users who prefer a set-it-and-forget-it configuration.
 - [How to Setup Sucuri Security for WordPress](https://wordpress-faq.com/howto/sucuri-wordpress-setup/) — Sucuri is a highly effective security solution, though users should ensure proper API configuration to fully leverage its firewall and monitoring.
 - [How to Setup W3 Total Cache in WordPress](https://wordpress-faq.com/howto/w3-total-cache-setup/) — W3 Total Cache is a powerful but complex plugin that requires careful configuration of page, object, and browser caching to avoid site conflicts.
+- [How to Setup Wordfence in WordPress](https://wordpress-faq.com/howto/wordfence-wordpress-setup/) — Wordfence is widely considered the industry standard for WordPress security, provided it is configured correctly and kept updated to prevent vulnerabilities.
 - [How to Setup WordPress Multisite: A Comprehensive Guide](https://wordpress-faq.com/howto/wordpress-multisite-setup/) — Always perform a full database backup before enabling multisite or running search and replace scripts to avoid permanent network configuration errors.
 - [How to Setup WP Rocket for WordPress Performance](https://wordpress-faq.com/howto/wp-rocket-setup/) — WP Rocket is considered a standard, reliable caching solution for WordPress, though some users prefer Cloudflare-based alternatives for better speed.
 - [How to Setup WP Super Cache in WordPress](https://wordpress-faq.com/howto/wp-super-cache-setup/) — WP Super Cache is a reliable, free solution for static page caching that significantly improves site load times when configured correctly.
