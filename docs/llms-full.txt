@@ -5280,6 +5280,30 @@ Reddit Sources WooCommerce Quick Set-Up | 46+ Essential Checklist (Own Workflow)
 ---
 
 ---
+title: How to Optimize WPForms for WordPress Performance
+url: https://wordpress-faq.com/howto/optimize-wpforms-wordpress/
+date: 2026-06-04
+lastmod: 2026-06-04
+verdict: Community consensus suggests keeping form plugins lightweight by disabling unnecessary assets and using conditional logic to reduce page bloat.
+confidence: low
+sources: 4
+schema_type: HowTo
+tags: forms, performance, speed, caching, conflict
+faq:
+  - q: How do I stop WPForms from loading on every page?
+    a: Use the WPForms 'Disable Assets' setting or a plugin like Asset CleanUp to prevent scripts from loading on pages without forms.
+  - q: Does WPForms slow down my WordPress site?
+    a: It can if scripts load globally; however, optimizing asset loading and using caching plugins will mitigate performance impacts.
+Community consensus suggests keeping form plugins lightweight by disabling unnecessary assets and using conditional logic to reduce page bloat. Based on 4 community reports.
+Linked sources: 4.
+Known Issues Excessive script loading on non-form pages Database bloat from form entries Conflicts with page builder assets Community Q&amp;A How do I stop WPForms from loading on every page?
+Use the WPForms &lsquo;Disable Assets&rsquo; setting or a plugin like Asset CleanUp to prevent scripts from loading on pages without forms.
+Does WPForms slow down my WordPress site?
+It can if scripts load globally; however, optimizing asset loading and using caching plugins will mitigate performance impacts.
+Reddit Sources WooCommerce Quick Set-Up | 46+ Essential Checklist (Own Workflow) (r/woocommerce) Top WordPress Plugins to Make Your Site Delightful [FREEMIUM] (r/WordpressPlugins) [REVIEW] Plugins I wish I&rsquo;d discovered earlier - all solid (from plugins for beginners to pros) (r/WordpressPlugins) [DISCUSSION] Plugins I wish I&rsquo;d discovered earlier - all solid (from plugins for beginners to pros) (r/WordpressPlugins)
+---
+
+---
 title: How to Optimize Yoast SEO for WordPress
 url: https://wordpress-faq.com/howto/yoast-seo-wordpress-optimization/
 date: 2026-06-03
