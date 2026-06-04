@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 128 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 129 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -234,6 +234,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce-setup/) — The official WooCommerce Stripe plugin is the recommended approach, utilizing OAuth authentication for secure and reliable payment processing.
 - [How to Set Up WordPress for the First Time](https://wordpress-faq.com/howto/wordpress-setup-guide/) — Community consensus suggests prioritizing security, clear site messaging, and performance optimization from the very first installation.
 - [How to Setup All-in-One SEO in WordPress](https://wordpress-faq.com/howto/all-in-one-seo-wordpress-setup/) — The community recommends following the official setup wizard and verifying plugin compatibility to ensure optimal SEO performance for your site.
+- [How to Setup and Troubleshoot Contact Form 7 in WordPress](https://wordpress-faq.com/howto/contact-form-7-setup/) — Contact Form 7 is a powerful, free plugin, but users often require external SMTP plugins to ensure reliable email delivery and spam protection.
 - [How to Setup Astra Theme in WordPress](https://wordpress-faq.com/howto/astra-wordpress-setup/) — Astra is widely considered a lightweight and highly customizable theme suitable for most WordPress projects.
 - [How to Setup Avada Theme in WordPress](https://wordpress-faq.com/howto/avada-wordpress-setup/) — Avada is a powerful theme, but it should be used as the primary builder to avoid layout conflicts with other page builder plugins.
 - [How to Setup Beaver Builder in WordPress](https://wordpress-faq.com/howto/beaver-builder-setup/) — Beaver Builder is a reliable page builder that integrates well with most themes for creating custom layouts without requiring advanced coding knowledge.

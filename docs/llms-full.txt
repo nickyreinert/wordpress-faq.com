@@ -5680,6 +5680,34 @@ Reddit Sources WooCommerce Quick Set-Up | 46+ Essential Checklist (Own Workflow)
 ---
 
 ---
+title: How to Setup and Troubleshoot Contact Form 7 in WordPress
+url: https://wordpress-faq.com/howto/contact-form-7-setup/
+date: 2026-06-04
+lastmod: 2026-06-04
+verdict: Contact Form 7 is a powerful, free plugin, but users often require external SMTP plugins to ensure reliable email delivery and spam protection.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: forms, email, conflict, shortcodes
+faq:
+  - q: How do I fix Contact Form 7 not sending emails?
+    a: Install an SMTP plugin like WP Mail SMTP to ensure emails are sent correctly, and check the 'Additional Settings' tab for any skip_mail functions.
+  - q: Does Contact Form 7 have a built-in reCAPTCHA endpoint?
+    a: No, it uses the Google reCAPTCHA API directly. You must configure your API keys in the plugin settings under the Integration menu.
+  - q: Can I use Contact Form 7 on a local development site?
+    a: Yes, but be aware that CF7 may automatically enable a skip_mail function in local environments; you may need to remove this in Additional Settings.
+Contact Form 7 is a powerful, free plugin, but users often require external SMTP plugins to ensure reliable email delivery and spam protection. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Email delivery failures Local environment mail skipping reCAPTCHA integration complexity Community Q&amp;A How do I fix Contact Form 7 not sending emails?
+Install an SMTP plugin like WP Mail SMTP to ensure emails are sent correctly, and check the &lsquo;Additional Settings&rsquo; tab for any skip_mail functions.
+Does Contact Form 7 have a built-in reCAPTCHA endpoint?
+No, it uses the Google reCAPTCHA API directly. You must configure your API keys in the plugin settings under the Integration menu.
+Can I use Contact Form 7 on a local development site?
+Yes, but be aware that CF7 may automatically enable a skip_mail function in local environments; you may need to remove this in Additional Settings.
+Reddit Sources Did I waste a year of my life developing a WordPress theme? (r/Wordpress) Looking for Help Refreshing My WordPress Site (Genesis + Infinity Pro) (r/Wordpress) Contact Form 7 Plugin Endpoint For ReCaptcha? (r/Wordpress) Plugins I wish I&rsquo;d discovered earlier – all solid (from plugins for beginners to pros) (r/Wordpress) Need help finding a free WordPress solution for a decorated cookie order + booking system (custom order form with date blocking, conditional logic, and image uploads) (r/Wordpress) Need help finding a free WordPress solution for a decorated cookie order + booking system (custom order form with date blocking, conditional logic, and image uploads) (r/Wordpress) Contact Form 7 not sending emails to MailHog on local Lando environment, but WP Mail SMTP test works (r/Wordpress) Uploading Images, HTTP Error. Has it been figured out? (r/Wordpress) The “boring” WordPress ops stack that stops 90% of downtime, hacks, and surprise bills (a practical playbook) (r/Wordpress)
+---
+
+---
 title: How to Setup Astra Theme in WordPress
 url: https://wordpress-faq.com/howto/astra-wordpress-setup/
 date: 2026-06-03
