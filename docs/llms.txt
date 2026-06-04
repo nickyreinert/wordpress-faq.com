@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 145 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 146 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -220,6 +220,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize Elementor for WordPress Performance](https://wordpress-faq.com/howto/elementor-performance-optimization/) — Community consensus suggests that Elementor performance is best improved by minimizing bloat, using efficient hosting, and avoiding excessive plugins.
 - [How to Optimize LiteSpeed Cache for WordPress](https://wordpress-faq.com/howto/litespeed-cache-optimization/) — Community consensus indicates that LiteSpeed Cache requires specific server-side configuration and image optimization settings to achieve peak performance.
 - [How to Optimize Rank Math for WordPress SEO](https://wordpress-faq.com/howto/rankmath-seo-optimization/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that simplifies schema markup and indexing for WordPress users.
+- [How to Optimize W3 Total Cache for WordPress Performance](https://wordpress-faq.com/howto/w3-total-cache-optimization/) — W3 Total Cache is highly effective for performance when configured correctly, though it requires careful setup to avoid potential site conflicts.
 - [How to Optimize WooCommerce Performance for WordPress](https://wordpress-faq.com/howto/ecommerce-performance-woocommerce/) — Community consensus suggests prioritizing high single-core CPU performance and server-side tuning over simply installing multiple caching plugins.
 - [How to Optimize WordPress Images for SEO and Performance](https://wordpress-faq.com/howto/optimize-wordpress-images-seo/) — Optimizing images through compression and descriptive naming is essential for improving both page load speeds and search engine rankings.
 - [How to Optimize WP Rocket for WordPress Performance](https://wordpress-faq.com/howto/wp-rocket-optimization/) — Community consensus suggests that WP Rocket performance is best improved by auditing database queries and PHP bottlenecks rather than just frontend settings.
