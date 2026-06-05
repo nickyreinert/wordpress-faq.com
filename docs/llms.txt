@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 165 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 166 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -262,6 +262,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup GeneratePress in WordPress](https://wordpress-faq.com/howto/generatepress-setup-guide/) — GeneratePress is a highly recommended, lightweight theme that integrates seamlessly with Gutenberg and various page builder plugins for performance.
 - [How to Setup Gravity Forms in WordPress](https://wordpress-faq.com/howto/gravityforms-wordpress-setup/) — Gravity Forms is a robust, reliable plugin that integrates seamlessly with WordPress via standard settings or the REST API for advanced users.
 - [How to Setup Hello Elementor in WordPress](https://wordpress-faq.com/howto/hello-elementor-setup/) — Hello Elementor is a lightweight, minimalist theme that serves as an ideal foundation for Elementor-based sites when paired with caching plugins.
+- [How to Setup iThemes Security in WordPress](https://wordpress-faq.com/howto/ithemes-security-setup/) — iThemes Security is a highly effective tool for mitigating brute force attacks and securing WordPress login pages against automated bot discovery.
 - [How to Setup Jetpack in WordPress](https://wordpress-faq.com/howto/jetpack-wordpress-setup/) — Jetpack is a powerful suite of tools, but users should only enable the specific modules they need to avoid unnecessary site bloat and performance issues.
 - [How to Setup Kadence Theme in WordPress](https://wordpress-faq.com/howto/kadence-wordpress-setup/) — Kadence is widely considered a high-performance, user-friendly theme that integrates seamlessly with the WordPress block editor for modern web design.
 - [How to Setup LiteSpeed Cache in WordPress](https://wordpress-faq.com/howto/litespeed-cache-wordpress-setup/) — LiteSpeed Cache is highly effective for performance but requires careful configuration to avoid conflicts with other plugins or database settings.

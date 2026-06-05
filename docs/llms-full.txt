@@ -6424,6 +6424,30 @@ Reddit Sources Looking for a real solution to remove render-blocking CSS/jQuery 
 ---
 
 ---
+title: How to Setup iThemes Security in WordPress
+url: https://wordpress-faq.com/howto/ithemes-security-setup/
+date: 2026-06-05
+lastmod: 2026-06-05
+verdict: iThemes Security is a highly effective tool for mitigating brute force attacks and securing WordPress login pages against automated bot discovery.
+confidence: low
+sources: 3
+schema_type: HowTo
+tags: security, login, permissions
+faq:
+  - q: How do I stop brute force attacks with iThemes Security?
+    a: Enable the Local Brute Force Protection module to automatically block IP addresses after a specified number of failed login attempts.
+  - q: Can iThemes Security prevent username discovery?
+    a: Yes, enable the 'Disable Author Scanning' feature to prevent attackers from using the ?author=N query string to find your administrator username.
+iThemes Security is a highly effective tool for mitigating brute force attacks and securing WordPress login pages against automated bot discovery. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Potential conflicts with other security plugins Over-aggressive blocking of legitimate users Community Q&amp;A How do I stop brute force attacks with iThemes Security?
+Enable the Local Brute Force Protection module to automatically block IP addresses after a specified number of failed login attempts.
+Can iThemes Security prevent username discovery?
+Yes, enable the &lsquo;Disable Author Scanning&rsquo; feature to prevent attackers from using the ?author=N query string to find your administrator username.
+Reddit Sources Tons of Brute Force Login Attempts (r/Wordpress) Can’t stop brute force attack (r/Wordpress) Brute force attacks against a renamed administrator account, how would the account name have been found? (r/Wordpress)
+---
+
+---
 title: How to Setup Jetpack in WordPress
 url: https://wordpress-faq.com/howto/jetpack-wordpress-setup/
 date: 2026-06-05
