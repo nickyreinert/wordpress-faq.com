@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 177 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 178 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -229,6 +229,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize UpdraftPlus for WordPress Performance](https://wordpress-faq.com/howto/updraftplus-optimization/) — Schedule backups during low-traffic periods to minimize server resource impact and maintain optimal website performance.
 - [How to Optimize W3 Total Cache for WordPress Performance](https://wordpress-faq.com/howto/w3-total-cache-optimization/) — W3 Total Cache is highly effective for performance when configured correctly, though it requires careful setup to avoid potential site conflicts.
 - [How to Optimize WooCommerce Performance for WordPress](https://wordpress-faq.com/howto/ecommerce-performance-woocommerce/) — Community consensus suggests prioritizing high single-core CPU performance and server-side tuning over simply installing multiple caching plugins.
+- [How to Optimize WooCommerce Subscriptions for Performance](https://wordpress-faq.com/howto/woocommerce-subscriptions-optimization/) — Optimizing WooCommerce Subscriptions requires regular database maintenance and careful management of scheduled actions to ensure site performance.
 - [How to Optimize WordPress Images for SEO and Performance](https://wordpress-faq.com/howto/optimize-wordpress-images-seo/) — Optimizing images through compression and descriptive naming is essential for improving both page load speeds and search engine rankings.
 - [How to Optimize WP Rocket for WordPress Performance](https://wordpress-faq.com/howto/wp-rocket-optimization/) — Community consensus suggests that WP Rocket performance is best improved by auditing database queries and PHP bottlenecks rather than just frontend settings.
 - [How to Optimize WP Super Cache for WordPress Performance](https://wordpress-faq.com/howto/wp-super-cache-optimization/) — Community consensus suggests enabling basic caching while carefully testing advanced features like preloading to avoid site-breaking conflicts.
