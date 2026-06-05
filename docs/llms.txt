@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 167 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 168 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -231,6 +231,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize WP Rocket for WordPress Performance](https://wordpress-faq.com/howto/wp-rocket-optimization/) — Community consensus suggests that WP Rocket performance is best improved by auditing database queries and PHP bottlenecks rather than just frontend settings.
 - [How to Optimize WP Super Cache for WordPress Performance](https://wordpress-faq.com/howto/wp-super-cache-optimization/) — Community consensus suggests enabling basic caching while carefully testing advanced features like preloading to avoid site-breaking conflicts.
 - [How to Optimize WPForms for WordPress Performance](https://wordpress-faq.com/howto/optimize-wpforms-wordpress/) — Community consensus suggests keeping form plugins lightweight by disabling unnecessary assets and using conditional logic to reduce page bloat.
+- [How to Optimize WPML for WordPress Performance](https://wordpress-faq.com/howto/wpml-optimization-guide/) — WPML performance issues are often mitigated by implementing strict Cloudflare WAF rules and optimizing database queries for multilingual content.
 - [How to Optimize Yoast SEO for WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-optimization/) — Yoast SEO remains a highly popular and reliable choice for WordPress users, though competitors like Rank Math offer more features for advanced users.
 - [How to Prevent Spam Comments in WordPress](https://wordpress-faq.com/howto/prevent-wordpress-spam-comments/) — The community consensus is to use a combination of native WordPress discussion settings and a dedicated anti-spam plugin like Akismet or Antispam Bee.
 - [How to Price WordPress Development Services](https://wordpress-faq.com/howto/wordpress-development-pricing/) — Community consensus suggests calculating pricing based on defined project scope and your desired monthly salary rather than arbitrary flat fees.
