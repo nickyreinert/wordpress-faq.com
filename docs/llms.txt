@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 173 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 174 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -220,6 +220,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize Divi for WordPress Performance](https://wordpress-faq.com/howto/divi-optimization-guide/) — Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times.
 - [How to Optimize Duplicator for WordPress Performance](https://wordpress-faq.com/howto/duplicator-optimization/) — Optimizing Duplicator involves adjusting package compression settings and excluding unnecessary files to reduce server load during site migrations.
 - [How to Optimize Elementor for WordPress Performance](https://wordpress-faq.com/howto/elementor-performance-optimization/) — Community consensus suggests that Elementor performance is best improved by minimizing bloat, using efficient hosting, and avoiding excessive plugins.
+- [How to Optimize Elementor Pro for WordPress Performance](https://wordpress-faq.com/howto/elementor-pro-optimization/) — Community consensus suggests prioritizing caching and script management while avoiding premature optimization until traffic volume justifies it.
 - [How to Optimize Jetpack for WordPress Performance](https://wordpress-faq.com/howto/jetpack-optimization/) — Community consensus suggests disabling Jetpack's automated CSS and JS optimization features to prevent site conflicts and performance degradation.
 - [How to Optimize LiteSpeed Cache for WordPress](https://wordpress-faq.com/howto/litespeed-cache-optimization/) — Community consensus indicates that LiteSpeed Cache requires specific server-side configuration and image optimization settings to achieve peak performance.
 - [How to Optimize Perfmatters for WordPress Performance](https://wordpress-faq.com/howto/perfmatters-optimization-guide/) — Community consensus suggests that database auditing and selective plugin management provide the most significant performance improvements for WordPress.
