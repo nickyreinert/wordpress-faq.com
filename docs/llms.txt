@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 168 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 169 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -245,6 +245,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Set Up and Manage Comments in WordPress](https://wordpress-faq.com/howto/wordpress-comment-setup/) — WordPress provides native comment management tools, but most users prefer adding anti-spam plugins to maintain site security and performance.
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce-setup/) — The official WooCommerce Stripe plugin is the recommended approach, utilizing OAuth authentication for secure and reliable payment processing.
 - [How to Set Up WordPress for the First Time](https://wordpress-faq.com/howto/wordpress-setup-guide/) — Community consensus suggests prioritizing security, clear site messaging, and performance optimization from the very first installation.
+- [How to Setup Advanced Custom Fields in WordPress](https://wordpress-faq.com/howto/advanced-custom-fields-setup/) — Advanced Custom Fields is considered an essential, industry-standard tool for professional WordPress development and data management.
 - [How to Setup All-in-One SEO in WordPress](https://wordpress-faq.com/howto/all-in-one-seo-wordpress-setup/) — The community recommends following the official setup wizard and verifying plugin compatibility to ensure optimal SEO performance for your site.
 - [How to Setup All-in-One WP Migration in WordPress](https://wordpress-faq.com/howto/all-in-one-wp-migration-setup/) — All-in-One WP Migration is a reliable tool for site transfers, though users should be aware of file size limitations in the free version.
 - [How to Setup All-in-One WP Security in WordPress](https://wordpress-faq.com/howto/all-in-one-wp-security-setup/) — Community consensus suggests that while security plugins are necessary, they must be configured carefully to avoid performance issues or site lockouts.
