@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 169 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 170 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -296,6 +296,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Kinsta vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/kinsta-siteground/) — Kinsta is preferred for high-traffic enterprise sites, while SiteGround is the superior choice for small businesses and budget-conscious users.
 - [Managing WooCommerce Product Variations and Imports](https://wordpress-faq.com/howto/woocommerce-product-variations/) — Efficient management of large WooCommerce catalogs requires CSV-based bulk importing and object caching to maintain site performance.
 - [Managing WordPress Version Updates and Theme Compatibility](https://wordpress-faq.com/version/wordpress-version-update/) — Always backup your site before performing any WordPress core, theme, or plugin updates to prevent potential data loss or site conflicts.
+- [Optimizing Advanced Custom Fields for WordPress Performance](https://wordpress-faq.com/howto/advanced-custom-fields-optimization/) — Community consensus suggests offloading complex queries to Elasticsearch and minimizing field bloat to maintain high site performance.
 - [Optimizing All in One SEO for WordPress Performance](https://wordpress-faq.com/howto/all-in-one-seo-optimization/) — Proper configuration and avoiding plugin bloat are essential for maintaining site performance while using All in One SEO.
 - [Optimizing All In One WP Security for WordPress Performance](https://wordpress-faq.com/howto/all-in-one-wp-security-optimization/) — Users recommend balancing security features with performance by avoiding redundant plugins and manually configuring essential hardening settings.
 - [Optimizing Contact Form 7 for WordPress Performance](https://wordpress-faq.com/howto/contact-form-7-optimization/) — Community consensus suggests limiting script loading to specific pages and using Akismet to reduce spam overhead for better site performance.
