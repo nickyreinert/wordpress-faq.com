@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 176 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 177 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -264,6 +264,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Duplicator for WordPress Migration](https://wordpress-faq.com/howto/duplicator-migration/) — Duplicator is widely considered the industry standard for reliable WordPress site migrations and backups.
 - [How to Setup Elementor Pro in WordPress](https://wordpress-faq.com/howto/elementor-pro-setup/) — Elementor Pro is best installed by ensuring no conflicting page builders are active to prevent site-wide layout and functionality errors.
 - [How to Setup Elementor with WooCommerce](https://wordpress-faq.com/howto/elementor-woocommerce-setup/) — Elementor is a powerful tool for WooCommerce design, but users must monitor plugin conflicts and server-side session handling to ensure stability.
+- [How to Setup Flatsome Theme in WordPress](https://wordpress-faq.com/howto/flatsome-wordpress-setup/) — Flatsome is a highly customizable theme that requires careful configuration of the UX Builder and WooCommerce settings for optimal performance.
 - [How to Setup Fluent Forms in WordPress](https://wordpress-faq.com/howto/fluent-forms-setup/) — Fluent Forms is a highly versatile plugin that integrates easily with external services like Freshdesk and WooCommerce for efficient data handling.
 - [How to Setup GeneratePress in WordPress](https://wordpress-faq.com/howto/generatepress-setup-guide/) — GeneratePress is a highly recommended, lightweight theme that integrates seamlessly with Gutenberg and various page builder plugins for performance.
 - [How to Setup Gravity Forms in WordPress](https://wordpress-faq.com/howto/gravityforms-wordpress-setup/) — Gravity Forms is a robust, reliable plugin that integrates seamlessly with WordPress via standard settings or the REST API for advanced users.

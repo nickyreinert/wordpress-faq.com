@@ -6484,6 +6484,30 @@ Reddit Sources How do i make modern Woocommerce stores? (r/woocommerce) WooComme
 ---
 
 ---
+title: How to Setup Flatsome Theme in WordPress
+url: https://wordpress-faq.com/howto/flatsome-wordpress-setup/
+date: 2026-06-05
+lastmod: 2026-06-05
+verdict: Flatsome is a highly customizable theme that requires careful configuration of the UX Builder and WooCommerce settings for optimal performance.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: ecommerce, page-builder, theme
+faq:
+  - q: How do I install the Flatsome theme?
+    a: Upload the theme zip file via Appearance > Themes > Add New in your WordPress dashboard.
+  - q: Does Flatsome require WooCommerce?
+    a: While Flatsome is optimized for WooCommerce, it can function as a standalone site builder without it.
+Flatsome is a highly customizable theme that requires careful configuration of the UX Builder and WooCommerce settings for optimal performance. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Dynamic variation image display conflicts Complex WooCommerce import requirements Community Q&amp;A How do I install the Flatsome theme?
+Upload the theme zip file via Appearance &gt; Themes &gt; Add New in your WordPress dashboard.
+Does Flatsome require WooCommerce?
+While Flatsome is optimized for WooCommerce, it can function as a standalone site builder without it.
+Reddit Sources Dynamic Variation Image Display Issue in WooCommerce (WordPress + Flatsome) (r/Wordpress)
+---
+
+---
 title: How to Setup Fluent Forms in WordPress
 url: https://wordpress-faq.com/howto/fluent-forms-setup/
 date: 2026-06-04
