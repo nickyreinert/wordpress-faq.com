@@ -7304,6 +7304,30 @@ Reddit Sources How can I optimize my WP Page to be under 6 sec loading time&hell
 ---
 
 ---
+title: Optimizing LearnDash Performance for WordPress
+url: https://wordpress-faq.com/howto/learndash-performance-optimization/
+date: 2026-06-05
+lastmod: 2026-06-05
+verdict: Performance optimization for LearnDash requires auditing database queries and PHP functions rather than just focusing on frontend assets.
+confidence: low
+sources: 3
+schema_type: HowTo
+tags: performance, database, speed, conflict
+faq:
+  - q: How can I improve LearnDash site speed?
+    a: Focus on database optimization, audit slow queries with Query Monitor, and ensure your hosting environment is configured for high PHP performance.
+  - q: Does LearnDash slow down WordPress?
+    a: LearnDash can be resource-intensive; however, performance issues are usually caused by unoptimized database queries or conflicts with heavy page builders.
+Performance optimization for LearnDash requires auditing database queries and PHP functions rather than just focusing on frontend assets. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Database bloat from course data Slow PHP execution during quiz processing Plugin conflicts with page builders Community Q&amp;A How can I improve LearnDash site speed?
+Focus on database optimization, audit slow queries with Query Monitor, and ensure your hosting environment is configured for high PHP performance.
+Does LearnDash slow down WordPress?
+LearnDash can be resource-intensive; however, performance issues are usually caused by unoptimized database queries or conflicts with heavy page builders.
+Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce) How to move away from page builders (like Divi)? And why? (r/Wordpress) The Ultimate Guide to Building Your Own eLearning Platform (r/Wordpress)
+---
+
+---
 title: Optimizing Oxygen Builder for WordPress Performance
 url: https://wordpress-faq.com/howto/oxygen-builder-performance/
 date: 2026-06-03
