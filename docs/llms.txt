@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 161 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 162 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -263,6 +263,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Hello Elementor in WordPress](https://wordpress-faq.com/howto/hello-elementor-setup/) — Hello Elementor is a lightweight, minimalist theme that serves as an ideal foundation for Elementor-based sites when paired with caching plugins.
 - [How to Setup Kadence Theme in WordPress](https://wordpress-faq.com/howto/kadence-wordpress-setup/) — Kadence is widely considered a high-performance, user-friendly theme that integrates seamlessly with the WordPress block editor for modern web design.
 - [How to Setup LiteSpeed Cache in WordPress](https://wordpress-faq.com/howto/litespeed-cache-wordpress-setup/) — LiteSpeed Cache is highly effective for performance but requires careful configuration to avoid conflicts with other plugins or database settings.
+- [How to Setup MemberPress in WordPress](https://wordpress-faq.com/howto/memberpress-setup-guide/) — MemberPress is a powerful membership plugin, though users should note it lacks native directory features and requires careful email configuration.
 - [How to Setup Ninja Forms in WordPress](https://wordpress-faq.com/howto/ninja-forms-wordpress-setup/) — Ninja Forms is a highly flexible drag-and-drop form builder that is easy to install via the WordPress plugin repository.
 - [How to Setup Oxygen Builder in WordPress](https://wordpress-faq.com/howto/oxygen-builder-wordpress-setup/) — Oxygen Builder is a powerful, developer-friendly tool that requires a learning curve but offers high flexibility for custom WordPress site design.
 - [How to Setup Rank Math SEO in WordPress](https://wordpress-faq.com/howto/rankmath-wordpress-setup/) — Rank Math is widely considered a user-friendly and powerful SEO plugin that simplifies complex technical configurations for WordPress site owners.
