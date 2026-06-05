@@ -5252,6 +5252,30 @@ Reddit Sources I just built my website with little coding experience (r/webdev)
 ---
 
 ---
+title: How to Optimize Duplicator for WordPress Performance
+url: https://wordpress-faq.com/howto/duplicator-optimization/
+date: 2026-06-05
+lastmod: 2026-06-05
+verdict: Optimizing Duplicator involves adjusting package compression settings and excluding unnecessary files to reduce server load during site migrations.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: performance, backup, migration, speed
+faq:
+  - q: How can I speed up Duplicator package creation?
+    a: You can speed up the process by excluding large media folders or cache directories from the package settings.
+  - q: Why does Duplicator time out on large sites?
+    a: Timeouts usually occur due to server execution limits; try increasing your PHP max_execution_time or using the manual archive extraction method.
+Optimizing Duplicator involves adjusting package compression settings and excluding unnecessary files to reduce server load during site migrations. Based on 1 community reports.
+Linked sources: 1.
+Known Issues High server resource usage during package creation Timeout errors on large site migrations Community Q&amp;A How can I speed up Duplicator package creation?
+You can speed up the process by excluding large media folders or cache directories from the package settings.
+Why does Duplicator time out on large sites?
+Timeouts usually occur due to server execution limits; try increasing your PHP max_execution_time or using the manual archive extraction method.
+Reddit Sources My current Wordpress Security and Speed To-Do List, what do you think? (r/webdev)
+---
+
+---
 title: How to Optimize Elementor for WordPress Performance
 url: https://wordpress-faq.com/howto/elementor-performance-optimization/
 date: 2026-06-03
