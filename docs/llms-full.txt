@@ -119,6 +119,30 @@ Reddit Sources Elementor vs. Theme? Is it necessary to have both? (r/Wordpress) 
 ---
 
 ---
+title: Astra Theme Review: Performance and Compatibility
+url: https://wordpress-faq.com/review/astra-theme-review/
+date: 2026-06-06
+lastmod: 2026-06-06
+verdict: Astra is widely considered a high-performance, reliable theme, though users may occasionally encounter minor compatibility conflicts with third-party plugins.
+confidence: low
+sources: 3
+schema_type: AggregateRating
+tags: ecommerce, performance, conflict, widgets
+faq:
+  - q: Is Astra theme good for WooCommerce?
+    a: Yes, Astra is highly compatible with WooCommerce, though users should ensure both the theme and plugins are updated to avoid compatibility errors.
+  - q: Why do my Astra product stars show 1 star when there are no reviews?
+    a: This is often a configuration or caching issue; a fresh install of Astra typically displays zero stars for products without reviews.
+Astra is widely considered a high-performance, reliable theme, though users may occasionally encounter minor compatibility conflicts with third-party plugins. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Compatibility errors with CusRev plugin Display issues with review star ratings on empty products Community Q&amp;A Is Astra theme good for WooCommerce?
+Yes, Astra is highly compatible with WooCommerce, though users should ensure both the theme and plugins are updated to avoid compatibility errors.
+Why do my Astra product stars show 1 star when there are no reviews?
+This is often a configuration or caching issue; a fresh install of Astra typically displays zero stars for products without reviews.
+Reddit Sources Astra Pro Theme Woo Customisation (r/woocommerce) CusRev App Breaking Astra Pro Wesbites! (r/woocommerce) Can anyone familiar with the Astra theme help me with the review star ratings that appear beneath the products? They show 1 star if there&rsquo;s no reviews. (r/woocommerce)
+---
+
+---
 title: Avada and Beaver Builder Compatibility Overview
 url: https://wordpress-faq.com/compatibility/avada-beaver-builder/
 date: 2026-06-01
