@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Comparisons](https://wordpress-faq.com/comparison/) — 33 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 183 articles
 - [Reviews](https://wordpress-faq.com/review/) — 14 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
-- [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
@@ -23,6 +23,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [About WordPress FAQ](https://wordpress-faq.com/about/)
 - [Advanced Custom Fields and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/advanced-custom-fields-elementor/) — Advanced Custom Fields and Elementor are fully compatible and work together seamlessly to create dynamic, data-driven WordPress websites.
+- [All in One SEO vs Yoast SEO Comparison](https://wordpress-faq.com/comparison/all-in-one-seo-yoast-seo/) — Both plugins provide comparable core functionality, though Yoast SEO is often noted for having a more intrusive upsell strategy for premium features.
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
 - [Astra and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/astra-elementor/) — Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
