@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Comparisons](https://wordpress-faq.com/comparison/) — 33 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 183 articles
-- [Reviews](https://wordpress-faq.com/review/) — 16 articles
+- [Reviews](https://wordpress-faq.com/review/) — 17 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -137,6 +137,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor and UpdraftPlus Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-updraftplus/) — Elementor and UpdraftPlus are highly compatible, with no known direct conflicts, making UpdraftPlus an excellent choice for backing up Elementor sites.
 - [Elementor and W3 Total Cache Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-w3-total-cache/) — Elementor and W3 Total Cache are fully compatible, but require careful configuration of minification and page caching to avoid breaking the page builder interface.
 - [Elementor and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-woocommerce/) — Elementor and WooCommerce are highly compatible, but users often face performance bloat that requires optimization plugins, VPS hosting, or lightweight translation alternatives.
+- [Elementor and WooCommerce Integration Review](https://wordpress-faq.com/review/elementor-woocommerce/) — Elementor provides extensive design flexibility for WooCommerce stores, though advanced product page customization typically requires the Pro version.
 - [Elementor and WooCommerce Subscriptions Compatibility](https://wordpress-faq.com/compatibility/elementor-woocommerce-subscriptions/) — Elementor and WooCommerce Subscriptions are fully compatible when using standard WooCommerce-ready themes and proper plugin configurations.
 - [Elementor and Wordfence Compatibility Guide](https://wordpress-faq.com/compatibility/elementor-wordfence/) — Elementor and Wordfence are highly compatible, though users may need to temporarily enable Wordfence's Learning Mode to prevent firewall false positives during page editing.
 - [Elementor and WP Mail SMTP Compatibility](https://wordpress-faq.com/compatibility/elementor-wp-mail-smtp/) — Elementor and WP Mail SMTP are fully compatible and function together without any reported technical conflicts in standard WordPress environments.
