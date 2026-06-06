@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Howtos](https://wordpress-faq.com/howto/) — 180 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 179 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -224,6 +224,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize Elementor Pro for WordPress Performance](https://wordpress-faq.com/howto/elementor-pro-optimization/) — Community consensus suggests prioritizing caching and script management while avoiding premature optimization until traffic volume justifies it.
 - [How to Optimize Jetpack for WordPress Performance](https://wordpress-faq.com/howto/jetpack-optimization/) — Community consensus suggests disabling Jetpack's automated CSS and JS optimization features to prevent site conflicts and performance degradation.
 - [How to Optimize LiteSpeed Cache for WordPress](https://wordpress-faq.com/howto/litespeed-cache-optimization/) — Community consensus indicates that LiteSpeed Cache requires specific server-side configuration and image optimization settings to achieve peak performance.
+- [How to Optimize Mailchimp for WordPress](https://wordpress-faq.com/howto/mailchimp-for-wordpress-optimization/) — Optimizing Mailchimp for WordPress requires proper API key management and ensuring form scripts do not conflict with your site's caching plugins.
 - [How to Optimize Perfmatters for WordPress Performance](https://wordpress-faq.com/howto/perfmatters-optimization-guide/) — Community consensus suggests that database auditing and selective plugin management provide the most significant performance improvements for WordPress.
 - [How to Optimize Rank Math for WordPress SEO](https://wordpress-faq.com/howto/rankmath-seo-optimization/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that simplifies schema markup and indexing for WordPress users.
 - [How to Optimize UpdraftPlus for WordPress Performance](https://wordpress-faq.com/howto/updraftplus-optimization/) — Schedule backups during low-traffic periods to minimize server resource impact and maintain optimal website performance.
