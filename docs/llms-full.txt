@@ -936,6 +936,34 @@ Reddit Sources How much should I charge for this job? (r/woocommerce) Any one us
 ---
 
 ---
+title: Divi 5 Alpha Review and Performance Analysis
+url: https://wordpress-faq.com/review/divi-review/
+date: 2026-06-06
+lastmod: 2026-06-06
+verdict: The community consensus is that Divi 5 shows significant performance gains and a modern architecture that competes well with other page builders.
+confidence: medium
+sources: 8
+schema_type: AggregateRating
+tags: page-builder, performance, ecommerce, speed
+faq:
+  - q: Is Divi 5 faster than previous versions?
+    a: Early alpha testing suggests improved PageSpeed Index scores compared to older versions of the Divi builder.
+  - q: Does Divi 5 include WooCommerce support?
+    a: Yes, the alpha release has introduced dedicated WooCommerce modules to the builder interface.
+  - q: Is the Divi 5 alpha stable for production sites?
+    a: No, it is currently in alpha testing and should only be used for experimental purposes, not on live client websites.
+The community consensus is that Divi 5 shows significant performance gains and a modern architecture that competes well with other page builders. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Accessibility features still in development WooCommerce module stability in alpha Potential migration complexities Community Q&amp;A Is Divi 5 faster than previous versions?
+Early alpha testing suggests improved PageSpeed Index scores compared to older versions of the Divi builder.
+Does Divi 5 include WooCommerce support?
+Yes, the alpha release has introduced dedicated WooCommerce modules to the builder interface.
+Is the Divi 5 alpha stable for production sites?
+No, it is currently in alpha testing and should only be used for experimental purposes, not on live client websites.
+Reddit Sources WordPress 7.0 ships Thursday with native AI write capabilities. We should probably talk about the safety side of this. (r/Wordpress) I posted my free WordPress theme here yesterday. You roasted it. Here&rsquo;s what I changed and why I&rsquo;m sticking with the rest. (r/Wordpress) Looking for someone who can help us develop a custom plugin (r/Wordpress) Failed opening required (r/Wordpress) Google reviews on website with photos? (r/Wordpress) WPMerge.io Feedback (r/Wordpress) [SQL Issue with Taxonomy] If searched for two Categories cat1+cat2 only one Category is included (r/Wordpress) I replaced Gravity Forms on my client sites with a decoupled intake builder — here&rsquo;s the architecture and why (r/Wordpress) Divi 5 alpha feels feature-complete (Woo modules added). Has your opinion changed? (r/Wordpress)
+---
+
+---
 title: Divi and All in One SEO Compatibility Guide
 url: https://wordpress-faq.com/compatibility/all-in-one-seo-divi/
 date: 2026-05-28
