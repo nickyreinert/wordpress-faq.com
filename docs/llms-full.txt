@@ -834,6 +834,34 @@ Reddit Sources WordPress devs — what theme are you using for audit / accountin
 ---
 
 ---
+title: Blocksy Theme Review: Performance and Customization
+url: https://wordpress-faq.com/review/blocksy-review/
+date: 2026-06-06
+lastmod: 2026-06-06
+verdict: Blocksy is widely considered a top-tier, lightweight, and highly customizable block-based theme for modern WordPress websites.
+confidence: medium
+sources: 5
+schema_type: AggregateRating
+tags: performance, gutenberg, speed, widgets
+faq:
+  - q: Is Blocksy a good theme for WordPress?
+    a: Yes, Blocksy is highly regarded for being lightweight, fast, and fully compatible with the WordPress block editor.
+  - q: Does Blocksy support forum functionality?
+    a: Blocksy does not include built-in forum features, but it is compatible with third-party forum plugins.
+  - q: Is Blocksy better than heavy page builders?
+    a: Many users prefer Blocksy over heavy page builders because it offers better performance and a cleaner codebase for site design.
+Blocksy is widely considered a top-tier, lightweight, and highly customizable block-based theme for modern WordPress websites. Based on 5 community reports.
+Linked sources: 5.
+Known Issues Potential conflicts with specific touch device click events Requires external plugins for advanced forum functionality Community Q&amp;A Is Blocksy a good theme for WordPress?
+Yes, Blocksy is highly regarded for being lightweight, fast, and fully compatible with the WordPress block editor.
+Does Blocksy support forum functionality?
+Blocksy does not include built-in forum features, but it is compatible with third-party forum plugins.
+Is Blocksy better than heavy page builders?
+Many users prefer Blocksy over heavy page builders because it offers better performance and a cleaner codebase for site design.
+Reddit Sources Bricks (r/Wordpress) Discussion about the Blocksy Theme &hellip;.. (r/Wordpress) Upgrading Existing Site - Page Builders / Themes (r/Wordpress) Hey Team, how can I remove &ldquo;submit review&rdquo; button on the upper right of my page? (r/Wordpress) Plugin to display custom field on front end. (r/Wordpress)
+---
+
+---
 title: Bluehost vs SiteGround WordPress Hosting Comparison
 url: https://wordpress-faq.com/comparison/bluehost-siteground/
 date: 2026-06-01
