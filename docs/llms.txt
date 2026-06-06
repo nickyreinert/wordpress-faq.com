@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 178 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 179 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -275,6 +275,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Kadence Theme in WordPress](https://wordpress-faq.com/howto/kadence-wordpress-setup/) — Kadence is widely considered a high-performance, user-friendly theme that integrates seamlessly with the WordPress block editor for modern web design.
 - [How to Setup LearnDash in WordPress](https://wordpress-faq.com/howto/learndash-wordpress-setup/) — LearnDash is a robust LMS plugin that requires careful configuration of course structures and user access levels to function effectively.
 - [How to Setup LiteSpeed Cache in WordPress](https://wordpress-faq.com/howto/litespeed-cache-wordpress-setup/) — LiteSpeed Cache is highly effective for performance but requires careful configuration to avoid conflicts with other plugins or database settings.
+- [How to Setup Mailchimp for WordPress](https://wordpress-faq.com/howto/mailchimp-for-wordpress-setup/) — Connecting Mailchimp to WordPress requires an active API key and proper configuration within the plugin settings to ensure reliable data syncing.
 - [How to Setup MemberPress in WordPress](https://wordpress-faq.com/howto/memberpress-setup-guide/) — MemberPress is a powerful membership plugin, though users should note it lacks native directory features and requires careful email configuration.
 - [How to Setup Ninja Forms in WordPress](https://wordpress-faq.com/howto/ninja-forms-wordpress-setup/) — Ninja Forms is a highly flexible drag-and-drop form builder that is easy to install via the WordPress plugin repository.
 - [How to Setup Oxygen Builder in WordPress](https://wordpress-faq.com/howto/oxygen-builder-wordpress-setup/) — Oxygen Builder is a powerful, developer-friendly tool that requires a learning curve but offers high flexibility for custom WordPress site design.
