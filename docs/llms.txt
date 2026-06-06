@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Howtos](https://wordpress-faq.com/howto/) — 183 articles
-- [Reviews](https://wordpress-faq.com/review/) — 7 articles
+- [Reviews](https://wordpress-faq.com/review/) — 8 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 32 articles
 - [Errors](https://wordpress-faq.com/error/) — 13 articles
@@ -160,6 +160,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Gutenberg Block Editor: New Features and Updates Guide](https://wordpress-faq.com/version/gutenberg-editor-features/) — The Gutenberg block editor continues to evolve as the primary content creation tool for WordPress, offering improved flexibility and block-based design.
 - [Gutenberg vs Classic Editor: Comparison and User Sentiment](https://wordpress-faq.com/comparison/classic-editor-gutenberg/) — Community sentiment remains polarized, with many users preferring the Classic Editor for stability while others adapt to Gutenberg's block-based workflow.
 - [Gutenberg vs Page Builders: Performance and Workflow](https://wordpress-faq.com/comparison/gutenberg-page-builder/) — Community consensus favors Gutenberg with block libraries for performance, while page builders are recommended only for specific design requirements.
+- [Hello Elementor Theme Review](https://wordpress-faq.com/review/hello-elementor-review/) — Hello Elementor is a lightweight, minimalist starter theme that serves as an ideal foundation for users building sites with the Elementor page builder.
 - [How Many WordPress Plugins Are Too Many?](https://wordpress-faq.com/compatibility/wordpress-plugin-count-optimization/) — There is no fixed limit, as performance depends on plugin quality, code efficiency, and server resources rather than the raw count of installations.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [How to Add Ads to a WordPress Site](https://wordpress-faq.com/howto/add-ads-wordpress-site/) — The community recommends using reputable ad management plugins and maintaining strict security protocols to avoid malicious ad injections.
