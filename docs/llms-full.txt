@@ -9425,3 +9425,27 @@ You can install plugins and themes on any self-hosted WordPress.org site, wherea
 Reddit Sources Wordfence Instead of other firewalls (r/webdev)
 ---
 
+---
+title: Yoast SEO Plugin Review and Community Feedback
+url: https://wordpress-faq.com/review/yoast-seo-review/
+date: 2026-06-06
+lastmod: 2026-06-06
+verdict: While Yoast SEO remains a standard, many developers now prefer Rank Math for its modern features and lighter footprint.
+confidence: medium
+sources: 8
+schema_type: AggregateRating
+tags: seo, performance, ecommerce
+faq:
+  - q: Is Yoast SEO still the best plugin for WordPress?
+    a: While Yoast is a reliable industry standard, many users are switching to Rank Math for better performance and more features.
+  - q: Does Yoast SEO slow down my website?
+    a: Yoast can be resource-intensive on large sites, leading some developers to seek lightweight alternatives or custom schema solutions.
+While Yoast SEO remains a standard, many developers now prefer Rank Math for its modern features and lighter footprint. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Bloated plugin size Overly complex interface for simple tasks Performance impact on large sites Community Q&amp;A Is Yoast SEO still the best plugin for WordPress?
+While Yoast is a reliable industry standard, many users are switching to Rank Math for better performance and more features.
+Does Yoast SEO slow down my website?
+Yoast can be resource-intensive on large sites, leading some developers to seek lightweight alternatives or custom schema solutions.
+Reddit Sources Can I pay a WordPress developer to review my site and polish it? Is that a thing? (r/Wordpress) The hardest part of custom WordPress work is not building the feature, it’s maintaining it across many sites (r/Wordpress) I built a lightweight plugin to add custom JSON-LD schema in WordPress (without a full SEO suite) (r/Wordpress) I built a tool to fix my WooCommerce SEO nightmare (130 identical products). Looking for some dev/SEO feedback on the logic. (r/Wordpress) Looking for a young/early-career wp developer/assistant with good organization skills (r/Wordpress) Advice needed - proof of concept (r/Wordpress) How do you change the size of columns in the &ldquo;all posts&rdquo; menu? / post-title can&rsquo;t be displayed (r/Wordpress) I built SEOAutowrite Pro — an AI-powered WordPress plugin for fully automated SEO content (r/Wordpress) Paying for a Ecommerce redesign (r/Wordpress)
+---
+
