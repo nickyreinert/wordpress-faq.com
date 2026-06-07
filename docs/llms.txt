@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Reviews](https://wordpress-faq.com/review/) — 35 articles
+- [Reviews](https://wordpress-faq.com/review/) — 36 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 183 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
@@ -346,6 +346,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Optimizing Sucuri Security for WordPress](https://wordpress-faq.com/howto/sucuri-wordpress-optimization/) — Sucuri is highly effective for WordPress security when configured with proper firewall settings and caching rules to avoid performance bottlenecks.
 - [Optimizing Wordfence for WordPress Performance](https://wordpress-faq.com/howto/wordfence-optimization/) — Community consensus suggests keeping Wordfence settings minimal and scheduling scans during off-peak hours to prevent server resource exhaustion.
 - [Optimizing WP Mail SMTP for WordPress Performance](https://wordpress-faq.com/howto/wp-mail-smtp-optimization/) — Optimizing WP Mail SMTP involves using a dedicated API provider rather than standard PHP mail to improve deliverability and reduce server overhead.
+- [Polylang WordPress Plugin Review and Community Feedback](https://wordpress-faq.com/review/polylang-review/) — Polylang is widely considered a reliable and simple plugin for basic multilingual needs, though it lacks advanced features found in competitors.
 - [Rank Math SEO Plugin Review and Analysis](https://wordpress-faq.com/review/rankmath-seo/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that offers significant value, though some users find the interface overwhelming.
 - [Setting Up Continuous Deployment for WordPress](https://wordpress-faq.com/howto/wordpress-continuous-deployment-setup/) — Automating WordPress deployments via CI/CD pipelines significantly reduces human error and speeds up the release cycle for professional teams.
 - [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dedicated-shared-vps-hosting/) — Shared hosting is ideal for small sites, while VPS and dedicated servers offer the necessary resources and control for high-traffic professional websites.
