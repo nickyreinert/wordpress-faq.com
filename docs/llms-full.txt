@@ -3808,6 +3808,34 @@ Reddit Sources Confused Between Astra, Generatepress and OceanWP (r/Wordpress) W
 ---
 
 ---
+title: Gravity Forms Review: Features and Common Issues
+url: https://wordpress-faq.com/review/gravity-forms-review/
+date: 2026-06-07
+lastmod: 2026-06-07
+verdict: Gravity Forms is widely considered the industry standard for advanced WordPress forms despite its premium price point and occasional mobile conflicts.
+confidence: medium
+sources: 4
+schema_type: AggregateRating
+tags: forms, conflict, performance, database
+faq:
+  - q: Is Gravity Forms worth the cost?
+    a: Many developers consider it worth the price due to its advanced conditional logic, extensive hooks, and reliable form processing capabilities.
+  - q: Why is my Gravity Form not working on mobile?
+    a: This is often caused by a JavaScript conflict or an issue with AJAX submissions, sometimes triggered by security plugins like Wordfence.
+  - q: Can Gravity Forms create custom posts?
+    a: Yes, Gravity Forms can be configured to create custom post types from user submissions, often used for feedback portals or user-generated content.
+Gravity Forms is widely considered the industry standard for advanced WordPress forms despite its premium price point and occasional mobile conflicts. Based on 4 community reports.
+Linked sources: 4.
+Known Issues JavaScript conflicts on mobile devices AJAX submission errors Potential conflicts with security plugins like Wordfence Community Q&amp;A Is Gravity Forms worth the cost?
+Many developers consider it worth the price due to its advanced conditional logic, extensive hooks, and reliable form processing capabilities.
+Why is my Gravity Form not working on mobile?
+This is often caused by a JavaScript conflict or an issue with AJAX submissions, sometimes triggered by security plugins like Wordfence.
+Can Gravity Forms create custom posts?
+Yes, Gravity Forms can be configured to create custom post types from user submissions, often used for feedback portals or user-generated content.
+Reddit Sources This is a pretty nifty new form builder plugin (r/Wordpress) How to implement a feedback portal with live feed on a big screen (r/Wordpress) Large Database Querys slowing down the site (r/Wordpress) GravityForms/WP not working on mobile (r/Wordpress)
+---
+
+---
 title: Gutenberg Block Editor: New Features and Updates Guide
 url: https://wordpress-faq.com/version/gutenberg-editor-features/
 date: 2026-06-03

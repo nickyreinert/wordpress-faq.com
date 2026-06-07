@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Reviews](https://wordpress-faq.com/review/) — 26 articles
+- [Reviews](https://wordpress-faq.com/review/) — 27 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 183 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 97 articles
@@ -166,6 +166,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Free vs Premium WordPress Themes: Is It Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-themes/) — Premium themes generally offer better support and advanced features, but free themes are often sufficient for simple, lightweight website projects.
 - [Full Site Editing in WordPress Explained](https://wordpress-faq.com/howto/full-site-editing-wordpress/) — Full Site Editing provides a block-based approach to theme customization that replaces traditional customizers for modern WordPress users.
 - [GeneratePress Review: Performance and Customization Analysis](https://wordpress-faq.com/review/generatepress-review/) — GeneratePress is highly regarded for its clean code, performance, and developer-friendly hooks, though it has a steeper learning curve than Astra.
+- [Gravity Forms Review: Features and Common Issues](https://wordpress-faq.com/review/gravity-forms-review/) — Gravity Forms is widely considered the industry standard for advanced WordPress forms despite its premium price point and occasional mobile conflicts.
 - [Gutenberg Block Editor: New Features and Updates Guide](https://wordpress-faq.com/version/gutenberg-editor-features/) — The Gutenberg block editor continues to evolve as the primary content creation tool for WordPress, offering improved flexibility and block-based design.
 - [Gutenberg vs Classic Editor: Comparison and User Sentiment](https://wordpress-faq.com/comparison/classic-editor-gutenberg/) — Community sentiment remains polarized, with many users preferring the Classic Editor for stability while others adapt to Gutenberg's block-based workflow.
 - [Gutenberg vs Page Builders: Performance and Workflow](https://wordpress-faq.com/comparison/gutenberg-page-builder/) — Community consensus favors Gutenberg with block libraries for performance, while page builders are recommended only for specific design requirements.
