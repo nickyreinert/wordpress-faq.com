@@ -8760,6 +8760,30 @@ Reddit Sources How to get your WooCommerce products recommended by ChatGPT, Gemi
 ---
 
 ---
+title: Resolving Elementor and WPForms Plugin Conflicts
+url: https://wordpress-faq.com/compatibility/elementor-wpforms-conflict/
+date: 2026-06-07
+lastmod: 2026-06-07
+verdict: Community consensus suggests using the dedicated Elementor widget for WPForms instead of shortcodes to ensure all form features function correctly.
+confidence: low
+sources: 3
+schema_type: FAQPage
+tags: conflict, forms, page-builder, shortcodes, widgets
+faq:
+  - q: Why are my WPForms hidden fields not working in Elementor?
+    a: Hidden fields often fail to render correctly when using shortcodes; switching to the official WPForms Elementor widget usually resolves this.
+  - q: Should I use shortcodes or widgets for forms in Elementor?
+    a: Widgets are recommended for Elementor as they provide better integration and support for advanced form features compared to standard shortcodes.
+Community consensus suggests using the dedicated Elementor widget for WPForms instead of shortcodes to ensure all form features function correctly. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Shortcode limitations in Elementor Hidden fields failing to render Plugin feature incompatibility Community Q&amp;A Why are my WPForms hidden fields not working in Elementor?
+Hidden fields often fail to render correctly when using shortcodes; switching to the official WPForms Elementor widget usually resolves this.
+Should I use shortcodes or widgets for forms in Elementor?
+Widgets are recommended for Elementor as they provide better integration and support for advanced form features compared to standard shortcodes.
+Reddit Sources Wasting my time with wordpress? (r/webdev) Having some issues in WordPress with WPForms (r/webdev) I built a 94KB WordPress theme that replaces 5 plugins. Here&rsquo;s the architecture behind it. (r/webdev)
+---
+
+---
 title: Setting Up Continuous Deployment for WordPress
 url: https://wordpress-faq.com/howto/wordpress-continuous-deployment-setup/
 date: 2026-06-03
