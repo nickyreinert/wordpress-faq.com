@@ -10,9 +10,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 104 articles
 - [Errors](https://wordpress-faq.com/error/) — 15 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 184 articles
 - [Reviews](https://wordpress-faq.com/review/) — 42 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 183 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 6 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
@@ -291,6 +291,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Bricks Builder in WordPress](https://wordpress-faq.com/howto/bricks-builder-wordpress-setup/) — Bricks Builder is a powerful theme-based page builder that requires a clean WordPress installation for the best results.
 - [How to Setup Divi in WordPress](https://wordpress-faq.com/howto/divi-setup-guide/) — Divi is considered a solid long-term investment for WordPress users due to its lifetime license and extensive feature set for site building.
 - [How to Setup Duplicator for WordPress Migration](https://wordpress-faq.com/howto/duplicator-migration/) — Duplicator is widely considered the industry standard for reliable WordPress site migrations and backups.
+- [How to Setup Easy Digital Downloads in WordPress](https://wordpress-faq.com/howto/easy-digital-downloads-wordpress/) — Easy Digital Downloads is a reliable and robust solution for selling digital products on WordPress when configured with proper SMTP and payment gateways.
 - [How to Setup Elementor Pro in WordPress](https://wordpress-faq.com/howto/elementor-pro-setup/) — Elementor Pro is best installed by ensuring no conflicting page builders are active to prevent site-wide layout and functionality errors.
 - [How to Setup Elementor with WooCommerce](https://wordpress-faq.com/howto/elementor-woocommerce-setup/) — Elementor is a powerful tool for WooCommerce design, but users must monitor plugin conflicts and server-side session handling to ensure stability.
 - [How to Setup Flatsome Theme in WordPress](https://wordpress-faq.com/howto/flatsome-wordpress-setup/) — Flatsome is a highly customizable theme that requires careful configuration of the UX Builder and WooCommerce settings for optimal performance.
