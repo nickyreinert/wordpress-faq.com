@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 101 articles
 - [Errors](https://wordpress-faq.com/error/) — 15 articles
-- [Reviews](https://wordpress-faq.com/review/) — 39 articles
+- [Reviews](https://wordpress-faq.com/review/) — 40 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 183 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -409,6 +409,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WP Rocket Review: Is It Worth the Cost?](https://wordpress-faq.com/review/wp-rocket-review/) — WP Rocket is considered a worthwhile investment for performance optimization despite the availability of free alternatives.
 - [WP Super Cache Review: Performance and Caching Analysis](https://wordpress-faq.com/review/wp-super-cache-review/) — WP Super Cache is a reliable, free caching plugin that effectively improves site speed, though premium alternatives may offer more advanced features.
 - [WPForms Review: Features and Community Feedback](https://wordpress-faq.com/review/wpforms-review/) — WPForms is widely considered a reliable and user-friendly form builder for capturing leads effectively on WordPress websites.
+- [WPML WordPress Multilingual Plugin Review](https://wordpress-faq.com/review/wpml-review/) — WPML is considered a robust, feature-rich solution for complex multilingual sites, though some users prefer simpler alternatives like Polylang.
 - [Yoast SEO Plugin Review and Community Feedback](https://wordpress-faq.com/review/yoast-seo-review/) — While Yoast SEO remains a standard, many developers now prefer Rank Math for its modern features and lighter footprint.
 
 
