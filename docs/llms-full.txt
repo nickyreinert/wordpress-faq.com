@@ -8848,6 +8848,30 @@ Reddit Sources How can I optimize my WP Page to be under 6 sec loading time&hell
 ---
 
 ---
+title: Oxygen Builder WordPress Safari Layout Issues
+url: https://wordpress-faq.com/compatibility/oxygen-builder-wordpress-compatibility/
+date: 2026-06-08
+lastmod: 2026-06-08
+verdict: Safari layout issues in Oxygen Builder are typically caused by specific CSS flexbox properties that require vendor prefixes or explicit sizing adjustments.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: page-builder, conflict, performance
+faq:
+  - q: Why does my Oxygen Builder site look different on Safari?
+    a: Safari often interprets CSS flexbox properties differently than Chrome, frequently requiring explicit width or flex-basis values to render correctly.
+  - q: How do I fix flex-shrink issues in Oxygen Builder?
+    a: Ensure you have set an explicit width or flex-basis on the child elements, as Safari may ignore flex-shrink if the parent container lacks defined constraints.
+Safari layout issues in Oxygen Builder are typically caused by specific CSS flexbox properties that require vendor prefixes or explicit sizing adjustments. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Flexbox rendering inconsistencies on Safari Flex-shrink property not applying correctly Mobile responsiveness discrepancies Community Q&amp;A Why does my Oxygen Builder site look different on Safari?
+Safari often interprets CSS flexbox properties differently than Chrome, frequently requiring explicit width or flex-basis values to render correctly.
+How do I fix flex-shrink issues in Oxygen Builder?
+Ensure you have set an explicit width or flex-basis on the child elements, as Safari may ignore flex-shrink if the parent container lacks defined constraints.
+Reddit Sources Been working on a website, looks great on chrome but safari half my elements are way out of place. I work in wordpress with oxygen builder and adding a flex shrink = 0 but not seeing changes. Any thoughts how to overcome this as this as it will effect majority of users since iphone is so common? (r/webdev)
+---
+
+---
 title: Polylang WordPress Plugin Review and Community Feedback
 url: https://wordpress-faq.com/review/polylang-review/
 date: 2026-06-07
