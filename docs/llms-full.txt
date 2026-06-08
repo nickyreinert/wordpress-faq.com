@@ -8936,6 +8936,30 @@ Reddit Sources Need Help: WooCommerce Shop Page Overriding SureCart Shop Page on
 ---
 
 ---
+title: Troubleshooting Divi Theme Conflicts in WordPress
+url: https://wordpress-faq.com/compatibility/divi-wordpress-conflict/
+date: 2026-06-08
+lastmod: 2026-06-08
+verdict: Divi conflicts are typically caused by plugin feature overlap or resource-heavy scripts that require systematic deactivation to isolate the root cause.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: page-builder, conflict, performance, security
+faq:
+  - q: How do I check for Divi plugin conflicts?
+    a: Deactivate all plugins except Divi and re-enable them one by one to identify which specific plugin causes the conflict.
+  - q: Does Divi conflict with other page builders?
+    a: Yes, running multiple page builders simultaneously often leads to layout issues and code bloat; it is recommended to use only one.
+Divi conflicts are typically caused by plugin feature overlap or resource-heavy scripts that require systematic deactivation to isolate the root cause. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Plugin feature overlap JavaScript library conflicts Memory limit exhaustion Community Q&amp;A How do I check for Divi plugin conflicts?
+Deactivate all plugins except Divi and re-enable them one by one to identify which specific plugin causes the conflict.
+Does Divi conflict with other page builders?
+Yes, running multiple page builders simultaneously often leads to layout issues and code bloat; it is recommended to use only one.
+Reddit Sources I built a 94KB WordPress theme that replaces 5 plugins. Here&rsquo;s the architecture behind it. (r/webdev)
+---
+
+---
 title: Troubleshooting WooCommerce Checkout Issues
 url: https://wordpress-faq.com/error/woocommerce-checkout-error/
 date: 2026-06-02
