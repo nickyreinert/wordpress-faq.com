@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 102 articles
 - [Errors](https://wordpress-faq.com/error/) — 15 articles
-- [Reviews](https://wordpress-faq.com/review/) — 41 articles
+- [Reviews](https://wordpress-faq.com/review/) — 42 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 183 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -408,6 +408,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress vs Website Builder: Choosing the Right Platform](https://wordpress-faq.com/comparison/website-builder-vs-wordpress/) — WordPress offers superior control and scalability for those willing to manage technical tasks, while website builders provide easier, turnkey solutions.
 - [WordPress vs Wix: Platform Comparison](https://wordpress-faq.com/comparison/wordpress-wix/) — WordPress is generally considered superior for long-term scalability and SEO, while Wix is preferred for beginners seeking a simple, turnkey solution.
 - [WordPress.com vs WordPress.org: Key Differences Explained](https://wordpress-faq.com/comparison/wordpress-com-vs-wordpress-org/) — WordPress.org is recommended for full control and ownership, while WordPress.com is better for users seeking a managed, simplified experience.
+- [WP Mail SMTP Plugin Review and Configuration Guide](https://wordpress-faq.com/review/wp-mail-smtp-review/) — WP Mail SMTP is a highly effective solution for WordPress email delivery provided that the SMTP configuration settings are correctly authenticated.
 - [WP Rocket Review: Is It Worth the Cost?](https://wordpress-faq.com/review/wp-rocket-review/) — WP Rocket is considered a worthwhile investment for performance optimization despite the availability of free alternatives.
 - [WP Super Cache Review: Performance and Caching Analysis](https://wordpress-faq.com/review/wp-super-cache-review/) — WP Super Cache is a reliable, free caching plugin that effectively improves site speed, though premium alternatives may offer more advanced features.
 - [WPForms Review: Features and Community Feedback](https://wordpress-faq.com/review/wpforms-review/) — WPForms is widely considered a reliable and user-friendly form builder for capturing leads effectively on WordPress websites.
