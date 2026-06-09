@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 105 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 106 articles
 - [Errors](https://wordpress-faq.com/error/) — 17 articles
 - [Reviews](https://wordpress-faq.com/review/) — 43 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 184 articles
@@ -30,6 +30,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
 - [Astra and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/astra-elementor/) — Astra and Elementor are highly compatible and widely recommended by the community, though users should optimize hosting to prevent performance bloat.
+- [Astra and Elementor Compatibility Issues](https://wordpress-faq.com/compatibility/astra-elementor-compatibility/) — Most display issues between Astra and Elementor are resolved by checking the layout panel settings or clearing site and plugin-level caches.
 - [Astra Theme Review: Performance and Compatibility](https://wordpress-faq.com/review/astra-theme-review/) — Astra is widely considered a high-performance, reliable theme, though users may occasionally encounter minor compatibility conflicts with third-party plugins.
 - [Autoptimize WordPress Plugin Review and Performance Guide](https://wordpress-faq.com/review/autoptimize-review/) — Autoptimize is a highly effective free performance plugin, but users must be cautious with minification settings to prevent site layout conflicts.
 - [Avada and Beaver Builder Compatibility Overview](https://wordpress-faq.com/compatibility/avada-beaver-builder/) — While technically compatible, using Beaver Builder alongside Avada's built-in Fusion Builder is generally discouraged due to performance and bloat.

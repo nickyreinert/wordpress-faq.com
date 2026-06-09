@@ -219,6 +219,34 @@ Reddit Sources Elementor vs. Theme? Is it necessary to have both? (r/Wordpress) 
 ---
 
 ---
+title: Astra and Elementor Compatibility Issues
+url: https://wordpress-faq.com/compatibility/astra-elementor-compatibility/
+date: 2026-06-09
+lastmod: 2026-06-09
+verdict: Most display issues between Astra and Elementor are resolved by checking the layout panel settings or clearing site and plugin-level caches.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: compatibility, caching, page-builder, conflict, speed
+faq:
+  - q: Why are my post titles missing when using Astra and Elementor?
+    a: Check the Elementor layout panel settings to ensure the title is not set to hidden, as this is a common configuration oversight.
+  - q: How do I fix CSS changes that revert after a few hours?
+    a: Disable CSS combination and critical CSS generation in your caching plugin, as these often conflict with theme and builder styles.
+  - q: Should I use multiple lazy loading features?
+    a: No, keep only one lazy loading feature active—either from WordPress, your theme, or your page builder—to prevent performance conflicts.
+Most display issues between Astra and Elementor are resolved by checking the layout panel settings or clearing site and plugin-level caches. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Post titles not displaying CSS styling reverting after updates Caching conflicts with page builders Community Q&amp;A Why are my post titles missing when using Astra and Elementor?
+Check the Elementor layout panel settings to ensure the title is not set to hidden, as this is a common configuration oversight.
+How do I fix CSS changes that revert after a few hours?
+Disable CSS combination and critical CSS generation in your caching plugin, as these often conflict with theme and builder styles.
+Should I use multiple lazy loading features?
+No, keep only one lazy loading feature active—either from WordPress, your theme, or your page builder—to prevent performance conflicts.
+Reddit Sources Why I Still Recommend WordPress in 2026 (Even With All the New Website Builders Around) (r/Wordpress) I posted my free WordPress theme here yesterday. You roasted it. Here&rsquo;s what I changed and why I&rsquo;m sticking with the rest. (r/Wordpress) Why does my website home page not load fast? (r/Wordpress) CSS fails a few hours after &ldquo;fixing&rdquo; it (r/Wordpress) On Page Titles for Blog Posts Mysteriously Removed (r/Wordpress) Remove find out more button (r/Wordpress) Lost my page, how do I fix this? (r/Wordpress) How can i make a social icon open in a new tab? (r/Wordpress) WordPress is broken. The core team won&rsquo;t fix it. So I did. Free theme, GPL, replaces 5+ plugins. (r/Wordpress)
+---
+
+---
 title: Astra Theme Review: Performance and Compatibility
 url: https://wordpress-faq.com/review/astra-theme-review/
 date: 2026-06-06
