@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 105 articles
-- [Errors](https://wordpress-faq.com/error/) — 16 articles
+- [Errors](https://wordpress-faq.com/error/) — 17 articles
 - [Reviews](https://wordpress-faq.com/review/) — 43 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 184 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
@@ -368,6 +368,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Bricks Builder Issues in WordPress](https://wordpress-faq.com/compatibility/bricks-builder-compatibility/) — Bricks Builder is widely considered a stable and performant tool, with most issues stemming from plugin conflicts or improper server configuration.
 - [Troubleshooting Divi Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/divi-wordpress-conflict/) — Divi conflicts are typically caused by plugin feature overlap or resource-heavy scripts that require systematic deactivation to isolate the root cause.
 - [Troubleshooting GeneratePress Fatal Errors in WordPress](https://wordpress-faq.com/error/generatepress-fatal-error/) — Most fatal errors after theme updates are caused by plugin conflicts or outdated PHP versions that require a manual rollback or plugin deactivation.
+- [Troubleshooting GeneratePress Issues in WordPress](https://wordpress-faq.com/error/generatepress-troubleshooting/) — GeneratePress is widely considered a lightweight and stable theme, so most issues stem from plugin conflicts or improper CSS implementation.
 - [Troubleshooting WooCommerce Checkout Issues](https://wordpress-faq.com/error/woocommerce-checkout-error/) — Checkout failures are typically caused by theme block conflicts, plugin incompatibilities, or improper caching of the checkout page flow.
 - [Troubleshooting WordPress Failed to Open Stream Errors](https://wordpress-faq.com/error/wordpress-failed-to-open-stream/) — The error is typically caused by missing core files or incorrect file permissions, which can be resolved by re-uploading files or resetting permissions.
 - [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/howto/two-factor-authentication-wordpress/) — Implementing two-factor authentication is a highly recommended security best practice to protect WordPress sites from unauthorized access.
