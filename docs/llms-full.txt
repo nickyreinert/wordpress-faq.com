@@ -1172,6 +1172,30 @@ Many developers prefer Bricks Builder over Elementor because it generates cleane
 ---
 
 ---
+title: Bricks Builder WordPress Compatibility and Conflicts
+url: https://wordpress-faq.com/compatibility/bricks-builder-conflict/
+date: 2026-06-09
+lastmod: 2026-06-09
+verdict: Bricks Builder functions as a theme rather than a plugin, which can lead to specific compatibility conflicts with other active WordPress themes.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: page-builder, conflict, performance, multisite
+faq:
+  - q: Is Bricks Builder a plugin or a theme?
+    a: Bricks Builder is a WordPress theme, not a plugin, which is a common point of confusion for new users.
+  - q: Can Bricks Builder cause conflicts with other themes?
+    a: Yes, because Bricks is a theme, activating it will replace your current theme, which may cause layout or functionality conflicts.
+Bricks Builder functions as a theme rather than a plugin, which can lead to specific compatibility conflicts with other active WordPress themes. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Theme-plugin architectural confusion Compatibility issues with existing themes Multisite configuration challenges Community Q&amp;A Is Bricks Builder a plugin or a theme?
+Bricks Builder is a WordPress theme, not a plugin, which is a common point of confusion for new users.
+Can Bricks Builder cause conflicts with other themes?
+Yes, because Bricks is a theme, activating it will replace your current theme, which may cause layout or functionality conflicts.
+Reddit Sources Are WordPress Sites &ldquo;Exclusive&rdquo; for Agencies (r/Wordpress)
+---
+
+---
 title: BuddyPress Review: Community Features and Alternatives
 url: https://wordpress-faq.com/review/buddypress-review/
 date: 2026-06-07
