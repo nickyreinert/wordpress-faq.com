@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 107 articles
-- [Errors](https://wordpress-faq.com/error/) — 19 articles
+- [Errors](https://wordpress-faq.com/error/) — 20 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 185 articles
 - [Reviews](https://wordpress-faq.com/review/) — 43 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
@@ -41,6 +41,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Beaver Builder and Flatsome Theme Compatibility](https://wordpress-faq.com/compatibility/beaver-builder-flatsome/) — Beaver Builder is generally compatible with Flatsome, but using two page builders simultaneously can lead to significant performance and layout conflicts.
 - [Beaver Builder and Rank Math Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-rankmath/) — Beaver Builder and Rank Math are fully compatible and work seamlessly together for on-page SEO optimization.
 - [Beaver Builder and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-wpforms/) — Beaver Builder and WPForms are fully compatible and work together reliably for WordPress site development.
+- [Beaver Builder Not Working: Troubleshooting Guide](https://wordpress-faq.com/error/beaver-builder-troubleshooting/) — Most Beaver Builder issues are caused by plugin conflicts or outdated caching settings that require a standard troubleshooting process to resolve.
 - [Beaver Builder Review: Features and Performance Analysis](https://wordpress-faq.com/review/beaver-builder-review/) — Beaver Builder is highly regarded for its simplicity, stability, and superior control compared to other popular WordPress page builders.
 - [Beaver Builder WordPress Conflict Troubleshooting](https://wordpress-faq.com/compatibility/beaver-builder-conflict/) — Most Beaver Builder conflicts are resolved by checking for theme-specific CSS overrides or duplicating the affected page to reset module data.
 - [Best Cheap WordPress Hosting for Beginners Guide](https://wordpress-faq.com/hosting/best-cheap-wordpress-hosting-beginners/) — Beginners should prioritize managed WordPress hosting providers that offer built-in caching and security features to ensure optimal site performance.
