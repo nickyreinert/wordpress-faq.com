@@ -1070,6 +1070,30 @@ Reddit Sources WordPress devs — what theme are you using for audit / accountin
 ---
 
 ---
+title: Blocksy and WooCommerce Cart and Checkout Block Issues
+url: https://wordpress-faq.com/compatibility/blocksy-woocommerce-compatibility/
+date: 2026-06-10
+lastmod: 2026-06-10
+verdict: Most issues with Blocksy and WooCommerce blocks are resolved by checking language settings or manually updating block titles in the editor.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: ecommerce, gutenberg, conflict
+faq:
+  - q: Why are my WooCommerce blocks not working in Blocksy?
+    a: This is often caused by language setting mismatches or incorrect block title configurations within the WordPress editor.
+  - q: How do I fix WooCommerce cart block display issues?
+    a: Try viewing the site in an incognito window to rule out caching, and ensure your block titles are manually set to the correct language.
+Most issues with Blocksy and WooCommerce blocks are resolved by checking language settings or manually updating block titles in the editor. Based on 1 community reports.
+Linked sources: 2.
+Known Issues Cart and checkout blocks not rendering correctly Language setting conflicts with block titles Community Q&amp;A Why are my WooCommerce blocks not working in Blocksy?
+This is often caused by language setting mismatches or incorrect block title configurations within the WordPress editor.
+How do I fix WooCommerce cart block display issues?
+Try viewing the site in an incognito window to rule out caching, and ensure your block titles are manually set to the correct language.
+Reddit Sources Wocoomerce cart and checkout blocks issue (r/woocommerce) European business expanding hiring (have already shortlisted some from earlier posts, do not re-apply if you applied before) (r/webdev)
+---
+
+---
 title: Blocksy Theme Review: Performance and Customization
 url: https://wordpress-faq.com/review/blocksy-review/
 date: 2026-06-06
