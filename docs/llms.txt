@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 108 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 109 articles
 - [Errors](https://wordpress-faq.com/error/) — 20 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 185 articles
 - [Reviews](https://wordpress-faq.com/review/) — 43 articles
@@ -338,6 +338,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Write SEO Friendly WordPress Posts](https://wordpress-faq.com/howto/seo-friendly-wordpress-posts/) — Community consensus suggests using lightweight themes like GeneratePress and focusing on site speed to achieve optimal SEO results for WordPress blogs.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
 - [Jetpack Plugin Review and Performance Analysis](https://wordpress-faq.com/review/jetpack-review/) — Community consensus suggests avoiding Jetpack due to its heavy code footprint, performance degradation, and poor customer support experiences.
+- [Kadence WordPress Theme Compatibility and Conflicts](https://wordpress-faq.com/compatibility/kadence-wordpress-conflict/) — Kadence is generally stable, but users should monitor for plugin conflicts when using multiple modular features alongside other heavy page builders.
 - [Kadence WordPress Theme Review and Performance Analysis](https://wordpress-faq.com/review/kadence-review/) — Kadence is widely considered a top-tier, lightweight, and highly flexible block-based theme suitable for both beginners and advanced developers.
 - [Kinsta vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/kinsta-siteground/) — Kinsta is preferred for high-traffic enterprise sites, while SiteGround is the superior choice for small businesses and budget-conscious users.
 - [LearnDash LMS Review and Comparison](https://wordpress-faq.com/review/learndash-review/) — LearnDash is widely considered the industry standard for robust course management, though it often requires additional plugins for complex features.
