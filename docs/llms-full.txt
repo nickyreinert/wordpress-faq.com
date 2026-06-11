@@ -450,6 +450,30 @@ Reddit Sources If RTC isn&rsquo;t the infrastructure shift in WordPress 7.0, wha
 ---
 
 ---
+title: Beaver Builder and kvCore IDX Plugin Compatibility Error
+url: https://wordpress-faq.com/compatibility/beaver-builder-kvcore-idx/
+date: 2026-06-11
+lastmod: 2026-06-11
+verdict: The fatal error is likely caused by a conflict between Beaver Builder and the kvCore IDX plugin, requiring immediate developer support intervention.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: conflict, performance, page-builder
+faq:
+  - q: Why is my WordPress site generating massive error logs?
+    a: Massive error logs are often caused by a plugin conflict or a PHP fatal error loop, frequently triggered by incompatible plugins like kvCore IDX.
+  - q: How do I fix a fatal error with Beaver Builder?
+    a: Deactivate recently installed plugins one by one to identify the conflict, check your server error logs, and ensure all plugins are updated.
+The fatal error is likely caused by a conflict between Beaver Builder and the kvCore IDX plugin, requiring immediate developer support intervention. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Excessive error log file growth Fatal PHP errors during page rendering Plugin conflict with page builder Community Q&amp;A Why is my WordPress site generating massive error logs?
+Massive error logs are often caused by a plugin conflict or a PHP fatal error loop, frequently triggered by incompatible plugins like kvCore IDX.
+How do I fix a fatal error with Beaver Builder?
+Deactivate recently installed plugins one by one to identify the conflict, check your server error logs, and ensure all plugins are updated.
+Reddit Sources Wordpress Plugin Issue Causing 10GB of Error Logs (r/Wordpress)
+---
+
+---
 title: Beaver Builder and Rank Math Compatibility Guide
 url: https://wordpress-faq.com/compatibility/beaver-builder-rankmath/
 date: 2026-06-01
