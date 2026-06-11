@@ -9696,6 +9696,34 @@ Reddit Sources Error when attempting to login to wordpress as admin (r/Wordpress
 ---
 
 ---
+title: Troubleshooting Yoast SEO Conflicts in WordPress
+url: https://wordpress-faq.com/compatibility/yoast-seo-conflict/
+date: 2026-06-11
+lastmod: 2026-06-11
+verdict: Most Yoast SEO conflicts are resolved by clearing cache, checking Search Appearance settings, or rolling back to a stable version if bugs persist.
+confidence: medium
+sources: 7
+schema_type: FAQPage
+tags: seo, conflict, database, performance
+faq:
+  - q: Why is Yoast SEO overriding my WordPress tagline?
+    a: Yoast SEO often manages the site title and tagline via the Search Appearance settings. Check SEO > Search Appearance to ensure your settings are correct.
+  - q: How do I fix Yoast SEO settings not saving?
+    a: Try clearing your browser cache, re-saving settings, or checking for database inconsistencies. If the issue persists, consider a plugin rollback.
+  - q: Where is the XML sitemap in Yoast SEO?
+    a: In newer versions of Yoast, sitemap settings are found under SEO > General > Features. Ensure the XML sitemaps toggle is set to On.
+Most Yoast SEO conflicts are resolved by clearing cache, checking Search Appearance settings, or rolling back to a stable version if bugs persist. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Tagline override in Search Appearance settings Database save failures XML sitemap visibility bugs Plugin bloat and redundancy Community Q&amp;A Why is Yoast SEO overriding my WordPress tagline?
+Yoast SEO often manages the site title and tagline via the Search Appearance settings. Check SEO &gt; Search Appearance to ensure your settings are correct.
+How do I fix Yoast SEO settings not saving?
+Try clearing your browser cache, re-saving settings, or checking for database inconsistencies. If the issue persists, consider a plugin rollback.
+Where is the XML sitemap in Yoast SEO?
+In newer versions of Yoast, sitemap settings are found under SEO &gt; General &gt; Features. Ensure the XML sitemaps toggle is set to On.
+Reddit Sources Looking for plugin recommendations for developers with multiple clients (r/Wordpress) Relative Newb &ndash; Unexpected response: security check (r/Wordpress) Slogan cannot be changed / Yoast SEO plugin conflict (r/Wordpress) What&rsquo;s your approach to structured data / schema markup on WordPress? (r/Wordpress) Yoast + 404 Error Logging (r/Wordpress) YOAST Seo xmlsitemap menu item not showing in the dashboard (r/Wordpress) [Help request] Yoast SEO won&rsquo;t save anything that I input (r/Wordpress)
+---
+
+---
 title: Troubleshooting Yoast SEO Not Working in WordPress
 url: https://wordpress-faq.com/error/yoast-seo-wordpress-error/
 date: 2026-06-11
