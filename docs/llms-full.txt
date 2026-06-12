@@ -1400,6 +1400,30 @@ Reddit Sources How much should I charge for this job? (r/woocommerce) Any one us
 ---
 
 ---
+title: Contact Form 7 Conflict Troubleshooting Guide
+url: https://wordpress-faq.com/compatibility/contact-form-7-conflict/
+date: 2026-06-12
+lastmod: 2026-06-12
+verdict: Most Contact Form 7 conflicts are caused by using multiple recaptcha versions simultaneously or misconfigured SMTP email settings on your domain host.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: forms, conflict, email, security
+faq:
+  - q: Why is my Contact Form 7 not sending emails?
+    a: Email delivery issues are often caused by your host blocking default PHP mail. Using an SMTP plugin to route emails through a dedicated provider usually resolves this.
+  - q: Can I use Recaptcha v2 and v3 together in Contact Form 7?
+    a: No, using both versions simultaneously causes conflicts. You should choose one version and ensure all old integration keys are fully removed from the settings.
+Most Contact Form 7 conflicts are caused by using multiple recaptcha versions simultaneously or misconfigured SMTP email settings on your domain host. Based on 5 community reports.
+Linked sources: 2.
+Known Issues Recaptcha v2 and v3 version conflict Email delivery failure via default PHP mail Residual integration keys causing form errors Community Q&amp;A Why is my Contact Form 7 not sending emails?
+Email delivery issues are often caused by your host blocking default PHP mail. Using an SMTP plugin to route emails through a dedicated provider usually resolves this.
+Can I use Recaptcha v2 and v3 together in Contact Form 7?
+No, using both versions simultaneously causes conflicts. You should choose one version and ensure all old integration keys are fully removed from the settings.
+Reddit Sources Did I waste a year of my life developing a WordPress theme? (r/Wordpress) Contact form recapture v2 and v3 conflict (r/Wordpress)
+---
+
+---
 title: Contact Form 7 Review and Spam Prevention Guide
 url: https://wordpress-faq.com/review/contact-form-7/
 date: 2026-06-06
