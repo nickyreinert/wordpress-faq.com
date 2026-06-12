@@ -9856,6 +9856,34 @@ Reddit Sources Error when attempting to login to wordpress as admin (r/Wordpress
 ---
 
 ---
+title: Troubleshooting WPForms Not Working in WordPress
+url: https://wordpress-faq.com/compatibility/wpforms-compatibility/
+date: 2026-06-12
+lastmod: 2026-06-12
+verdict: WPForms issues are typically caused by plugin conflicts, caching layers, or server-side security restrictions blocking form submission requests.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: forms, conflict, performance, security, email
+faq:
+  - q: Why are my WPForms not sending emails?
+    a: This is often due to your server's PHP mail function being blocked. Use an SMTP plugin to route emails through a reliable provider like SendGrid or Gmail.
+  - q: Why is my form not submitting on the page?
+    a: This is usually a JavaScript conflict. Check your browser console for errors and try disabling other plugins one by one to identify the culprit.
+  - q: Can caching plugins break WPForms?
+    a: Yes, aggressive caching can prevent the form's AJAX scripts from loading. Try excluding your contact page from your caching plugin's settings.
+WPForms issues are typically caused by plugin conflicts, caching layers, or server-side security restrictions blocking form submission requests. Based on 1 community reports.
+Linked sources: 8.
+Known Issues Plugin conflicts with caching plugins Server security blocking AJAX requests Incorrect SMTP configuration for notifications Community Q&amp;A Why are my WPForms not sending emails?
+This is often due to your server&rsquo;s PHP mail function being blocked. Use an SMTP plugin to route emails through a reliable provider like SendGrid or Gmail.
+Why is my form not submitting on the page?
+This is usually a JavaScript conflict. Check your browser console for errors and try disabling other plugins one by one to identify the culprit.
+Can caching plugins break WPForms?
+Yes, aggressive caching can prevent the form&rsquo;s AJAX scripts from loading. Try excluding your contact page from your caching plugin&rsquo;s settings.
+Reddit Sources Graphic designer inheriting a MESSY website that&rsquo;s TOO LARGE to back-up. Crazy huge cache, or something else? (r/Wordpress) Woocommerce &amp; Elementor - the speed is bad? (r/Wordpress) GSC URL reports &ldquo;Blocked by robots.txt&rdquo; — robots.txt is clean, have exhausted every cause I can think of&hellip; (r/Wordpress) Plugins I wish I&rsquo;d discovered earlier – all solid (from plugins for beginners to pros) (r/Wordpress) New to WP and lost with a query (r/Wordpress) Crafted with Love for Web Developers: Leadee - A WordPress Plugin for Collecting Leads from Forms (r/Wordpress) Automated Emails in spam, help? (r/Wordpress) Screaming Frog (£199/yr) vs SiteVett ($1.99/scan or $9/mth) for WordPress QA — founder here, honest where each wins (r/Wordpress)
+---
+
+---
 title: Troubleshooting Yoast SEO Conflicts in WordPress
 url: https://wordpress-faq.com/compatibility/yoast-seo-conflict/
 date: 2026-06-11

@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 116 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 117 articles
 - [Errors](https://wordpress-faq.com/error/) — 29 articles
 - [Reviews](https://wordpress-faq.com/review/) — 44 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 185 articles
@@ -393,6 +393,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Kadence WordPress Fatal Errors](https://wordpress-faq.com/error/kadence-wordpress-fatal-error/) — Fatal errors in the WordPress dashboard are frequently caused by insufficient server RAM or memory limits rather than the theme itself.
 - [Troubleshooting WooCommerce Checkout Issues](https://wordpress-faq.com/error/woocommerce-checkout-error/) — Checkout failures are typically caused by theme block conflicts, plugin incompatibilities, or improper caching of the checkout page flow.
 - [Troubleshooting WordPress Failed to Open Stream Errors](https://wordpress-faq.com/error/wordpress-failed-to-open-stream/) — The error is typically caused by missing core files or incorrect file permissions, which can be resolved by re-uploading files or resetting permissions.
+- [Troubleshooting WPForms Not Working in WordPress](https://wordpress-faq.com/compatibility/wpforms-compatibility/) — WPForms issues are typically caused by plugin conflicts, caching layers, or server-side security restrictions blocking form submission requests.
 - [Troubleshooting Yoast SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/yoast-seo-conflict/) — Most Yoast SEO conflicts are resolved by clearing cache, checking Search Appearance settings, or rolling back to a stable version if bugs persist.
 - [Troubleshooting Yoast SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/wordpress-yoast-seo-fatal-error/) — Fatal errors involving Yoast SEO are typically caused by plugin conflicts or incompatible PHP versions following a WordPress core update.
 - [Troubleshooting Yoast SEO Not Working in WordPress](https://wordpress-faq.com/error/yoast-seo-wordpress-error/) — Most Yoast SEO issues stem from site indexing misconfigurations or conflicts with other plugins, which can be resolved by verifying URL settings.
