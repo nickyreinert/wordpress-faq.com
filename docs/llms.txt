@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 115 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 116 articles
 - [Errors](https://wordpress-faq.com/error/) — 28 articles
 - [Reviews](https://wordpress-faq.com/review/) — 44 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 185 articles
@@ -378,6 +378,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dedicated-shared-vps-hosting/) — Shared hosting is ideal for small sites, while VPS and dedicated servers offer the necessary resources and control for high-traffic professional websites.
 - [Sucuri vs Wordfence Security Plugin Review](https://wordpress-faq.com/review/sucuri-wordfence/) — Wordfence is generally preferred for ease of use, while server-level blocking is considered more efficient for high-traffic sites.
 - [SureCart and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/) — Running SureCart and WooCommerce in parallel is not recommended due to significant shop page and theme conflicts.
+- [Troubleshooting All in One SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/all-in-one-seo-conflict/) — Conflicts are typically resolved by flushing permalinks, checking for plugin overlaps, or rolling back to a stable version if a recent update is buggy.
 - [Troubleshooting All In One SEO Plugin Conflicts](https://wordpress-faq.com/error/all-in-one-seo-conflict/) — Plugin conflicts are usually resolved by disabling other plugins one by one to isolate the specific source of the error.
 - [Troubleshooting Astra Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/astra-conflict/) — Most Astra theme conflicts are resolved by adjusting global layout settings or applying specific CSS overrides to improve plugin compatibility.
 - [Troubleshooting Avada Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/avada-conflict/) — Most Avada conflicts are caused by plugin incompatibility or outdated theme versions, which can be resolved by disabling conflicting plugins.
