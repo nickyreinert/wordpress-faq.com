@@ -9220,6 +9220,30 @@ Reddit Sources Which multi-lang plugin are you using and why? (r/ProWordPress) [
 ---
 
 ---
+title: Rank Math and WP Rocket Sitemap Conflict
+url: https://wordpress-faq.com/compatibility/rankmath-wp-rocket-conflict/
+date: 2026-06-12
+lastmod: 2026-06-12
+verdict: The issue is caused by WP Rocket caching the sitemap, which can be resolved by adding the sitemap URL to the plugin's exclusion list.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: seo, caching, conflict, performance
+faq:
+  - q: Why does Rank Math sitemap keep getting deleted?
+    a: It is often caused by caching plugins like WP Rocket that cache the sitemap file, leading to conflicts and deletion.
+  - q: How do I fix Rank Math sitemap conflict with WP Rocket?
+    a: You must add your sitemap URL to the 'Never Cache URLs' section in the WP Rocket settings to prevent the conflict.
+The issue is caused by WP Rocket caching the sitemap, which can be resolved by adding the sitemap URL to the plugin&rsquo;s exclusion list. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Sitemap file deletion Caching conflict Community Q&amp;A Why does Rank Math sitemap keep getting deleted?
+It is often caused by caching plugins like WP Rocket that cache the sitemap file, leading to conflicts and deletion.
+How do I fix Rank Math sitemap conflict with WP Rocket?
+You must add your sitemap URL to the &lsquo;Never Cache URLs&rsquo; section in the WP Rocket settings to prevent the conflict.
+Reddit Sources Rank Math Sitemap keeps getting deleted automatically, Anyone experienced the same issue? (r/ProWordPress)
+---
+
+---
 title: Rank Math Not Working in WordPress: Troubleshooting Guide
 url: https://wordpress-faq.com/error/rankmath-wordpress-error/
 date: 2026-06-11
