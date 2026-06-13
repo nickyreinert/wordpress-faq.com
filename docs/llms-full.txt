@@ -4376,6 +4376,30 @@ Reddit Sources Confused Between Astra, Generatepress and OceanWP (r/Wordpress) W
 ---
 
 ---
+title: Gravity Forms Email Delivery and SMTP Conflicts
+url: https://wordpress-faq.com/error/gravity-forms-smtp-conflict/
+date: 2026-06-13
+lastmod: 2026-06-13
+verdict: Gravity Forms requires a dedicated SMTP plugin to bypass server-side email restrictions when using external providers like Office 365.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: forms, email, conflict
+faq:
+  - q: Why are my Gravity Forms notifications not sending?
+    a: WordPress default mail functions are often blocked by hosts; using an SMTP plugin ensures emails are sent via authenticated services like Office 365.
+  - q: How do I fix Gravity Forms email issues with Office 365?
+    a: Install a reliable SMTP plugin, enter your Office 365 credentials, and configure the plugin to route all outgoing WordPress mail through your account.
+Gravity Forms requires a dedicated SMTP plugin to bypass server-side email restrictions when using external providers like Office 365. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Email delivery failure Server-side mail blocking Office 365 authentication errors Community Q&amp;A Why are my Gravity Forms notifications not sending?
+WordPress default mail functions are often blocked by hosts; using an SMTP plugin ensures emails are sent via authenticated services like Office 365.
+How do I fix Gravity Forms email issues with Office 365?
+Install a reliable SMTP plugin, enter your Office 365 credentials, and configure the plugin to route all outgoing WordPress mail through your account.
+Reddit Sources Cannot send email from forms outbound because domain has Office 365 Portal - Options? (r/Wordpress)
+---
+
+---
 title: Gravity Forms Review: Features and Common Issues
 url: https://wordpress-faq.com/review/gravity-forms-review/
 date: 2026-06-07
