@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Errors](https://wordpress-faq.com/error/) — 33 articles
+- [Errors](https://wordpress-faq.com/error/) — 34 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 118 articles
 - [Reviews](https://wordpress-faq.com/review/) — 44 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 185 articles
@@ -390,6 +390,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Contact Form 7 Email Delivery Issues](https://wordpress-faq.com/error/contact-form-7-not-working/) — Most Contact Form 7 delivery issues are resolved by configuring a dedicated SMTP plugin and ensuring proper SPF and DMARC domain authentication.
 - [Troubleshooting Divi Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/divi-wordpress-conflict/) — Divi conflicts are typically caused by plugin feature overlap or resource-heavy scripts that require systematic deactivation to isolate the root cause.
 - [Troubleshooting Flatsome Theme Errors and UX Builder Issues](https://wordpress-faq.com/error/flatsome-wordpress-errors/) — Most Flatsome issues are caused by plugin conflicts, aggressive server-side caching, or outdated theme files requiring a clean reinstallation.
+- [Troubleshooting Fluent Forms Issues in WordPress](https://wordpress-faq.com/error/fluent-forms-troubleshooting/) — Most Fluent Forms issues are caused by plugin conflicts or caching settings that prevent form submission scripts from loading correctly.
 - [Troubleshooting GeneratePress Fatal Errors in WordPress](https://wordpress-faq.com/error/generatepress-fatal-error/) — Most fatal errors after theme updates are caused by plugin conflicts or outdated PHP versions that require a manual rollback or plugin deactivation.
 - [Troubleshooting GeneratePress Issues in WordPress](https://wordpress-faq.com/error/generatepress-troubleshooting/) — GeneratePress is widely considered a lightweight and stable theme, so most issues stem from plugin conflicts or improper CSS implementation.
 - [Troubleshooting Hello Elementor Theme Conflicts](https://wordpress-faq.com/compatibility/elementor-hello-theme-conflict/) — Most Elementor conflicts are resolved by refreshing CSS assets, checking template conditions, or disabling conflicting third-party plugins.
