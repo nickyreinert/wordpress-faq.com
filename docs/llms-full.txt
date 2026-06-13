@@ -4404,6 +4404,34 @@ Reddit Sources This is a pretty nifty new form builder plugin (r/Wordpress) How 
 ---
 
 ---
+title: Gravity Forms Troubleshooting and Configuration Guide
+url: https://wordpress-faq.com/error/gravity-forms-troubleshooting/
+date: 2026-06-13
+lastmod: 2026-06-13
+verdict: Most Gravity Forms issues are resolved by checking for plugin conflicts, updating PHP versions, or configuring built-in spam protection settings.
+confidence: low
+sources: 3
+schema_type: FAQPage
+tags: forms, conflict, security, performance, hosting
+faq:
+  - q: Why is Gravity Forms not working on my WordPress site?
+    a: Common causes include plugin conflicts, outdated PHP versions, or caching issues. Try disabling other plugins to isolate the problem.
+  - q: How can I stop spam on Gravity Forms without CAPTCHA?
+    a: You can use anti-spam plugins like GASP or implement honeypot fields to block bots while maintaining accessibility for your users.
+  - q: Does Gravity Forms have built-in spam protection?
+    a: Yes, Gravity Forms includes native reCAPTCHA integration which supports audio options for improved accessibility.
+Most Gravity Forms issues are resolved by checking for plugin conflicts, updating PHP versions, or configuring built-in spam protection settings. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Plugin conflicts with other form builders Outdated PHP version causing form submission errors Spam bot interference without CAPTCHA Community Q&amp;A Why is Gravity Forms not working on my WordPress site?
+Common causes include plugin conflicts, outdated PHP versions, or caching issues. Try disabling other plugins to isolate the problem.
+How can I stop spam on Gravity Forms without CAPTCHA?
+You can use anti-spam plugins like GASP or implement honeypot fields to block bots while maintaining accessibility for your users.
+Does Gravity Forms have built-in spam protection?
+Yes, Gravity Forms includes native reCAPTCHA integration which supports audio options for improved accessibility.
+Reddit Sources Large Database Querys slowing down the site (r/Wordpress) Trying to find a way to block SPAM bots without a CAPCHA. (Site need to be blind accessible) (r/Wordpress) Requesting one piece of advice&hellip; (r/Wordpress)
+---
+
+---
 title: Gutenberg Block Editor: New Features and Updates Guide
 url: https://wordpress-faq.com/version/gutenberg-editor-features/
 date: 2026-06-03
