@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Errors](https://wordpress-faq.com/error/) — 36 articles
+- [Errors](https://wordpress-faq.com/error/) — 37 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 118 articles
 - [Reviews](https://wordpress-faq.com/review/) — 44 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 185 articles
@@ -175,6 +175,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing Elementor Fatal Errors in WordPress](https://wordpress-faq.com/error/elementor-fatal-error/) — Most Elementor fatal errors are caused by plugin conflicts or outdated versions, which can be resolved by deactivating plugins or rolling back updates.
 - [Fixing Hello Elementor and Plugin Fatal Errors](https://wordpress-faq.com/error/elementor-hello-elementor-fatal-error/) — Fatal errors are typically caused by plugin conflicts or corrupted files, which can be resolved by updating plugins or performing a clean reinstallation.
 - [Fixing Hello Elementor Not Working in WordPress](https://wordpress-faq.com/error/hello-elementor-wordpress-error/) — Most rendering issues with Hello Elementor are caused by server-side caching conflicts on shared hosting environments.
+- [Fixing Ninja Forms Fatal Errors in WordPress](https://wordpress-faq.com/error/ninja-forms-fatal-error/) — Fatal errors in Ninja Forms are typically resolved by manually removing the plugin directory via FTP or file manager to regain site access.
 - [Fixing the WordPress White Screen of Death](https://wordpress-faq.com/error/wordpress-white-screen-of-death-fix/) — The White Screen of Death is typically caused by plugin conflicts, theme errors, or memory limits, and is best resolved by enabling WP_DEBUG to identify the root cause.
 - [Fixing WordPress Core Web Vitals: LCP Optimization Guide](https://wordpress-faq.com/howto/wordpress-core-web-vitals-fix/) — Community consensus suggests prioritizing image optimization, removing lazy-loading from hero elements, and avoiding conflicting performance plugins.
 - [Fixing WordPress Database Connection Errors in Docker](https://wordpress-faq.com/error/database-error-docker/) — Database connection errors in Docker are typically caused by using localhost instead of the container service name in wp-config.php.
