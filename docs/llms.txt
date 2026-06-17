@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 120 articles
 - [Errors](https://wordpress-faq.com/error/) — 40 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 119 articles
 - [Reviews](https://wordpress-faq.com/review/) — 44 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 185 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 34 articles
@@ -123,6 +123,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Easy Digital Downloads Review and Performance Analysis](https://wordpress-faq.com/review/easy-digital-downloads-review/) — Easy Digital Downloads is widely considered a stable and reliable plugin for managing digital product sales on WordPress.
 - [Easy Digital Downloads Troubleshooting and Common Errors](https://wordpress-faq.com/error/easy-digital-downloads-troubleshooting/) — Most Easy Digital Downloads issues are resolved by verifying file upload paths or contacting official plugin support for specific configuration errors.
 - [Easy Digital Downloads vs WooCommerce Comparison](https://wordpress-faq.com/comparison/easy-digital-downloads-woocommerce/) — WooCommerce is a versatile all-in-one solution, whereas Easy Digital Downloads is a specialized, lightweight tool built specifically for digital goods.
+- [Easy Digital Downloads WordPress Conflict Troubleshooting](https://wordpress-faq.com/compatibility/easy-digital-downloads-wordpress-conflict/) — Most conflicts arise from theme-specific overrides or outdated plugin versions that interfere with the core Easy Digital Downloads checkout process.
 - [Elementor & All-in-One WP Security Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-security-elementor/) — Elementor and All-in-One WP Security are compatible, but aggressive firewall settings may block Elementor's editor, requiring rule adjustments.
 - [Elementor 3.26 Released: AI Features and Loop Builder Improvements](https://wordpress-faq.com/news/elementor-3-26-released/) — Elementor 3.26 is mostly welcomed for loop builder improvements, but the community has concerns about AI features being enabled by default and data-sharing implications.
 - [Elementor and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-elementor/) — Elementor and All in One SEO (AIOSEO) are fully compatible, allowing users to optimize SEO settings directly within the Elementor editor interface.
