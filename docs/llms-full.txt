@@ -4817,6 +4817,30 @@ Reddit Sources Built a free URL shortener plugin (unlimited links, keeps your ow
 
 ---
 title: How to Add an Admin User to WordPress
+url: https://wordpress-faq.com/howto/wordpress-admin-user-creation/
+date: 2026-07-02
+lastmod: 2026-07-02
+verdict: Adding an admin user is best performed via the WordPress dashboard Users menu for security and ease of use.
+confidence: low
+sources: 3
+schema_type: HowTo
+tags: security, permissions, login
+faq:
+  - q: How do I add a new admin user in WordPress?
+    a: Navigate to Users > Add New in your dashboard, enter the user details, and select the Administrator role from the dropdown menu.
+  - q: Can I add an admin user via the database?
+    a: Yes, you can add a user via phpMyAdmin by inserting records into the wp_users and wp_usermeta tables, though this is for advanced users.
+Adding an admin user is best performed via the WordPress dashboard Users menu for security and ease of use. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Incorrect user role assignment Database permission errors Plugin conflicts during user creation Community Q&amp;A How do I add a new admin user in WordPress?
+Navigate to Users &gt; Add New in your dashboard, enter the user details, and select the Administrator role from the dropdown menu.
+Can I add an admin user via the database?
+Yes, you can add a user via phpMyAdmin by inserting records into the wp_users and wp_usermeta tables, though this is for advanced users.
+Reddit Sources WooCommerce Quick Set-Up | 46+ Essential Checklist (Own Workflow) (r/woocommerce) WooCommerce Products always saving as Simple Product (can’t change product type) (r/woocommerce) WooCommerce Setup Wizard gets stuck at Store Details (r/woocommerce)
+---
+
+---
+title: How to Add an Admin User to WordPress
 url: https://wordpress-faq.com/howto/add-admin-user-wordpress/
 date: 2026-06-01
 lastmod: 2026-06-01
