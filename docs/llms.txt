@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 35 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 36 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 8 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 120 articles
 - [Errors](https://wordpress-faq.com/error/) — 40 articles
@@ -387,6 +387,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [SEOPress Plugin Review and Performance Analysis](https://wordpress-faq.com/review/seopress-review/) — SEOPress is widely considered a powerful, lightweight, and cost-effective alternative to other major SEO plugins for WordPress users.
 - [Setting Up Continuous Deployment for WordPress](https://wordpress-faq.com/howto/wordpress-continuous-deployment-setup/) — Automating WordPress deployments via CI/CD pipelines significantly reduces human error and speeds up the release cycle for professional teams.
 - [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dedicated-shared-vps-hosting/) — Shared hosting is ideal for small sites, while VPS and dedicated servers offer the necessary resources and control for high-traffic professional websites.
+- [Shopify vs WooCommerce: Ecommerce Platform Comparison](https://wordpress-faq.com/comparison/shopify-woocommerce-comparison/) — Shopify is best for users seeking a simple, turnkey solution, while WooCommerce is preferred for those requiring full control and flexibility.
 - [Sucuri vs Wordfence Security Plugin Review](https://wordpress-faq.com/review/sucuri-wordfence/) — Wordfence is generally preferred for ease of use, while server-level blocking is considered more efficient for high-traffic sites.
 - [SureCart and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/) — Running SureCart and WooCommerce in parallel is not recommended due to significant shop page and theme conflicts.
 - [Troubleshooting All in One SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/all-in-one-seo-conflict/) — Conflicts are typically resolved by flushing permalinks, checking for plugin overlaps, or rolling back to a stable version if a recent update is buggy.
