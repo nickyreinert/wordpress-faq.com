@@ -12,8 +12,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 122 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 189 articles
+- [Reviews](https://wordpress-faq.com/review/) — 45 articles
 - [Errors](https://wordpress-faq.com/error/) — 40 articles
-- [Reviews](https://wordpress-faq.com/review/) — 44 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [Themes](https://wordpress-faq.com/theme/) — 4 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
@@ -64,6 +64,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Themes for Blogs: Performance and Flexibility](https://wordpress-faq.com/theme/best-wordpress-themes-blogs/) — The community recommends using lightweight, multipurpose themes like GeneratePress, Astra, or Blocksy rather than niche-specific blog themes.
 - [Best WordPress Themes for Business Websites](https://wordpress-faq.com/theme/best-wordpress-business-themes/) — Community consensus favors lightweight block themes and full site editing over heavy page builders for better performance and SEO results.
 - [Best WordPress Themes for Portfolio Sites](https://wordpress-faq.com/theme/best-wordpress-themes-portfolio/) — Community consensus suggests using lightweight builders like Bricks or starter themes like Underscores for maximum flexibility and clean code.
+- [Best WordPress Themes for Portfolio Websites](https://wordpress-faq.com/review/best-wordpress-portfolio-themes/) — The community recommends using lightweight, high-performance builders like Bricks or Kadence for modern, clean portfolio development.
 - [Blocksy and Elementor Compatibility and Conflicts](https://wordpress-faq.com/compatibility/blocksy-elementor-conflict/) — Blocksy is generally compatible with Elementor, though specific layout or editor conflicts can usually be resolved by regenerating CSS or plugin settings.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
 - [Blocksy and WooCommerce Cart and Checkout Block Issues](https://wordpress-faq.com/compatibility/blocksy-woocommerce-compatibility/) — Most issues with Blocksy and WooCommerce blocks are resolved by checking language settings or manually updating block titles in the editor.
