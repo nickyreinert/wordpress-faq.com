@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 36 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 37 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 8 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 187 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 120 articles
@@ -54,6 +54,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/compatibility/woocommerce-payment-gateways/) — The community consensus is that local payment providers and Cash on Delivery are the most effective options for regional WooCommerce stores.
 - [Best WordPress Backup Plugin: Community Recommendations](https://wordpress-faq.com/review/best-wordpress-backup-plugin/) — The community consensus is that automated, off-site backups are the most reliable method for protecting WordPress site data against catastrophic loss.
 - [Best WordPress Caching Plugins: Performance and Optimization](https://wordpress-faq.com/comparison/wordpress-caching-plugins/) — LiteSpeed Cache is widely considered the most effective caching solution for WordPress when paired with proper server-side object caching.
+- [Best WordPress Caching Plugins: Performance Comparison](https://wordpress-faq.com/comparison/best-wordpress-caching-plugins/) — LiteSpeed Cache is widely recommended for its comprehensive feature set, including object caching and minification, provided your server supports it.
 - [Best WordPress Hosting 2025: Managed vs Unmanaged Options](https://wordpress-faq.com/hosting/best-wordpress-hosting-2025/) — Community consensus suggests Cloudways for managed ease and DigitalOcean for cost-effective performance if you have server management skills.
 - [Best WordPress Hosting for Small Business Guide](https://wordpress-faq.com/hosting/best-wordpress-hosting-small-business/) — Managed cloud hosting providers are recommended over shared plans for better scalability and performance in small business WooCommerce environments.
 - [Best WordPress Page Builder for WooCommerce 2025](https://wordpress-faq.com/comparison/bricks-woocommerce-page-builder/) — Bricks Builder is the community favorite for high-performance WooCommerce sites requiring advanced animations and AJAX functionality.
