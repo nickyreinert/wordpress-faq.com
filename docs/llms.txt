@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Comparisons](https://wordpress-faq.com/comparison/) — 40 articles
+- [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 123 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 191 articles
@@ -474,6 +474,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress vs Squarespace: Platform Comparison](https://wordpress-faq.com/comparison/squarespace-wordpress/) — WordPress offers superior control and scalability for advanced users, while Squarespace provides a simpler, managed experience for beginners.
 - [WordPress vs Website Builder: Choosing the Right Platform](https://wordpress-faq.com/comparison/website-builder-vs-wordpress/) — WordPress offers superior control and scalability for those willing to manage technical tasks, while website builders provide easier, turnkey solutions.
 - [WordPress vs Wix: Platform Comparison](https://wordpress-faq.com/comparison/wordpress-wix/) — WordPress is generally considered superior for long-term scalability and SEO, while Wix is preferred for beginners seeking a simple, turnkey solution.
+- [WordPress vs Wix: Which CMS is Better for Your Website?](https://wordpress-faq.com/comparison/wordpress-wix-comparison/) — WordPress is better for scalability and control, while Wix is preferred for users seeking a simplified, all-in-one website building experience.
 - [WordPress.com vs WordPress.org: Key Differences Explained](https://wordpress-faq.com/comparison/wordpress-com-vs-wordpress-org/) — WordPress.org provides self-hosted software for total control, whereas WordPress.com is a managed hosting service with limited customization.
 - [WP Mail SMTP Plugin Review and Configuration Guide](https://wordpress-faq.com/review/wp-mail-smtp-review/) — WP Mail SMTP is a highly effective solution for WordPress email delivery provided that the SMTP configuration settings are correctly authenticated.
 - [WP Rocket Review: Is It Worth the Cost?](https://wordpress-faq.com/review/wp-rocket-review/) — WP Rocket is considered a worthwhile investment for performance optimization despite the availability of free alternatives.
