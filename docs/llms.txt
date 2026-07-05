@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Howtos](https://wordpress-faq.com/howto/) — 188 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 37 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 8 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 187 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 120 articles
 - [Errors](https://wordpress-faq.com/error/) — 40 articles
 - [Reviews](https://wordpress-faq.com/review/) — 44 articles
@@ -222,6 +222,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Change Your WordPress Domain URL](https://wordpress-faq.com/howto/wordpress-domain-url-change/) — Changing a WordPress domain requires updating site settings, moving files, and performing a database search-and-replace to ensure all links function.
 - [How to Choose a Domain Name for WordPress](https://wordpress-faq.com/howto/choosing-wordpress-domain-name/) — Choose a short, memorable, and brandable domain name that avoids hyphens and uses a reputable registrar for long-term stability and SEO success.
 - [How to Choose a WordPress Theme](https://wordpress-faq.com/howto/choosing-wordpress-theme/) — Community consensus suggests prioritizing lightweight, stable themes like Astra or Enfold over feature-bloated options to ensure better site performance.
+- [How to Choose a WordPress Theme for Your Website](https://wordpress-faq.com/howto/how-to-choose-wordpress-theme/) — Prioritize block-based themes that offer clean code and avoid unnecessary bloat to ensure long-term site performance and easier maintenance.
 - [How to Choose the Right WordPress Plugins for Your Website](https://wordpress-faq.com/howto/choosing-wordpress-plugins/) — Prioritize plugins that are actively maintained, lightweight, and essential to your site's core functionality to avoid performance degradation.
 - [How to Choose WordPress Hosting](https://wordpress-faq.com/hosting/wordpress-hosting-selection/) — Choose a host based on your specific traffic needs, support quality, and technical requirements rather than just the lowest price point.
 - [How to Choose WordPress Hosting: A Practical Guide](https://wordpress-faq.com/hosting/choosing-wordpress-hosting/) — Community consensus suggests prioritizing managed hosting providers that offer reliable support, automated backups, and robust security features.
