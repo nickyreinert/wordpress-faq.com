@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 40 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 123 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 189 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 190 articles
 - [Reviews](https://wordpress-faq.com/review/) — 45 articles
 - [Themes](https://wordpress-faq.com/theme/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 40 articles
@@ -356,6 +356,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Yoast SEO in WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-setup/) — Yoast SEO is a highly effective tool for managing on-page optimization and technical SEO settings for WordPress websites.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
+- [How to Speed Up Your WordPress Site: Performance Guide](https://wordpress-faq.com/howto/speed-up-wordpress-site/) — Community consensus suggests that switching to high-quality hosting and avoiding heavy page builders are the most effective ways to improve speed.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-integration/) — Using a CDN like Cloudflare or BunnyCDN is the most effective way to improve global site speed and reduce strain on your primary hosting server.
 - [How to Use the WordPress REST API for Integration](https://wordpress-faq.com/howto/wordpress-rest-api/) — The WordPress REST API is a powerful tool for developers to programmatically manage orders and sync external data with WooCommerce stores.
 - [How to Use WordPress Hooks and Filters](https://wordpress-faq.com/howto/wordpress-hooks-filters-guide/) — Hooks and filters are the essential foundation for extending WordPress functionality without modifying core files directly.
