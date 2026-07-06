@@ -8929,6 +8929,30 @@ Reddit Sources The Ultimate WordPress Pagespeed Guide (r/ProWordPress) WordPress
 
 ---
 title: How to Use a CDN with WordPress for Better Performance
+url: https://wordpress-faq.com/howto/cdn-wordpress-optimization/
+date: 2026-07-06
+lastmod: 2026-07-06
+verdict: Using a CDN is highly recommended for reducing latency and improving global load times for WordPress websites.
+confidence: low
+sources: 2
+schema_type: HowTo
+tags: cdn, performance, caching, images, speed
+faq:
+  - q: How does a CDN improve WordPress speed?
+    a: A CDN stores copies of your site's static files on servers worldwide, serving them from the location closest to the visitor to reduce latency.
+  - q: Do I need a caching plugin if I use a CDN?
+    a: Yes, a caching plugin handles server-side optimization, while the CDN handles the delivery of static assets to the end user.
+Using a CDN is highly recommended for reducing latency and improving global load times for WordPress websites. Based on 2 community reports.
+Linked sources: 2.
+Known Issues Improper configuration can lead to broken image paths Conflicts with existing caching plugins SSL certificate mismatches on custom domains Community Q&amp;A How does a CDN improve WordPress speed?
+A CDN stores copies of your site&rsquo;s static files on servers worldwide, serving them from the location closest to the visitor to reduce latency.
+Do I need a caching plugin if I use a CDN?
+Yes, a caching plugin handles server-side optimization, while the CDN handles the delivery of static assets to the end user.
+Reddit Sources [DISCUSSION] My Image optimisation and delivery plugin concept, thoughts and feedback please (r/WordpressPlugins) [Help] slow website (r/WordpressPlugins)
+---
+
+---
+title: How to Use a CDN with WordPress for Better Performance
 url: https://wordpress-faq.com/howto/cdn-wordpress-integration/
 date: 2026-06-02
 lastmod: 2026-06-02
