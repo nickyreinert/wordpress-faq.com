@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 193 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 194 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 123 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
@@ -198,6 +198,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fluent Forms Review: Features and Lead Capture Capabilities](https://wordpress-faq.com/review/fluent-forms-review/) — Fluent Forms is widely regarded as a robust and efficient solution for capturing leads and managing form submissions within the WordPress ecosystem.
 - [Free vs Premium WordPress Plugins: Are They Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/) — Premium plugins are generally worth the investment for professional support and advanced features, though free versions often suffice for basic needs.
 - [Free vs Premium WordPress Themes: Is It Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-themes/) — Premium themes generally offer better support and advanced features, but free themes are often sufficient for simple, lightweight website projects.
+- [Full Site Editing and Gutenberg in WordPress Explained](https://wordpress-faq.com/howto/gutenberg-wordpress-full-site-editing/) — Gutenberg is the core block-based editor for WordPress that has evolved into a comprehensive Full Site Editing experience for modern web design.
 - [Full Site Editing in WordPress Explained](https://wordpress-faq.com/howto/full-site-editing-wordpress/) — Full Site Editing provides a block-based approach to theme customization that replaces traditional customizers for modern WordPress users.
 - [GeneratePress Review: Performance and Customization Analysis](https://wordpress-faq.com/review/generatepress-review/) — GeneratePress is highly regarded for its clean code, performance, and developer-friendly hooks, though it has a steeper learning curve than Astra.
 - [Gravity Forms Email Delivery and SMTP Conflicts](https://wordpress-faq.com/error/gravity-forms-smtp-conflict/) — Gravity Forms requires a dedicated SMTP plugin to bypass server-side email restrictions when using external providers like Office 365.
