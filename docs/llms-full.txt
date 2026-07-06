@@ -6097,6 +6097,38 @@ Reddit Sources The complete guide to diagnosing WordPress plugin conflicts (for 
 
 ---
 title: How to Fix a Hacked WordPress Site
+url: https://wordpress-faq.com/howto/wordpress-hacked-fix/
+date: 2026-07-06
+lastmod: 2026-07-06
+verdict: Cleaning a hacked site requires removing malicious files, updating all software, and securing server-level access points like FTP and cPanel.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: security, hosting, login, permissions, database
+faq:
+  - q: How do I find malicious files on my WordPress site?
+    a: Scan your wp-content/uploads directory for suspicious PHP files and check your database for unusual serialized strings in the wp_options table.
+  - q: Why does my WordPress site keep getting hacked?
+    a: Often due to outdated plugins, weak server passwords, or compromised FTP/cPanel access that allows hackers to re-upload malicious scripts.
+  - q: What security plugins help clean a hacked WordPress site?
+    a: Tools like Wordfence, iThemes Security, Sucuri, and Ninja Firewall are recommended for scanning and hardening your WordPress installation.
+  - q: Should I change my passwords after a hack?
+    a: Yes, immediately reset all WordPress admin passwords, FTP/SFTP credentials, and database passwords to lock out unauthorized users.
+Cleaning a hacked site requires removing malicious files, updating all software, and securing server-level access points like FTP and cPanel. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Persistent reinfection via hidden files Backdoor scripts in wp-content/uploads Compromised FTP or cPanel credentials Community Q&amp;A How do I find malicious files on my WordPress site?
+Scan your wp-content/uploads directory for suspicious PHP files and check your database for unusual serialized strings in the wp_options table.
+Why does my WordPress site keep getting hacked?
+Often due to outdated plugins, weak server passwords, or compromised FTP/cPanel access that allows hackers to re-upload malicious scripts.
+What security plugins help clean a hacked WordPress site?
+Tools like Wordfence, iThemes Security, Sucuri, and Ninja Firewall are recommended for scanning and hardening your WordPress installation.
+Should I change my passwords after a hack?
+Yes, immediately reset all WordPress admin passwords, FTP/SFTP credentials, and database passwords to lock out unauthorized users.
+Reddit Sources Bogus Google results for our company. Appear to be for our website but actually link to a dodgy drug company website. (r/webdev) Advice for a wordpress noob (r/webdev) Browser Compatibility (r/webdev) Plugin folders keep appearing even after deleting them manually (r/ProWordPress) Migrating Joomla to Wordpress and keeping SEO ranking. Is it Possible? (r/webdev) wp-config.php kept getting hacked AND even read-only didn’t stop it 😳 (r/webdev) New to freelancing web development, first job offer is a client Joomla! site that got hacked. I need some help figuring out how to get this project started. (r/webdev) Wordpress is going to be the death of beautiful web development. (r/webdev)
+---
+
+---
+title: How to Fix a Hacked WordPress Site
 url: https://wordpress-faq.com/error/fix-hacked-wordpress-site/
 date: 2026-06-02
 lastmod: 2026-06-02

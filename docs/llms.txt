@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 192 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 193 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 123 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
@@ -251,6 +251,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Embed YouTube Videos in WordPress Efficiently](https://wordpress-faq.com/howto/embed-youtube-video-wordpress/) — Using lazy loading or dedicated plugins is the recommended approach to prevent YouTube embeds from negatively impacting your website page load speed.
 - [How to Enable Gzip Compression in WordPress](https://wordpress-faq.com/howto/enable-gzip-compression-wordpress/) — Enabling Gzip compression is a highly effective way to reduce file sizes and significantly improve your WordPress website's overall loading speed.
 - [How to Enable WordPress Debug Mode for Troubleshooting](https://wordpress-faq.com/howto/wordpress-debug-mode-enable/) — Enabling WP_DEBUG in your wp-config.php file is the standard and most effective method for diagnosing critical WordPress errors and conflicts.
+- [How to Fix a Hacked WordPress Site](https://wordpress-faq.com/howto/wordpress-hacked-fix/) — Cleaning a hacked site requires removing malicious files, updating all software, and securing server-level access points like FTP and cPanel.
 - [How to Fix a Hacked WordPress Site](https://wordpress-faq.com/error/fix-hacked-wordpress-site/) — The community consensus is that most hacks stem from outdated plugins or poor hosting security, requiring a clean reinstall to fully recover.
 - [How to Fix Duplicate Content Issues in WordPress](https://wordpress-faq.com/howto/duplicate-content-wordpress/) — Duplicate content is best managed by ensuring correct site URL settings, using canonical tags, and performing database search-replace operations.
 - [How to Fix WordPress 500 Internal Server Error](https://wordpress-faq.com/error/wordpress-500-internal-server-error/) — The consensus is to enable WordPress debug logging to identify the specific root cause, which is often a memory limit issue or a plugin conflict.
