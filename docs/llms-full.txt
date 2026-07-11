@@ -7236,6 +7236,34 @@ Reddit Sources Top WordPress Plugins to Make Your Site Delightful [FREEMIUM] (r/
 ---
 
 ---
+title: How to Optimize WordPress Images for SEO
+url: https://wordpress-faq.com/howto/wordpress-image-seo-optimization/
+date: 2026-07-11
+lastmod: 2026-07-11
+verdict: Optimizing images requires a combination of proper compression, descriptive alt tags, and modern file formats to ensure both speed and accessibility.
+confidence: low
+sources: 2
+schema_type: HowTo
+tags: seo, performance, images, speed
+faq:
+  - q: How do I optimize images for WordPress SEO?
+    a: Use descriptive filenames, add relevant alt text, compress images before uploading, and serve them in next-gen formats like WebP.
+  - q: Does image size affect WordPress SEO?
+    a: Yes, large image files increase page load times, which is a negative ranking factor for Google's Core Web Vitals.
+  - q: What is the best file format for WordPress images?
+    a: WebP is generally recommended for the best balance between high image quality and small file size, followed by optimized JPEG or PNG.
+Optimizing images requires a combination of proper compression, descriptive alt tags, and modern file formats to ensure both speed and accessibility. Based on 2 community reports.
+Linked sources: 2.
+Known Issues Over-compression causing visual quality loss Missing alt text affecting accessibility Large file sizes slowing down page load times Community Q&amp;A How do I optimize images for WordPress SEO?
+Use descriptive filenames, add relevant alt text, compress images before uploading, and serve them in next-gen formats like WebP.
+Does image size affect WordPress SEO?
+Yes, large image files increase page load times, which is a negative ranking factor for Google&rsquo;s Core Web Vitals.
+What is the best file format for WordPress images?
+WebP is generally recommended for the best balance between high image quality and small file size, followed by optimized JPEG or PNG.
+Reddit Sources The Ultimate WordPress Pagespeed Guide (r/ProWordPress) [FREE] Top 3 Free plugins for Wordpress SEO (r/WordpressPlugins)
+---
+
+---
 title: How to Optimize WordPress Images for SEO and Performance
 url: https://wordpress-faq.com/howto/optimize-wordpress-images-seo/
 date: 2026-06-02
