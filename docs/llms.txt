@@ -9,12 +9,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
+- [Errors](https://wordpress-faq.com/error/) — 41 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 198 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Themes](https://wordpress-faq.com/theme/) — 5 articles
-- [Errors](https://wordpress-faq.com/error/) — 40 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
 
@@ -427,6 +427,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting WooCommerce and WordPress Issues](https://wordpress-faq.com/error/woocommerce-wordpress-troubleshooting/) — Community consensus suggests that most WooCommerce issues stem from plugin conflicts or database bottlenecks rather than core software failures.
 - [Troubleshooting WooCommerce and WordPress Plugin Conflicts](https://wordpress-faq.com/compatibility/woocommerce-wordpress-conflict/) — Most WooCommerce conflicts are resolved by enabling WP_DEBUG, resetting permalinks, or identifying caching plugin incompatibilities.
 - [Troubleshooting WooCommerce Checkout Issues](https://wordpress-faq.com/error/woocommerce-checkout-error/) — Checkout failures are typically caused by theme block conflicts, plugin incompatibilities, or improper caching of the checkout page flow.
+- [Troubleshooting WooCommerce Product Variations](https://wordpress-faq.com/error/woocommerce-product-variations/) — Most variation errors are caused by missing price data or attribute mismatches rather than technical bugs or caching issues.
 - [Troubleshooting WordPress Failed to Open Stream Errors](https://wordpress-faq.com/error/wordpress-failed-to-open-stream/) — The error is typically caused by missing core files or incorrect file permissions, which can be resolved by re-uploading files or resetting permissions.
 - [Troubleshooting WPForms Fatal Errors in WordPress](https://wordpress-faq.com/error/wpforms-fatal-error/) — Fatal errors in WPForms are typically caused by plugin conflicts or incorrect database queries, which can be resolved by disabling the plugin via FTP.
 - [Troubleshooting WPForms Not Working in WordPress](https://wordpress-faq.com/compatibility/wpforms-compatibility/) — WPForms issues are typically caused by plugin conflicts, caching layers, or server-side security restrictions blocking form submission requests.
