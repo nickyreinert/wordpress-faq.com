@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 203 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 204 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Themes](https://wordpress-faq.com/theme/) — 5 articles
@@ -246,6 +246,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Create a Membership Site in WordPress](https://wordpress-faq.com/howto/membership-wordpress-howto/) — The community recommends using dedicated membership plugins to manage user roles and restrict content access rather than building from scratch.
 - [How to Create a WordPress Child Theme](https://wordpress-faq.com/howto/wordpress-child-theme-creation/) — Creating a child theme is the industry-standard practice for safely modifying theme files without losing customizations during future updates.
 - [How to Create a WordPress Landing Page](https://wordpress-faq.com/howto/wordpress-landing-page-creation/) — The community recommends using dedicated page builders or block themes to maintain design control while keeping content separate from site templates.
+- [How to Create a WordPress Plugin from Scratch](https://wordpress-faq.com/howto/wordpress-plugin-development-guide/) — Creating a custom plugin requires a basic understanding of PHP, the WordPress Plugin API, and maintaining clean, lightweight code for performance.
 - [How to Create a WordPress Plugin from Scratch](https://wordpress-faq.com/howto/wordpress-plugin-development/) — Developing custom plugins requires a solid understanding of PHP, WordPress hooks, and secure coding practices to ensure site stability and performance.
 - [How to Create a WordPress Staging Site](https://wordpress-faq.com/howto/wordpress-staging-site-creation/) — Creating a staging site is essential for testing plugin conflicts and configuration changes before pushing them to your live production environment.
 - [How to Create an Online Course in WordPress](https://wordpress-faq.com/howto/create-online-course-wordpress/) — The community consensus is to use LearnPress for course functionality integrated with WooCommerce for payment processing.
