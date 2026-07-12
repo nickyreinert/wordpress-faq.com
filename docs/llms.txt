@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 202 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
-- [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Themes](https://wordpress-faq.com/theme/) — 5 articles
 - [Versions](https://wordpress-faq.com/version/) — 3 articles
@@ -53,6 +53,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/comparison/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best Premium WordPress Themes Guide](https://wordpress-faq.com/comparison/best-premium-wordpress-themes/) — Premium themes are best chosen based on code quality, support availability, and specific feature requirements rather than just visual aesthetics.
+- [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/comparison/woocommerce-payment-gateways/) — Stripe and PayPal are widely considered the most reliable and feature-rich payment gateways for WooCommerce stores.
 - [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/compatibility/woocommerce-payment-gateways/) — The community consensus is that local payment providers and Cash on Delivery are the most effective options for regional WooCommerce stores.
 - [Best WordPress Backup Plugin: Community Recommendations](https://wordpress-faq.com/review/best-wordpress-backup-plugin/) — The community consensus is that automated, off-site backups are the most reliable method for protecting WordPress site data against catastrophic loss.
 - [Best WordPress Caching Plugins: Performance and Optimization](https://wordpress-faq.com/comparison/wordpress-caching-plugins/) — LiteSpeed Cache is widely considered the most effective caching solution for WordPress when paired with proper server-side object caching.
