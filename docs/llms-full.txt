@@ -6561,6 +6561,34 @@ Reddit Sources est way to migrate ~70 content pages from Squarespace to WordPres
 
 ---
 title: How to Improve WordPress Page Speed Scores
+url: https://wordpress-faq.com/howto/improve-wordpress-page-speed/
+date: 2026-07-12
+lastmod: 2026-07-12
+verdict: Community consensus suggests prioritizing Core Web Vitals by minimizing heavy plugins and implementing lazy loading rather than obsessing over scores.
+confidence: low
+sources: 3
+schema_type: HowTo
+tags: performance, speed, caching, images, seo
+faq:
+  - q: How can I improve my WordPress page speed score?
+    a: Start by deactivating unnecessary plugins, implementing lazy loading for images, and using minification tools for your CSS and JavaScript files.
+  - q: Do plugins affect WordPress site speed?
+    a: Yes, some plugins can significantly impact load times. It is recommended to test your site performance by deactivating plugins to identify bottlenecks.
+  - q: Should I obsess over Google Lighthouse scores?
+    a: While important for SEO, focus on real-world user experience and Core Web Vitals rather than chasing a perfect score at the expense of functionality.
+Community consensus suggests prioritizing Core Web Vitals by minimizing heavy plugins and implementing lazy loading rather than obsessing over scores. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Over-reliance on optimization plugins Impact of carousels on performance Misinterpretation of Lighthouse metrics Community Q&amp;A How can I improve my WordPress page speed score?
+Start by deactivating unnecessary plugins, implementing lazy loading for images, and using minification tools for your CSS and JavaScript files.
+Do plugins affect WordPress site speed?
+Yes, some plugins can significantly impact load times. It is recommended to test your site performance by deactivating plugins to identify bottlenecks.
+Should I obsess over Google Lighthouse scores?
+While important for SEO, focus on real-world user experience and Core Web Vitals rather than chasing a perfect score at the expense of functionality.
+Reddit Sources Do we really need to care/obsess about Lighthouse scores? (r/webdev) How to improve Google Page Speed Score in WordPress without Plugins? (r/webdev) Site is loading SO slowly - what is causing it? (r/webdev)
+---
+
+---
+title: How to Improve WordPress Page Speed Scores
 url: https://wordpress-faq.com/howto/wordpress-page-speed-optimization/
 date: 2026-06-02
 lastmod: 2026-06-02
