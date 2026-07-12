@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 124 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 197 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 123 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Themes](https://wordpress-faq.com/theme/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 40 articles
@@ -453,6 +453,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress and WooCommerce Performance Optimization Guide](https://wordpress-faq.com/compatibility/wordpress-woocommerce-performance/) — Performance issues in WooCommerce are typically caused by poor server configuration or plugin bloat rather than the core software itself.
 - [WordPress Blocks vs Shortcodes: Key Differences Explained](https://wordpress-faq.com/comparison/gutenberg-shortcodes/) — Blocks are the modern, visual standard for WordPress content, while shortcodes are considered legacy tools for simple dynamic functionality.
+- [WordPress Brute Force Protection: Best Practices](https://wordpress-faq.com/compatibility/wordpress-brute-force-protection/) — Community consensus favors lightweight, modular security plugins that utilize server-level blocking to minimize performance impact on WordPress sites.
 - [WordPress Brute Force Protection: Best Practices](https://wordpress-faq.com/howto/wordpress-brute-force-protection/) — Community consensus suggests combining a robust WAF like Cloudflare with dedicated security plugins for 2FA and login rate limiting to stop attacks.
 - [WordPress Caching Explained: Performance and Speed Basics](https://wordpress-faq.com/howto/wordpress-caching-explained/) — Caching is a critical performance optimization that stores static versions of your site to significantly reduce page load times for visitors.
 - [WordPress Core Updates and Version Compatibility](https://wordpress-faq.com/version/wordpress-core-update/) — Keeping WordPress core and PHP versions updated is essential for site security and preventing critical plugin compatibility errors.
