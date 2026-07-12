@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 196 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 197 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 123 articles
@@ -457,6 +457,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Caching Explained: Performance and Speed Basics](https://wordpress-faq.com/howto/wordpress-caching-explained/) — Caching is a critical performance optimization that stores static versions of your site to significantly reduce page load times for visitors.
 - [WordPress Core Updates and Version Compatibility](https://wordpress-faq.com/version/wordpress-core-update/) — Keeping WordPress core and PHP versions updated is essential for site security and preventing critical plugin compatibility errors.
 - [WordPress Database Optimization and Performance Guide](https://wordpress-faq.com/howto/wordpress-database-optimization/) — Community consensus suggests that database performance is best improved by optimizing data architecture and implementing object caching like Redis.
+- [WordPress Database Optimization Best Practices](https://wordpress-faq.com/howto/database-optimization/) — Regular database cleanup and indexing are essential for maintaining optimal WordPress site performance and preventing long-term bloat issues.
 - [WordPress File Permissions and Security Best Practices](https://wordpress-faq.com/error/wordpress-file-permissions/) — Standard WordPress file permissions should be set to 755 for directories and 644 for files to ensure optimal security and functionality.
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress Freelance Business Tips and Pricing Strategies](https://wordpress-faq.com/howto/wordpress-freelance-business-tips/) — Community consensus suggests charging flat fees for projects while maintaining high hourly rates for maintenance to ensure professional credibility.
