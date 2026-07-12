@@ -5172,6 +5172,34 @@ Reddit Sources Built a complete 3D product configurator system for WordPress/Woo
 ---
 
 ---
+title: How to Add and Enable Custom Post Types in WordPress
+url: https://wordpress-faq.com/howto/custom-post-type-wordpress/
+date: 2026-07-12
+lastmod: 2026-07-12
+verdict: Using code in functions.php or ACF is preferred over heavy plugins for better site performance and long-term maintainability.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: gutenberg, database, performance, shortcodes
+faq:
+  - q: How do I enable Gutenberg for an existing custom post type?
+    a: You can use the register_post_type_args filter in your functions.php file to set 'show_in_rest' to true for your specific post type slug.
+  - q: Should I use a plugin to create custom post types?
+    a: While plugins like ACF are excellent for custom fields, you can register post types manually in functions.php to keep your site lightweight.
+  - q: Can I use custom post types for calendar events?
+    a: Yes, but be aware that handling time zones and recurring events manually can be complex compared to using a dedicated events plugin.
+Using code in functions.php or ACF is preferred over heavy plugins for better site performance and long-term maintainability. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Gutenberg editor not appearing on custom post types Conflict with existing theme registration Complexity of time zone handling for event-based CPTs Community Q&amp;A How do I enable Gutenberg for an existing custom post type?
+You can use the register_post_type_args filter in your functions.php file to set &lsquo;show_in_rest&rsquo; to true for your specific post type slug.
+Should I use a plugin to create custom post types?
+While plugins like ACF are excellent for custom fields, you can register post types manually in functions.php to keep your site lightweight.
+Can I use custom post types for calendar events?
+Yes, but be aware that handling time zones and recurring events manually can be complex compared to using a dedicated events plugin.
+Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s how the calendar grid works. (r/Wordpress) WordPress Plugin Development help (r/Wordpress) Enabling Gutenberg (Block Editor) with custom post type from old theme (r/Wordpress) Wordpress Text Variables or Snippets (r/Wordpress) WordPress custom AJAX form submits silently — no email sent, no console errors (r/Wordpress) Adding FAQ schema for AI search engines on WordPress: the actual workflow (no plugins) (r/Wordpress) I asked for help in the elementor community already but im just trying to see if someone here has a better solution.. (r/Wordpress) Notification for Telegram is now MCP-Compatible — Let AI Agents Send Telegram Messages from WordPress (r/Wordpress)
+---
+
+---
 title: How to Add Custom Checkout Fields in WooCommerce
 url: https://wordpress-faq.com/howto/custom-checkout-fields-woocommerce/
 date: 2026-07-12

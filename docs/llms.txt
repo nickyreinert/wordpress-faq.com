@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 202 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 203 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Themes](https://wordpress-faq.com/theme/) — 5 articles
@@ -218,6 +218,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Affiliate Links in WordPress](https://wordpress-faq.com/howto/affiliate-links-wordpress/) — Adding affiliate links can be done manually via redirects or by using specialized plugins for tracking, link cloaking, and automated product boxes.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/wordpress-admin-user-creation/) — Adding an admin user is best performed via the WordPress dashboard Users menu for security and ease of use.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard to ensure proper user role assignment and database integrity.
+- [How to Add and Enable Custom Post Types in WordPress](https://wordpress-faq.com/howto/custom-post-type-wordpress/) — Using code in functions.php or ACF is preferred over heavy plugins for better site performance and long-term maintainability.
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/custom-checkout-fields-woocommerce/) — Adding custom checkout fields is best achieved through custom PHP code snippets or dedicated plugins like Checkout Field Editor for full control.
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/woocommerce-checkout-fields/) — Adding custom checkout fields is best achieved through dedicated plugins or custom code hooks within your child theme's functions.php file.
 - [How to Add Custom CSS to WordPress Safely](https://wordpress-faq.com/howto/add-custom-css-wordpress/) — The community recommends using the WordPress Customizer or a child theme to ensure your custom CSS remains intact after theme updates.
