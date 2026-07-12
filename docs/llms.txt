@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 124 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 198 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 41 articles
@@ -475,6 +475,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Performance Audit Checklist: Best Practices](https://wordpress-faq.com/howto/wordpress-performance-audit-checklist/) — Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
+- [WordPress Security Scan Tools: Best Practices and Audits](https://wordpress-faq.com/compatibility/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners are useful for basic vulnerability checks, manual server log analysis remains essential for security.
 - [WordPress SEO Basics for Beginners](https://wordpress-faq.com/howto/wordpress-seo-basics/) — Community consensus suggests using dedicated SEO plugins like RankMath or Yoast for superior control over on-page optimization compared to builders.
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/howto/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.
