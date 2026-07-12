@@ -5333,6 +5333,30 @@ Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s 
 
 ---
 title: How to Add Custom Fonts to WordPress
+url: https://wordpress-faq.com/howto/custom-fonts-wordpress/
+date: 2026-07-12
+lastmod: 2026-07-12
+verdict: The community recommends using a dedicated plugin for ease of use or CSS @font-face for better performance without adding unnecessary plugin bloat.
+confidence: low
+sources: 3
+schema_type: HowTo
+tags: performance, page-builder, speed
+faq:
+  - q: Can I add custom fonts without a plugin?
+    a: Yes, you can add custom fonts by uploading the font files to your theme folder and using the @font-face CSS rule in your stylesheet.
+  - q: Do custom fonts slow down my WordPress site?
+    a: Yes, loading multiple font files can increase page load times. It is recommended to use modern formats like WOFF2 and limit the number of weights.
+The community recommends using a dedicated plugin for ease of use or CSS @font-face for better performance without adding unnecessary plugin bloat. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Potential performance impact if too many font weights are loaded Flash of Unstyled Text (FOUT) during page load Compatibility issues with certain page builders Community Q&amp;A Can I add custom fonts without a plugin?
+Yes, you can add custom fonts by uploading the font files to your theme folder and using the @font-face CSS rule in your stylesheet.
+Do custom fonts slow down my WordPress site?
+Yes, loading multiple font files can increase page load times. It is recommended to use modern formats like WOFF2 and limit the number of weights.
+Reddit Sources Who is WordPress now for? (r/ProWordPress) I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce) The Ultimate WordPress Pagespeed Guide (r/ProWordPress)
+---
+
+---
+title: How to Add Custom Fonts to WordPress
 url: https://wordpress-faq.com/howto/wordpress-custom-fonts-guide/
 date: 2026-06-02
 lastmod: 2026-06-02
