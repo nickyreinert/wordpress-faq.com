@@ -6976,6 +6976,34 @@ Reddit Sources Which web analytics tool is considered the best nowadays? (r/Word
 ---
 
 ---
+title: How to Moderate WordPress Comments Effectively
+url: https://wordpress-faq.com/howto/wordpress-comment-moderation-guide/
+date: 2026-07-13
+lastmod: 2026-07-13
+verdict: The consensus is to use native WordPress settings combined with a dedicated anti-spam plugin like Akismet for the most efficient moderation workflow.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: security, performance, widgets
+faq:
+  - q: How do I approve comments in WordPress?
+    a: Navigate to the Comments screen in your dashboard, hover over a comment, and click Approve.
+  - q: How can I stop spam comments on my site?
+    a: Enable comment moderation settings in Discussion settings or install an anti-spam plugin like Akismet.
+  - q: Can I disable comments on specific posts?
+    a: Yes, you can uncheck 'Allow comments' in the Discussion meta box on the individual post edit screen.
+The consensus is to use native WordPress settings combined with a dedicated anti-spam plugin like Akismet for the most efficient moderation workflow. Based on 1 community reports.
+Linked sources: 1.
+Known Issues High volume of spam comments False positives in automated filters Community Q&amp;A How do I approve comments in WordPress?
+Navigate to the Comments screen in your dashboard, hover over a comment, and click Approve.
+How can I stop spam comments on my site?
+Enable comment moderation settings in Discussion settings or install an anti-spam plugin like Akismet.
+Can I disable comments on specific posts?
+Yes, you can uncheck &lsquo;Allow comments&rsquo; in the Discussion meta box on the individual post edit screen.
+Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce)
+---
+
+---
 title: How to Monetize a WordPress Blog Effectively
 url: https://wordpress-faq.com/howto/monetize-wordpress-blog/
 date: 2026-06-03
