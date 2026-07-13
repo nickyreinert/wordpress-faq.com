@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 212 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 213 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
@@ -323,6 +323,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Sell Digital Products on WordPress](https://wordpress-faq.com/howto/selling-digital-products-wordpress/) — WordPress is a powerful platform for selling digital goods, but it requires the user to manage their own hosting, security, and tax compliance.
 - [How to Set and Customize WordPress Permalink Structures](https://wordpress-faq.com/howto/wordpress-permalink-structure-guide/) — Use the built-in Post Name permalink setting for optimal SEO and stability, avoiding complex custom rewrite rules whenever possible.
 - [How to Set Up and Manage Comments in WordPress](https://wordpress-faq.com/howto/wordpress-comment-setup/) — WordPress provides native comment management tools, but most users prefer adding anti-spam plugins to maintain site security and performance.
+- [How to Set Up Comments in WordPress](https://wordpress-faq.com/howto/living-comments-ai-setup/) — Native WordPress comments are sufficient for most sites, while AI plugins are generally viewed with skepticism by the community.
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce/) — Stripe is the industry-standard payment gateway for WooCommerce, offering robust support for auth-capture and secure transaction processing.
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce-setup/) — The official WooCommerce Stripe plugin is the recommended approach, utilizing OAuth authentication for secure and reliable payment processing.
 - [How to Set Up WordPress for the First Time](https://wordpress-faq.com/howto/wordpress-setup-guide/) — Community consensus suggests prioritizing security, clear site messaging, and performance optimization from the very first installation.

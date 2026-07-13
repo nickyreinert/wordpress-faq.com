@@ -8024,6 +8024,30 @@ Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s 
 ---
 
 ---
+title: How to Set Up Comments in WordPress
+url: https://wordpress-faq.com/howto/living-comments-ai-setup/
+date: 2026-07-13
+lastmod: 2026-07-13
+verdict: Native WordPress comments are sufficient for most sites, while AI plugins are generally viewed with skepticism by the community.
+confidence: low
+sources: 2
+schema_type: HowTo
+tags: ecommerce, security, widgets
+faq:
+  - q: How do I enable comments in WordPress?
+    a: Navigate to Settings > Discussion in your WordPress dashboard and check the box labeled Allow people to submit comments on new posts.
+  - q: Are AI comment plugins recommended for WordPress?
+    a: Most community members advise against AI-generated comments as they can be flagged as spam and negatively impact user trust.
+Native WordPress comments are sufficient for most sites, while AI plugins are generally viewed with skepticism by the community. Based on 2 community reports.
+Linked sources: 2.
+Known Issues AI-generated comments may be perceived as spam Excessive plugin features can overwhelm users Community Q&amp;A How do I enable comments in WordPress?
+Navigate to Settings &gt; Discussion in your WordPress dashboard and check the box labeled Allow people to submit comments on new posts.
+Are AI comment plugins recommended for WordPress?
+Most community members advise against AI-generated comments as they can be flagged as spam and negatively impact user trust.
+Reddit Sources [FREE] shipped LolaCore 1.8.0 yesterday. wp-admin agent for woocommerce store owners and low-code admins. 66 core abilities + 91 free in the elementor addon. came here for the feedback i won&rsquo;t get anywhere else. (r/WordpressPlugins) [FREEMIUM] Revive Your Comment Section With Living Comments AI Plugin! 💬 (r/WordpressPlugins)
+---
+
+---
 title: How to Set Up Stripe in WooCommerce
 url: https://wordpress-faq.com/howto/stripe-woocommerce/
 date: 2026-07-12
