@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 218 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 219 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
@@ -387,6 +387,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Use the WordPress REST API](https://wordpress-faq.com/howto/wordpress-rest-api-usage/) — The WordPress REST API is a powerful tool for developers to interact with site data programmatically using standard HTTP requests and JSON responses.
 - [How to Use the WordPress REST API for Integration](https://wordpress-faq.com/howto/wordpress-rest-api/) — The WordPress REST API is a powerful tool for developers to programmatically manage orders and sync external data with WooCommerce stores.
 - [How to Use WordPress Hooks and Filters](https://wordpress-faq.com/howto/wordpress-hooks-filters-guide/) — Hooks and filters are the essential foundation for extending WordPress functionality without modifying core files directly.
+- [How to Use WordPress REST API](https://wordpress-faq.com/howto/wordpress-rest-api-guide/) — The WordPress REST API is a powerful tool for developers to interact with site data programmatically, though it requires careful authentication.
 - [How to Use WP_Query in WordPress](https://wordpress-faq.com/howto/wp-query-wordpress/) — Using WP_Query requires proper REST API configuration and ensuring show_in_rest is enabled for custom post types to appear in block editors.
 - [How to Use WP_Query in WordPress Effectively](https://wordpress-faq.com/howto/wordpress-wp-query-usage/) — WP_Query is the standard way to fetch WordPress content, but it should be used sparingly to avoid performance bottlenecks on large-scale websites.
 - [How to Version Control WordPress with Git](https://wordpress-faq.com/howto/git-version-control-wordpress/) — Professional WordPress developers should use Git for themes and custom code, while managing database changes via local JSON or PHP array exports.
