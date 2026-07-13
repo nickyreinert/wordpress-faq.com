@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 216 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 217 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
@@ -233,6 +233,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Google Fonts to WordPress](https://wordpress-faq.com/howto/google-fonts-wordpress-howto/) — The community recommends using a plugin or theme settings to manage Google Fonts to ensure optimal site performance and compliance with privacy laws.
 - [How to Add Schema Markup in WordPress](https://wordpress-faq.com/howto/schema-markup-wordpress/) — The community consensus is to use established SEO plugins to manage schema types per page rather than attempting manual coding for standard site structures.
 - [How to Add Schema Markup to WordPress](https://wordpress-faq.com/howto/add-schema-markup-wordpress/) — Using a dedicated SEO plugin is the most reliable way to implement schema markup without manual coding errors.
+- [How to Change WordPress Domain URL Safely](https://wordpress-faq.com/howto/wordpress-domain-url-migration/) — Updating the site URL requires careful database search-and-replace operations and proper SSL configuration to avoid broken links and redirect loops.
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/wordpress-site-title-tagline-change/) — Changes are typically made in General Settings, but SEO plugins or theme overrides may be required if the site title does not update correctly.
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/change-wordpress-site-title-tagline/) — The site title and tagline are primarily managed in General Settings, though SEO plugins often override these values for search engine results.
 - [How to Change Your WordPress Domain URL](https://wordpress-faq.com/howto/wordpress-domain-url-change/) — Changing a WordPress domain requires updating site settings, moving files, and performing a database search-and-replace to ensure all links function.

@@ -5564,6 +5564,38 @@ Reddit Sources 20-Point Checklist for WooCommerce: Speed, Security, and Sales Op
 ---
 
 ---
+title: How to Change WordPress Domain URL Safely
+url: https://wordpress-faq.com/howto/wordpress-domain-url-migration/
+date: 2026-07-13
+lastmod: 2026-07-13
+verdict: Updating the site URL requires careful database search-and-replace operations and proper SSL configuration to avoid broken links and redirect loops.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: seo, migration, database, hosting, images
+faq:
+  - q: How do I change my WordPress site URL?
+    a: You can update the site URL in the WordPress settings, via the wp-config.php file, or by using a search-and-replace plugin to update the database.
+  - q: Why are my images broken after changing my domain?
+    a: Images often break because the database still contains hardcoded references to the old domain URL; use a search-and-replace tool to fix these paths.
+  - q: Do I need to keep the old domain active after a move?
+    a: Yes, it is recommended to keep the old site active with 301 redirects for a few weeks to ensure search engines and users transition correctly.
+  - q: How do I fix SSL issues after changing my domain?
+    a: Ensure your SSL certificate is reissued for the new domain and check your wp-config.php settings to force HTTPS connections.
+Updating the site URL requires careful database search-and-replace operations and proper SSL configuration to avoid broken links and redirect loops. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Broken image links after migration SSL certificate errors Redirect loops Database path mismatches Community Q&amp;A How do I change my WordPress site URL?
+You can update the site URL in the WordPress settings, via the wp-config.php file, or by using a search-and-replace plugin to update the database.
+Why are my images broken after changing my domain?
+Images often break because the database still contains hardcoded references to the old domain URL; use a search-and-replace tool to fix these paths.
+Do I need to keep the old domain active after a move?
+Yes, it is recommended to keep the old site active with 301 redirects for a few weeks to ensure search engines and users transition correctly.
+How do I fix SSL issues after changing my domain?
+Ensure your SSL certificate is reissued for the new domain and check your wp-config.php settings to force HTTPS connections.
+Reddit Sources Do I keep the site with the old brand name parent URL alive, or not? (r/webdev) Migrating 3.100 URLS from a 14 year old Wordpress site - fear and loathing in Redirect spreadsheet (r/webdev) How does SSL work with redirected blog? (r/webdev) How to have sub pages with unique URLs on my site? (r/webdev) How can I fix my broken images after migrating WordPress website? (I know the problem, just not how to fix it) (r/webdev) Help needed in moving WordPress website URL (r/webdev) How do I deploy a Django App on a hosting service? (r/webdev)
+---
+
+---
 title: How to Change WordPress Site Title and Tagline
 url: https://wordpress-faq.com/howto/wordpress-site-title-tagline-change/
 date: 2026-07-02
