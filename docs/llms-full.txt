@@ -5564,6 +5564,34 @@ Reddit Sources 20-Point Checklist for WooCommerce: Speed, Security, and Sales Op
 ---
 
 ---
+title: How to Backup WordPress Manually: A Complete Guide
+url: https://wordpress-faq.com/howto/backup-wordpress-manually/
+date: 2026-07-13
+lastmod: 2026-07-13
+verdict: Manual backups are highly recommended for site security and reliability, though they require basic technical knowledge of FTP and database management.
+confidence: medium
+sources: 6
+schema_type: HowTo
+tags: backup, hosting, database, security
+faq:
+  - q: How do I manually backup my WordPress site?
+    a: You must download all files via FTP and export your database using phpMyAdmin from your hosting control panel.
+  - q: Is it better to use a plugin or manual backup?
+    a: Manual backups are safer as they do not consume server resources, but plugins offer convenience and automated scheduling.
+  - q: Do I need to backup my database separately?
+    a: Yes, your WordPress files and your database are stored separately; both must be backed up to restore the site fully.
+Manual backups are highly recommended for site security and reliability, though they require basic technical knowledge of FTP and database management. Based on 6 community reports.
+Linked sources: 6.
+Known Issues Risk of data loss if files are not copied correctly Requires technical knowledge of FTP and phpMyAdmin Manual process is time-consuming for large websites Community Q&amp;A How do I manually backup my WordPress site?
+You must download all files via FTP and export your database using phpMyAdmin from your hosting control panel.
+Is it better to use a plugin or manual backup?
+Manual backups are safer as they do not consume server resources, but plugins offer convenience and automated scheduling.
+Do I need to backup my database separately?
+Yes, your WordPress files and your database are stored separately; both must be backed up to restore the site fully.
+Reddit Sources [FREE] Rename Plugins Folder (r/WordpressPlugins) Store Owners - Discuss Process flows and workarounds for annoyances (r/woocommerce) Best Free WordPress Backup Plugins 2021 [REVIEW] (r/WordpressPlugins) Need help retreiving and pushing WP Staging site (r/woocommerce) Need my Woocommerce cart / checkout pages fixed. Anyone want work? (r/woocommerce) How to Restore WordPress Backup Manually - techjustify.com (r/WordpressPlugins)
+---
+
+---
 title: How to Change WordPress Domain URL Safely
 url: https://wordpress-faq.com/howto/wordpress-domain-url-migration/
 date: 2026-07-13
