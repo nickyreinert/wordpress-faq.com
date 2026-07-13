@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Errors](https://wordpress-faq.com/error/) — 43 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 223 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 224 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Reviews](https://wordpress-faq.com/review/) — 47 articles
@@ -246,6 +246,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Choose WordPress Hosting](https://wordpress-faq.com/hosting/wordpress-hosting-selection/) — Choose a host based on your specific traffic needs, support quality, and technical requirements rather than just the lowest price point.
 - [How to Choose WordPress Hosting: A Practical Guide](https://wordpress-faq.com/hosting/choosing-wordpress-hosting/) — Community consensus suggests prioritizing managed hosting providers that offer reliable support, automated backups, and robust security features.
 - [How to Clone a WordPress Site: Methods and Best Practices](https://wordpress-faq.com/howto/wordpress-site-cloning/) — Using dedicated migration plugins or server-side tools is the safest and most efficient way to clone a WordPress site without data loss.
+- [How to Configure WordPress Settings After Installation](https://wordpress-faq.com/howto/wordpress-post-install-configuration/) — Configuring permalinks, site identity, and reading settings immediately after installation is the industry standard for a secure, optimized site.
 - [How to Create a Child Theme in WordPress](https://wordpress-faq.com/howto/create-child-theme-wordpress/) — Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates.
 - [How to Create a Contact Page in WordPress](https://wordpress-faq.com/howto/create-contact-page-wordpress/) — Using a dedicated contact form plugin is the most reliable and secure method for creating a functional contact page in WordPress.
 - [How to Create a Custom Login Page in WordPress](https://wordpress-faq.com/howto/custom-login-page-wordpress/) — Using a dedicated plugin is the most efficient and secure method for creating custom login pages without extensive custom coding.
