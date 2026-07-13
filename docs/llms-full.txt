@@ -6864,6 +6864,34 @@ Reddit Sources Built a hosting platform over 16 years, giving away free lifetime
 ---
 
 ---
+title: How to Manually Migrate a WordPress Site Without Plugins
+url: https://wordpress-faq.com/howto/wordpress-migration-manual/
+date: 2026-07-13
+lastmod: 2026-07-13
+verdict: Manual migration is a reliable method for experienced users but requires careful handling of database exports and file transfers to avoid errors.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: migration, database, hosting, backup
+faq:
+  - q: Can I migrate WordPress without a plugin?
+    a: Yes, you can manually migrate by exporting your database via phpMyAdmin, copying all site files via FTP/SFTP, and updating the wp-config.php file.
+  - q: What is the most important step in a manual migration?
+    a: The most critical step is ensuring you have a complete backup of both your database and your wp-content folder before initiating any transfer.
+  - q: Do I need to update my domain settings after migration?
+    a: Yes, you must update your DNS records to point to the new server and ensure your site URL settings in the database match the new domain.
+Manual migration is a reliable method for experienced users but requires careful handling of database exports and file transfers to avoid errors. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Database connection errors Broken internal links Incorrect file permissions Missing media assets Community Q&amp;A Can I migrate WordPress without a plugin?
+Yes, you can manually migrate by exporting your database via phpMyAdmin, copying all site files via FTP/SFTP, and updating the wp-config.php file.
+What is the most important step in a manual migration?
+The most critical step is ensuring you have a complete backup of both your database and your wp-content folder before initiating any transfer.
+Do I need to update my domain settings after migration?
+Yes, you must update your DNS records to point to the new server and ensure your site URL settings in the database match the new domain.
+Reddit Sources thinking about migrating my business site off elementor (r/Wordpress) What is your offboarding process for hosting/maintenance? (r/Wordpress) Shifting TLD&rsquo;s, multi-site and migration confusion (r/Wordpress) thinking about migrating my business site off elementor (r/Wordpress) Wordpress + Cloudflare Free Setup (r/Wordpress) I&rsquo;m actually proud of myself for simultaneously building both the front and back end of a WordPress site without actual previous coding knowledge. (r/Wordpress) We&rsquo;ve done 110+ WordPress to Webflow migrations: Here&rsquo;s the honest comparison nobody writes (r/Wordpress) If you want AI agents to edit your WordPress site in 2026, don&rsquo;t wait for 7.0. Here&rsquo;s why. (r/Wordpress) Happiness Engineer position at Automattic (r/Wordpress)
+---
+
+---
 title: How to Migrate WordPress Manually Without Plugins
 url: https://wordpress-faq.com/howto/migrate-wordpress-without-plugin/
 date: 2026-06-03

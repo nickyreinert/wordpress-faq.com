@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 214 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 215 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
@@ -279,6 +279,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance/) — Proactive maintenance through security hardening, performance optimization, and standardized workflows is essential for successful client site management.
 - [How to Manage Categories and Tags in WordPress](https://wordpress-faq.com/howto/wordpress-categories-tags-management/) — WordPress provides native support for categories and tags, but complex filtering often requires additional plugins or custom taxonomy configurations.
 - [How to Manually Backup and Restore WordPress](https://wordpress-faq.com/howto/wordpress-manual-backup-restore/) — Manual restoration requires correctly mapping your database credentials in wp-config.php and ensuring all site files are properly synced to the server.
+- [How to Manually Migrate a WordPress Site Without Plugins](https://wordpress-faq.com/howto/wordpress-migration-manual/) — Manual migration is a reliable method for experienced users but requires careful handling of database exports and file transfers to avoid errors.
 - [How to Migrate WordPress Manually Without Plugins](https://wordpress-faq.com/howto/migrate-wordpress-without-plugin/) — Manual migration is reliable but requires technical knowledge of database management and file transfer protocols to ensure a successful site move.
 - [How to Migrate WordPress to a New Hosting Provider](https://wordpress-faq.com/howto/wordpress-migration-hosting/) — The most reliable way to migrate WordPress is using specialized import plugins or requesting a managed migration service from your new host.
 - [How to Migrate WordPress to a New Hosting Provider](https://wordpress-faq.com/howto/migrate-wordpress-hosting/) — Using dedicated migration plugins or manual database and file transfers is the most reliable way to switch hosting providers successfully.
