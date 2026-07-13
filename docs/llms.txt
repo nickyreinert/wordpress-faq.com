@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 215 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 216 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
@@ -382,6 +382,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Speed Up Your WordPress Site: Performance Guide](https://wordpress-faq.com/howto/speed-up-wordpress-site/) — Community consensus suggests that switching to high-quality hosting and avoiding heavy page builders are the most effective ways to improve speed.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-optimization/) — Using a CDN is highly recommended for reducing latency and improving global load times for WordPress websites.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-integration/) — Using a CDN like Cloudflare or BunnyCDN is the most effective way to improve global site speed and reduce strain on your primary hosting server.
+- [How to Use the WordPress REST API](https://wordpress-faq.com/howto/wordpress-rest-api-usage/) — The WordPress REST API is a powerful tool for developers to interact with site data programmatically using standard HTTP requests and JSON responses.
 - [How to Use the WordPress REST API for Integration](https://wordpress-faq.com/howto/wordpress-rest-api/) — The WordPress REST API is a powerful tool for developers to programmatically manage orders and sync external data with WooCommerce stores.
 - [How to Use WordPress Hooks and Filters](https://wordpress-faq.com/howto/wordpress-hooks-filters-guide/) — Hooks and filters are the essential foundation for extending WordPress functionality without modifying core files directly.
 - [How to Use WP_Query in WordPress](https://wordpress-faq.com/howto/wp-query-wordpress/) — Using WP_Query requires proper REST API configuration and ensuring show_in_rest is enabled for custom post types to appear in block editors.
