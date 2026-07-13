@@ -36,7 +36,11 @@ It is an interface that allows developers to interact with WordPress sites by se
 Linked sources: 6.
 Known Issues Authentication complexity Rate limiting concerns Endpoint security risks Community Q&amp;amp;A What is the WordPress REST API?
 It is an interface that allows developers to interact with WordPress sites by sending and receiving JSON objects.
-How do I authenticate with the REST API?</description></item><item><title>WordPress Pages vs Posts: Key Differences Explained</title><link>https://wordpress-faq.com/howto/wordpress-pages-vs-posts/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/howto/wordpress-pages-vs-posts/</guid><description>Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog feed. Based on 12 community reports.
+How do I authenticate with the REST API?</description></item><item><title>Troubleshooting WooCommerce Syntax Parse Errors</title><link>https://wordpress-faq.com/error/woocommerce-syntax-error/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/error/woocommerce-syntax-error/</guid><description>Most WooCommerce syntax errors are caused by incomplete file transfers or corrupted plugin installations during site migration or updates. Based on 5 community reports.
+Linked sources: 2.
+Known Issues Incomplete plugin file transfer Corrupted local-to-live site migration PHP version incompatibility Community Q&amp;amp;A How do I fix a syntax error in WooCommerce?
+Delete the WooCommerce folder via FTP in /wp-content/plugins/ and reinstall a fresh copy from the WordPress dashboard.
+Why does my site show a parse error after migration?</description></item><item><title>WordPress Pages vs Posts: Key Differences Explained</title><link>https://wordpress-faq.com/howto/wordpress-pages-vs-posts/</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/howto/wordpress-pages-vs-posts/</guid><description>Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog feed. Based on 12 community reports.
 Linked sources: 2.
 Known Issues Confusion regarding URL structure Misunderstanding of taxonomy usage Community Q&amp;amp;A What is the main difference between a page and a post in WordPress?
 Posts are chronological and categorized, while pages are static and hierarchical.
