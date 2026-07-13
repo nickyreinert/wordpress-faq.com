@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 220 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 221 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Errors](https://wordpress-faq.com/error/) — 41 articles
@@ -321,6 +321,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Redirect WordPress URLs Effectively](https://wordpress-faq.com/howto/wordpress-url-redirection-guide/) — Using a dedicated redirection plugin is the most reliable method for managing URL changes without causing 404 errors or losing search engine authority.
 - [How to Redirect WordPress URLs Effectively](https://wordpress-faq.com/howto/wordpress-url-redirects/) — Using a dedicated redirection plugin or editing the .htaccess file are the most reliable ways to manage URL redirects in WordPress without losing SEO.
 - [How to Reduce WordPress Server Response Time](https://wordpress-faq.com/howto/reduce-wordpress-server-response-time/) — Implementing server-side caching and a CDN are the most effective ways to improve WordPress server response times.
+- [How to Restore a WordPress Website from Backup](https://wordpress-faq.com/howto/restore-wordpress-backup/) — Restoring a WordPress site is best achieved by using a reliable backup plugin or manually importing your database and files via FTP and phpMyAdmin.
 - [How to Restore WordPress from Backup Safely](https://wordpress-faq.com/howto/wordpress-restore-backup/) — Always perform a clean install and verify your backup files before restoring to ensure no malicious code or legacy bloat is reintroduced.
 - [How to Schedule Posts in WordPress](https://wordpress-faq.com/howto/schedule-posts-wordpress/) — WordPress includes a native scheduling feature that works reliably for most users without requiring additional plugins or complex server configurations.
 - [How to Schedule Posts in WordPress](https://wordpress-faq.com/howto/wordpress-post-scheduling/) — WordPress includes a native scheduling feature in the post editor that allows users to set specific publication dates and times for their content.
