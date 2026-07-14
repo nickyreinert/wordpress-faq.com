@@ -10884,6 +10884,34 @@ Reddit Sources Wasting my time with wordpress? (r/webdev) Having some issues in 
 ---
 
 ---
+title: Selling Digital Products with WooCommerce
+url: https://wordpress-faq.com/howto/digital-products-woocommerce/
+date: 2026-07-14
+lastmod: 2026-07-14
+verdict: Selling digital goods requires setting products as virtual to bypass shipping requirements and ensuring proper billing address collection for tax.
+confidence: medium
+sources: 4
+schema_type: HowTo
+tags: ecommerce, checkout, performance
+faq:
+  - q: How do I stop shipping costs for digital products in WooCommerce?
+    a: Go to WooCommerce settings and ensure your products are marked as virtual, or use a plugin like WooCommerce Advanced Free Shipping to create rules.
+  - q: Can I sell physical and digital products together?
+    a: Yes, ensure your shipping zones are configured correctly and that digital items are set to virtual so they do not trigger shipping calculations.
+  - q: Why is my checkout missing billing addresses?
+    a: Payment gateways like PayPal Express may bypass standard checkout fields; ensure you require billing addresses in your WooCommerce settings for tax.
+Selling digital goods requires setting products as virtual to bypass shipping requirements and ensuring proper billing address collection for tax. Based on 4 community reports.
+Linked sources: 4.
+Known Issues Shipping rules applying to virtual products Missing billing addresses with PayPal Express Complex tax reporting for international sales Community Q&amp;A How do I stop shipping costs for digital products in WooCommerce?
+Go to WooCommerce settings and ensure your products are marked as virtual, or use a plugin like WooCommerce Advanced Free Shipping to create rules.
+Can I sell physical and digital products together?
+Yes, ensure your shipping zones are configured correctly and that digital items are set to virtual so they do not trigger shipping calculations.
+Why is my checkout missing billing addresses?
+Payment gateways like PayPal Express may bypass standard checkout fields; ensure you require billing addresses in your WooCommerce settings for tax.
+Reddit Sources Selling both physical and digital products in woocommerce (r/woocommerce) Problems with woocommerce payment methods (r/woocommerce) How do I collect/report information for Australian GST with Woocommerce? (r/woocommerce) Built an AI that does everything WooCommerce expects you to figure out yourself. Products, copy, ads, operations. All of it. YC backed, beta open this week. (r/woocommerce)
+---
+
+---
 title: SEOPress Plugin Review and Performance Analysis
 url: https://wordpress-faq.com/review/seopress-review/
 date: 2026-06-09

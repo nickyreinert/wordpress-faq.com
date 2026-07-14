@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 224 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 225 articles
 - [Reviews](https://wordpress-faq.com/review/) — 48 articles
 - [Versions](https://wordpress-faq.com/version/) — 4 articles
 - [Errors](https://wordpress-faq.com/error/) — 43 articles
@@ -431,6 +431,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Rank Math Not Working in WordPress: Troubleshooting Guide](https://wordpress-faq.com/error/rankmath-wordpress-error/) — Rank Math issues are typically caused by conflicts with specific themes or page builders rather than the plugin itself.
 - [Rank Math SEO Plugin Review and Analysis](https://wordpress-faq.com/review/rankmath-seo/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that offers significant value, though some users find the interface overwhelming.
 - [Resolving Elementor and WPForms Plugin Conflicts](https://wordpress-faq.com/compatibility/elementor-wpforms-conflict/) — Community consensus suggests using the dedicated Elementor widget for WPForms instead of shortcodes to ensure all form features function correctly.
+- [Selling Digital Products with WooCommerce](https://wordpress-faq.com/howto/digital-products-woocommerce/) — Selling digital goods requires setting products as virtual to bypass shipping requirements and ensuring proper billing address collection for tax.
 - [SEOPress Plugin Review and Performance Analysis](https://wordpress-faq.com/review/seopress-review/) — SEOPress is widely considered a powerful, lightweight, and cost-effective alternative to other major SEO plugins for WordPress users.
 - [Setting Up Continuous Deployment for WordPress](https://wordpress-faq.com/howto/wordpress-continuous-deployment-setup/) — Automating WordPress deployments via CI/CD pipelines significantly reduces human error and speeds up the release cycle for professional teams.
 - [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dedicated-shared-vps-hosting/) — Shared hosting is ideal for small sites, while VPS and dedicated servers offer the necessary resources and control for high-traffic professional websites.
