@@ -6418,29 +6418,29 @@ Reddit Sources I Made a Free e-commerce website. Plugins and methods. (r/Wordpre
 ---
 title: How to Disable Comments in WordPress
 url: https://wordpress-faq.com/howto/disable-comments-wordpress/
-date: 2026-06-03
-lastmod: 2026-06-03
-verdict: Disabling comments is best achieved via the WordPress Discussion settings or a dedicated plugin for site-wide control.
-confidence: low
-sources: 0
+date: 2026-07-14
+lastmod: 2026-07-14
+verdict: Disabling comments is a highly effective way to reduce spam and improve site security for static content.
+confidence: high
+sources: 12
 schema_type: HowTo
-tags: performance, security, widgets
+tags: security, performance, widgets
 faq:
   - q: How do I disable comments on all WordPress posts?
-    a: Go to Settings > Discussion and uncheck 'Allow people to submit comments on new posts'.
-  - q: Can I disable comments for specific posts only?
-    a: Yes, edit the individual post and uncheck 'Allow comments' in the Discussion meta box.
-  - q: Is there a plugin to disable comments globally?
-    a: Yes, plugins like 'Disable Comments' allow you to remove all comment-related fields and settings site-wide.
-Disabling comments is best achieved via the WordPress Discussion settings or a dedicated plugin for site-wide control. Based on 0 community reports.
-Linked sources: 5.
-Known Issues Global settings may not affect existing posts Spam comments can still accumulate in database Community Q&amp;A How do I disable comments on all WordPress posts?
-Go to Settings &gt; Discussion and uncheck &lsquo;Allow people to submit comments on new posts&rsquo;.
-Can I disable comments for specific posts only?
-Yes, edit the individual post and uncheck &lsquo;Allow comments&rsquo; in the Discussion meta box.
-Is there a plugin to disable comments globally?
-Yes, plugins like &lsquo;Disable Comments&rsquo; allow you to remove all comment-related fields and settings site-wide.
-Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce) Store Owners - Discuss Process flows and workarounds for annoyances (r/woocommerce) Seeking Update For Disabling Billing Fields on Carts Containing Only Virtual Products (r/woocommerce) 7 Last-Minute speed-up tips for Black Friday (r/woocommerce) Combining a bunch of small WordPress tweaks into one lightweight plugin – looking for feedback (r/ProWordPress)
+    a: You can disable comments globally by going to Settings > Discussion and unchecking 'Allow people to submit comments on new posts'.
+  - q: Can I disable comments for specific pages only?
+    a: Yes, edit the specific page, look for the Discussion meta box, and uncheck 'Allow comments'.
+  - q: How do I remove comments from media attachment pages?
+    a: You can use a code snippet in your functions.php file or a dedicated plugin to disable comments on all media attachments.
+Disabling comments is a highly effective way to reduce spam and improve site security for static content. Based on 12 community reports.
+Linked sources: 2.
+Known Issues Disabling comments globally may hide existing comments Media attachment pages may still allow comments if not specifically disabled Community Q&amp;A How do I disable comments on all WordPress posts?
+You can disable comments globally by going to Settings &gt; Discussion and unchecking &lsquo;Allow people to submit comments on new posts&rsquo;.
+Can I disable comments for specific pages only?
+Yes, edit the specific page, look for the Discussion meta box, and uncheck &lsquo;Allow comments&rsquo;.
+How do I remove comments from media attachment pages?
+You can use a code snippet in your functions.php file or a dedicated plugin to disable comments on all media attachments.
+Reddit Sources Combining a bunch of small WordPress tweaks into one lightweight plugin – looking for feedback (r/ProWordPress) [FREE] How to Disable Comments on Your WordPress Site (Simple Guide) - Zone WP (r/WordpressPlugins)
 ---
 
 ---
