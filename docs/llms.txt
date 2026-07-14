@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 227 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 228 articles
 - [Reviews](https://wordpress-faq.com/review/) — 48 articles
 - [Versions](https://wordpress-faq.com/version/) — 4 articles
 - [Errors](https://wordpress-faq.com/error/) — 43 articles
@@ -342,6 +342,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup All-in-One SEO in WordPress](https://wordpress-faq.com/howto/all-in-one-seo-wordpress-setup/) — The community recommends following the official setup wizard and verifying plugin compatibility to ensure optimal SEO performance for your site.
 - [How to Setup All-in-One WP Migration in WordPress](https://wordpress-faq.com/howto/all-in-one-wp-migration-setup/) — All-in-One WP Migration is a reliable tool for site transfers, though users should be aware of file size limitations in the free version.
 - [How to Setup All-in-One WP Security in WordPress](https://wordpress-faq.com/howto/all-in-one-wp-security-setup/) — Community consensus suggests that while security plugins are necessary, they must be configured carefully to avoid performance issues or site lockouts.
+- [How to Setup and Configure Bricks Builder in WordPress](https://wordpress-faq.com/howto/bricks-builder-setup/) — Bricks Builder is highly regarded for its visual flexibility and performance, making it a top choice for custom WordPress site development.
 - [How to Setup and Configure WooCommerce in WordPress](https://wordpress-faq.com/howto/woocommerce-setup/) — Setting up WooCommerce requires careful configuration of settings and plugin compatibility to avoid common session, caching, and inventory conflicts.
 - [How to Setup and Configure WPML in WordPress](https://wordpress-faq.com/howto/wpml-wordpress-setup/) — WPML is the industry standard for multilingual WordPress sites, though it requires careful configuration to avoid performance and SEO issues.
 - [How to Setup and Troubleshoot Contact Form 7 in WordPress](https://wordpress-faq.com/howto/contact-form-7-setup/) — Contact Form 7 is a powerful, free plugin, but users often require external SMTP plugins to ensure reliable email delivery and spam protection.
