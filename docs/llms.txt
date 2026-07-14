@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 225 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 226 articles
 - [Reviews](https://wordpress-faq.com/review/) — 48 articles
 - [Versions](https://wordpress-faq.com/version/) — 4 articles
 - [Errors](https://wordpress-faq.com/error/) — 43 articles
@@ -282,6 +282,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Install SSL Certificate on WordPress](https://wordpress-faq.com/howto/install-ssl-certificate-wordpress/) — The most reliable way to install an SSL certificate is to request it directly from your hosting provider to ensure proper server-side configuration.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/install-wordpress-guide/) — Manual installation via the WordPress dashboard or FTP is the most reliable method for site setup.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/how-to-install-wordpress/) — Manual installation provides the most reliable foundation for long-term site performance and security.
+- [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance-workflow/) — Successful client site maintenance relies on automated backups, regular security audits, and keeping site-specific logic in micro-plugins.
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance/) — Proactive maintenance through security hardening, performance optimization, and standardized workflows is essential for successful client site management.
 - [How to Manage Categories and Tags in WordPress](https://wordpress-faq.com/howto/wordpress-categories-tags-management/) — WordPress provides native support for categories and tags, but complex filtering often requires additional plugins or custom taxonomy configurations.
 - [How to Manually Backup and Restore WordPress](https://wordpress-faq.com/howto/wordpress-manual-backup-restore/) — Manual restoration requires correctly mapping your database credentials in wp-config.php and ensuring all site files are properly synced to the server.
