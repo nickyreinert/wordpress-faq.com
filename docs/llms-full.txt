@@ -6440,31 +6440,31 @@ Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimi
 ---
 
 ---
-title: How to Disable XML-RPC in WordPress Safely
+title: How to Disable XML-RPC in WordPress
 url: https://wordpress-faq.com/howto/disable-xmlrpc-wordpress/
-date: 2026-06-02
-lastmod: 2026-06-02
-verdict: Disabling XML-RPC is a common security hardening step, though modern WordPress core has mitigated many of the original brute force vulnerabilities.
-confidence: medium
-sources: 8
+date: 2026-07-14
+lastmod: 2026-07-14
+verdict: The community consensus is that XML-RPC is obsolete and should be disabled on all WordPress installations to prevent security vulnerabilities and CPU spikes.
+confidence: high
+sources: 12
 schema_type: HowTo
-tags: security, performance, conflict
+tags: security, performance, hosting, conflict
 faq:
-  - q: Should I disable xmlrpc.php on my WordPress site?
-    a: If you do not use the WordPress mobile app or external services that rely on XML-RPC, disabling it is a recommended security hardening practice.
-  - q: How do I disable XML-RPC in WordPress?
-    a: The safest way is to use a security or optimization plugin like Admin and Site Enhancements (ASE) or Perfmatters to handle the configuration.
-  - q: Will WordPress updates re-enable XML-RPC?
-    a: If you modify or delete the core xmlrpc.php file, WordPress updates will overwrite your changes, so using a plugin is the preferred method.
-Disabling XML-RPC is a common security hardening step, though modern WordPress core has mitigated many of the original brute force vulnerabilities. Based on 8 community reports.
-Linked sources: 8.
-Known Issues Modifying core files directly is overwritten by WordPress updates Some legacy mobile apps or external services may require XML-RPC to function Community Q&amp;A Should I disable xmlrpc.php on my WordPress site?
-If you do not use the WordPress mobile app or external services that rely on XML-RPC, disabling it is a recommended security hardening practice.
-How do I disable XML-RPC in WordPress?
-The safest way is to use a security or optimization plugin like Admin and Site Enhancements (ASE) or Perfmatters to handle the configuration.
-Will WordPress updates re-enable XML-RPC?
-If you modify or delete the core xmlrpc.php file, WordPress updates will overwrite your changes, so using a plugin is the preferred method.
-Reddit Sources PSA - if Cloudflare cache rate of your WordPress suddenly drops, check xmlrpc.php. Just caught a 288k-request/day brute force attack using this (r/Wordpress) Removing Feeds, XML, Emojis, etc. (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress) Top 5 Ways WordPress Sites Get Compromised (and how to fix them) (r/Wordpress) The “boring” WordPress ops stack that stops 90% of downtime, hacks, and surprise bills (a practical playbook) (r/Wordpress) Guide to securing your WordPress site (r/Wordpress) Disable XMLRPC.PHP (r/Wordpress) Help site compromised (r/Wordpress)
+  - q: Why should I disable XML-RPC in WordPress?
+    a: XML-RPC is an older protocol that is frequently targeted by brute force attacks and can cause high CPU usage on your server.
+  - q: How do I disable XML-RPC?
+    a: You can disable it by adding a rule to your .htaccess file, using a security plugin, or by asking your hosting provider to block it at the server level.
+  - q: Will disabling XML-RPC break my website?
+    a: For most modern websites, disabling XML-RPC has no negative impact, as the REST API has replaced its functionality.
+The community consensus is that XML-RPC is obsolete and should be disabled on all WordPress installations to prevent security vulnerabilities and CPU spikes. Based on 12 community reports.
+Linked sources: 3.
+Known Issues Potential conflict with legacy mobile apps May break specific third-party integrations Community Q&amp;A Why should I disable XML-RPC in WordPress?
+XML-RPC is an older protocol that is frequently targeted by brute force attacks and can cause high CPU usage on your server.
+How do I disable XML-RPC?
+You can disable it by adding a rule to your .htaccess file, using a security plugin, or by asking your hosting provider to block it at the server level.
+Will disabling XML-RPC break my website?
+For most modern websites, disabling XML-RPC has no negative impact, as the REST API has replaced its functionality.
+Reddit Sources PSA: if you renamed your wp-login URL and you&rsquo;re still getting login attempts, it&rsquo;s almost never a breach (r/ProWordPress) WordPress CPU pinned at 100% for several minutes? Check xmlrpc.php before anything else (r/ProWordPress) .htaccess Redirect Issues on a WordPress Site (r/webdev)
 ---
 
 ---

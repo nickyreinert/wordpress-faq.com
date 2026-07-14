@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Howtos](https://wordpress-faq.com/howto/) — 224 articles
 - [Reviews](https://wordpress-faq.com/review/) — 48 articles
 - [Versions](https://wordpress-faq.com/version/) — 4 articles
 - [Errors](https://wordpress-faq.com/error/) — 43 articles
-- [Howtos](https://wordpress-faq.com/howto/) — 224 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
@@ -264,7 +264,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Create Custom WordPress Templates](https://wordpress-faq.com/howto/custom-wordpress-template-creation/) — The community recommends using boilerplate themes like Underscores and testing all template changes on a staging site before deploying to production.
 - [How to Customize WordPress Themes Without Coding](https://wordpress-faq.com/howto/customize-wordpress-theme-no-coding/) — Users can effectively customize themes without coding by utilizing visual page builders like Divi or Astra's built-in hook and customizer features.
 - [How to Disable Comments in WordPress](https://wordpress-faq.com/howto/disable-comments-wordpress/) — Disabling comments is best achieved via the WordPress Discussion settings or a dedicated plugin for site-wide control.
-- [How to Disable XML-RPC in WordPress Safely](https://wordpress-faq.com/howto/disable-xmlrpc-wordpress/) — Disabling XML-RPC is a common security hardening step, though modern WordPress core has mitigated many of the original brute force vulnerabilities.
+- [How to Disable XML-RPC in WordPress](https://wordpress-faq.com/howto/disable-xmlrpc-wordpress/) — The community consensus is that XML-RPC is obsolete and should be disabled on all WordPress installations to prevent security vulnerabilities and CPU spikes.
 - [How to Embed YouTube Videos in WordPress](https://wordpress-faq.com/howto/embed-youtube-wordpress/) — The native Gutenberg block editor is the most efficient and recommended way to embed YouTube videos without requiring additional third-party plugins.
 - [How to Embed YouTube Videos in WordPress Efficiently](https://wordpress-faq.com/howto/embed-youtube-video-wordpress/) — Using lazy loading or dedicated plugins is the recommended approach to prevent YouTube embeds from negatively impacting your website page load speed.
 - [How to Enable Gzip Compression in WordPress](https://wordpress-faq.com/howto/enable-gzip-compression-wordpress/) — Enabling Gzip compression is a highly effective way to reduce file sizes and significantly improve your WordPress website's overall loading speed.
