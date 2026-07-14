@@ -4920,6 +4920,30 @@ Reddit Sources Large Database Querys slowing down the site (r/Wordpress) Trying 
 ---
 
 ---
+title: GriffinForms WordPress Plugin Review and Features
+url: https://wordpress-faq.com/review/griffinforms-review/
+date: 2026-07-14
+lastmod: 2026-07-14
+verdict: GriffinForms is considered a reliable and feature-rich form builder with active developer support and helpful AI-assisted building capabilities.
+confidence: low
+sources: 1
+schema_type: AggregateRating
+tags: forms, ecommerce, widgets
+faq:
+  - q: What is GriffinForms for WordPress?
+    a: GriffinForms is a freemium form builder plugin that supports multi-step forms, user registration, and payment processing.
+  - q: Does GriffinForms include AI features?
+    a: Yes, the plugin includes AI-assisted building tools to help users create forms more efficiently.
+GriffinForms is considered a reliable and feature-rich form builder with active developer support and helpful AI-assisted building capabilities. Based on 1 community reports.
+Linked sources: 1.
+Known Issues None reported Community Q&amp;A What is GriffinForms for WordPress?
+GriffinForms is a freemium form builder plugin that supports multi-step forms, user registration, and payment processing.
+Does GriffinForms include AI features?
+Yes, the plugin includes AI-assisted building tools to help users create forms more efficiently.
+Reddit Sources [FREEMIUM] GriffinForms — WordPress form builder with multi-step forms, user registration, payments, and AI-assisted building (r/WordpressPlugins)
+---
+
+---
 title: Gutenberg Block Editor: New Features and Updates Guide
 url: https://wordpress-faq.com/version/gutenberg-editor-features/
 date: 2026-06-03
