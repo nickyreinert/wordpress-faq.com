@@ -7466,25 +7466,29 @@ Reddit Sources WordPress job position recommendation (r/Wordpress)
 ---
 title: How to Optimize Divi for WordPress Performance
 url: https://wordpress-faq.com/howto/divi-optimization-guide/
-date: 2026-06-03
-lastmod: 2026-06-03
-verdict: Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times.
-confidence: low
-sources: 1
+date: 2026-07-15
+lastmod: 2026-07-15
+verdict: Divi is resource-heavy, so performance optimization requires external caching, lazy loading, and careful responsive design testing to improve scores.
+confidence: medium
+sources: 7
 schema_type: HowTo
-tags: performance, page-builder, caching, speed
+tags: page-builder, performance, caching, speed, images
 faq:
-  - q: How can I make my Divi website load faster?
-    a: Enable Divi's built-in performance settings, use a quality caching plugin, optimize your images, and minimize the use of heavy animations.
-  - q: Does Divi slow down WordPress?
-    a: Divi can be resource-intensive due to its feature set, but it can be highly optimized by following performance best practices and using a fast host.
-Optimizing Divi requires enabling built-in performance settings, using a caching plugin, and minimizing heavy animations to ensure fast page load times. Based on 1 community reports.
-Linked sources: 1.
-Known Issues Heavy DOM structure Excessive CSS and JS loading Animation performance overhead Community Q&amp;A How can I make my Divi website load faster?
-Enable Divi&rsquo;s built-in performance settings, use a quality caching plugin, optimize your images, and minimize the use of heavy animations.
-Does Divi slow down WordPress?
-Divi can be resource-intensive due to its feature set, but it can be highly optimized by following performance best practices and using a fast host.
-Reddit Sources I just built my website with little coding experience (r/webdev)
+  - q: How can I improve Divi page speed scores?
+    a: Use external caching plugins, implement lazy loading for images, and minimize the use of heavy animations or excessive modules.
+  - q: Should I use Divi's built-in responsive preview?
+    a: No, it is often inaccurate for modern screen sizes. Use Chrome's responsive design mode to test breakpoints instead.
+  - q: Does Divi affect WordPress SEO?
+    a: Divi can impact SEO if performance is poor; optimizing load times and using clean code practices is essential for better rankings.
+Divi is resource-heavy, so performance optimization requires external caching, lazy loading, and careful responsive design testing to improve scores. Based on 7 community reports.
+Linked sources: 7.
+Known Issues High DOM bloat Slow PageSpeed Insights scores Inaccurate built-in responsive preview Community Q&amp;A How can I improve Divi page speed scores?
+Use external caching plugins, implement lazy loading for images, and minimize the use of heavy animations or excessive modules.
+Should I use Divi&rsquo;s built-in responsive preview?
+No, it is often inaccurate for modern screen sizes. Use Chrome&rsquo;s responsive design mode to test breakpoints instead.
+Does Divi affect WordPress SEO?
+Divi can impact SEO if performance is poor; optimizing load times and using clean code practices is essential for better rankings.
+Reddit Sources To Page Builder Users: What’s your workflow and what are the pros/cons for you? (r/Wordpress) New to Wordpress (pls help&hellip;) (r/Wordpress) How to move away from page builders (like Divi)? And why? (r/Wordpress) Creative wordpress web solutions (r/Wordpress) This trivial something you know but I miss with wordpress extensions (r/Wordpress) Any static site workflows out there in the wild? (r/Wordpress) Question regarding a good workflow (r/Wordpress)
 ---
 
 ---
