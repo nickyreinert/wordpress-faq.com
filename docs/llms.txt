@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 230 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 231 articles
 - [Errors](https://wordpress-faq.com/error/) — 44 articles
 - [Reviews](https://wordpress-faq.com/review/) — 48 articles
 - [Versions](https://wordpress-faq.com/version/) — 4 articles
@@ -353,6 +353,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup Beaver Builder in WordPress](https://wordpress-faq.com/howto/beaver-builder-setup/) — Beaver Builder is a reliable page builder that integrates well with most themes for creating custom layouts without requiring advanced coding knowledge.
 - [How to Setup Blocksy Theme in WordPress](https://wordpress-faq.com/howto/blocksy-wordpress-setup/) — Blocksy is a highly customizable and lightweight theme that integrates well with page builders like Elementor for professional website development.
 - [How to Setup Bricks Builder in WordPress](https://wordpress-faq.com/howto/bricks-builder-wordpress-setup/) — Bricks Builder is a powerful theme-based page builder that requires a clean WordPress installation for the best results.
+- [How to Setup Divi in WordPress](https://wordpress-faq.com/howto/divi-wordpress-setup/) — Divi is a powerful page builder theme that requires a simple installation via the WordPress dashboard to begin customizing your site layout.
 - [How to Setup Divi in WordPress](https://wordpress-faq.com/howto/divi-setup-guide/) — Divi is considered a solid long-term investment for WordPress users due to its lifetime license and extensive feature set for site building.
 - [How to Setup Duplicator for WordPress Migration](https://wordpress-faq.com/howto/duplicator-migration/) — Duplicator is widely considered the industry standard for reliable WordPress site migrations and backups.
 - [How to Setup Easy Digital Downloads in WordPress](https://wordpress-faq.com/howto/easy-digital-downloads-wordpress/) — Easy Digital Downloads is a reliable and robust solution for selling digital products on WordPress when configured with proper SMTP and payment gateways.

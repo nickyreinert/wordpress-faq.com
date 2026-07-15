@@ -8841,6 +8841,30 @@ Reddit Sources Why is Safari/iPhone killing my Display P3 colors on WebP and AVI
 
 ---
 title: How to Setup Divi in WordPress
+url: https://wordpress-faq.com/howto/divi-wordpress-setup/
+date: 2026-07-15
+lastmod: 2026-07-15
+verdict: Divi is a powerful page builder theme that requires a simple installation via the WordPress dashboard to begin customizing your site layout.
+confidence: low
+sources: 0
+schema_type: HowTo
+tags: page-builder, hosting, performance
+faq:
+  - q: How do I install the Divi theme in WordPress?
+    a: Download the Divi zip file from your Elegant Themes account, go to Appearance > Themes > Add New, upload the file, and click Install.
+  - q: Do I need a child theme for Divi?
+    a: Yes, it is highly recommended to use a Divi child theme to preserve your custom CSS and PHP changes during theme updates.
+Divi is a powerful page builder theme that requires a simple installation via the WordPress dashboard to begin customizing your site layout. Based on 0 community reports.
+Linked sources: 2.
+Known Issues Theme conflict with other page builders High resource usage on shared hosting Community Q&amp;A How do I install the Divi theme in WordPress?
+Download the Divi zip file from your Elegant Themes account, go to Appearance &gt; Themes &gt; Add New, upload the file, and click Install.
+Do I need a child theme for Divi?
+Yes, it is highly recommended to use a Divi child theme to preserve your custom CSS and PHP changes during theme updates.
+Reddit Sources How to develop and sell themes as a professional developer? (r/ProWordPress) [Help] Finding a Paywall Plugin (but not quite) (r/WordpressPlugins)
+---
+
+---
+title: How to Setup Divi in WordPress
 url: https://wordpress-faq.com/howto/divi-setup-guide/
 date: 2026-06-03
 lastmod: 2026-06-03
