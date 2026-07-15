@@ -4944,6 +4944,30 @@ Reddit Sources [FREEMIUM] GriffinForms — WordPress form builder with multi-ste
 ---
 
 ---
+title: Gutenberg Block Editor: New Features and Updates
+url: https://wordpress-faq.com/version/gutenberg-block-editor-features/
+date: 2026-07-15
+lastmod: 2026-07-15
+verdict: The Gutenberg block editor is consistently evolving with new features that enhance the overall WordPress content creation experience for all users.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: gutenberg, performance, widgets
+faq:
+  - q: What are the latest features in the Gutenberg block editor?
+    a: The latest Gutenberg updates focus on improved block patterns, enhanced site editing capabilities, and better performance for the block interface.
+  - q: Is Gutenberg compatible with custom themes?
+    a: Yes, Gutenberg is designed to be compatible with most modern WordPress themes, though some custom themes may require specific block support configurations.
+The Gutenberg block editor is consistently evolving with new features that enhance the overall WordPress content creation experience for all users. Based on 1 community reports.
+Linked sources: 1.
+Known Issues WYSIWYG editor limitations ACF integration friction Community Q&amp;A What are the latest features in the Gutenberg block editor?
+The latest Gutenberg updates focus on improved block patterns, enhanced site editing capabilities, and better performance for the block interface.
+Is Gutenberg compatible with custom themes?
+Yes, Gutenberg is designed to be compatible with most modern WordPress themes, though some custom themes may require specific block support configurations.
+Reddit Sources Bootstrap vs Tailwind starter theme (r/ProWordPress)
+---
+
+---
 title: Gutenberg Block Editor: New Features and Updates Guide
 url: https://wordpress-faq.com/version/gutenberg-editor-features/
 date: 2026-06-03
