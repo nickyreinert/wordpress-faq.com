@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 235 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 236 articles
 - [Versions](https://wordpress-faq.com/version/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 44 articles
 - [Reviews](https://wordpress-faq.com/review/) — 48 articles
@@ -392,6 +392,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup WP Mail SMTP in WordPress](https://wordpress-faq.com/howto/wp-mail-smtp-setup/) — WP Mail SMTP is the industry standard for fixing WordPress email delivery issues by using authenticated SMTP providers instead of default PHP mail.
 - [How to Setup WP Rocket for WordPress Performance](https://wordpress-faq.com/howto/wp-rocket-setup/) — WP Rocket is considered a standard, reliable caching solution for WordPress, though some users prefer Cloudflare-based alternatives for better speed.
 - [How to Setup WP Super Cache in WordPress](https://wordpress-faq.com/howto/wp-super-cache-setup/) — WP Super Cache is a reliable, free solution for static page caching that significantly improves site load times when configured correctly.
+- [How to Setup WPForms in WordPress](https://wordpress-faq.com/howto/wpforms-setup-wordpress/) — WPForms is a reliable plugin for WordPress, but users should ensure proper SMTP configuration to guarantee that form notifications are delivered successfully.
 - [How to Setup WPForms in WordPress](https://wordpress-faq.com/howto/wpforms-wordpress-setup/) — WPForms is widely considered a user-friendly, drag-and-drop form builder suitable for beginners and professionals alike.
 - [How to Setup Yoast SEO in WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-setup/) — Yoast SEO is a highly effective tool for managing on-page optimization and technical SEO settings for WordPress websites.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/ecommerce-speed-optimization/) — Community consensus suggests that reducing plugin bloat, implementing effective caching, and optimizing assets are the keys to a fast store.
