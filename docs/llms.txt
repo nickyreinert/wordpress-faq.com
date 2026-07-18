@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Howtos](https://wordpress-faq.com/howto/) — 239 articles
+- [Howtos](https://wordpress-faq.com/howto/) — 240 articles
 - [Versions](https://wordpress-faq.com/version/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 44 articles
 - [Reviews](https://wordpress-faq.com/review/) — 48 articles
@@ -315,6 +315,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize Rank Math for WordPress SEO](https://wordpress-faq.com/howto/rankmath-seo-optimization/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that simplifies schema markup and indexing for WordPress users.
 - [How to Optimize UpdraftPlus for WordPress Performance](https://wordpress-faq.com/howto/updraftplus-optimization/) — Schedule backups during low-traffic periods to minimize server resource impact and maintain optimal website performance.
 - [How to Optimize W3 Total Cache for WordPress Performance](https://wordpress-faq.com/howto/w3-total-cache-optimization/) — W3 Total Cache is highly effective for performance when configured correctly, though it requires careful setup to avoid potential site conflicts.
+- [How to Optimize WooCommerce Performance for WordPress](https://wordpress-faq.com/howto/optimize-woocommerce-wordpress/) — Community consensus suggests focusing on object caching, database cleanup, and managed hosting to achieve significant WooCommerce speed improvements.
 - [How to Optimize WooCommerce Performance for WordPress](https://wordpress-faq.com/howto/ecommerce-performance-woocommerce/) — Community consensus suggests prioritizing high single-core CPU performance and server-side tuning over simply installing multiple caching plugins.
 - [How to Optimize WooCommerce Subscriptions for Performance](https://wordpress-faq.com/howto/woocommerce-subscriptions-optimization/) — Optimizing WooCommerce Subscriptions requires regular database maintenance and careful management of scheduled actions to ensure site performance.
 - [How to Optimize WordPress Images for SEO](https://wordpress-faq.com/howto/wordpress-image-seo-optimization/) — Optimizing images requires a combination of proper compression, descriptive alt tags, and modern file formats to ensure both speed and accessibility.
