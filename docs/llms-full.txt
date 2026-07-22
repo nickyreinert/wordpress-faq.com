@@ -9076,6 +9076,30 @@ Reddit Sources Why is Safari/iPhone killing my Display P3 colors on WebP and AVI
 ---
 
 ---
+title: How to Setup BuddyPress in WordPress
+url: https://wordpress-faq.com/howto/buddypress-wordpress-setup/
+date: 2026-07-22
+lastmod: 2026-07-22
+verdict: BuddyPress is the standard plugin for adding social networking features like profiles and groups to WordPress, requiring careful configuration.
+confidence: low
+sources: 2
+schema_type: HowTo
+tags: membership, hosting, performance
+faq:
+  - q: How do I install BuddyPress on WordPress?
+    a: Navigate to Plugins > Add New, search for BuddyPress, click Install Now, and then Activate the plugin.
+  - q: Does BuddyPress work with all WordPress themes?
+    a: While it works with most, some themes require specific BuddyPress template files to display social features correctly.
+BuddyPress is the standard plugin for adding social networking features like profiles and groups to WordPress, requiring careful configuration. Based on 2 community reports.
+Linked sources: 2.
+Known Issues Plugin conflicts with certain themes High resource usage on shared hosting Requires specific permalink settings Community Q&amp;A How do I install BuddyPress on WordPress?
+Navigate to Plugins &gt; Add New, search for BuddyPress, click Install Now, and then Activate the plugin.
+Does BuddyPress work with all WordPress themes?
+While it works with most, some themes require specific BuddyPress template files to display social features correctly.
+Reddit Sources How to develop and sell themes as a professional developer? (r/ProWordPress) robust servers (r/ProWordPress)
+---
+
+---
 title: How to Setup Contact Form 7 in WordPress
 url: https://wordpress-faq.com/howto/contact-form-7-wordpress-setup/
 date: 2026-07-16
