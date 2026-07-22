@@ -8869,6 +8869,34 @@ Reddit Sources How do i make modern Woocommerce stores? (r/woocommerce) How to m
 
 ---
 title: How to Setup and Configure WPML in WordPress
+url: https://wordpress-faq.com/howto/wpml-setup-guide/
+date: 2026-07-22
+lastmod: 2026-07-22
+verdict: WPML is a robust solution for multilingual sites, but requires careful configuration of taxonomy translations and hreflang tags to maintain SEO.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: ecommerce, seo, gutenberg, analytics
+faq:
+  - q: How do I translate product categories in WPML?
+    a: Do not bulk rename categories; treat the primary language as the source and create linked translations for the taxonomy terms.
+  - q: Should I use automatic redirects for multilingual sites?
+    a: No, avoid automatic redirects to preserve SEO; use language suggestions in a popup instead to ensure proper indexing.
+  - q: Can I use WPML with Gutenberg?
+    a: Yes, WPML is compatible with Gutenberg, though complex setups may require additional AI translation plugins for automated workflows.
+WPML is a robust solution for multilingual sites, but requires careful configuration of taxonomy translations and hreflang tags to maintain SEO. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Infinite loops during programmatic post updates Difficulty with language-specific sitemaps Complex translation of custom fields and widgets Community Q&amp;A How do I translate product categories in WPML?
+Do not bulk rename categories; treat the primary language as the source and create linked translations for the taxonomy terms.
+Should I use automatic redirects for multilingual sites?
+No, avoid automatic redirects to preserve SEO; use language suggestions in a popup instead to ensure proper indexing.
+Can I use WPML with Gutenberg?
+Yes, WPML is compatible with Gutenberg, though complex setups may require additional AI translation plugins for automated workflows.
+Reddit Sources SailWP update: demo video, architecture deep-dive, and what&rsquo;s next (r/Wordpress) Best approach for automatic DeepL translation in WordPress with Gutenberg — with manual override option and cross-site sync? (r/Wordpress) Making multilingual sitemaps with WPML and Yoast? (r/Wordpress) WPML translation buttons not included (r/Wordpress) WordPress/WooCommerce: bulk translating categories (EN → NL) with synced products? (r/Wordpress) HELP NEEDED! Vibe coded HTML imported as a Wordpress theme (r/Wordpress) Multilingual SEO Headaches for a Real Estate Site – Geo vs. Language Redirects? (r/Wordpress)
+---
+
+---
+title: How to Setup and Configure WPML in WordPress
 url: https://wordpress-faq.com/howto/wpml-wordpress-setup/
 date: 2026-06-05
 lastmod: 2026-06-05
