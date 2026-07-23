@@ -64,6 +64,34 @@ Reddit Sources My first review is next week. I have a feeling I won&rsquo;t get 
 ---
 
 ---
+title: Advanced Custom Fields Review and Usage Guide
+url: https://wordpress-faq.com/review/advanced-custom-fields/
+date: 2026-07-23
+lastmod: 2026-07-23
+verdict: Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
+confidence: medium
+sources: 7
+schema_type: AggregateRating
+tags: ecommerce, gutenberg, database, security
+faq:
+  - q: Is Advanced Custom Fields free?
+    a: There is a free version available, but the Pro version is required for advanced features like the repeater field.
+  - q: Can I bundle ACF in my WordPress theme?
+    a: No, bundling plugins in themes is discouraged as it prevents users from receiving critical security updates through the WordPress dashboard.
+  - q: Is ACF compatible with Gutenberg?
+    a: Yes, Advanced Custom Fields has been updated to support Gutenberg blocks and modern WordPress editing workflows.
+Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Repeater fields require the Pro version Bundling within themes creates security update risks Community Q&amp;A Is Advanced Custom Fields free?
+There is a free version available, but the Pro version is required for advanced features like the repeater field.
+Can I bundle ACF in my WordPress theme?
+No, bundling plugins in themes is discouraged as it prevents users from receiving critical security updates through the WordPress dashboard.
+Is ACF compatible with Gutenberg?
+Yes, Advanced Custom Fields has been updated to support Gutenberg blocks and modern WordPress editing workflows.
+Reddit Sources ACF and Carbon Fields reviewed! Here&rsquo;s what I learned (r/Wordpress) Introducting technical reports for Wordpress plugins (r/Wordpress) Gutenberg release and preparing your clients (r/Wordpress) What plugins do you use for content management within Wordpress? (r/Wordpress) Gutenberg impressions and WordCamp Boston, July 2018 (r/Wordpress) Can advanced custom fields do this? Or should i be looking at something else? (r/Wordpress) Wordpress theme publishing guidelines (need some advice/clarification) (r/Wordpress)
+---
+
+---
 title: All in One SEO Review: Features and Community Consensus
 url: https://wordpress-faq.com/review/all-in-one-seo-review/
 date: 2026-07-22
