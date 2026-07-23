@@ -11088,6 +11088,30 @@ Reddit Sources Questions about adding Membership to my News/Review Site - Troubl
 ---
 
 ---
+title: Ninja Forms Review: Features and Common Conflicts
+url: https://wordpress-faq.com/review/ninja-forms-review/
+date: 2026-07-23
+lastmod: 2026-07-23
+verdict: Ninja Forms is a capable builder, but users frequently report CSS conflicts with themes and limitations when calculating totals for payment gateways.
+confidence: low
+sources: 3
+schema_type: AggregateRating
+tags: forms, conflict, ecommerce, checkout
+faq:
+  - q: Is Ninja Forms compatible with all WordPress themes?
+    a: While generally compatible, users often report CSS specificity conflicts that require custom scoping to ensure forms render correctly.
+  - q: Why is my Stripe total not calculating in Ninja Forms?
+    a: Stripe requires the total to be pulled from a specific Payment field; standard checkbox fields often fail to pass values to the calculation engine.
+Ninja Forms is a capable builder, but users frequently report CSS conflicts with themes and limitations when calculating totals for payment gateways. Based on 3 community reports.
+Linked sources: 3.
+Known Issues CSS specificity conflicts with themes Checkbox values failing to output to calculations Stripe integration issues with non-standard payment fields Community Q&amp;A Is Ninja Forms compatible with all WordPress themes?
+While generally compatible, users often report CSS specificity conflicts that require custom scoping to ensure forms render correctly.
+Why is my Stripe total not calculating in Ninja Forms?
+Stripe requires the total to be pulled from a specific Payment field; standard checkbox fields often fail to pass values to the calculation engine.
+Reddit Sources 400+ Websites That I Use as a Web Designer/Freelancer - All Compiled and Categorized in One Place (r/webdev) Spent hours trying to get checkboxes to work with Go Theme&hellip; only to remember I solved the same problem two years ago. (r/Wordpress) [REVIEW] WPForms vs. Ninja Forms: Which One Is The Best Form Builder? (r/WordpressPlugins)
+---
+
+---
 title: Ninja Forms vs WPForms: Form Builder Comparison
 url: https://wordpress-faq.com/comparison/ninja-forms-wpforms/
 date: 2026-06-06
