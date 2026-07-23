@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Reviews](https://wordpress-faq.com/review/) — 54 articles
+- [Reviews](https://wordpress-faq.com/review/) — 55 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
 - [Versions](https://wordpress-faq.com/version/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 44 articles
@@ -505,6 +505,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WooCommerce Abandoned Cart Recovery Solutions](https://wordpress-faq.com/comparison/woocommerce-abandoned-cart-recovery/) — Open-source plugins that allow direct ownership of WhatsApp Business API accounts are preferred over high-fee SaaS alternatives.
 - [WooCommerce Payment Gateway Setup and Configuration Guide](https://wordpress-faq.com/howto/woocommerce-payment-gateway-setup/) — Community consensus recommends using native Stripe and PayPal integrations for reliability rather than relying on third-party failover plugins.
+- [WooCommerce Review and Security Considerations](https://wordpress-faq.com/review/woocommerce-review/) — Community consensus suggests exercising extreme caution with third-party WooCommerce plugins due to recent supply chain security vulnerabilities.
 - [WooCommerce Review Plugins and Strategies](https://wordpress-faq.com/review/woocommerce-reviews/) — Community consensus suggests prioritizing lightweight plugins to avoid database bloat and slow speeds.
 - [WooCommerce Subscriptions Review and Implementation Guide](https://wordpress-faq.com/review/woocommerce-subscriptions/) — The plugin is powerful but often requires custom development or specific plugin stacks to function reliably in complex multi-vendor environments.
 - [Wordfence Security Plugin Review and Performance Analysis](https://wordpress-faq.com/review/wordfence-review/) — Wordfence is widely considered a reliable and user-friendly security solution for WordPress, though advanced users may prefer server-level configurations.

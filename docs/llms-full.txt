@@ -12879,6 +12879,34 @@ Reddit Sources How I added crypto payments to my WooCommerce store (r/woocommerc
 ---
 
 ---
+title: WooCommerce Review and Security Considerations
+url: https://wordpress-faq.com/review/woocommerce-review/
+date: 2026-07-23
+lastmod: 2026-07-23
+verdict: Community consensus suggests exercising extreme caution with third-party WooCommerce plugins due to recent supply chain security vulnerabilities.
+confidence: medium
+sources: 8
+schema_type: AggregateRating
+tags: ecommerce, security, checkout, performance, caching
+faq:
+  - q: Why are WooCommerce shipping rates not appearing at checkout?
+    a: This is often caused by template overrides or caching issues; try switching to the default WooCommerce checkout template to troubleshoot.
+  - q: Is WooCommerce safe to use for my online store?
+    a: WooCommerce core is secure, but users should be wary of third-party plugins, especially those recently acquired or sold on marketplaces.
+  - q: How can I fix WooCommerce checkout errors?
+    a: Verify your shipping zones, clear all site caches, and ensure no custom snippets are hiding shipping methods until an address is entered.
+Community consensus suggests exercising extreme caution with third-party WooCommerce plugins due to recent supply chain security vulnerabilities. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Malware injection in third-party plugin portfolios Checkout shipping rate display errors PHP version compatibility conflicts Community Q&amp;A Why are WooCommerce shipping rates not appearing at checkout?
+This is often caused by template overrides or caching issues; try switching to the default WooCommerce checkout template to troubleshoot.
+Is WooCommerce safe to use for my online store?
+WooCommerce core is secure, but users should be wary of third-party plugins, especially those recently acquired or sold on marketplaces.
+How can I fix WooCommerce checkout errors?
+Verify your shipping zones, clear all site caches, and ensure no custom snippets are hiding shipping methods until an address is entered.
+Reddit Sources How to lose $120k. The tragic Flippa story of WooCommerce Product. (r/Wordpress) WooCommerce delivery methods/rates not appearing, even on new checkout shortcode page (r/Wordpress) Find Slow Plugins &amp; Queries + Fix Autoload Bloat + Control Cron — WP Optimizer Update (r/Wordpress) Find Slow Plugins &amp; Queries + Fix Autoload Bloat + Control Cron — WP Optimizer Update (r/Wordpress) [PROMO] AI that can debug WordPress sites with real site context — looking for feedback (r/Wordpress) My Website Launch Checklist Before Every WordPress Site Goes Live (r/Wordpress) [PROMO] I built a free WordPress.org plugin that brings ChatGPT(and other subs) into wp-admin with OAuth/key login (r/Wordpress) wp-admin has too many screens. so i built a free plugin where you type &ldquo;refund order 1042&rdquo; or &ldquo;update all plugins except Elementor&rdquo; and it just does it. on wordpress.org now. (r/Wordpress)
+---
+
+---
 title: WooCommerce Review Plugins and Strategies
 url: https://wordpress-faq.com/review/woocommerce-reviews/
 date: 2026-06-06
