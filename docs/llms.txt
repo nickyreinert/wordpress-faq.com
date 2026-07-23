@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Reviews](https://wordpress-faq.com/review/) — 53 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
-- [Reviews](https://wordpress-faq.com/review/) — 52 articles
 - [Versions](https://wordpress-faq.com/version/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 44 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
@@ -88,6 +88,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Contact Form 7 Conflict Troubleshooting Guide](https://wordpress-faq.com/compatibility/contact-form-7-conflict/) — Most Contact Form 7 conflicts are caused by using multiple recaptcha versions simultaneously or misconfigured SMTP email settings on your domain host.
 - [Contact Form 7 Fatal Error Troubleshooting](https://wordpress-faq.com/error/contact-form-7-fatal-error/) — Fatal errors with Contact Form 7 are typically caused by PHP 8.x compatibility issues or plugin conflicts requiring a downgrade or code patch.
 - [Contact Form 7 Review and Spam Prevention Guide](https://wordpress-faq.com/review/contact-form-7/) — Contact Form 7 is a highly reliable and flexible plugin that requires additional tools like reCAPTCHA or CleanTalk to effectively manage spam.
+- [Contact Form 7 Review: Features and Security Considerations](https://wordpress-faq.com/review/contact-form-7-review/) — Contact Form 7 remains a reliable, free standard for basic WordPress forms, though it requires additional extensions for advanced features and security.
 - [Divi 5 Alpha Review and Performance Analysis](https://wordpress-faq.com/review/divi-review/) — The community consensus is that Divi 5 shows significant performance gains and a modern architecture that competes well with other page builders.
 - [Divi and All in One SEO Compatibility Guide](https://wordpress-faq.com/compatibility/all-in-one-seo-divi/) — Divi and All in One SEO are generally compatible, as most SEO plugins function independently of the Divi page builder interface.
 - [Divi and All-in-One WP Migration Compatibility](https://wordpress-faq.com/compatibility/all-in-one-wp-migration-divi/) — Divi and All-in-One WP Migration are technically compatible, though migration failures are usually caused by server resource limits or hosting constraints.
