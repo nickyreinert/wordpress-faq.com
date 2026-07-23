@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Reviews](https://wordpress-faq.com/review/) — 57 articles
+- [Reviews](https://wordpress-faq.com/review/) — 58 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
 - [Versions](https://wordpress-faq.com/version/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 44 articles
@@ -427,6 +427,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Write SEO Friendly WordPress Posts](https://wordpress-faq.com/howto/seo-friendly-wordpress-posts/) — Community consensus suggests using lightweight themes like GeneratePress and focusing on site speed to achieve optimal SEO results for WordPress blogs.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/howto/wordpress-pricing-usage/) — The WordPress software is free, but self-hosting it requires ongoing costs for infrastructure and premium extensions.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
+- [iThemes Security Plugin Review and Security Analysis](https://wordpress-faq.com/review/ithemes-security-review/) — iThemes Security is a reliable security plugin, but it must be paired with strong password policies and regular backups to ensure complete site safety.
 - [Jetpack Plugin Review and Performance Analysis](https://wordpress-faq.com/review/jetpack-review/) — Community consensus suggests avoiding Jetpack due to its heavy code footprint, performance degradation, and poor customer support experiences.
 - [Kadence WordPress Theme Compatibility and Conflicts](https://wordpress-faq.com/compatibility/kadence-wordpress-conflict/) — Kadence is generally stable, but users should monitor for plugin conflicts when using multiple modular features alongside other heavy page builders.
 - [Kadence WordPress Theme Review and Performance Analysis](https://wordpress-faq.com/review/kadence-review/) — Kadence is widely considered a top-tier, lightweight, and highly flexible block-based theme suitable for both beginners and advanced developers.
