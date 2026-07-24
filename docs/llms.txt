@@ -8,12 +8,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 126 articles
 - [Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
 - [Versions](https://wordpress-faq.com/version/) — 5 articles
 - [Errors](https://wordpress-faq.com/error/) — 44 articles
 - [Comparisons](https://wordpress-faq.com/comparison/) — 42 articles
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 125 articles
 - [Hostings](https://wordpress-faq.com/hosting/) — 9 articles
 - [Themes](https://wordpress-faq.com/theme/) — 5 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 3 articles
@@ -480,6 +480,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Bricks Builder Issues in WordPress](https://wordpress-faq.com/compatibility/bricks-builder-compatibility/) — Bricks Builder is widely considered a stable and performant tool, with most issues stemming from plugin conflicts or improper server configuration.
 - [Troubleshooting Contact Form 7 Email Delivery Issues](https://wordpress-faq.com/error/contact-form-7-not-working/) — Most Contact Form 7 delivery issues are resolved by configuring a dedicated SMTP plugin and ensuring proper SPF and DMARC domain authentication.
 - [Troubleshooting Divi Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/divi-wordpress-conflict/) — Divi conflicts are typically caused by plugin feature overlap or resource-heavy scripts that require systematic deactivation to isolate the root cause.
+- [Troubleshooting Elementor Conflicts in WordPress](https://wordpress-faq.com/compatibility/elementor-wordpress-conflict/) — Most Elementor conflicts are resolved by checking plugin compatibility, clearing cache, or switching from shortcodes to native widgets for better stability.
 - [Troubleshooting Flatsome Theme Errors and UX Builder Issues](https://wordpress-faq.com/error/flatsome-wordpress-errors/) — Most Flatsome issues are caused by plugin conflicts, aggressive server-side caching, or outdated theme files requiring a clean reinstallation.
 - [Troubleshooting Fluent Forms Issues in WordPress](https://wordpress-faq.com/error/fluent-forms-troubleshooting/) — Most Fluent Forms issues are caused by plugin conflicts or caching settings that prevent form submission scripts from loading correctly.
 - [Troubleshooting GeneratePress Fatal Errors in WordPress](https://wordpress-faq.com/error/generatepress-fatal-error/) — Most fatal errors after theme updates are caused by plugin conflicts or outdated PHP versions that require a manual rollback or plugin deactivation.
