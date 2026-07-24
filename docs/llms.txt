@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Compatibilities](https://wordpress-faq.com/compatibility/) — 126 articles
+- [Compatibilities](https://wordpress-faq.com/compatibility/) — 127 articles
 - [Errors](https://wordpress-faq.com/error/) — 45 articles
 - [Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
@@ -44,6 +44,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Beaver Builder and kvCore IDX Plugin Compatibility Error](https://wordpress-faq.com/compatibility/beaver-builder-kvcore-idx/) — The fatal error is likely caused by a conflict between Beaver Builder and the kvCore IDX plugin, requiring immediate developer support intervention.
 - [Beaver Builder and Rank Math Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-rankmath/) — Beaver Builder and Rank Math are fully compatible and work seamlessly together for on-page SEO optimization.
 - [Beaver Builder and WPForms Compatibility Guide](https://wordpress-faq.com/compatibility/beaver-builder-wpforms/) — Beaver Builder and WPForms are fully compatible and work together reliably for WordPress site development.
+- [Beaver Builder Not Working: Troubleshooting Guide](https://wordpress-faq.com/compatibility/beaver-builder-compatibility/) — Most Beaver Builder issues are caused by theme conflicts or plugin script interference rather than the builder itself.
 - [Beaver Builder Not Working: Troubleshooting Guide](https://wordpress-faq.com/error/beaver-builder-troubleshooting/) — Most Beaver Builder issues are caused by plugin conflicts or outdated caching settings that require a standard troubleshooting process to resolve.
 - [Beaver Builder Review: Features and Performance Analysis](https://wordpress-faq.com/review/beaver-builder-review/) — Beaver Builder is highly regarded for its simplicity, stability, and superior control compared to other popular WordPress page builders.
 - [Beaver Builder WordPress Conflict Troubleshooting](https://wordpress-faq.com/compatibility/beaver-builder-conflict/) — Most Beaver Builder conflicts are resolved by checking for theme-specific CSS overrides or duplicating the affected page to reset module data.
