@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Errors](https://wordpress-faq.com/error/) — 50 articles
+- [Errors](https://wordpress-faq.com/error/) — 51 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 127 articles
 - [Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
@@ -572,6 +572,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WPForms Review: Features and Community Feedback](https://wordpress-faq.com/review/wpforms-review/) — WPForms is widely considered a reliable and user-friendly form builder for capturing leads effectively on WordPress websites.
 - [WPML WordPress Multilingual Plugin Review](https://wordpress-faq.com/review/wpml-review/) — WPML is considered a robust, feature-rich solution for complex multilingual sites, though some users prefer simpler alternatives like Polylang.
 - [Yoast SEO Plugin Review and Community Feedback](https://wordpress-faq.com/review/yoast-seo-review/) — While Yoast SEO remains a standard, many developers now prefer Rank Math for its modern features and lighter footprint.
+- [Yoast SEO WordPress Troubleshooting Guide](https://wordpress-faq.com/error/yoast-seo-troubleshooting/) — Most Yoast SEO issues stem from incorrect site visibility settings, caching conflicts, or improper URL canonicalization rather than plugin bugs.
 
 
 ## More

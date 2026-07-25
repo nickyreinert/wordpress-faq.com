@@ -14677,3 +14677,31 @@ Yoast can be resource-intensive on large sites, leading some developers to seek 
 Reddit Sources Can I pay a WordPress developer to review my site and polish it? Is that a thing? (r/Wordpress) The hardest part of custom WordPress work is not building the feature, it’s maintaining it across many sites (r/Wordpress) I built a lightweight plugin to add custom JSON-LD schema in WordPress (without a full SEO suite) (r/Wordpress) I built a tool to fix my WooCommerce SEO nightmare (130 identical products). Looking for some dev/SEO feedback on the logic. (r/Wordpress) Looking for a young/early-career wp developer/assistant with good organization skills (r/Wordpress) Advice needed - proof of concept (r/Wordpress) How do you change the size of columns in the &ldquo;all posts&rdquo; menu? / post-title can&rsquo;t be displayed (r/Wordpress) I built SEOAutowrite Pro — an AI-powered WordPress plugin for fully automated SEO content (r/Wordpress) Paying for a Ecommerce redesign (r/Wordpress)
 ---
 
+---
+title: Yoast SEO WordPress Troubleshooting Guide
+url: https://wordpress-faq.com/error/yoast-seo-troubleshooting/
+date: 2026-07-25
+lastmod: 2026-07-25
+verdict: Most Yoast SEO issues stem from incorrect site visibility settings, caching conflicts, or improper URL canonicalization rather than plugin bugs.
+confidence: low
+sources: 3
+schema_type: FAQPage
+tags: seo, conflict, caching
+faq:
+  - q: Why is my site showing 'Crawled but not indexed' in Google Search Console?
+    a: This often occurs due to low-quality content, duplicate pages, or incorrect canonical tags set within the Yoast SEO plugin settings.
+  - q: How do I fix Yoast SEO settings not saving?
+    a: Check for conflicts with your caching plugin or hosting-level object caching, and ensure your WordPress database permissions are correctly configured.
+  - q: Does Yoast SEO prevent my site from being indexed?
+    a: Check the 'Search Appearance' settings in Yoast to ensure you have not accidentally set your site or specific post types to 'noindex'.
+Most Yoast SEO issues stem from incorrect site visibility settings, caching conflicts, or improper URL canonicalization rather than plugin bugs. Based on 3 community reports.
+Linked sources: 6.
+Known Issues Crawled but not indexed errors Incorrect site visibility settings Canonical URL conflicts Caching plugin interference Community Q&amp;A Why is my site showing &lsquo;Crawled but not indexed&rsquo; in Google Search Console?
+This often occurs due to low-quality content, duplicate pages, or incorrect canonical tags set within the Yoast SEO plugin settings.
+How do I fix Yoast SEO settings not saving?
+Check for conflicts with your caching plugin or hosting-level object caching, and ensure your WordPress database permissions are correctly configured.
+Does Yoast SEO prevent my site from being indexed?
+Check the &lsquo;Search Appearance&rsquo; settings in Yoast to ensure you have not accidentally set your site or specific post types to &rsquo;noindex&rsquo;.
+Reddit Sources Not Indexed with Google (r/webdev) Need to build a website for a law firm. Number 1 priority is generating leads through contact forms/SEO. Is Wordpress the best solution? (r/webdev) WordPress Alternatives? (PHP based) (r/webdev) WordPress + Yoast Not Fully Communicating with Demandware (r/webdev) Mystery sitewide noindex tag — not from WP core, not from any plugin, not in the database. Stumped after 6+ hours of debugging. (r/ProWordPress) How to improve my website? (r/webdev)
+---
+
