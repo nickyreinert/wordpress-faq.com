@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Errors](https://wordpress-faq.com/error/) — 49 articles
+- [Errors](https://wordpress-faq.com/error/) — 50 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 127 articles
 - [Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
@@ -478,6 +478,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting All in One SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/all-in-one-seo-conflict/) — Conflicts are typically resolved by flushing permalinks, checking for plugin overlaps, or rolling back to a stable version if a recent update is buggy.
 - [Troubleshooting All In One SEO Plugin Conflicts](https://wordpress-faq.com/error/all-in-one-seo-conflict/) — Plugin conflicts are usually resolved by disabling other plugins one by one to isolate the specific source of the error.
 - [Troubleshooting Astra Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/astra-conflict/) — Most Astra theme conflicts are resolved by adjusting global layout settings or applying specific CSS overrides to improve plugin compatibility.
+- [Troubleshooting Avada Builder Not Working in WordPress](https://wordpress-faq.com/error/avada-not-working/) — Most Avada builder issues are resolved by updating the theme and core plugins to the latest versions and clearing all server and browser caches.
 - [Troubleshooting Avada Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/avada-conflict/) — Most Avada conflicts are caused by plugin incompatibility or outdated theme versions, which can be resolved by disabling conflicting plugins.
 - [Troubleshooting Blocksy Theme Issues in WordPress](https://wordpress-faq.com/error/blocksy-wordpress-error/) — Most Blocksy issues are resolved by clearing the cache, updating the theme to the latest version, or checking for plugin conflicts.
 - [Troubleshooting Bricks Builder Issues in WordPress](https://wordpress-faq.com/compatibility/bricks-builder-compatibility/) — Bricks Builder is widely considered a stable and performant tool, with most issues stemming from plugin conflicts or improper server configuration.
