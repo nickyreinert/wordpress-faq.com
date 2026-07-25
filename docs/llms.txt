@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Errors](https://wordpress-faq.com/error/) — 48 articles
+- [Errors](https://wordpress-faq.com/error/) — 49 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 127 articles
 - [Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
@@ -189,6 +189,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Essential WordPress Plugins for Every Website](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching, security, and backup plugins to ensure optimal site performance and data protection.
 - [Essential WordPress Plugins for Performance and SEO](https://wordpress-faq.com/howto/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching plugins and query monitoring tools to resolve performance bottlenecks effectively.
 - [Fixing All in One SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/all-in-one-seo-fatal-error/) — Fatal errors in All in One SEO are typically resolved by accessing site files via FTP, cPanel, or SSH to rename or remove the plugin directory.
+- [Fixing Astra Theme Fatal Errors in WordPress](https://wordpress-faq.com/error/astra-fatal-error/) — Fatal errors in Astra are typically caused by editing core theme files directly or plugin conflicts, which are resolved by using child themes.
 - [Fixing Avada Fusion Builder Not Working Issues](https://wordpress-faq.com/error/avada-fusion-builder-error/) — Most Avada builder issues are resolved by updating the theme and core plugins to the latest versions and flushing all site and browser caches.
 - [Fixing Divi Theme Fatal Errors in WordPress](https://wordpress-faq.com/error/divi-fatal-error/) — Fatal errors in Divi are typically caused by memory exhaustion or conflicting code in the child theme functions.php file.
 - [Fixing Elementor Fatal Errors in WordPress](https://wordpress-faq.com/error/elementor-fatal-error/) — Most Elementor fatal errors are caused by plugin conflicts or outdated versions, which can be resolved by deactivating plugins or rolling back updates.
