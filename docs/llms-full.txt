@@ -12328,6 +12328,34 @@ Reddit Sources Woocommerce issue (only working in admin panel) (r/Wordpress) Woo
 ---
 
 ---
+title: Troubleshooting Flatsome UX Builder Issues
+url: https://wordpress-faq.com/error/flatsome-ux-builder-errors/
+date: 2026-07-25
+lastmod: 2026-07-25
+verdict: Most Flatsome UX Builder issues are resolved by clearing site caches, checking page status, or ensuring the theme and plugins are fully updated.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: page-builder, caching, conflict, security, performance
+faq:
+  - q: Why is the Flatsome UX Builder not loading?
+    a: Common causes include browser cache issues, conflicts with caching plugins, or attempting to edit password-protected pages and drafts.
+  - q: How do I fix UX Builder loading errors?
+    a: Try clearing your site and browser cache, disabling third-party plugins to check for conflicts, and ensuring your theme is updated to the latest version.
+  - q: Can password protection break the UX Builder?
+    a: Yes, some users report that password-protected pages or specific draft statuses can prevent the UX Builder from loading correctly in the WordPress editor.
+Most Flatsome UX Builder issues are resolved by clearing site caches, checking page status, or ensuring the theme and plugins are fully updated. Based on 5 community reports.
+Linked sources: 5.
+Known Issues UX Builder failing to load on draft pages Conflicts with caching plugins Malicious code in theme files Password protected pages blocking editor access Community Q&amp;A Why is the Flatsome UX Builder not loading?
+Common causes include browser cache issues, conflicts with caching plugins, or attempting to edit password-protected pages and drafts.
+How do I fix UX Builder loading errors?
+Try clearing your site and browser cache, disabling third-party plugins to check for conflicts, and ensuring your theme is updated to the latest version.
+Can password protection break the UX Builder?
+Yes, some users report that password-protected pages or specific draft statuses can prevent the UX Builder from loading correctly in the WordPress editor.
+Reddit Sources Huge body to move on scroll - CSS only? (r/Wordpress) Woocommerce issue (only working in admin panel) (r/Wordpress) Found malicious code in functions.php of theme. (r/Wordpress) Using WooCommerce with Oxygen theme is it worth? (r/woocommerce) Flatsome UX Builder Broken (r/Wordpress)
+---
+
+---
 title: Troubleshooting Fluent Forms Issues in WordPress
 url: https://wordpress-faq.com/error/fluent-forms-troubleshooting/
 date: 2026-06-13

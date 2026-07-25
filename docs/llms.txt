@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Errors](https://wordpress-faq.com/error/) — 47 articles
+- [Errors](https://wordpress-faq.com/error/) — 48 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 127 articles
 - [Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
@@ -485,6 +485,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Divi Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/divi-wordpress-conflict/) — Divi conflicts are typically caused by plugin feature overlap or resource-heavy scripts that require systematic deactivation to isolate the root cause.
 - [Troubleshooting Elementor Conflicts in WordPress](https://wordpress-faq.com/compatibility/elementor-wordpress-conflict/) — Most Elementor conflicts are resolved by checking plugin compatibility, clearing cache, or switching from shortcodes to native widgets for better stability.
 - [Troubleshooting Flatsome Theme Errors and UX Builder Issues](https://wordpress-faq.com/error/flatsome-wordpress-errors/) — Most Flatsome issues are caused by plugin conflicts, aggressive server-side caching, or outdated theme files requiring a clean reinstallation.
+- [Troubleshooting Flatsome UX Builder Issues](https://wordpress-faq.com/error/flatsome-ux-builder-errors/) — Most Flatsome UX Builder issues are resolved by clearing site caches, checking page status, or ensuring the theme and plugins are fully updated.
 - [Troubleshooting Fluent Forms Issues in WordPress](https://wordpress-faq.com/error/fluent-forms-troubleshooting/) — Most Fluent Forms issues are caused by plugin conflicts or caching settings that prevent form submission scripts from loading correctly.
 - [Troubleshooting GeneratePress Fatal Errors in WordPress](https://wordpress-faq.com/error/generatepress-fatal-error/) — Most fatal errors after theme updates are caused by plugin conflicts or outdated PHP versions that require a manual rollback or plugin deactivation.
 - [Troubleshooting GeneratePress Issues in WordPress](https://wordpress-faq.com/error/generatepress-troubleshooting/) — GeneratePress is widely considered a lightweight and stable theme, so most issues stem from plugin conflicts or improper CSS implementation.
