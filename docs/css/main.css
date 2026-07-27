@@ -127,9 +127,10 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-s
 
 /* ── Nav in header ── */
 header { display: flex; align-items: center; gap: 1.5rem; }
-header nav { display: flex; gap: 1rem; }
+header nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
 header nav a { font-size: 0.9rem; text-decoration: none; color: #555; }
 header nav a:hover { color: #0066cc; }
+header nav a[aria-current="page"] { color: #0066cc; font-weight: 600; }
 
 /* ── Related sidebar ── */
 .related { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee; }
