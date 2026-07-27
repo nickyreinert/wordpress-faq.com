@@ -13541,6 +13541,34 @@ Reddit Sources How to speed up WP-Admin? (r/Wordpress)
 ---
 
 ---
+title: Troubleshooting Slow WordPress Loading on Hostinger
+url: https://wordpress-faq.com/error/hostinger-wordpress-performance/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: Slow loading is typically caused by plugin conflicts, unoptimized page builders, or lack of server-side caching rather than the hosting provider itself.
+confidence: medium
+sources: 2
+schema_type: FAQPage
+tags: performance, speed, caching, conflict, hosting, ecommerce
+faq:
+  - q: Why is my WordPress site slow on Hostinger?
+    a: Slow performance is often due to heavy page builders, unoptimized images, or plugin conflicts rather than the hosting environment.
+  - q: How do I fix slow server response times in WordPress?
+    a: Check for plugin conflicts, specifically between WooCommerce and other active plugins, and ensure you have a caching plugin enabled.
+  - q: Does Elementor cause slow loading speeds?
+    a: Yes, Elementor can contribute to slow load times due to render-blocking JavaScript and CSS, especially when combined with heavy plugins.
+Slow loading is typically caused by plugin conflicts, unoptimized page builders, or lack of server-side caching rather than the hosting provider itself. Based on 2 community reports.
+Linked sources: 2.
+Known Issues Render blocking JS and CSS from page builders Plugin conflicts between WooCommerce and translation tools Unoptimized images and heavy database queries Community Q&amp;A Why is my WordPress site slow on Hostinger?
+Slow performance is often due to heavy page builders, unoptimized images, or plugin conflicts rather than the hosting environment.
+How do I fix slow server response times in WordPress?
+Check for plugin conflicts, specifically between WooCommerce and other active plugins, and ensure you have a caching plugin enabled.
+Does Elementor cause slow loading speeds?
+Yes, Elementor can contribute to slow load times due to render-blocking JavaScript and CSS, especially when combined with heavy plugins.
+Reddit Sources Why is my server response time way too high? (r/Wordpress) Really slow pages (r/Wordpress)
+---
+
+---
 title: Troubleshooting Slow WordPress Performance on Bluehost
 url: https://wordpress-faq.com/hosting/bluehost-performance/
 date: 2026-07-27
