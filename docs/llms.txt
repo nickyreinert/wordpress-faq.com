@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [Errors](https://wordpress-faq.com/error/) — 56 articles
+- [Errors](https://wordpress-faq.com/error/) — 57 articles
 - [Compatibilities](https://wordpress-faq.com/compatibility/) — 128 articles
 - [Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [Howtos](https://wordpress-faq.com/howto/) — 247 articles
@@ -485,6 +485,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Avada Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/avada-conflict/) — Most Avada conflicts are caused by plugin incompatibility or outdated theme versions, which can be resolved by disabling conflicting plugins.
 - [Troubleshooting Blocksy Theme Issues in WordPress](https://wordpress-faq.com/error/blocksy-wordpress-error/) — Most Blocksy issues are resolved by clearing the cache, updating the theme to the latest version, or checking for plugin conflicts.
 - [Troubleshooting Bricks Builder Issues in WordPress](https://wordpress-faq.com/compatibility/bricks-builder-compatibility/) — Bricks Builder is widely considered a stable and performant tool, with most issues stemming from plugin conflicts or improper server configuration.
+- [Troubleshooting Contact Form 7 Conflicts in WordPress](https://wordpress-faq.com/error/contact-form-7-conflict/) — Most Contact Form 7 issues are caused by plugin conflicts or caching errors that can be resolved by disabling conflicting plugins one by one.
 - [Troubleshooting Contact Form 7 Email Delivery Issues](https://wordpress-faq.com/error/contact-form-7-not-working/) — Most Contact Form 7 delivery issues are resolved by configuring a dedicated SMTP plugin and ensuring proper SPF and DMARC domain authentication.
 - [Troubleshooting Divi Page Builder Errors in WordPress](https://wordpress-faq.com/error/divi-error-troubleshooting/) — Divi errors are typically caused by plugin conflicts, outdated versions, or server-side caching issues that require a systematic troubleshooting approach.
 - [Troubleshooting Divi Theme Conflicts in WordPress](https://wordpress-faq.com/compatibility/divi-wordpress-conflict/) — Divi conflicts are typically caused by plugin feature overlap or resource-heavy scripts that require systematic deactivation to isolate the root cause.

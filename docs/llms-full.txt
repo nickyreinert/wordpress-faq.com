@@ -12324,6 +12324,30 @@ Reddit Sources I open-sourced the Bricks MCP server — 105 tools, full page bui
 ---
 
 ---
+title: Troubleshooting Contact Form 7 Conflicts in WordPress
+url: https://wordpress-faq.com/error/contact-form-7-conflict/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: Most Contact Form 7 issues are caused by plugin conflicts or caching errors that can be resolved by disabling conflicting plugins one by one.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: forms, conflict, caching, database, migration
+faq:
+  - q: Why is my Contact Form 7 not working?
+    a: It is often caused by a conflict with another plugin, a caching issue, or a database error following a site migration.
+  - q: How do I find which plugin is breaking my form?
+    a: Deactivate all plugins except Contact Form 7, then reactivate them one by one to identify the specific plugin causing the conflict.
+Most Contact Form 7 issues are caused by plugin conflicts or caching errors that can be resolved by disabling conflicting plugins one by one. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Plugin conflicts with page builders Database ID conflicts after migration Browser cache interference Community Q&amp;A Why is my Contact Form 7 not working?
+It is often caused by a conflict with another plugin, a caching issue, or a database error following a site migration.
+How do I find which plugin is breaking my form?
+Deactivate all plugins except Contact Form 7, then reactivate them one by one to identify the specific plugin causing the conflict.
+Reddit Sources WooCommerce Products always saving as Simple Product (can’t change product type) (r/woocommerce)
+---
+
+---
 title: Troubleshooting Contact Form 7 Email Delivery Issues
 url: https://wordpress-faq.com/error/contact-form-7-not-working/
 date: 2026-06-12
