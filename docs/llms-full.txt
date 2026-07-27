@@ -12,6 +12,25 @@ Contact Have a correction or a missing topic? Open an issue on GitHub.
 ---
 
 ---
+title: Advanced Custom Fields (ACF®) 6.8.6 Released
+url: https://wordpress-faq.com/news/advanced-custom-fields-6-8-6-released/
+date: 2026-07-14
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, advanced-custom-fields, release, changelog, news
+What&rsquo;s new in Advanced Custom Fields (ACF®) 6.8.6 Released: 2026-07-14
+Active installations: 2,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix – Google Maps field values are no longer double-encoded when saved in an ACF block Fix – Inserting a Link field value in the Classic Editor no longer triggers validation for other required fields before the post is saved Fix – Auto Inline Editing blocks no longer return truthy placeholder strings for empty field values fetched from a different post inside the block render template Fix – ACF Blocks (V2 and V3) no longer crash when rendering an oEmbed field whose title begins with [ or { Fix – Field group location rules without a location value no longer cause PHP warnings on page load Fix – The appearance of the URL, Number, and Select fields has been improved on WordPress 7.0+ Fix – ACF fields now save on WooCommerce orders when using HPOS in compatibility mode Previous releases 6.8.5
+Security – ACF PRO’s save handler for WooCommerce order fields now verifies security nonces and only attaches on the order edit screen, preventing unauthenticated field value updates for stores utilizing HPOS Security – The Flexible Content “Rename Layout” modal no longer allows for the execution of a potential stored XSS vulnerability Security – A default limit of 1000 has been applied to user-contributed choices for Checkbox, Radio, and Select fields to improve security, with a new acf/fields/max_appended_choices filter available for customization Security – Special characters within LIKE patterns are now fully escaped in wp_options queries via $wpdb-&gt;esc_like() 6.8.4
+Security – ACF AJAX field handlers now validate that the request nonce was created for the expected field type Enhancement – ACF PRO now satisfies plugin dependencies declared against advanced-custom-fields, so plugins requiring ACF can activate when only ACF PRO is installed Enhancement – acf_inline_toolbar_editing_attrs() now accepts a return_array argument that returns the attributes as an escaped array suitable for use with wp_get_attachment_image() Fix – acf_form() with &lsquo;post_id&rsquo; =&gt; &rsquo;new_post&rsquo; and a fields list of field names no longer fatal errors when acf_form_head() runs before WordPress’s main query is built Fix – Multiple acf_form() calls wrapped inside a single outer tag with one submit button no longer silently drop field values, post_title, or post_content from the non-last forms Source Advanced Custom Fields (ACF®) on WordPress.org
+---
+
+---
 title: Advanced Custom Fields and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/advanced-custom-fields-elementor/
 date: 2026-05-28
@@ -89,6 +108,24 @@ No, bundling plugins in themes is discouraged as it prevents users from receivin
 Is ACF compatible with Gutenberg?
 Yes, Advanced Custom Fields has been updated to support Gutenberg blocks and modern WordPress editing workflows.
 Reddit Sources ACF and Carbon Fields reviewed! Here&rsquo;s what I learned (r/Wordpress) Introducting technical reports for Wordpress plugins (r/Wordpress) Gutenberg release and preparing your clients (r/Wordpress) What plugins do you use for content management within Wordpress? (r/Wordpress) Gutenberg impressions and WordCamp Boston, July 2018 (r/Wordpress) Can advanced custom fields do this? Or should i be looking at something else? (r/Wordpress) Wordpress theme publishing guidelines (need some advice/clarification) (r/Wordpress)
+---
+
+---
+title: All in One SEO 4.9.10 Released
+url: https://wordpress-faq.com/news/all-in-one-seo-4-9-10-released/
+date: 2026-07-08
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-seo, release, changelog, news
+What&rsquo;s new in All in One SEO 4.9.10 Released: 2026-07-08
+Active installations: 3,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.2
+Changelog New: Added a new ability to list terms that are missing SEO data. Fixed: PHP 8.5 deprecation notice when decoding HTML entities from empty content. Fixed: High CPU usage caused by the translations check on sites with large user tables. Fixed: Fatal error in breadcrumbs on PHP 8 when a third-party plugin added an invalid entry to the breadcrumb trail. Fixed: PHP error in redirects when a request URL contained array-style (bracketed) query parameters. Fixed: Keyword density displaying “Infinity%” in the TruSEO analysis when the content had no readable text (e.g. some Divi pages in the block editor). Fixed: Various security hardening improvements across the plugin. Previous releases 4.9.9
+New: SEO Alerts feature to notify site owners of critical SEO issues via email and Slack. New: New #event_start_date and #event_end_date smart tags for events when The Events Calendar plugin is active. Updated: Sitemap hreflang alternates when using the Universally translation plugin. Updated: .htaccess editor error messages are now clearer and more actionable. Updated: Setup wizard now triggers after bulk plugin activation instead of being skipped. Source All in One SEO on WordPress.org
 ---
 
 ---
@@ -173,6 +210,44 @@ Generally, it has a minimal impact on performance, though enabling too many adva
 Can I use All In One WP Security with Wordfence?
 It is generally recommended to use only one comprehensive security plugin to avoid conflicts and redundant resource usage.
 Reddit Sources New Malware Found in WordPress Installations: Hidden Admin Users, Redirects, and Plugin Hiding (Not Detected by 14 Major Scanners) (r/Wordpress) Lessons leant from a full site rebuild using an agent dev team (r/Wordpress) WP Security Checklist (r/Wordpress) Which plug-ins are redundant with new WPEngine Advance Network (r/Wordpress) wp-admin has too many screens. so i built a free plugin where you type &ldquo;refund order 1042&rdquo; or &ldquo;update all plugins except Elementor&rdquo; and it just does it. on wordpress.org now. (r/Wordpress) The “boring” WordPress ops stack that stops 90% of downtime, hacks, and surprise bills (a practical playbook) (r/Wordpress) Building a WordPress plugin that uses AI to help WooCommerce customers write better reviews - looking for feedback before launch (r/Wordpress) Need Advice for 2M+ Directory Website (r/Wordpress) Help site compromised (r/Wordpress)
+---
+
+---
+title: All-In-One Security (AIOS) 5.4.9 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-security-5-4-9-released/
+date: 2026-06-05
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-security, release, changelog, news
+What&rsquo;s new in All-In-One Security (AIOS) 5.4.9 Released: 5/Jun/2026
+Active installations: 1,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 5.6
+Changelog TWEAK: Added a filter that validates POST requests containing UDRPC messages TWEAK: Update the internal common libs package to latest version Previous releases 5.4.8 — 2/Jun/2026
+SECURITY: Escaped debug log messages before rendering them in the admin area to prevent a stored XSS vulnerability. Thanks to Dmitrii Ignatyev for disclosing this defect. (This issue required both the debug logging feature and the “Disallow unauthorized REST API requests” setting to be enabled. Under those conditions, an attacker could inject malicious scripts into the debug logs via specially crafted requests, which could execute when viewed by an administrator on the AIOS debug logs page). FEATURE: Add notification method to reporting class to handle mails FEATURE: Added bulk actions to audit log table for blacklisting IPs FIX: Fixed minor bug when setting up TFA with the Onboarding wizard where correct codes are rejected if they are entered more than once. FIX: Log out button/link not working immediately after enabling the rename login feature 5.4.7 — 27/Apr/2026
+FEATURE: Added a dashboard widget for the top 5 failed login attempts by IP &amp; username and a chart for the number of failed logins over the last 7 days. FIX: WordPress 7.0 admin UI compatibility issues resolved. FIX: Blacklist IP and User Agent firewalls could still be active when turned off. FIX: Table sorting indicators not being shown on WordPress version 6.3 and above. FIX: “Set up IP address detection settings” button not working in setup notice. Source All-In-One Security (AIOS) on WordPress.org
+---
+
+---
+title: All-in-One WP Migration and Backup 7.107 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-migration-7-107-released/
+date: 2026-07-21
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-migration, release, changelog, news
+What&rsquo;s new in All-in-One WP Migration and Backup 7.107 Released: 2026-07-21
+Active installations: 5,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 5.3
+Changelog Bulk select and delete for backups REST export and import now restricted to network super-admins on multisite Site import now restricted to users with stronger capabilities Previous releases 7.106
+REST API for AI-native WordPress migration Unauthenticated path traversal in ai1wm_error_path. Special thanks to Jakub Herman for responsibly disclosing this issue SQLite export producing invalid MySQL CREATE TABLE statements Stale archive file size caused by a cached stat result in ai1wm_archive_bytes() WP-CLI command now registered on cli_init instead of plugins_loaded 7.105
+PHP 8.5 “Cannot use bool as array” fatal error in export pipeline when reading past end-of-file Database column name replacement incorrectly matching column type keywords (e.g., UUID) in database tables Source All-in-One WP Migration and Backup on WordPress.org
 ---
 
 ---
@@ -332,6 +407,25 @@ Astra is designed to be compatible with Elementor, though some users report occa
 Is Astra better than ReHub for review sites?
 Astra is a general-purpose theme, whereas ReHub includes specialized review functionality; the best choice depends on your specific feature needs.
 Reddit Sources I posted my free WordPress theme here yesterday. You roasted it. Here&rsquo;s what I changed and why I&rsquo;m sticking with the rest. (r/Wordpress) Best free theme or page builder plugin to create beautiful blogs? (r/Wordpress) Astra Pro Theme Woo Customisation (r/Wordpress) What is the best method to insert a password protected website into a general website? (r/Wordpress) Logo in header isnt changing according to the customize page (r/Wordpress) I replaced Gravity Forms on my client sites with a decoupled intake builder — here&rsquo;s the architecture and why (r/Wordpress) Building a Review Platform MVP: Block Editor or Elementor? ReHub or Astra? (r/Wordpress)
+---
+
+---
+title: Autoptimize 3.1.15.1 Released
+url: https://wordpress-faq.com/news/autoptimize-3-1-15-1-released/
+date: 2026-04-04
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, autoptimize, release, changelog, news
+What&rsquo;s new in Autoptimize 3.1.15.1 Released: 2026-04-04
+Active installations: 800,000
+Tested up to WordPress 6.9.5
+Requires PHP 7.1
+Changelog fix for “Uncaught Error: Using $this when not in object context” when preloads are set Previous releases 3.1.15
+also add fetchpriority=high to preload set on Extra tab improve exit survey display in RTL languages security enhancements for 2 authenticated stored XSS issues responsibly reported by stealhcopter and bashu multiple minor changes/ improvements/ bugfixes, see the GitHub commit log. 3.1.14
+improve HTML output for &lt;link rel=”preload” images (based on report by Muhammad) let the 404-handler issue a 302 iso 301 HTTP response (as mentioned by thefitrv) small improvement in critical CSS cron job handling in case of an empty “time limit” (thanks for the help Jason) fix bug in “domain binding” in critical CSS advanced options (reported by Hazel) catch and report (exceptional) JS optimization issues causing preg_replace_callback to crash out (in case of a huge amount of JS code), thanks siliconforks Source Autoptimize on WordPress.org
 ---
 
 ---
@@ -1680,6 +1774,40 @@ Reddit Sources Are WordPress Sites &ldquo;Exclusive&rdquo; for Agencies (r/Wordp
 ---
 
 ---
+title: Browse the New Mercantile Swag Store
+url: https://wordpress-faq.com/news/browse-the-new-mercantile-swag-store/
+date: 2026-06-22
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+Browse the New Mercantile Swag Store Mercantile, the official swag store of the WordPress project, has a newly redesigned storefront with a catalog that now sits front and center, and a design tuned to hold up across a wide range of screen sizes. There are also small touches, like automatically selecting a variant when only one is in stock and order…
+Announced on the official WordPress.org news blog on 2026-06-22.
+Source Browse the New Mercantile Swag Store — WordPress.org News
+---
+
+---
+title: BuddyPress 14.4.0 Released
+url: https://wordpress-faq.com/news/buddypress-14-4-0-released/
+date: 2026-07-07
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, buddypress, release, changelog, news
+What&rsquo;s new in BuddyPress 14.4.0 Released: 2026-07-07
+Active installations: 90,000
+Tested up to WordPress 7.0.2
+Requires PHP 5.6
+Changelog See: https://codex.buddypress.org/releases/version-14-4-0/ Previous releases 14.3.4
+See: https://codex.buddypress.org/releases/version-14-3-4/ 14.3.3
+See: https://codex.buddypress.org/releases/version-14-3-3/ Source BuddyPress on WordPress.org
+---
+
+---
 title: BuddyPress Review: Community Features and Alternatives
 url: https://wordpress-faq.com/review/buddypress-review/
 date: 2026-06-07
@@ -1757,6 +1885,25 @@ Standard WooCommerce does not handle dimensional weight natively, so you should 
 Can I offer multiple shipping options to customers?
 Yes, you can configure multiple shipping methods in the WooCommerce settings, or use a carrier plugin to display live rates from different services.
 Reddit Sources How much should I charge for this job? (r/woocommerce) Any one used Delhivery for woocommerce? (r/woocommerce) Shipping quotes with dimensional weight rules (r/woocommerce) Need Advice: Subscription System with Custom Packages (r/woocommerce) New to woocommerce, looking for a few protips. (r/woocommerce) Mostly carrier rate shipping by weight but a couple of special cases? (r/woocommerce) Let user choose between 2 free shipping options (Purolator or Canada Post)? (r/woocommerce) Multiple Variations, but only manage stock for 1 attribute while being able to control shipping class (r/woocommerce)
+---
+
+---
+title: Contact Form 7 6.1.6 Released
+url: https://wordpress-faq.com/news/contact-form-7-6-1-6-released/
+date: 2026-05-15
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, contact-form-7, release, changelog, news
+What&rsquo;s new in Contact Form 7 6.1.6 Released: 2026-05-15
+Active installations: 10,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog https://contactform7.com/contact-form-7-616/ Previous releases 6.1.5
+https://contactform7.com/contact-form-7-615/ 6.1.4
+https://contactform7.com/contact-form-7-614/ Source Contact Form 7 on WordPress.org
 ---
 
 ---
@@ -2979,6 +3126,25 @@ Duplicator has limitations with multisite; tools like NS Cloner are often recomm
 Does Duplicator backup both files and databases?
 Yes, Duplicator creates a package containing both your WordPress files and the database, which can be used for site migration or disaster recovery.
 Reddit Sources WordPress Plugin: Sync Staging &amp; Production sites with Selective diff functionality (Does one exist?) (r/Wordpress) Replacing website from another live site opposed to building local (r/Wordpress) Duplicating a subdomain in a multi-site installation? (r/Wordpress) Which WP plug-in backs up website database and files? (r/Wordpress) Conditional shipping issues (r/woocommerce)
+---
+
+---
+title: Easy Digital Downloads 3.6.9 Released
+url: https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-released/
+date: 2026-06-18
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, easy-digital-downloads, release, changelog, news
+What&rsquo;s new in Easy Digital Downloads 3.6.9 Released: 2026-06-18
+Active installations: 40,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog NEW: PayPal – Added support for Fastlane and additional payment methods for newly connected stores. Admin: Improved notice compatibility. Admin: Hardened sanitization of the banned emails setting. Admin: Sorted Checkout fields were not persisting their order in the admin UI. Cart: Improved the Cart Preview compatibility with caching layers. Compatibility: Fixed an issue that could cause conflicts with forms added to the homepage of a site. Emails: The email for the one-time login link could be stuck in a disabled state. Imports: Improved parsing of import files. Stripe: Card Elements was incorrectly adding the new Company field to the legacy Card Elements. Previous releases 3.6.8
+NEW: Stripe – Added support for BLIK payments. Admin: Fixed the orders table filter by total not working with the “greater than” condition. Admin: Fixed manual order tax calculation requiring an address field change to trigger. Admin: Enhanced select placeholder no longer assumes the field is for downloads. Admin: Improve UX of Select input search. 3.6.7
+NEW: Blocks – Introducing the Profile Editor Block. NEW: Checkout – Added a Business Name field to checkout addresses. NEW: Checkout – Returning customers can now log in via a secure email link at checkout. NEW: Purchase Links – Discount codes can now be added to the buy button block. Admin: Improved customer detail page markup and layout. Source Easy Digital Downloads on WordPress.org
 ---
 
 ---
@@ -4300,6 +4466,23 @@ Reddit Sources [DISCUSSION] WordPress 6.9 &ldquo;Gene&rdquo; Released - And It&r
 ---
 
 ---
+title: Elementor Website Builder 4.2.0 Released
+url: https://wordpress-faq.com/news/elementor-4-2-0-released/
+date: 2026-07-20
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Website Builder 4.2.0 Released: 2026-07-20
+Active installations: 10,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog New: Introducing Grid for building advanced row and column layouts – Atomic Editor Tweak: Improved Angie layout, composition, and design system creation from prompts and images – Atomic Editor Tweak: Added dynamic tag support for AI-generated element properties Fix: VideoPress URLs do not display on the frontend when used in Background Video and Lightbox dynamic tags (#24467) Fix: Grid containers can cause slower Editor performance on complex pages Fix: Filters do not work as expected in Website Templates Fix: The Save as Template button is unreachable when the modal does not fit the browser viewport Fix: AI-related Editor features show a console error when required services are not available yet Fix: Missing classes can affect the editing panel when they are still applied to elements – Atomic Editor Fix: Unsaved Class changes are not detected when switching between Design System tabs – Atomic Editor Fix: Custom Font names with spaces or special characters do not work in the Font Family control – Atomic Editor Fix: The drop indicator is missing when dragging Atomic elements inside row Containers – Atomic Editor Source Elementor Website Builder on WordPress.org
+---
+
+---
 title: Essential WordPress Plugins for Beginners Guide
 url: https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/
 date: 2026-06-02
@@ -4948,6 +5131,25 @@ Reddit Sources Issue with payments on checkout: &ldquo;There was an error proces
 ---
 
 ---
+title: Fluent Forms 6.2.8 Released
+url: https://wordpress-faq.com/news/fluent-forms-6-2-8-released/
+date: 2026-07-23
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, fluent-forms, release, changelog, news
+What&rsquo;s new in Fluent Forms 6.2.8 Released: (Date: July 23, 2026)
+Active installations: 700,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fixes a stored XSS vulnerability in form submission handling Previous releases 6.2.7 — (Date: July 16, 2026)
+Fixes date field restrictions configurations Improves Advanced Date Configuration to support more restriction patterns: comparison operators, combined conditions, month/day/year rules, and fixed calendar dates Improve Stripe API keys encryption to prevent being unusable after the site WordPress security salts change Hardens the date field’s inline script output against script-context injection 6.2.6 — (Date: July 10, 2026)
+Improves the Other option in conversational forms to be keyboard-activatable Fixes a manager privilege escalation via a delegated WordPress role Fixes a payment permission bypass letting form managers update transactions and cancel subscriptions Fixes an oEmbed JSONP path-traversal XSS vulnerability Fixes checkbox and radio Other option values not saving the translated label on multilingual sites Source Fluent Forms on WordPress.org
+---
+
+---
 title: Fluent Forms Review: Features and Lead Capture Capabilities
 url: https://wordpress-faq.com/review/fluent-forms-review/
 date: 2026-06-06
@@ -5105,6 +5307,21 @@ Yes, GeneratePress is highly optimized for performance and clean code, which pro
 Do I need GenerateBlocks with GeneratePress?
 While not strictly required, using GenerateBlocks with GeneratePress is highly recommended to unlock the full potential of the theme&rsquo;s dynamic data features.
 Reddit Sources Confused Between Astra, Generatepress and OceanWP (r/Wordpress) Wordpress product review website - Should I use a premade theme designed for reviews or create my own using a builder (like Elementor or beaver builder)? (r/Wordpress) Has anyone else downloaded templates for GeneratePress or Bricks just to figure out how someone made a design? (r/Wordpress) Want to create a website for reviews of movies, TV-series and games. What would you recommend? (r/Wordpress)
+---
+
+---
+title: Global Partners Across the First Half of the 2026 WordPress Event Season
+url: https://wordpress-faq.com/news/global-partners-across-the-first-half-of-the-2026-wordpress-event-season/
+date: 2026-06-18
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+Global Partners Across the First Half of the 2026 WordPress Event Season This post recaps how the WordPress project’s five Global Partners — Jetpack, WordPress.com, WooCommerce, Bluehost, and Hostinger — supported community events during the first half of 2026. Across more than a dozen regional the first WordPress Developers Day, and a growing network of WordPress Campus Connect events, Global Partners staffed booths, sponsored sessions, and connected…
+Announced on the official WordPress.org news blog on 2026-06-18.
+Source Global Partners Across the First Half of the 2026 WordPress Event Season — WordPress.org News
 ---
 
 ---
@@ -11036,6 +11253,25 @@ Reddit Sources Expert Legal Analysis Of WP vs WPE (r/Wordpress) I Made a Free e-
 ---
 
 ---
+title: Kadence Security 10.0.2 Released
+url: https://wordpress-faq.com/news/ithemes-security-10-0-2-released/
+date: 2026-05-28
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ithemes-security, release, changelog, news
+What&rsquo;s new in Kadence Security 10.0.2 Released: 2026-05-28
+Active installations: 700,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Bug Fix: Handle WP_Error in login interstitial session creation to prevent fatal errors. Previous releases 10.0.1
+Bug Fix: Race condition in file write could empty wp-config.php/.htaccess files. 10.0.0
+Tweak: Updated branding from SolidWP to Kadence. New: QR code for 2FA is generated locally by default (the GD PHP extension is required), with a Kadence Security-hosted solution as a fallback. Source Kadence Security on WordPress.org
+---
+
+---
 title: Kadence WordPress Theme Compatibility and Conflicts
 url: https://wordpress-faq.com/compatibility/kadence-wordpress-conflict/
 date: 2026-06-10
@@ -11088,6 +11324,21 @@ Reddit Sources I posted my free WordPress theme here yesterday. You roasted it. 
 ---
 
 ---
+title: Kim Parsell Memorial Scholarship Opens for WordCamp US 2026
+url: https://wordpress-faq.com/news/kim-parsell-memorial-scholarship-opens-for-wordcamp-us-2026/
+date: 2026-06-19
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+Kim Parsell Memorial Scholarship Opens for WordCamp US 2026 Applications are now open for the 2026 Kim Parsell Memorial Scholarship, which supports one active WordPress contributor who identifies as a woman and has not previously attended WordCamp US. The scholarship helps make it possible for a community member with financial need to join WordCamp US 2026 in Phoenix, Arizona, and take part in one…
+Announced on the official WordPress.org news blog on 2026-06-19.
+Source Kim Parsell Memorial Scholarship Opens for WordCamp US 2026 — WordPress.org News
+---
+
+---
 title: Kinsta vs SiteGround WordPress Hosting Comparison
 url: https://wordpress-faq.com/comparison/kinsta-siteground/
 date: 2026-06-01
@@ -11137,6 +11388,25 @@ Yes, LearnDash has a native integration with WooCommerce, allowing you to sell c
 Can I create question banks in LearnDash?
 LearnDash supports quiz creation, though advanced question bank management may require additional add-ons or custom development.
 Reddit Sources I have been researching for DAYS - if someone can help break the bad luck charm.. [LearnDash/BuddyBoss] (r/Wordpress) How to Create a Question Bank WP Website (r/Wordpress) [REVIEW] LearnPress vs LearnDash: 2 Kings Of The Best LMS Plugin Land (r/WordpressPlugins)
+---
+
+---
+title: LiteSpeed Cache 7.8.1 Released
+url: https://wordpress-faq.com/news/litespeed-cache-7-8-1-released/
+date: 2026-04-01
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, litespeed-cache, release, changelog, news
+What&rsquo;s new in LiteSpeed Cache 7.8.1 Released: Apr 1 2026
+Active installations: 7,000,000
+Tested up to WordPress 6.9.5
+Requires PHP 7.2
+Changelog CDN Fixed Cloudflare API key type detection for the compatibility w/ the new key format. Previous releases 7.8.0.1 — Mar 17 2026
+Object Cache Improved Object Cache resilience: auto disable when connection fails, network subsites fallback to database, and dropped TTL setting to respect never-expired transients. 7.8 — Mar 3 2026
+Cloud Changed Health service to run asynchronously. Object Cache Dropped Store Transients option. Transients now always use Object Cache when available, preventing potential database bloat from expired transients not being cleared. (ravanh) Media Added extension check for WebP/AVIF replacement efficiency – only processes jpg/jpeg/png/gif, skips svg/ico/bmp etc. Media Added WebP/AVIF support for macOS Safari &gt;= 16.4. (PR#948) Media Fixed pie chart not displaying in media library. Source LiteSpeed Cache on WordPress.org
 ---
 
 ---
@@ -11276,6 +11546,25 @@ Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) &ldquo;s
 ---
 
 ---
+title: MC4WP 4.13.1 Released
+url: https://wordpress-faq.com/news/mailchimp-for-wordpress-4-13-1-released/
+date: 2026-06-22
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, mailchimp-for-wordpress, release, changelog, news
+What&rsquo;s new in MC4WP 4.13.1 Released: 2026-06-22
+Active installations: 1,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Forms: Improve handling of pasted wrapper tags in form content. Forms: Remove mc4wp_default_form_id option. We now default to first available form. Forms: Improve the {email} dynamic content tag by detecting common lowercase email field names. Misc: Adhere to DB, Security, I18n sniffs from WordPress Coding Standards. Misc: Prevent direct access to plugin configuration files. Misc: Remove the plugin review request from the footer of plugin admin pages. Security: Add Patchstack vulnerability disclosure instructions to the plugin FAQ and security policy. Previous releases 4.13.0
+Improve performance by preloading core plugin classes and skipping dynamic content tag parsing when no tags are present. Improve security for admin AJAX requests by adding a nonce check and stricter audience ID handling. Improve dynamic content tag replacement by removing broken regular expressions. Improve form preview output by disabling PHP error display during preview rendering. Update JavaScript dependencies and pass admin script data using wp_add_inline_script(). 4.12.6
+Fix integrations losing runtime options like double opt-in when sign-up attempts are processed asynchronously. Thanks Jon Parker! Fix Site Tracking Pixel setting not being saved when disabling it. Improve accessibility of generated form fields by wrapping inputs in labels and using fieldsets for checkbox and radio fields. Improve validation and sanitization of submitted form data. Improve debug log safety by truncating overly long messages and improving email address obfuscation. Thanks Jack Feldcher! Source MC4WP on WordPress.org
+---
+
+---
 title: MemberPress Review and Membership Plugin Comparison
 url: https://wordpress-faq.com/review/memberpress-review/
 date: 2026-06-11
@@ -11297,6 +11586,25 @@ MemberPress is highly regarded for its scalability and integration capabilities,
 What are alternatives to MemberPress?
 Common alternatives mentioned by users include Ultimate Membership Pro, s2Member, and WP-Members for simpler requirements.
 Reddit Sources Questions about adding Membership to my News/Review Site - Trouble finding a good way. (r/Wordpress) Membership and rewards platform (r/Wordpress)
+---
+
+---
+title: Ninja Forms 3.14.11 Released
+url: https://wordpress-faq.com/news/ninja-forms-3-14-11-released/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ninja-forms, release, changelog, news
+What&rsquo;s new in Ninja Forms 3.14.11 Released: (28 July 2026)
+Active installations: 600,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog fix CSV export column alignment for fields placed after repeatable fieldsets preserve , Previous releases 3.14.10 — (27 July 2026)
+fix anchor tag URLs breaking when merge tags are used as querystrings in HTML fields fix date field required validation not triggering for Date &amp; Time mode fix {other:date} merge tag reporting dates in UTC instead of local timezone add banner-led partner cards to Partner Apps &amp; Services tab protect against SQL injection in import settings key 3.14.9 — (14 July 2026)
+restore visibility of “Almost there…” heading in new-form drawer add descender allowance for typed signature fonts in PDF protect against unauthorized multisite data deletion protect against stored XSS in Repeatable Fieldset protect against field metadata override Source Ninja Forms on WordPress.org
 ---
 
 ---
@@ -11748,6 +12056,25 @@ Reddit Sources Find Slow Plugins &amp; Queries + Fix Autoload Bloat + Control Cr
 ---
 
 ---
+title: Polylang 3.8.6 Released
+url: https://wordpress-faq.com/news/polylang-3-8-6-released/
+date: 2026-07-20
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, polylang, release, changelog, news
+What&rsquo;s new in Polylang 3.8.6 Released: (2026-07-20)
+Active installations: 800,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Pro: Security: Ensure the user has the required capability for ACF fields when switching language in the editor #3029 Security: Fix exposure of some private posts metadata to non-authorized users. Props Patchstack. Security: Fix server side default language encoding for the block editor Fix 404 for post type or taxonomy sitemap when its name ends with a language code #1909 Previous releases 3.8.5 — (2026-06-16)
+Pro: Fix language switcher block error in Widget screen #1905 Pro: Fix “edit” button wrongly disabled in the languages sidebar in the block editor #3011 Fix edited images files deleted when deleting the first media translation #1887 Fix error in AJAX context when the parameter lang is passed a locale instead of a language code #1896 3.8.4 — (2026-05-18)
+Security: Fix an XSS in the multilingual biography Pro: Fix draft post translations not shown in the languages sidebar in the block editor #3006 Pro: Fix compatibility with libxml 2.15.1 #2920 Pro: Fix Allowed memory size exhausted with Divi 5 #3008 Improve accessibility of the multilingual biography on user profile page #1869 Source Polylang on WordPress.org
+---
+
+---
 title: Polylang WordPress Plugin Review and Community Feedback
 url: https://wordpress-faq.com/review/polylang-review/
 date: 2026-06-07
@@ -11821,6 +12148,24 @@ Deactivate all plugins except Rank Math and switch to a default theme like Twent
 Does Rank Math affect my site&rsquo;s text-to-HTML ratio?
 No, Rank Math does not typically cause low text-to-HTML ratio errors; these are usually related to bloated theme code or excessive HTML markup.
 Reddit Sources Why I Still Recommend WordPress in 2026 (Even With All the New Website Builders Around) (r/Wordpress) How to build Wordpress sites efficiently (r/Wordpress) We tested using Schema FAQ Markup to improve Google rankings on our WP site, and here&rsquo;s what we found. We only ran the test for a month, but I think there&rsquo;s still some helpful info here in general. (r/Wordpress) Real talk: How long did it take before your WordPress blog started getting actual organic traffic? (r/Wordpress) Request to plugin authors. (r/Wordpress) Bad Theme or Plugin Issues? How Can I Determine? (r/Wordpress) 301 redirect htaccess: Forward OLD site to NEW site with different URL structure (r/Wordpress)
+---
+
+---
+title: Rank Math SEO 1.0.274 Released
+url: https://wordpress-faq.com/news/rankmath-1-0-274-released/
+date: 2026-07-15
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, rankmath, release, changelog, news
+What&rsquo;s new in Rank Math SEO 1.0.274 Released: [Jul 14, 2026]
+Active installations: 4,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Added rank-math/get-top-keywords MCP Tool to let AI assistants retrieve top-performing keywords from Google Search Console with impressions, CTR, and average position. Added rank-math/analyze-post-content MCP Tool to let AI assistants run Rank Math’s full on-page SEO analysis for a post and see which tests passed or failed. Added rank-math/get-seo-scores MCP Tool to let AI assistants retrieve SEO scores and grades for posts, with filtering by score range or missing focus keyword. Fixed AI Visibility “Add Your First Brand” modal that was not displaying on WordPress 6.7.5–6.8.5. Fixed an issue with MixPanel usage events Fixed fatal error on Status &amp; Tools → System Status caused by an undefined function on some hosts. Fixed the Setup Wizard help search that was linking to the general KB page instead of the searched query. Fixed PHP warning that was logged when creating a new taxonomy term with SEO controls enabled for tags. Fixed Classic revisions editor that was appearing inside the Block Editor when Rank Math was active. Fixed Content AI media file suggestions that were incorrect on top-level pages. Fixed Redirections query parameters that were not merging correctly when appended to the destination URL. Previous releases 1.0.274.1 — [Jul 15, 2026]
+Fixed a fatal error that occurred when editing a post using Divi’s Front-end/Visual Builder. Source Rank Math SEO on WordPress.org
 ---
 
 ---
@@ -12036,6 +12381,24 @@ Reddit Sources Shopify vs WordPress + Woocommerce, which one should I use for bu
 ---
 
 ---
+title: Sucuri Security 2.7.4 Released
+url: https://wordpress-faq.com/news/sucuri-2-7-4-released/
+date: 2026-07-07
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, sucuri, release, changelog, news
+What&rsquo;s new in Sucuri Security 2.7.4 Released: 2026-07-07
+Active installations: 600,000
+Tested up to WordPress 7.0.2
+Changelog Improve the Two-Factor Authentication page to load the users list in pages, so it stays fast and reliable on sites with hundreds or thousands of users (for example, WooCommerce stores). Add a search box to the Two-Factor Authentication page to quickly find users by username, email, or display name. Strengthen input validation, access checks, and output escaping. Add a one-click “Disable XML-RPC” option to the Hardening page to close a common brute-force and pingback-based DDoS attack vector, with a warning if an active plugin (e.g. Jetpack) depends on XML-RPC. Fix a fatal error on PHP 8 when the API returns the “messages” field as a string instead of an array. Previous releases 2.7.3
+Refactor AJAX handler to an explicit dispatch map for improved security and efficiency. Improve 2FA section with more UI clarity. Make light-mode default when no preference is defined. Correct inverted dark/light mode icons. Fix i18n regression in 2FA status and setup templates. Fix duplicate CSS property declarations. 2.7.2
+Fix salt bug in the wp-config file. Source Sucuri Security on WordPress.org
+---
+
+---
 title: Sucuri vs Wordfence Security Plugin Review
 url: https://wordpress-faq.com/review/sucuri-wordfence/
 date: 2026-06-07
@@ -12084,6 +12447,25 @@ Reddit Sources [HELP] Security vulnerability of a developed wordpress plugin (r/
 ---
 
 ---
+title: SureCart 4.6.1 Released
+url: https://wordpress-faq.com/news/surecart-4-6-1-released/
+date: 2026-07-22
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.6.1 Released: July 22nd, 2026
+Active installations: 80,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix: Bundle item basis amount not persisting when edited from the bundle item drawer. Previous releases 4.6.0 — July 21st, 2026
+New: Product Bundles let you combine multiple products, prices, and variants into a single purchasable package. Improvement: Sync checkout verification code cooldown to platform to prevent multiple emails. Improvement: Harden security of plugin. Change: Login prompt at checkout now defaults to “off” instead of “on”. 4.5.1 — July 14th, 2026
+Fix: Fix version number in modern view popup. Source SureCart on WordPress.org
+---
+
+---
 title: SureCart and WooCommerce Compatibility Guide
 url: https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/
 date: 2026-06-05
@@ -12105,6 +12487,21 @@ It is generally advised against as both plugins attempt to control shop pages an
 How do I fix SureCart shop page conflicts?
 The most effective solution is to deactivate WooCommerce if you intend to use SureCart as your primary e-commerce platform.
 Reddit Sources Need Help: WooCommerce Shop Page Overriding SureCart Shop Page on WordPress (Astra Theme) (r/Wordpress)
+---
+
+---
+title: The First AI Leaders Graduates
+url: https://wordpress-faq.com/news/the-first-ai-leaders-graduates/
+date: 2026-06-29
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+The First AI Leaders Graduates On June 23, around 40 students from the University of Illinois Chicago (UIC), Louisiana Tech University, and the University of Louisiana at Lafayette were celebrated in Chicago as the first cohort to receive the AI Leaders Micro-Credential through AI Leaders, the nation’s first workforce-focused AI literacy course tied to a recognized credential. Each of them…
+Announced on the official WordPress.org news blog on 2026-06-29.
+Source The First AI Leaders Graduates — WordPress.org News
 ---
 
 ---
@@ -13136,6 +13533,25 @@ Reddit Sources Not Indexed with Google (r/webdev) Need to build a website for a 
 ---
 
 ---
+title: Tutor LMS 4.0.3 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-0-3-released/
+date: 2026-07-24
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.0.3 Released: 24 July, 2026
+Active installations: 100,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix: Resolved an issue where quiz submissions failed in Legacy Mode. Fix: Resolved an issue where the correct answer was incorrectly marked in True/False quizzes. Fix: Resolved an issue where the certificate footer displayed “Tutor LMS” instead of the site title. (Pro) Previous releases 4.0.2 — 22 July, 2026
+Update: Add Hyperlink Support to Instructor Feedback and Instructor Notes Update: Add support for Vimeo unlisted/private video URLs Update: UX updated for the ordering quiz Update: Show Full Lesson Name Without Ellipsis in the learning area Fix: Forgot Password Redirection Mail (Pro) 4.0.1 — 10 July, 2026
+Update: Enhanced course access security through REST APIs. Fix: Resolved the lesson video loading issue. Fix: Resolved an issue preventing learners from starting quizzes. Fix: Added the missing Quiz Details button on mobile devices. Fix: Resolved the PHP error triggered by 100% discount coupons. Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/howto/two-factor-authentication-wordpress/
 date: 2026-06-02
@@ -13188,6 +13604,24 @@ Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimi
 ---
 
 ---
+title: UpdraftPlus 1.26.6 Released
+url: https://wordpress-faq.com/news/updraftplus-1-26-6-released/
+date: 2026-07-23
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, updraftplus, release, changelog, news
+What&rsquo;s new in UpdraftPlus 1.26.6 Released: 23/Jul/2026
+Active installations: 3,000,000
+Tested up to WordPress 7.0.2
+Changelog FEATURE: Upon plugin deactivation, a popup will appear with data removal options, enabling users to opt-in to deleting saved data. FIX: “Unattached” media filter lists attached images when no unattached items exist TWEAK: Added Burst Statistics to TeamUpdraft family admin notices. TWEAK: Create a better UX for free users around premium remote storage locations TWEAK: Prefer http_get_last_response_headers() (PHP 8.4+) to avoid PHP 8.5 deprecation warnings for $http_response_header. TWEAK: Replace the calls to the native PHP ‘unserialize()’ function in the Google Drive and HTTP_Request2 libraries. Previous releases 1.26.5 — 05/Jun/2026
+SECURITY: Previous versions contained a defect allowing sites with an active Migrator key (paid versions only) or UpdraftCentral key (free and paid versions) to have unauthorised operations carried out on them. All users should update immediately. TWEAK: Added explicit HTTP timeout of 60 seconds to pCloud chunk upload requests to prevent cURL error 28 on slow server connections TWEAK: Guard curl_close(), finfo_close() and xml_parser_free() calls with a PHP version check to prevent deprecation warnings on PHP 8.5+ TWEAK: Update the bundled common-libs version TWEAK: Replace all usages of wpdb::esc_like() with UpdraftPlus_Database_Utility::esc_like() across the codebase to maintain consistency. 1.26.4 — 07/May/2026
+FIX: In version 1.26.2, a regression prevented the backup schedule, including the day name or number, as well as backup entity exclusion rules, from being saved. TWEAK: Alert users who wrongly enter URLs instead of an actual hostname for SFTP and FTP remote storage. TWEAK: Updated DreamObjects endpoints by removing the deprecated objects-us-west-1, marking objects-us-east-1.dream.io as unavailable (Nov. 12th, 2025), and adding admin notices to inform users of this change. TWEAK: get_structured_data() now accepts params to avoid timeouts. Source UpdraftPlus on WordPress.org
+---
+
+---
 title: UpdraftPlus WordPress Backup Plugin Review
 url: https://wordpress-faq.com/review/updraftplus-review/
 date: 2026-06-07
@@ -13216,6 +13650,25 @@ Reddit Sources Virus Found in general-template.php (r/Wordpress) HELP! Restored 
 ---
 
 ---
+title: W3 Total Cache 2.10.2 Released
+url: https://wordpress-faq.com/news/w3-total-cache-2-10-2-released/
+date: 2026-07-16
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, w3-total-cache, release, changelog, news
+What&rsquo;s new in W3 Total Cache 2.10.2 Released: 2026-07-16
+Active installations: 900,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix: Disk cache: Restore file-locking writes on PHP 8+ Fix: Apache: Limit Options -MultiViews in page cache rules to compatibility mode Fix: Page Cache: Skip storing redirect responses Previous releases 2.10.1
+Fix: General Settings: “The link you followed has expired” when emptying all caches Fix: Redis/Memcached/CDN: Restore connection handling after 2.10.0 at-rest credential encryption Fix: At-rest credentials: Defer encryption until WordPress salts are available Fix: Always Cached: Queue regeneration on nginx with Disk: Enhanced page cache Fix: mfunc: Render unrecognized dynamic-fragment tags as empty output 2.10.0
+Security: Hardened authorization, capability, and request-verification (nonce/CSRF) checks across admin and AJAX endpoints Security: Improved input validation and output escaping to prevent cross-site scripting (XSS) Security: Strengthened protections against code, command, and file-inclusion injection Security: Hardened processing of dynamic and cached content, including data serialization Security: Restricted outbound server-side requests to mitigate server-side request forgery (SSRF) Source W3 Total Cache on WordPress.org
+---
+
+---
 title: W3 Total Cache Plugin Review and Performance Analysis
 url: https://wordpress-faq.com/review/w3-total-cache-review/
 date: 2026-06-07
@@ -13237,6 +13690,21 @@ User experiences are mixed; while it offers extensive features, many report site
 Why does W3 Total Cache cause an unknown engine error?
 This error typically occurs due to misconfiguration in the caching engine settings or conflicts with server-side storage environments.
 Reddit Sources [REVIEW] W3 Total Cache: Uncaught exception &lsquo;Exception&rsquo; with message &lsquo;unknown engine&rsquo; (r/WordpressPlugins) Wordpress install &amp; CDN &amp; Storage options for a website/blog that will have tens of thousands of images? (r/webdev)
+---
+
+---
+title: What Happened at WordCamp Europe 2026
+url: https://wordpress-faq.com/news/what-happened-at-wordcamp-europe-2026/
+date: 2026-06-06
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+What Happened at WordCamp Europe 2026 WordCamp Europe 2026 brought the WordPress community to Kraków for three days of contribution and conversation, from CERN going live on WordPress to WordPress 7.0, AI, and a closing fireside chat on where the project goes next. Read the full recap.
+Announced on the official WordPress.org news blog on 2026-06-06.
+Source What Happened at WordCamp Europe 2026 — WordPress.org News
 ---
 
 ---
@@ -13345,6 +13813,23 @@ Yes, WordPress is widely used for e-commerce, particularly when paired with WooC
 Does WordPress hosting affect site performance?
 Yes, choosing a high-quality managed hosting provider is critical for optimizing page load speeds and maintaining site uptime for WordPress users.
 Reddit Sources 400+ Websites That I Use as a Web Designer/Freelancer - All Compiled and Categorized in One Place (r/webdev) Learners who stopped: what were your reasons for not continuing with web dev learning? (r/webdev) What is the fastest (modern) WordPress stack now? (r/Wordpress) What framework would you suggest for a (programmer) portfolio page? (r/webdev) 5 Best Web Hosting Services in 2018 (October) (r/ProWordPress)
+---
+
+---
+title: WooCommerce 10.9.4 Released
+url: https://wordpress-faq.com/news/woocommerce-10-9-4-released/
+date: 2026-07-07
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, woocommerce, release, changelog, news
+What&rsquo;s new in WooCommerce 10.9.4 Released: 2026-07-07
+Active installations: 7,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix – Fix is_vat_exempt being not correctly applied during block checkout for logged-in users. #66342 Source WooCommerce on WordPress.org
 ---
 
 ---
@@ -13539,6 +14024,25 @@ Reddit Sources WooCommerce Subscriptions - Set later payment date (r/Wordpress) 
 ---
 
 ---
+title: Wordfence Security 8.2.2 Released
+url: https://wordpress-faq.com/news/wordfence-8-2-2-released/
+date: 2026-05-13
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wordfence, release, changelog, news
+What&rsquo;s new in Wordfence Security 8.2.2 Released: May 13, 2026
+Active installations: 5,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.0
+Changelog Improvement: Better presentation of Live Traffic data on wide screens Improvement: Increased legibility of token fields Improvement: Reworked the pagination of the Blocking page for a better UX Improvement: Country blocking token field can now expand to show all entries Improvement: Performance improvements for the activity log and better pause behavior on window blur/focus Improvement: GeoIP database updated Change: Removed deprecated Central endpoint Fix: Addressed issue where the last activity log entry could repeatedly appear Fix: Using the embedded shortcode for the 2FA form now correctly enqueues core JavaScript dependencies Fix: Modals with content that overflows on smaller viewports can now be scrolled Fix: The changelog link in plugin upgrade scan issues now links correctly Previous releases 8.2.1 — May 6, 2026
+Fix: Fixed issue with some i18n plugins/themes when a user has no 2FA recovery codes Fix: Toggled options with additional help links now correctly open the link rather than toggling the option Fix: Country Blocking editing fixed when there are multiple pages of block rules Fix: Added better error handling to the initial Vue data load Fix: Handled error when logging in using legacy 2FA with separate prompts enabled 8.2.0 — April 29, 2026
+Improvement: Migrated all deprecated JavaScript libraries in use to a Vue-based infrastructure Improvement: GeoIP database update Improvement: Better coverage of aria- accessibility attributes Improvement: Added translators comments to translatable strings where previously missing Fix: WordPress 7.0 compatibility fixes Source Wordfence Security on WordPress.org
+---
+
+---
 title: Wordfence Security Plugin Review and Performance Analysis
 url: https://wordpress-faq.com/review/wordfence-review/
 date: 2026-06-06
@@ -13615,6 +14119,66 @@ The main community-noticed changes are faster block editor performance on large 
 Does WordPress 6.8 break Elementor or WooCommerce?
 No widespread incompatibility reports. A few users noted minor editor quirks with older Elementor versions, but updating to the latest Elementor resolved them.
 Reddit Sources New Malware Found in WordPress Installations: Hidden Admin Users, Redirects, and Plugin Hiding (Not Detected by 14 Major Scanners) (r/Wordpress) NitroPack now also banned (r/Wordpress) WordPress 6.9.2 Release (security release) today (r/Wordpress) NEW: WordPress 6.7 Roadmap Includes New Default Theme, APIs, and Media Enhancements - get awesome previews now: (r/Wordpress) WordPress 5.5.1 Maintenance Release (r/Wordpress) WordPress 6.6 What’s new for developers? by Justin Tadlock (July 10, 2024) (r/Wordpress) Do I need to tag a new version or can I update an existing version? (r/Wordpress) WordPress 6.9 Beta 2 is live—get ready to test major updates! (r/Wordpress) As a plugin developer, do I need to tag every release and update trunk at the same time? (r/Wordpress) Anyone have tips for managing version updates when using WordPress as a framework? (r/Wordpress)
+---
+
+---
+title: WordPress 7.0.1 Maintenance Release
+url: https://wordpress-faq.com/news/wordpress-7-0-1-maintenance-release/
+date: 2026-07-09
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.0.1 Maintenance Release WordPress 7.0.1 is now available! This minor release includes fixes for 31 bugs throughout Core and the Block Editor, addressing issues affecting multiple areas of WordPress including the block editor, admin ui, and media. For a full list of bug fixes, please refer to the release candidate announcement. WordPress 7.0.1 is a short-cycle maintenance release. The next major version…
+Announced on the official WordPress.org news blog on 2026-07-09.
+Source WordPress 7.0.1 Maintenance Release — WordPress.org News
+---
+
+---
+title: WordPress 7.0.2 Release
+url: https://wordpress-faq.com/news/wordpress-7-0-2-release/
+date: 2026-07-17
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.0.2 Release WordPress 7.0.2 is now available. The 7.0.2 security release addresses one critical and one high severity security issue. Because this is a security release, it is recommended that you update your sites immediately. Due to the severity, the WordPress.org team have enabled forced updates via the auto-update system for sites running affected versions. To manually…
+Announced on the official WordPress.org news blog on 2026-07-17.
+Source WordPress 7.0.2 Release — WordPress.org News
+---
+
+---
+title: WordPress 7.1 Beta 1
+url: https://wordpress-faq.com/news/wordpress-7-1-beta-1/
+date: 2026-07-15
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.1 Beta 1 WordPress 7.1 Beta 1 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, use a test environment or local site to explore the new features. How to Test WordPress 7.1 Beta 1…
+Announced on the official WordPress.org news blog on 2026-07-15.
+Source WordPress 7.1 Beta 1 — WordPress.org News
+---
+
+---
+title: WordPress 7.1 Beta 3
+url: https://wordpress-faq.com/news/wordpress-7-1-beta-3/
+date: 2026-07-22
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.1 Beta 3 WordPress 7.1 Beta 3 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, use a test environment or local site to explore the new features. How to Test WordPress 7.1 Beta…
+Announced on the official WordPress.org news blog on 2026-07-22.
+Source WordPress 7.1 Beta 3 — WordPress.org News
 ---
 
 ---
@@ -14302,6 +14866,20 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 
 ---
+title: WordPress Plugin & Theme Updates
+url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: CollectionPage
+tags: wordpress, plugins, themes, updates, news
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-07-27.
+Plugin / theme Version Released Type Ninja Forms 3.14.11 2026-07-27 plugin Tutor LMS 4.0.3 2026-07-24 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Fluent Forms 6.2.8 2026-07-23 plugin Blocksy 2.1.50 2026-07-23 theme SureCart 4.6.1 2026-07-22 plugin Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Elementor Website Builder 4.2.0 2026-07-20 plugin Polylang 3.8.6 2026-07-20 plugin W3 Total Cache 2.10.2 2026-07-16 plugin Rank Math SEO 1.0.274.1 2026-07-15 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin BuddyPress 14.5.0 2026-07-07 plugin Astra 4.13.6 2026-07-07 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin Easy Digital Downloads 3.6.9 2026-06-18 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Kadence Security 10.0.2 2026-05-28 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+---
+
+---
 title: WordPress Post-Installation Configuration Checklist
 url: https://wordpress-faq.com/howto/wordpress-configuration-checklist/
 date: 2026-06-01
@@ -14702,6 +15280,25 @@ Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) Nginx vs
 ---
 
 ---
+title: WP Mail SMTP by WPForms 4.9.0 Released
+url: https://wordpress-faq.com/news/wp-mail-smtp-4-9-0-released/
+date: 2026-06-25
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wp-mail-smtp, release, changelog, news
+What&rsquo;s new in WP Mail SMTP by WPForms 4.9.0 Released: 2026-06-25
+Active installations: 4,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Added: WP-CLI commands to configure WP Mail SMTP from the command line, including SMTP and API-key mailer setup and individual setting management. Added: Code Snippets tab on the Tools page to browse, preview, and install WP Mail SMTP’s WPCode snippets. Added: Support for the WordPress Abilities API (WordPress 6.9), letting connected tools and AI assistants securely read your debug events. Added: A one-click option to deactivate a conflicting plugin directly from the conflict notice. Added: Confirmation prompt before enabling the “Hide Email Delivery Errors” option, so the setting is not turned on by accident. Changed: Improved error handling and troubleshooting guidance when an email fails to send. Changed: Updated Action Scheduler library to 4.0.0. Fixed: The “Last week” stat in the Lite weekly summary email showed the just-started current week’s count instead of the actual previous week’s total, because the email is sent on Monday at 2pm. Fixed: Hardened permission checks and request handling across several admin features to address potential security issues. Previous releases 4.8.0 — 2026-04-16
+Added: SendLayer Quick Connect – allows connecting to SendLayer without DNS setup in 2 minutes. Changed: Improved plugin security. 4.7.1 — 2025-11-26
+Added: WordPress playground blueprint file. Fixed: Text domain in a couple of strings. Changed: Switched Return-Path option to enabled by default to align with WordPress core. Source WP Mail SMTP by WPForms on WordPress.org
+---
+
+---
 title: WP Mail SMTP Plugin Review and Email Delivery Guide
 url: https://wordpress-faq.com/review/wp-mail-smtp-review/
 date: 2026-07-24
@@ -14830,6 +15427,24 @@ Reddit Sources Which multi-lang plugin are you using and why? (r/ProWordPress) I
 ---
 
 ---
+title: Yoast SEO 28.1 Released
+url: https://wordpress-faq.com/news/yoast-seo-28-1-released/
+date: 2026-07-21
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, yoast-seo, release, changelog, news
+What&rsquo;s new in Yoast SEO 28.1 Released: 2026-07-21
+Active installations: 10,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Redesigns the bulk editor page, which allows users to edit Metadata for multiple posts at once. Previous releases 28.0
+Improves the compatibility with the atomic editor in Elementor V4. Fixes a bug where raw type and id attributes were written on a link instead of data-type and data-id, when the link was added by selecting a suggestion in the block editor link popover. Updates the guzzlehttp/guzzle and guzzlehttp/psr7 dependencies to patched releases that address known security advisories. Source Yoast SEO on WordPress.org
+---
+
+---
 title: Yoast SEO Plugin Review and Community Feedback
 url: https://wordpress-faq.com/review/yoast-seo-review/
 date: 2026-06-06
@@ -14879,5 +15494,20 @@ Check for conflicts with your caching plugin or hosting-level object caching, an
 Does Yoast SEO prevent my site from being indexed?
 Check the &lsquo;Search Appearance&rsquo; settings in Yoast to ensure you have not accidentally set your site or specific post types to &rsquo;noindex&rsquo;.
 Reddit Sources Not Indexed with Google (r/webdev) Need to build a website for a law firm. Number 1 priority is generating leads through contact forms/SEO. Is Wordpress the best solution? (r/webdev) WordPress Alternatives? (PHP based) (r/webdev) WordPress + Yoast Not Fully Communicating with Demandware (r/webdev) Mystery sitewide noindex tag — not from WP core, not from any plugin, not in the database. Stumped after 6+ hours of debugging. (r/ProWordPress) How to improve my website? (r/webdev)
+---
+
+---
+title: Your Guide to WordCamp US 2026
+url: https://wordpress-faq.com/news/your-guide-to-wordcamp-us-2026/
+date: 2026-07-13
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+Your Guide to WordCamp US 2026 WordCamp US 2026 returns for another year, this time in Phoenix, Arizona, for four days, August 16 to 19. It comes at a moment of real energy for WordPress, as artificial intelligence reshapes everyday workflows, the business of building and maintaining sites is shifting, and new people keep discovering the platform every day. Four tracks…
+Announced on the official WordPress.org news blog on 2026-07-13.
+Source Your Guide to WordCamp US 2026 — WordPress.org News
 ---
 
