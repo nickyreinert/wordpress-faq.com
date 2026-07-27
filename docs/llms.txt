@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 58 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 20 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 21 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 253 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 39 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
@@ -543,6 +543,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Slow Loading Speeds on WP Engine](https://wordpress-faq.com/performance/performance-wpengine/) — Slow loading on WP Engine is typically caused by poorly coded plugins or themes rather than the hosting environment itself.
 - [Troubleshooting Slow WordPress Loading on Hostinger](https://wordpress-faq.com/error/hostinger-wordpress-performance/) — Slow loading is typically caused by plugin conflicts, unoptimized page builders, or lack of server-side caching rather than the hosting provider itself.
 - [Troubleshooting Slow WordPress Performance on Bluehost](https://wordpress-faq.com/hosting/bluehost-performance/) — Community consensus suggests that while Bluehost can be slow, performance issues are often resolved by optimizing plugins, database cleanup, or migrating.
+- [Troubleshooting Slow WordPress Performance on DreamHost](https://wordpress-faq.com/hosting/dreamhost-performance/) — Community consensus suggests that while DreamHost shared plans have resource limits, performance issues are often resolved by optimizing images, plugins, and PHP settings.
 - [Troubleshooting Slow WordPress Sites on SiteGround](https://wordpress-faq.com/hosting/siteground-wordpress-speed/) — Community consensus indicates that slow site performance is usually caused by bloated themes and excessive plugins rather than the hosting provider itself.
 - [Troubleshooting WooCommerce and WordPress Issues](https://wordpress-faq.com/error/woocommerce-wordpress-troubleshooting/) — Community consensus suggests that most WooCommerce issues stem from plugin conflicts or database bottlenecks rather than core software failures.
 - [Troubleshooting WooCommerce and WordPress Plugin Conflicts](https://wordpress-faq.com/compatibility/woocommerce-wordpress-conflict/) — Most WooCommerce conflicts are resolved by enabling WP_DEBUG, resetting permalinks, or identifying caching plugin incompatibilities.

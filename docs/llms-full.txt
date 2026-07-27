@@ -13653,6 +13653,38 @@ Reddit Sources 9 Most Common WordPress Optimization Mistakes I Keep Seeing (And 
 ---
 
 ---
+title: Troubleshooting Slow WordPress Performance on DreamHost
+url: https://wordpress-faq.com/hosting/dreamhost-performance/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: Community consensus suggests that while DreamHost shared plans have resource limits, performance issues are often resolved by optimizing images, plugins, and PHP settings.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: performance, hosting, caching, speed, images, conflict
+faq:
+  - q: Why is my WordPress site slow on DreamHost?
+    a: Slow speeds on DreamHost are often caused by hitting shared memory limits, unoptimized images, outdated plugins, or high server load on shared hosting plans.
+  - q: Does DreamHost support Redis or Memcached?
+    a: DreamHost generally does not support Redis or Memcached on their shared hosting plans, which limits advanced object caching options.
+  - q: How can I improve TTFB on DreamHost?
+    a: You can improve TTFB by ensuring you are using the latest PHP version (FastCGI), optimizing your database, and minimizing the number of active plugins.
+  - q: Should I increase memory in wp-config.php for DreamHost?
+    a: Increasing the memory limit in wp-config.php can resolve specific errors like image upload failures, but it may not solve underlying server performance issues.
+Community consensus suggests that while DreamHost shared plans have resource limits, performance issues are often resolved by optimizing images, plugins, and PHP settings. Based on 5 community reports.
+Linked sources: 5.
+Known Issues Shared memory limits on shared hosting plans High Time to First Byte (TTFB) Lack of support for Redis or Memcached on shared tiers Community Q&amp;A Why is my WordPress site slow on DreamHost?
+Slow speeds on DreamHost are often caused by hitting shared memory limits, unoptimized images, outdated plugins, or high server load on shared hosting plans.
+Does DreamHost support Redis or Memcached?
+DreamHost generally does not support Redis or Memcached on their shared hosting plans, which limits advanced object caching options.
+How can I improve TTFB on DreamHost?
+You can improve TTFB by ensuring you are using the latest PHP version (FastCGI), optimizing your database, and minimizing the number of active plugins.
+Should I increase memory in wp-config.php for DreamHost?
+Increasing the memory limit in wp-config.php can resolve specific errors like image upload failures, but it may not solve underlying server performance issues.
+Reddit Sources Facing performance issues in Dreamhost. Anyone else? (r/Wordpress) Slow Website—Unsure What&rsquo;s Up (r/Wordpress) Making A Heavy-Themed Site More Efficient? (r/Wordpress) Dreamhost VPN wordpress sites loading slow (r/Wordpress) Slow loading website&hellip; Dreamhost + Wordpress (r/webdev)
+---
+
+---
 title: Troubleshooting Slow WordPress Sites on SiteGround
 url: https://wordpress-faq.com/hosting/siteground-wordpress-speed/
 date: 2026-07-27
