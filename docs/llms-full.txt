@@ -13939,6 +13939,34 @@ Reddit Sources Facing performance issues in Dreamhost. Anyone else? (r/Wordpress
 ---
 
 ---
+title: Troubleshooting Slow WordPress Sites on Local by Flywheel
+url: https://wordpress-faq.com/error/flywheel-wordpress-performance/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: Local by Flywheel performance issues on Windows are often resolved by switching to Docker, using an SSD, or optimizing local database configurations.
+confidence: low
+sources: 3
+schema_type: FAQPage
+tags: performance, database, hosting, speed
+faq:
+  - q: Why is my Local by Flywheel site running slowly?
+    a: Performance issues are often caused by Windows file system overhead, using an HDD instead of an SSD, or inefficient database queries.
+  - q: How can I speed up WordPress on Local by Flywheel?
+    a: Try using the Query Monitor plugin to identify slow queries, ensure you are using an SSD, or consider migrating to a Docker-based environment.
+  - q: Does the database type affect Local by Flywheel speed?
+    a: Yes, using a bundled SQLite database on an HDD can cause significant latency compared to a standard MySQL setup on an SSD.
+Local by Flywheel performance issues on Windows are often resolved by switching to Docker, using an SSD, or optimizing local database configurations. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Slow performance on Windows 10 environments Database read/write latency on HDD drives High resource usage with complex repeater fields Community Q&amp;A Why is my Local by Flywheel site running slowly?
+Performance issues are often caused by Windows file system overhead, using an HDD instead of an SSD, or inefficient database queries.
+How can I speed up WordPress on Local by Flywheel?
+Try using the Query Monitor plugin to identify slow queries, ensure you are using an SSD, or consider migrating to a Docker-based environment.
+Does the database type affect Local by Flywheel speed?
+Yes, using a bundled SQLite database on an HDD can cause significant latency compared to a standard MySQL setup on an SSD.
+Reddit Sources WordPress Theme development: The new CSS code I&rsquo;m writing not being applied (r/Wordpress) Local Site Extremely Slow on Windows 10 (r/Wordpress) Alternatives to Local by flywheel? (r/webdev)
+---
+
+---
 title: Troubleshooting Slow WordPress Sites on SiteGround
 url: https://wordpress-faq.com/hosting/siteground-wordpress-speed/
 date: 2026-07-27
