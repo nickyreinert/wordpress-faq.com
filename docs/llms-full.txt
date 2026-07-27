@@ -1860,6 +1860,34 @@ Reddit Sources Scaling a WordPress membership + directory site (aiming for ~500K
 ---
 
 ---
+title: Cloudways WordPress Performance and Speed Optimization
+url: https://wordpress-faq.com/hosting/cloudways-wordpress-performance/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: Cloudways generally offers high performance, but users often see speed improvements by switching from the default Breeze plugin to alternatives like WP-Optimize.
+confidence: medium
+sources: 7
+schema_type: FAQPage
+tags: performance, hosting, caching, speed, conflict
+faq:
+  - q: Why is my WordPress site slow on Cloudways?
+    a: Slow speeds are often caused by high Ajax requests, improper caching configurations, or DNS propagation delays occurring within 48 hours of a migration.
+  - q: Is Breeze the best caching plugin for Cloudways?
+    a: Many users report better performance metrics, such as lower First Contentful Paint and Total Blocking Time, when using WP-Optimize instead of Breeze.
+  - q: How can I reduce server load on Cloudways?
+    a: Moving WordPress Cron tasks to server-side execution and optimizing Ajax requests are effective ways to reduce server load and improve dashboard responsiveness.
+Cloudways generally offers high performance, but users often see speed improvements by switching from the default Breeze plugin to alternatives like WP-Optimize. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Breeze caching plugin performance DNS propagation delays after migration High Ajax request overhead Community Q&amp;A Why is my WordPress site slow on Cloudways?
+Slow speeds are often caused by high Ajax requests, improper caching configurations, or DNS propagation delays occurring within 48 hours of a migration.
+Is Breeze the best caching plugin for Cloudways?
+Many users report better performance metrics, such as lower First Contentful Paint and Total Blocking Time, when using WP-Optimize instead of Breeze.
+How can I reduce server load on Cloudways?
+Moving WordPress Cron tasks to server-side execution and optimizing Ajax requests are effective ways to reduce server load and improve dashboard responsiveness.
+Reddit Sources 9 Most Common WordPress Optimization Mistakes I Keep Seeing (And How You Can Fix Them) (r/Wordpress) Start Here: Essential Resources &amp; FAQs (r/Wordpress) Bluehost WordPress site is really slow, switched to Cloudways (r/Wordpress) Anyone made a react front end for their shop? (r/woocommerce) Get Free Early access to WP VE ( WordPress Virtual Environment) Fully isolated &amp; dedicated and managed wordpress platform that is even better than WP Engine, Kinsta, and cloudways (r/Wordpress) New WP site and dashboard is slow :/ (r/Wordpress) Bluehost Alternatives (r/Wordpress)
+---
+
+---
 title: Configuring WooCommerce Shipping Methods and Plugins
 url: https://wordpress-faq.com/howto/woocommerce-shipping-configuration/
 date: 2026-06-02

@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 57 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 15 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 16 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 250 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 39 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
@@ -96,6 +96,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [BuddyPress 14.4.0 Released](https://wordpress-faq.com/news/buddypress-14-4-0-released/) — <no value>
 - [BuddyPress Review: Community Features and Alternatives](https://wordpress-faq.com/review/buddypress-review/) — BuddyPress is a robust but complex solution that frequently necessitates custom development or alternative platforms for modern community needs.
 - [Cloudways vs Kinsta Managed WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-kinsta/) — Cloudways offers superior flexibility and value for developers, while Kinsta provides a premium, fully managed experience for high-traffic sites.
+- [Cloudways WordPress Performance and Speed Optimization](https://wordpress-faq.com/hosting/cloudways-wordpress-performance/) — Cloudways generally offers high performance, but users often see speed improvements by switching from the default Breeze plugin to alternatives like WP-Optimize.
 - [Configuring WooCommerce Shipping Methods and Plugins](https://wordpress-faq.com/howto/woocommerce-shipping-configuration/) — Community consensus suggests using specialized plugins like PluginHive or EasyPost for complex carrier integrations, while flat rates suffice for simple setups.
 - [Contact Form 7 6.1.6 Released](https://wordpress-faq.com/news/contact-form-7-6-1-6-released/) — <no value>
 - [Contact Form 7 Conflict Troubleshooting Guide](https://wordpress-faq.com/compatibility/contact-form-7-conflict/) — Most Contact Form 7 conflicts are caused by using multiple recaptcha versions simultaneously or misconfigured SMTP email settings on your domain host.
