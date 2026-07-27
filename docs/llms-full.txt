@@ -3176,6 +3176,25 @@ NEW: Blocks – Introducing the Profile Editor Block. NEW: Checkout – Added a 
 ---
 
 ---
+title: Easy Digital Downloads 3.6.9.1 Released
+url: https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-1-released/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, easy-digital-downloads, release, changelog, news
+What&rsquo;s new in Easy Digital Downloads 3.6.9.1 Released: 2026-07-27
+Active installations: 40,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Admin: Hardened the display of payment gateway error and API request log messages. Imports: Improved hardening and validation of uploaded import files. Previous releases 3.6.9
+NEW: PayPal – Added support for Fastlane and additional payment methods for newly connected stores. Admin: Improved notice compatibility. Admin: Hardened sanitization of the banned emails setting. Admin: Sorted Checkout fields were not persisting their order in the admin UI. Cart: Improved the Cart Preview compatibility with caching layers. 3.6.8
+NEW: Stripe – Added support for BLIK payments. Admin: Fixed the orders table filter by total not working with the “greater than” condition. Admin: Fixed manual order tax calculation requiring an address field change to trigger. Admin: Enhanced select placeholder no longer assumes the field is for downloads. Admin: Improve UX of Select input search. Source Easy Digital Downloads on WordPress.org
+---
+
+---
 title: Easy Digital Downloads and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/
 date: 2026-05-28
@@ -11505,6 +11524,34 @@ Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) kinsta b
 ---
 
 ---
+title: Is Namecheap Good for WordPress Hosting?
+url: https://wordpress-faq.com/hosting/namecheap-wordpress-hosting/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: Namecheap is considered a functional budget hosting provider, though users often recommend researching specific performance tiers for WordPress.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: hosting, performance, security, backup
+faq:
+  - q: Is Namecheap good for WordPress hosting?
+    a: Namecheap is a popular budget-friendly choice for beginners, though performance may be limited compared to managed WordPress hosting providers.
+  - q: Does Namecheap offer managed WordPress hosting?
+    a: Yes, Namecheap provides EasyWP, a managed WordPress hosting service designed to simplify site management and improve performance.
+  - q: Is Namecheap better than Bluehost or Hostinger?
+    a: It depends on your specific needs; users often compare them based on pricing, support quality, and server speed for WordPress sites.
+Namecheap is considered a functional budget hosting provider, though users often recommend researching specific performance tiers for WordPress. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Performance limitations on entry-level plans Support response times can vary Not optimized for high-traffic enterprise sites Community Q&amp;A Is Namecheap good for WordPress hosting?
+Namecheap is a popular budget-friendly choice for beginners, though performance may be limited compared to managed WordPress hosting providers.
+Does Namecheap offer managed WordPress hosting?
+Yes, Namecheap provides EasyWP, a managed WordPress hosting service designed to simplify site management and improve performance.
+Is Namecheap better than Bluehost or Hostinger?
+It depends on your specific needs; users often compare them based on pricing, support quality, and server speed for WordPress sites.
+Reddit Sources I Made a Free e-commerce website. Plugins and methods. (r/Wordpress) Namecheap? Blocksy? (r/Wordpress) WordPress / WooCommerce on NameCheap (r/Wordpress) is Namecheap Wordpress hosting good for Norway? (r/Wordpress) Is Namecheap good for hosting a WordPress website? (r/Wordpress) Using WordPress.com for a portfolio website (r/Wordpress) Can my Wordpress website have 2 domain names? (r/Wordpress) As a WPEngine user, I am STRUGGLING with Wordpress.com. I feel lost and upset with myself for trying this site builder. Please advise on how to proceed. (r/Wordpress) Help choosing Blogging Platform (r/Wordpress)
+---
+
+---
 title: Is SiteGround Good for WordPress Hosting?
 url: https://wordpress-faq.com/hosting/siteground-hosting-review/
 date: 2026-07-27
@@ -12879,6 +12926,25 @@ Requires PHP 7.4
 Changelog Fix: Bundle item basis amount not persisting when edited from the bundle item drawer. Previous releases 4.6.0 — July 21st, 2026
 New: Product Bundles let you combine multiple products, prices, and variants into a single purchasable package. Improvement: Sync checkout verification code cooldown to platform to prevent multiple emails. Improvement: Harden security of plugin. Change: Login prompt at checkout now defaults to “off” instead of “on”. 4.5.1 — July 14th, 2026
 Fix: Fix version number in modern view popup. Source SureCart on WordPress.org
+---
+
+---
+title: SureCart 4.6.2 Released
+url: https://wordpress-faq.com/news/surecart-4-6-2-released/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.6.2 Released: July 27th, 2026
+Active installations: 80,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix: WP sidebar not scrollable on new product list view on shorter screens. Fix: Block crash when selecting products on checkout forms in some cases. Previous releases 4.6.1 — July 22nd, 2026
+Fix: Bundle item basis amount not persisting when edited from the bundle item drawer. 4.6.0 — July 21st, 2026
+New: Product Bundles let you combine multiple products, prices, and variants into a single purchasable package. Improvement: Sync checkout verification code cooldown to platform to prevent multiple emails. Improvement: Harden security of plugin. Change: Login prompt at checkout now defaults to “off” instead of “on”. Source SureCart on WordPress.org
 ---
 
 ---
@@ -15436,7 +15502,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-07-27.
-Plugin / theme Version Released Type Ninja Forms 3.14.11 2026-07-27 plugin Tutor LMS 4.0.3 2026-07-24 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Fluent Forms 6.2.8 2026-07-23 plugin Blocksy 2.1.50 2026-07-23 theme SureCart 4.6.1 2026-07-22 plugin Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Elementor Website Builder 4.2.0 2026-07-20 plugin Polylang 3.8.6 2026-07-20 plugin W3 Total Cache 2.10.2 2026-07-16 plugin Rank Math SEO 1.0.274.1 2026-07-15 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin BuddyPress 14.5.0 2026-07-07 plugin Astra 4.13.6 2026-07-07 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin Easy Digital Downloads 3.6.9 2026-06-18 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Kadence Security 10.0.2 2026-05-28 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Tutor LMS 4.0.3 2026-07-24 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Fluent Forms 6.2.8 2026-07-23 plugin Blocksy 2.1.50 2026-07-23 theme Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Elementor Website Builder 4.2.0 2026-07-20 plugin Polylang 3.8.6 2026-07-20 plugin W3 Total Cache 2.10.2 2026-07-16 plugin Rank Math SEO 1.0.274.1 2026-07-15 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin BuddyPress 14.5.0 2026-07-07 plugin Astra 4.13.6 2026-07-07 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

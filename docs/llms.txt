@@ -10,9 +10,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 58 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 21 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 254 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 39 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 41 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
@@ -146,6 +146,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi Theme Review: Features and Performance Analysis](https://wordpress-faq.com/review/divi-theme-review/) — The Divi theme is widely recognized for its frequent feature updates and robust page-building capabilities for WordPress users.
 - [Duplicator WordPress Plugin Review and Migration Guide](https://wordpress-faq.com/review/duplicator-review/) — Duplicator is a reliable tool for site migration and backups, though users should exercise caution when syncing live databases to avoid data loss.
 - [Easy Digital Downloads 3.6.9 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-released/) — <no value>
+- [Easy Digital Downloads 3.6.9.1 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-1-released/) — <no value>
 - [Easy Digital Downloads and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/) — Elementor is fully compatible with Easy Digital Downloads, especially when paired with lightweight themes like Hello Elementor or Astra.
 - [Easy Digital Downloads Review and Performance Analysis](https://wordpress-faq.com/review/easy-digital-downloads-review/) — Easy Digital Downloads is widely considered a stable and reliable plugin for managing digital product sales on WordPress.
 - [Easy Digital Downloads Troubleshooting and Common Errors](https://wordpress-faq.com/error/easy-digital-downloads-troubleshooting/) — Most Easy Digital Downloads issues are resolved by verifying file upload paths or contacting official plugin support for specific configuration errors.
@@ -458,6 +459,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is DreamHost Good for WordPress Hosting?](https://wordpress-faq.com/hosting/dreamhost-wordpress-hosting/) — Community consensus is mixed, with many users preferring premium alternatives for better performance and advanced caching support.
 - [Is Hostinger Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hostinger-wordpress-review/) — Hostinger is widely regarded as a solid, cost-effective entry point for small WordPress sites, though it may lack the power needed for large-scale projects.
 - [Is Kinsta Good for WordPress Hosting?](https://wordpress-faq.com/hosting/kinsta-hosting-review/) — Kinsta is widely considered a high-performance, reliable managed hosting solution, though its premium pricing may be prohibitive for smaller budgets.
+- [Is Namecheap Good for WordPress Hosting?](https://wordpress-faq.com/hosting/namecheap-wordpress-hosting/) — Namecheap is considered a functional budget hosting provider, though users often recommend researching specific performance tiers for WordPress.
 - [Is SiteGround Good for WordPress Hosting?](https://wordpress-faq.com/hosting/siteground-hosting-review/) — SiteGround is widely considered a reliable and user-friendly hosting provider, though some users note that costs increase after the initial promotional period.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/howto/wordpress-pricing-usage/) — The WordPress software is free, but self-hosting it requires ongoing costs for infrastructure and premium extensions.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
@@ -514,6 +516,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Sucuri vs Wordfence Security Plugin Review](https://wordpress-faq.com/review/sucuri-wordfence/) — Wordfence is generally preferred for ease of use, while server-level blocking is considered more efficient for high-traffic sites.
 - [Sucuri WordPress Security Review](https://wordpress-faq.com/review/sucuri-review/) — Sucuri is widely regarded as a robust, enterprise-grade security solution that provides excellent protection against malware and brute force attacks.
 - [SureCart 4.6.1 Released](https://wordpress-faq.com/news/surecart-4-6-1-released/) — <no value>
+- [SureCart 4.6.2 Released](https://wordpress-faq.com/news/surecart-4-6-2-released/) — <no value>
 - [SureCart and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/) — Running SureCart and WooCommerce in parallel is not recommended due to significant shop page and theme conflicts.
 - [The First AI Leaders Graduates](https://wordpress-faq.com/news/the-first-ai-leaders-graduates/) — <no value>
 - [Troubleshooting All in One SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/all-in-one-seo-conflict/) — Conflicts are typically resolved by flushing permalinks, checking for plugin overlaps, or rolling back to a stable version if a recent update is buggy.
