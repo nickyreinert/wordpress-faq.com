@@ -13317,6 +13317,34 @@ Reddit Sources One plugin to rule them all 👑 [ONCdevOS] - Coming in April [PR
 ---
 
 ---
+title: Troubleshooting Slow Loading Speeds on WP Engine
+url: https://wordpress-faq.com/performance/performance-wpengine/
+date: 2026-07-27
+lastmod: 2026-07-27
+verdict: Slow loading on WP Engine is typically caused by poorly coded plugins or themes rather than the hosting environment itself.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: performance, hosting, database, conflict, speed
+faq:
+  - q: Why is my WordPress site slow on WP Engine?
+    a: Slow performance is usually caused by inefficient themes or plugins making excessive database queries rather than the hosting provider.
+  - q: How do I find what is slowing down my WordPress site?
+    a: Install the Query Monitor plugin to identify slow database queries, slow requests, and plugins that are loading unnecessary assets.
+  - q: Can I disable unused CSS and JS files on my site?
+    a: Yes, you can use optimization plugins or custom functions to dequeue scripts and styles from pages where they are not required.
+Slow loading on WP Engine is typically caused by poorly coded plugins or themes rather than the hosting environment itself. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Unnecessary JS and CSS loading Excessive database queries Poorly coded plugin conflicts Community Q&amp;A Why is my WordPress site slow on WP Engine?
+Slow performance is usually caused by inefficient themes or plugins making excessive database queries rather than the hosting provider.
+How do I find what is slowing down my WordPress site?
+Install the Query Monitor plugin to identify slow database queries, slow requests, and plugins that are loading unnecessary assets.
+Can I disable unused CSS and JS files on my site?
+Yes, you can use optimization plugins or custom functions to dequeue scripts and styles from pages where they are not required.
+Reddit Sources How to speed up WP-Admin? (r/Wordpress)
+---
+
+---
 title: Troubleshooting Slow WordPress Sites on SiteGround
 url: https://wordpress-faq.com/hosting/siteground-wordpress-speed/
 date: 2026-07-27
