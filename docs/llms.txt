@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 57 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 12 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 13 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 248 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 39 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
@@ -456,6 +456,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Kadence WordPress Theme Review and Performance Analysis](https://wordpress-faq.com/review/kadence-review/) — Kadence is widely considered a top-tier, lightweight, and highly flexible block-based theme suitable for both beginners and advanced developers.
 - [Kim Parsell Memorial Scholarship Opens for WordCamp US 2026](https://wordpress-faq.com/news/kim-parsell-memorial-scholarship-opens-for-wordcamp-us-2026/) — <no value>
 - [Kinsta vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/kinsta-siteground/) — Kinsta is preferred for high-traffic enterprise sites, while SiteGround is the superior choice for small businesses and budget-conscious users.
+- [Kinsta WordPress Performance and Speed Optimization Guide](https://wordpress-faq.com/hosting/kinsta-wordpress-performance/) — Performance issues on Kinsta are typically resolved by optimizing database queries, image compression, and reviewing plugin-related resource overhead.
 - [LearnDash LMS Review and Comparison](https://wordpress-faq.com/review/learndash-review/) — LearnDash is widely considered the industry standard for robust course management, though it often requires additional plugins for complex features.
 - [LiteSpeed Cache 7.8.1 Released](https://wordpress-faq.com/news/litespeed-cache-7-8-1-released/) — <no value>
 - [LiteSpeed Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/litespeed-cache-review/) — LiteSpeed Cache is widely considered the gold standard for performance optimization when hosted on a LiteSpeed-powered server environment.
