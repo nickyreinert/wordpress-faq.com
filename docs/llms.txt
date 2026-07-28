@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 51 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 52 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 42 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
@@ -86,6 +86,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
 - [Blocksy and WooCommerce Cart and Checkout Block Issues](https://wordpress-faq.com/compatibility/blocksy-woocommerce-compatibility/) — Most issues with Blocksy and WooCommerce blocks are resolved by checking language settings or manually updating block titles in the editor.
 - [Blocksy Theme Review: Performance and Customization](https://wordpress-faq.com/review/blocksy-review/) — Blocksy is widely considered a top-tier, lightweight, and highly customizable block-based theme for modern WordPress websites.
+- [Bluehost vs Dreamhost WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-dreamhost/) — Both providers offer reliable entry-level WordPress hosting, though Dreamhost is often preferred for its transparent pricing and better performance.
 - [Bluehost vs Hostinger WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-hostinger/) — Hostinger is generally preferred for better performance and value, while Bluehost is often cited for its beginner-friendly WordPress integration.
 - [Bluehost vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-siteground/) — Both hosts are considered accessible entry-level options for WordPress, though individual performance and support experiences vary widely among users.
 - [Bricks and WPML Compatibility and Performance Review](https://wordpress-faq.com/compatibility/bricks-wpml/) — Users generally report that while Bricks is efficient, WPML often suffers from interface bugs, leading many to prefer Polylang for better stability.
