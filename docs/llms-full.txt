@@ -1888,6 +1888,30 @@ Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) Web buil
 ---
 
 ---
+title: Cloudways vs WP Engine WordPress Hosting Comparison
+url: https://wordpress-faq.com/comparison/cloudways-wpengine/
+date: 2026-07-28
+lastmod: 2026-07-28
+verdict: Cloudways is generally preferred for flexibility and cost, while WP Engine is criticized for aggressive upsell tactics and billing issues.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: hosting, performance, security
+faq:
+  - q: Is Cloudways better than WP Engine?
+    a: Cloudways offers more control and lower costs, whereas WP Engine provides a managed environment with premium support but higher pricing.
+  - q: Does WP Engine have billing issues?
+    a: Some users have reported difficulties with account cancellations and aggressive sales tactics regarding service renewals.
+Cloudways is generally preferred for flexibility and cost, while WP Engine is criticized for aggressive upsell tactics and billing issues. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Aggressive upsell tactics Billing and cancellation difficulties Unsolicited account manager outreach Community Q&amp;A Is Cloudways better than WP Engine?
+Cloudways offers more control and lower costs, whereas WP Engine provides a managed environment with premium support but higher pricing.
+Does WP Engine have billing issues?
+Some users have reported difficulties with account cancellations and aggressive sales tactics regarding service renewals.
+Reddit Sources UPDATE: WPEngine didn&rsquo;t follow through on cancelling my account on Jan 3rd and I was charged for another year of service (r/Wordpress)
+---
+
+---
 title: Cloudways WordPress Performance and Speed Optimization
 url: https://wordpress-faq.com/hosting/cloudways-wordpress-performance/
 date: 2026-07-27
