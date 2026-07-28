@@ -9,11 +9,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 46 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 42 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 26 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 41 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
@@ -580,6 +580,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [UpdraftPlus 1.26.6 Released](https://wordpress-faq.com/news/updraftplus-1-26-6-released/) — <no value>
 - [UpdraftPlus WordPress Backup Plugin Review](https://wordpress-faq.com/review/updraftplus-review/) — UpdraftPlus is highly recommended by the community as a reliable and user-friendly solution for automated WordPress backups and site restoration.
 - [W3 Total Cache 2.10.2 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-2-released/) — <no value>
+- [W3 Total Cache 2.10.3 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-3-released/) — <no value>
 - [W3 Total Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/w3-total-cache-review/) — The community consensus is that W3 Total Cache is powerful but prone to configuration errors and site-breaking conflicts for many users.
 - [What Happened at WordCamp Europe 2026](https://wordpress-faq.com/news/what-happened-at-wordcamp-europe-2026/) — <no value>
 - [Why Use WordPress for Your Website: Benefits and Comparison](https://wordpress-faq.com/comparison/wordpress-benefits-comparison/) — WordPress is widely considered the best choice for businesses requiring full code ownership, extensive customization, and long-term cost efficiency.
