@@ -1672,6 +1672,30 @@ Reddit Sources Idk if Wordpress is the best option/no experience/outside my whee
 ---
 
 ---
+title: Bluehost vs Namecheap WordPress Hosting Comparison
+url: https://wordpress-faq.com/comparison/bluehost-namecheap/
+date: 2026-07-28
+lastmod: 2026-07-28
+verdict: Both providers offer entry-level shared hosting, but performance and support quality vary significantly based on your specific website requirements.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: hosting, performance, ecommerce, security
+faq:
+  - q: Is Bluehost better than Namecheap for WordPress?
+    a: Bluehost is officially recommended by WordPress.org, while Namecheap is often praised for its affordable pricing and user-friendly interface.
+  - q: Which host offers better performance for WordPress?
+    a: Performance depends on the specific plan; both offer shared hosting, but managed WordPress plans from either provider will yield faster load times.
+Both providers offer entry-level shared hosting, but performance and support quality vary significantly based on your specific website requirements. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Variable performance on shared plans Upselling during checkout process Support response time fluctuations Community Q&amp;A Is Bluehost better than Namecheap for WordPress?
+Bluehost is officially recommended by WordPress.org, while Namecheap is often praised for its affordable pricing and user-friendly interface.
+Which host offers better performance for WordPress?
+Performance depends on the specific plan; both offer shared hosting, but managed WordPress plans from either provider will yield faster load times.
+Reddit Sources ELI5: Building a website from scratch (r/webdev)
+---
+
+---
 title: Bluehost vs SiteGround WordPress Hosting Comparison
 url: https://wordpress-faq.com/comparison/bluehost-siteground/
 date: 2026-06-01
@@ -4710,6 +4734,24 @@ Changelog New: Introducing Grid for building advanced row and column layouts –
 ---
 
 ---
+title: Elementor Website Builder 4.2.1 Released
+url: https://wordpress-faq.com/news/elementor-4-2-1-released/
+date: 2026-07-28
+lastmod: 2026-07-28
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Website Builder 4.2.1 Released: 2026-07-28
+Active installations: 10,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix: Improved code security enforcement in template handling Fix: Improved code security enforcement in document handling Fix: Invalid border-radius values in Global Classes prevent class changes – Atomic Editor Fix: Atomic Variables synced from Atomic Classes are missing after site import – Atomic Editor Previous releases 4.2.0 — 2026-07-20
+New: Introducing Grid for building advanced row and column layouts – Atomic Editor Tweak: Improved Angie layout, composition, and design system creation from prompts and images – Atomic Editor Tweak: Added dynamic tag support for AI-generated element properties Fix: VideoPress URLs do not display on the frontend when used in Background Video and Lightbox dynamic tags (#24467) Fix: Grid containers can cause slower Editor performance on complex pages Source Elementor Website Builder on WordPress.org
+---
+
+---
 title: Essential WordPress Plugins for Beginners Guide
 url: https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/
 date: 2026-06-02
@@ -5374,6 +5416,25 @@ Requires PHP 7.4
 Changelog Fixes a stored XSS vulnerability in form submission handling Previous releases 6.2.7 — (Date: July 16, 2026)
 Fixes date field restrictions configurations Improves Advanced Date Configuration to support more restriction patterns: comparison operators, combined conditions, month/day/year rules, and fixed calendar dates Improve Stripe API keys encryption to prevent being unusable after the site WordPress security salts change Hardens the date field’s inline script output against script-context injection 6.2.6 — (Date: July 10, 2026)
 Improves the Other option in conversational forms to be keyboard-activatable Fixes a manager privilege escalation via a delegated WordPress role Fixes a payment permission bypass letting form managers update transactions and cancel subscriptions Fixes an oEmbed JSONP path-traversal XSS vulnerability Fixes checkbox and radio Other option values not saving the translated label on multilingual sites Source Fluent Forms on WordPress.org
+---
+
+---
+title: Fluent Forms 6.2.9 Released
+url: https://wordpress-faq.com/news/fluent-forms-6-2-9-released/
+date: 2026-07-28
+lastmod: 2026-07-28
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, fluent-forms, release, changelog, news
+What&rsquo;s new in Fluent Forms 6.2.9 Released: (Date: July 28, 2026)
+Active installations: 700,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Hardens output escaping in the ff_get shortcode Strengthens payment transaction reference generation for improved privacy On block themes, loads public form styles only on pages that contain a form Previous releases 6.2.8 — (Date: July 23, 2026)
+Fixes a stored XSS vulnerability in form submission handling 6.2.7 — (Date: July 16, 2026)
+Fixes date field restrictions configurations Improves Advanced Date Configuration to support more restriction patterns: comparison operators, combined conditions, month/day/year rules, and fixed calendar dates Improve Stripe API keys encryption to prevent being unusable after the site WordPress security salts change Hardens the date field’s inline script output against script-context injection Source Fluent Forms on WordPress.org
 ---
 
 ---
@@ -13028,6 +13089,23 @@ Fixed a fatal error that occurred when editing a post using Divi’s Front-end/V
 ---
 
 ---
+title: Rank Math SEO 1.0.275 Released
+url: https://wordpress-faq.com/news/rankmath-1-0-275-released/
+date: 2026-07-28
+lastmod: 2026-07-28
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, rankmath, release, changelog, news
+What&rsquo;s new in Rank Math SEO 1.0.275 Released: [Jul 28, 2026]
+Active installations: 4,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Added Filter to remove the Rank Math credits from the generated llms.txt file. Improved Email SEO Reports table header so content in both rows now takes the full width. Fixed WordPress Category Base removal leading to a 404 error for other product categories when WPML auto-creates a translated product category. Fixed Content AI button triggering JS warnings when clicked. Fixed Content AI insert functionality was not working in the Elementor editor when the Flexbox Container feature is disabled. Fixed Analytics data was being removed once the data fetch completed. Fixed Analytics status was changing back after clicking Update Data Manually and reloading the page. Strengthened the security of the Debug redirections feature of the plugin Source Rank Math SEO on WordPress.org
+---
+
+---
 title: Rank Math SEO Plugin Review
 url: https://wordpress-faq.com/review/rankmath-review/
 date: 2026-07-22
@@ -15969,7 +16047,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-07-28.
-Plugin / theme Version Released Type W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Tutor LMS 4.0.3 2026-07-24 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Fluent Forms 6.2.8 2026-07-23 plugin Blocksy 2.1.50 2026-07-23 theme Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Elementor Website Builder 4.2.0 2026-07-20 plugin Polylang 3.8.6 2026-07-20 plugin Rank Math SEO 1.0.274.1 2026-07-15 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin BuddyPress 14.5.0 2026-07-07 plugin Astra 4.13.6 2026-07-07 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Fluent Forms 6.2.9 2026-07-28 plugin Astra 4.13.7 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Tutor LMS 4.0.3 2026-07-24 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Blocksy 2.1.50 2026-07-23 theme Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin BuddyPress 14.5.0 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
