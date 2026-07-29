@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 45 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 47 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 53 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
@@ -97,6 +97,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Bricks Builder WordPress Compatibility and Conflicts](https://wordpress-faq.com/compatibility/bricks-builder-conflict/) — Bricks Builder functions as a theme rather than a plugin, which can lead to specific compatibility conflicts with other active WordPress themes.
 - [Browse the New Mercantile Swag Store](https://wordpress-faq.com/news/browse-the-new-mercantile-swag-store/) — <no value>
 - [BuddyPress 14.4.0 Released](https://wordpress-faq.com/news/buddypress-14-4-0-released/) — <no value>
+- [BuddyPress 14.5.2 Released](https://wordpress-faq.com/news/buddypress-14-5-2-released/) — <no value>
 - [BuddyPress Review: Community Features and Alternatives](https://wordpress-faq.com/review/buddypress-review/) — BuddyPress is a robust but complex solution that frequently necessitates custom development or alternative platforms for modern community needs.
 - [Cloudways vs DigitalOcean WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-digitalocean/) — Cloudways provides a managed interface for DigitalOcean servers, making it the better choice for users who prefer convenience over manual configuration.
 - [Cloudways vs Kinsta Managed WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-kinsta/) — Cloudways offers superior flexibility and value for developers, while Kinsta provides a premium, fully managed experience for high-traffic sites.
@@ -612,6 +613,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 7.0.2 Release](https://wordpress-faq.com/news/wordpress-7-0-2-release/) — <no value>
 - [WordPress 7.1 Beta 1](https://wordpress-faq.com/news/wordpress-7-1-beta-1/) — <no value>
 - [WordPress 7.1 Beta 3](https://wordpress-faq.com/news/wordpress-7-1-beta-3/) — <no value>
+- [WordPress 7.1 Beta 4](https://wordpress-faq.com/news/wordpress-7-1-beta-4/) — <no value>
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-pros-cons/) — WordPress is the industry standard for ease of use and scalability, though it may be outperformed by custom frameworks for highly specialized projects.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress and WooCommerce Performance Optimization Guide](https://wordpress-faq.com/compatibility/wordpress-woocommerce-performance/) — Performance issues in WooCommerce are typically caused by poor server configuration or plugin bloat rather than the core software itself.
