@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 53 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 45 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 53 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 26 articles
