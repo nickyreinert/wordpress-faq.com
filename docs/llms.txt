@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 47 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 48 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 53 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
@@ -585,6 +585,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Yoast SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/wordpress-yoast-seo-fatal-error/) — Fatal errors involving Yoast SEO are typically caused by plugin conflicts or incompatible PHP versions following a WordPress core update.
 - [Troubleshooting Yoast SEO Not Working in WordPress](https://wordpress-faq.com/error/yoast-seo-wordpress-error/) — Most Yoast SEO issues stem from site indexing misconfigurations or conflicts with other plugins, which can be resolved by verifying URL settings.
 - [Tutor LMS 4.0.3 Released](https://wordpress-faq.com/news/tutor-lms-4-0-3-released/) — <no value>
+- [Tutor LMS 4.0.4 Released](https://wordpress-faq.com/news/tutor-lms-4-0-4-released/) — <no value>
 - [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/howto/two-factor-authentication-wordpress/) — Implementing two-factor authentication is a highly recommended security best practice to protect WordPress sites from unauthorized access.
 - [Understanding WordPress: How It Works and Core Concepts](https://wordpress-faq.com/howto/wordpress-fundamentals/) — WordPress is a powerful, flexible CMS that requires careful plugin management and database optimization to maintain high performance and security.
 - [UpdraftPlus 1.26.6 Released](https://wordpress-faq.com/news/updraftplus-1-26-6-released/) — <no value>
