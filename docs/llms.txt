@@ -11,10 +11,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 54 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 1 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 27 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 48 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
@@ -257,8 +257,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [How to Add Ads to a WordPress Site](https://wordpress-faq.com/howto/add-ads-wordpress-site/) — The community recommends using reputable ad management plugins and maintaining strict security protocols to avoid malicious ad injections.
 - [How to Add Affiliate Links in WordPress](https://wordpress-faq.com/howto/affiliate-links-wordpress/) — Adding affiliate links can be done manually via redirects or by using specialized plugins for tracking, link cloaking, and automated product boxes.
+- [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard, but checking the database is recommended to ensure security and integrity.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/wordpress-admin-user-creation/) — Adding an admin user is best performed via the WordPress dashboard Users menu for security and ease of use.
-- [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard to ensure proper user role assignment and database integrity.
 - [How to Add and Enable Custom Post Types in WordPress](https://wordpress-faq.com/howto/custom-post-type-wordpress/) — Using code in functions.php or ACF is preferred over heavy plugins for better site performance and long-term maintainability.
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/custom-checkout-fields-woocommerce/) — Adding custom checkout fields is best achieved through custom PHP code snippets or dedicated plugins like Checkout Field Editor for full control.
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/woocommerce-checkout-fields/) — Adding custom checkout fields is best achieved through dedicated plugins or custom code hooks within your child theme's functions.php file.
