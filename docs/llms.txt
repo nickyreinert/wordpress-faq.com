@@ -8,6 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 1 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 48 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 53 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -18,7 +19,6 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 5 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 0 articles
 
 
 ## All pages
@@ -598,6 +598,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Why Use WordPress for Your Website: Pros and Cons](https://wordpress-faq.com/compatibility/why-use-wordpress/) — WordPress is widely considered the industry standard due to its massive ecosystem, user-friendly interface, and unmatched flexibility for developers.
 - [Why WordPress Dominates Web Market Share](https://wordpress-faq.com/comparison/wordpress-market-share-popularity/) — WordPress remains the industry standard due to its vast ecosystem, low barrier to entry, and unmatched flexibility for both beginners and developers.
 - [Why WordPress is Popular and Dominates Market Share](https://wordpress-faq.com/review/wordpress-market-share-popularity/) — WordPress remains the industry leader due to its massive plugin ecosystem, ease of use for non-developers, and unparalleled community support.
+- [Why WordPress Remains the Most Popular CMS](https://wordpress-faq.com/core/wordpress-market-share-popularity/) — WordPress remains the industry standard because of its massive plugin ecosystem, community support, and scalability for diverse web projects.
 - [WooCommerce 10.9.4 Released](https://wordpress-faq.com/news/woocommerce-10-9-4-released/) — <no value>
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WooCommerce Abandoned Cart Recovery Solutions](https://wordpress-faq.com/comparison/woocommerce-abandoned-cart-recovery/) — Open-source plugins that allow direct ownership of WhatsApp Business API accounts are preferred over high-fee SaaS alternatives.
