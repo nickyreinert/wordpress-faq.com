@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 48 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 49 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 54 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 1 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 27 articles
@@ -233,6 +233,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing WordPress Too Many Redirects Errors](https://wordpress-faq.com/error/wordpress-too-many-redirects/) — The error is typically caused by SSL configuration mismatches between the server and Cloudflare or incorrect site URL settings in wp-config.php.
 - [Fixing Yoast SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/yoast-seo-fatal-error/) — Fatal errors in Yoast SEO are typically resolved by updating the plugin or manually deleting the plugin folder via FTP to regain site access.
 - [Flatsome Theme Review and Performance Analysis](https://wordpress-faq.com/review/flatsome-review/) — Flatsome remains a top-tier choice for WooCommerce stores due to its deep integration and speed, though it requires careful maintenance of hooks.
+- [Fluent Forms 6.2.11 Released](https://wordpress-faq.com/news/fluent-forms-6-2-11-released/) — <no value>
 - [Fluent Forms 6.2.8 Released](https://wordpress-faq.com/news/fluent-forms-6-2-8-released/) — <no value>
 - [Fluent Forms 6.2.9 Released](https://wordpress-faq.com/news/fluent-forms-6-2-9-released/) — <no value>
 - [Fluent Forms Review: Features and Lead Capture Capabilities](https://wordpress-faq.com/review/fluent-forms-review/) — Fluent Forms is widely regarded as a robust and efficient solution for capturing leads and managing form submissions within the WordPress ecosystem.

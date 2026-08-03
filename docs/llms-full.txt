@@ -5423,6 +5423,25 @@ Reddit Sources Issue with payments on checkout: &ldquo;There was an error proces
 ---
 
 ---
+title: Fluent Forms 6.2.11 Released
+url: https://wordpress-faq.com/news/fluent-forms-6-2-11-released/
+date: 2026-08-03
+lastmod: 2026-08-03
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, fluent-forms, release, changelog, news
+What&rsquo;s new in Fluent Forms 6.2.11 Released: (Date: August 03, 2026)
+Active installations: 700,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Added safeguards for outdated Fluent Forms Pro installations. Previous releases 6.2.9 — (Date: July 28, 2026)
+Hardens output escaping in the ff_get shortcode Strengthens payment transaction reference generation for improved privacy On block themes, loads public form styles only on pages that contain a form 6.2.8 — (Date: July 23, 2026)
+Fixes a stored XSS vulnerability in form submission handling Source Fluent Forms on WordPress.org
+---
+
+---
 title: Fluent Forms 6.2.8 Released
 url: https://wordpress-faq.com/news/fluent-forms-6-2-8-released/
 date: 2026-07-23
@@ -16160,7 +16179,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-03.
-Plugin / theme Version Released Type Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Fluent Forms 6.2.9 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
