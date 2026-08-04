@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 50 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 51 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 54 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 1 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 27 articles
@@ -670,6 +670,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WPForms Review: Features and Community Feedback](https://wordpress-faq.com/review/wpforms-review/) — WPForms is widely considered a reliable and user-friendly form builder for capturing leads effectively on WordPress websites.
 - [WPML WordPress Multilingual Plugin Review](https://wordpress-faq.com/review/wpml-review/) — WPML is considered a robust, feature-rich solution for complex multilingual sites, though some users prefer simpler alternatives like Polylang.
 - [Yoast SEO 28.1 Released](https://wordpress-faq.com/news/yoast-seo-28-1-released/) — <no value>
+- [Yoast SEO 28.2 Released](https://wordpress-faq.com/news/yoast-seo-28-2-released/) — <no value>
 - [Yoast SEO Plugin Review and Community Feedback](https://wordpress-faq.com/review/yoast-seo-review/) — While Yoast SEO remains a standard, many developers now prefer Rank Math for its modern features and lighter footprint.
 - [Yoast SEO WordPress Troubleshooting Guide](https://wordpress-faq.com/error/yoast-seo-troubleshooting/) — Most Yoast SEO issues stem from incorrect site visibility settings, caching conflicts, or improper URL canonicalization rather than plugin bugs.
 - [Your Guide to WordCamp US 2026](https://wordpress-faq.com/news/your-guide-to-wordcamp-us-2026/) — <no value>
