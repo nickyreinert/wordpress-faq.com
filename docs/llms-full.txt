@@ -12546,6 +12546,25 @@ Fix integrations losing runtime options like double opt-in when sign-up attempts
 ---
 
 ---
+title: MC4WP 4.14.0 Released
+url: https://wordpress-faq.com/news/mailchimp-for-wordpress-4-14-0-released/
+date: 2026-08-04
+lastmod: 2026-08-04
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, mailchimp-for-wordpress, release, changelog, news
+What&rsquo;s new in MC4WP 4.14.0 Released: 2026-08-04
+Active installations: 1,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Integrations: Show the sign-up checkbox on the admin “Add New User” form. Thanks arnelap! Misc: Add a code snippet for sending the WordPress username to Mailchimp with User Sync. Misc: Update WordPress Coding Standards to 3.4 and fix a few incorrect type annotations. Previous releases 4.13.1
+Forms: Improve handling of pasted wrapper tags in form content. Forms: Remove mc4wp_default_form_id option. We now default to first available form. Forms: Improve the {email} dynamic content tag by detecting common lowercase email field names. Misc: Adhere to DB, Security, I18n sniffs from WordPress Coding Standards. Misc: Prevent direct access to plugin configuration files. 4.13.0
+Improve performance by preloading core plugin classes and skipping dynamic content tag parsing when no tags are present. Improve security for admin AJAX requests by adding a nonce check and stricter audience ID handling. Improve dynamic content tag replacement by removing broken regular expressions. Improve form preview output by disabling PHP error display during preview rendering. Update JavaScript dependencies and pass admin script data using wp_add_inline_script(). Source MC4WP on WordPress.org
+---
+
+---
 title: MemberPress Review and Membership Plugin Comparison
 url: https://wordpress-faq.com/review/memberpress-review/
 date: 2026-06-11
@@ -16198,7 +16217,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-04.
-Plugin / theme Version Released Type Yoast SEO 28.2 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.2 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
