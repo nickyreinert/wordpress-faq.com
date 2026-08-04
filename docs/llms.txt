@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 52 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 54 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 54 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 1 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 27 articles
@@ -25,6 +25,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [About WordPress FAQ](https://wordpress-faq.com/about/)
 - [Advanced Custom Fields (ACF®) 6.8.6 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-6-released/) — <no value>
+- [Advanced Custom Fields (ACF®) 6.8.7 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-7-released/) — <no value>
 - [Advanced Custom Fields and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/advanced-custom-fields-elementor/) — Advanced Custom Fields and Elementor are fully compatible and work together seamlessly to create dynamic, data-driven WordPress websites.
 - [Advanced Custom Fields Plugin Review](https://wordpress-faq.com/review/advanced-custom-fields-review/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
 - [Advanced Custom Fields Review and Usage Guide](https://wordpress-faq.com/review/advanced-custom-fields/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
@@ -604,6 +605,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Why WordPress is Popular and Dominates Market Share](https://wordpress-faq.com/review/wordpress-market-share-popularity/) — WordPress remains the industry leader due to its massive plugin ecosystem, ease of use for non-developers, and unparalleled community support.
 - [Why WordPress Remains the Most Popular CMS](https://wordpress-faq.com/core/wordpress-market-share-popularity/) — WordPress remains the industry standard because of its massive plugin ecosystem, community support, and scalability for diverse web projects.
 - [WooCommerce 10.9.4 Released](https://wordpress-faq.com/news/woocommerce-10-9-4-released/) — <no value>
+- [WooCommerce 11.0.0 Released](https://wordpress-faq.com/news/woocommerce-11-0-0-released/) — <no value>
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WooCommerce Abandoned Cart Recovery Solutions](https://wordpress-faq.com/comparison/woocommerce-abandoned-cart-recovery/) — Open-source plugins that allow direct ownership of WhatsApp Business API accounts are preferred over high-fee SaaS alternatives.
 - [WooCommerce Payment Gateway Setup and Configuration Guide](https://wordpress-faq.com/howto/woocommerce-payment-gateway-setup/) — Community consensus recommends using native Stripe and PayPal integrations for reliability rather than relying on third-party failover plugins.

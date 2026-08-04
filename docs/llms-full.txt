@@ -31,6 +31,25 @@ Security – ACF AJAX field handlers now validate that the request nonce was cre
 ---
 
 ---
+title: Advanced Custom Fields (ACF®) 6.8.7 Released
+url: https://wordpress-faq.com/news/advanced-custom-fields-6-8-7-released/
+date: 2026-08-04
+lastmod: 2026-08-04
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, advanced-custom-fields, release, changelog, news
+What&rsquo;s new in Advanced Custom Fields (ACF®) 6.8.7 Released: 2026-08-04
+Active installations: 2,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Security – ACF Image and Gallery fields now enforce server-side validation to accept only image files Security – The path attribute of registered ACF Blocks is now protected from being overridden by client-supplied block data Security – ACF’s acf_encrypt() and acf_decrypt() helpers now authenticate encrypted values with an HMAC and no longer fall back to base64 encoding when OpenSSL is unavailable Security – ACF’s comment, user, and options page form save handlers now only save values for fields whose field groups are assigned to the current save context Security – The Post Object, Page Link, and Relationship field AJAX search queries now enforce WordPress read permissions, preventing unauthenticated visitors from seeing non-public post statuses or post types Security – The User field now returns only user IDs in REST API responses to requesters without the list_users capability, preventing unauthenticated visitors from seeing user email addresses Previous releases 6.8.6
+Fix – Google Maps field values are no longer double-encoded when saved in an ACF block Fix – Inserting a Link field value in the Classic Editor no longer triggers validation for other required fields before the post is saved Fix – Auto Inline Editing blocks no longer return truthy placeholder strings for empty field values fetched from a different post inside the block render template Fix – ACF Blocks (V2 and V3) no longer crash when rendering an oEmbed field whose title begins with [ or { Fix – Field group location rules without a location value no longer cause PHP warnings on page load 6.8.5
+Security – ACF PRO’s save handler for WooCommerce order fields now verifies security nonces and only attaches on the order edit screen, preventing unauthenticated field value updates for stores utilizing HPOS Security – The Flexible Content “Rename Layout” modal no longer allows for the execution of a potential stored XSS vulnerability Security – A default limit of 1000 has been applied to user-contributed choices for Checkbox, Radio, and Select fields to improve security, with a new acf/fields/max_appended_choices filter available for customization Security – Special characters within LIKE patterns are now fully escaped in wp_options queries via $wpdb-&gt;esc_like() Source Advanced Custom Fields (ACF®) on WordPress.org
+---
+
+---
 title: Advanced Custom Fields and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/advanced-custom-fields-elementor/
 date: 2026-05-28
@@ -15159,6 +15178,23 @@ Changelog Fix – Fix is_vat_exempt being not correctly applied during block che
 ---
 
 ---
+title: WooCommerce 11.0.0 Released
+url: https://wordpress-faq.com/news/woocommerce-11-0-0-released/
+date: 2026-08-04
+lastmod: 2026-08-04
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, woocommerce, release, changelog, news
+What&rsquo;s new in WooCommerce 11.0.0 Released: 2026-08-04
+Active installations: 7,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.4
+Changelog Fix – Add a compatibility shim for the removed product block editor block registry to avoid third-party extension fatals. #65500 Fix – Add compatibility shims for the removed block templates PHP API to avoid third-party extension fatals. #65503 Fix – Add per-period refunds field to the legacy REST sales report so consumers can compute net sales per day or month (fixes #27552, #42694). #65467 Fix – Add referrerPolicy to address autocomplete fetch requests to ensure Referer header is sent even with restrictive site policies. #62967 Fix – Addressed cache invalidation gaps for product instance caching refresh. #65431 Fix – Add the WooCommerce debug group to HPOS CLI debug messages. #65701 Fix – Align email order item names consistently after product thumbnails. #66141 Fix – Align Woo Home in-app promo banner styling with updated admin card patterns. #65660 Fix – Allow decimal stock quantities below 1 to remain in stock when the woocommerce_stock_amount filter is overridden with floatval. The integer cast inside WC_Abstract_Product::validate_props() truncated values like 0.5 to 0, incorrectly flipping the product to “Out of stock”. #65023 Fix – Allow the “Regenerate the product attributes lookup table” tool (and the related abort and resume tools) to run via the REST API instead of failing with an “Invalid nonce” error. #66082 Fix – Allow users with the view_woocommerce_reports capability to access the Analytics Leaderboards REST endpoint and view leaderboard data. #65492 Fix – Avoid a critical Site Health warning when WooCommerce cannot verify uploads directory protection. #65757 Source WooCommerce on WordPress.org
+---
+
+---
 title: WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable
 url: https://wordpress-faq.com/news/woocommerce-9-8-released/
 date: 2026-05-20
@@ -16217,7 +16253,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-04.
-Plugin / theme Version Released Type Yoast SEO 28.2 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.2 2026-08-04 plugin WooCommerce 11.0.0 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
