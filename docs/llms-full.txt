@@ -129,6 +129,25 @@ New: SEO Alerts feature to notify site owners of critical SEO issues via email a
 ---
 
 ---
+title: All in One SEO 5.0.0.1 Released
+url: https://wordpress-faq.com/news/all-in-one-seo-5-0-0-1-released/
+date: 2026-08-03
+lastmod: 2026-08-04
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-seo, release, changelog, news
+What&rsquo;s new in All in One SEO 5.0.0.1 Released: 2026-08-03
+Active installations: 3,000,000
+Tested up to WordPress 7.0.2
+Requires PHP 7.2
+Changelog Updated: Made Search Appearance and Social Appearance cards in metabox collapsible. Fixed: Focus keyword and additional keywords sometimes not appearing in TruSEO after 5.0.0 update. Fixed: Resurfaced missing product ID, SKU and image alt text checks in TruSEO. Previous releases 5.0.0
+New: TruSEO just got a major revamp — it’s smarter, faster, supports 10+ new languages and has a new modern UI. New: TruSEO Highlighter revamp — an improved editor highlighter that flags issues TruSEO found, working seamlessly across the Block Editor and Classic Editor (page builder support coming soon!). New: Spell checker – automatically detect spelling mistakes directly in the editor as you write and fix them instantly. New: Optimize posts with AI – let our smart AI assistant automatically optimize your post for SEO by improving your SEO title, meta description, headline, keyword checks and spelling mistakes in just one click! New: Actionable AI-powered fixes for TruSEO — let AI help you rewrite sentences or paragraphs to fix readability and SEO issues in your content. 4.9.10
+New: Added a new ability to list terms that are missing SEO data. Fixed: PHP 8.5 deprecation notice when decoding HTML entities from empty content. Fixed: High CPU usage caused by the translations check on sites with large user tables. Fixed: Fatal error in breadcrumbs on PHP 8 when a third-party plugin added an invalid entry to the breadcrumb trail. Fixed: PHP error in redirects when a request URL contained array-style (bracketed) query parameters. Source All in One SEO on WordPress.org
+---
+
+---
 title: All in One SEO Review: Features and Community Consensus
 url: https://wordpress-faq.com/review/all-in-one-seo-review/
 date: 2026-07-22
@@ -16171,15 +16190,15 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-08-03
-lastmod: 2026-08-03
+date: 2026-08-04
+lastmod: 2026-08-04
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-03.
-Plugin / theme Version Released Type Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin All in One SEO 4.9.10 2026-07-08 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-04.
+Plugin / theme Version Released Type All in One SEO 5.0.0.1 2026-08-03 plugin Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme W3 Total Cache 2.10.3 2026-07-27 plugin Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin SureCart 4.6.2 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Yoast SEO 28.1 2026-07-21 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Advanced Custom Fields (ACF®) 6.8.6 2026-07-14 plugin WooCommerce 10.9.4 2026-07-07 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin MC4WP 4.13.1 2026-06-22 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin LiteSpeed Cache 7.8.1 2026-04-01 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
