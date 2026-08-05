@@ -12,7 +12,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 5 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 260 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 54 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 56 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
@@ -555,6 +555,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Sucuri WordPress Security Review](https://wordpress-faq.com/review/sucuri-review/) — Sucuri is widely regarded as a robust, enterprise-grade security solution that provides excellent protection against malware and brute force attacks.
 - [SureCart 4.6.1 Released](https://wordpress-faq.com/news/surecart-4-6-1-released/) — <no value>
 - [SureCart 4.6.2 Released](https://wordpress-faq.com/news/surecart-4-6-2-released/) — <no value>
+- [SureCart 4.6.3 Released](https://wordpress-faq.com/news/surecart-4-6-3-released/) — <no value>
 - [SureCart and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/) — Running SureCart and WooCommerce in parallel is not recommended due to significant shop page and theme conflicts.
 - [The First AI Leaders Graduates](https://wordpress-faq.com/news/the-first-ai-leaders-graduates/) — <no value>
 - [Troubleshooting All in One SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/all-in-one-seo-conflict/) — Conflicts are typically resolved by flushing permalinks, checking for plugin overlaps, or rolling back to a stable version if a recent update is buggy.
@@ -636,6 +637,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 7.1 Beta 1](https://wordpress-faq.com/news/wordpress-7-1-beta-1/) — <no value>
 - [WordPress 7.1 Beta 3](https://wordpress-faq.com/news/wordpress-7-1-beta-3/) — <no value>
 - [WordPress 7.1 Beta 4](https://wordpress-faq.com/news/wordpress-7-1-beta-4/) — <no value>
+- [WordPress 7.1 Release Candidate 1](https://wordpress-faq.com/news/wordpress-7-1-release-candidate-1/) — <no value>
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-pros-cons/) — WordPress is the industry standard for ease of use and scalability, though it may be outperformed by custom frameworks for highly specialized projects.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress and WooCommerce Performance Optimization Guide](https://wordpress-faq.com/compatibility/wordpress-woocommerce-performance/) — Performance issues in WooCommerce are typically caused by poor server configuration or plugin bloat rather than the core software itself.
