@@ -12,13 +12,13 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 4 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
+- [WordPress Themes](https://wordpress-faq.com/theme/) — 6 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
-- [WordPress Themes](https://wordpress-faq.com/theme/) — 5 articles
 
 
 ## All pages
@@ -64,6 +64,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best Lightweight and Fast WordPress Themes for Performance](https://wordpress-faq.com/theme/lightweight-fast-wordpress-themes/) — Community consensus suggests using minimal, lightweight themes or building custom solutions to ensure maximum site speed and performance.
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
 - [Best Managed WordPress Hosting: Community Recommendations](https://wordpress-faq.com/hosting/managed-wordpress-hosting/) — SiteGround is frequently cited by the community as a reliable and high-performing choice for managed WordPress hosting needs.
+- [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/theme/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/comparison/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best Premium WordPress Themes Guide](https://wordpress-faq.com/comparison/best-premium-wordpress-themes/) — Premium themes are best chosen based on code quality, support availability, and specific feature requirements rather than just visual aesthetics.
 - [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/comparison/woocommerce-payment-gateways/) — Stripe and PayPal are widely considered the most reliable and feature-rich payment gateways for WooCommerce stores.
