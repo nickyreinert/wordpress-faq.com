@@ -13,7 +13,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
-- [WordPress Themes](https://wordpress-faq.com/theme/) — 6 articles
+- [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
@@ -79,6 +79,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Hosting Practices for 2025](https://wordpress-faq.com/hosting/wordpress-hosting-best-practices/) — Community consensus suggests managed hosting like Cloudways is preferred for ease of use, while unmanaged VPS is better for experienced developers.
 - [Best WordPress Page Builder for WooCommerce 2025](https://wordpress-faq.com/comparison/bricks-woocommerce-page-builder/) — Bricks Builder is the community favorite for high-performance WooCommerce sites requiring advanced animations and AJAX functionality.
 - [Best WordPress Plugins for Bloggers: Essential Tools Guide](https://wordpress-faq.com/review/best-wordpress-plugins-bloggers/) — Community consensus favors Rank Math for SEO and Wordfence for security as essential tools for any professional WordPress blog setup.
+- [Best WordPress Portfolio Themes: Recommendations and Tips](https://wordpress-faq.com/theme/best-wordpress-portfolio-themes/) — The community recommends using lightweight, block-based themes or the Twentig plugin for a clean, minimal portfolio design.
 - [Best WordPress Security Plugin: Expert Recommendations](https://wordpress-faq.com/compatibility/best-wordpress-security-plugin/) — Community consensus suggests that high-quality managed hosting with integrated security features is more effective than relying solely on plugins.
 - [Best WordPress Security Plugins: Expert Recommendations](https://wordpress-faq.com/review/wordpress-security-plugins/) — Wordfence is widely considered the most reliable and common security plugin for WordPress sites, though defense-in-depth strategies are essential.
 - [Best WordPress SEO Plugins: Comparison and Recommendations](https://wordpress-faq.com/comparison/best-wordpress-seo-plugins/) — Rank Math is preferred for power users, while SureRank is recommended for lightweight, free, and multilingual-friendly SEO requirements.
