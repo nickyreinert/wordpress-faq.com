@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 55 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 56 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 4 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
@@ -60,6 +60,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Beaver Builder WordPress Conflict Troubleshooting](https://wordpress-faq.com/compatibility/beaver-builder-conflict/) — Most Beaver Builder conflicts are resolved by checking for theme-specific CSS overrides or duplicating the affected page to reset module data.
 - [Best Cheap WordPress Hosting for Beginners Guide](https://wordpress-faq.com/hosting/best-cheap-wordpress-hosting-beginners/) — Beginners should prioritize managed WordPress hosting providers that offer built-in caching and security features to ensure optimal site performance.
 - [Best Free WordPress Themes for 2025: Performance & SEO](https://wordpress-faq.com/theme/best-free-wordpress-themes-2025/) — Community consensus favors lightweight, block-based FSE themes over bloated legacy options for better performance and long-term site stability.
+- [Best Lightweight and Fast WordPress Themes](https://wordpress-faq.com/comparison/lightweight-fast-wordpress-themes/) — The community consensus identifies Astra, Blocksy, and GeneratePress as the most reliable and performant lightweight themes for WordPress users.
 - [Best Lightweight and Fast WordPress Themes](https://wordpress-faq.com/comparison/lightweight-wordpress-themes/) — Community consensus suggests using minimal starter themes or building custom solutions to ensure the highest possible site performance.
 - [Best Lightweight and Fast WordPress Themes for Performance](https://wordpress-faq.com/theme/lightweight-fast-wordpress-themes/) — Community consensus suggests using minimal, lightweight themes or building custom solutions to ensure maximum site speed and performance.
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
