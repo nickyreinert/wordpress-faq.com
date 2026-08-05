@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 56 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 4 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 258 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -217,6 +217,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor vs Oxygen Builder Compatibility & Comparison](https://wordpress-faq.com/compatibility/elementor-oxygen-builder/) — Elementor and Oxygen Builder are separate page builders that cannot be used together on the same page, though they can coexist on a single site.
 - [Elementor Website Builder 4.2.0 Released](https://wordpress-faq.com/news/elementor-4-2-0-released/) — <no value>
 - [Elementor Website Builder 4.2.1 Released](https://wordpress-faq.com/news/elementor-4-2-1-released/) — <no value>
+- [Essential WordPress Plugins and Performance Optimization](https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/) — Community consensus suggests prioritizing server-side object caching and robust security practices over installing excessive third-party plugins.
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Every Website](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching, security, and backup plugins to ensure optimal site performance and data protection.
 - [Essential WordPress Plugins for Performance and SEO](https://wordpress-faq.com/howto/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching plugins and query monitoring tools to resolve performance bottlenecks effectively.
