@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 58 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 5 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 259 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 260 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -471,6 +471,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/ecommerce-speed-optimization/) — Community consensus suggests that reducing plugin bloat, implementing effective caching, and optimizing assets are the keys to a fast store.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
+- [How to Speed Up Your WordPress Site: Performance Guide](https://wordpress-faq.com/howto/wordpress-speed-optimization-guide/) — Prioritize high single-core CPU performance and optimize your plugin stack before upgrading server resources to achieve the best site speed results.
 - [How to Speed Up Your WordPress Site: Performance Guide](https://wordpress-faq.com/howto/speed-up-wordpress-site/) — Community consensus suggests that switching to high-quality hosting and avoiding heavy page builders are the most effective ways to improve speed.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-optimization/) — Using a CDN is highly recommended for reducing latency and improving global load times for WordPress websites.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-integration/) — Using a CDN like Cloudflare or BunnyCDN is the most effective way to improve global site speed and reduce strain on your primary hosting server.
