@@ -7793,6 +7793,34 @@ Reddit Sources How I discovered my website was hacked and used to spread Gamblin
 ---
 
 ---
+title: How to Fix a Slow WordPress Site: Performance Optimization
+url: https://wordpress-faq.com/howto/wordpress-performance-optimization-guide/
+date: 2026-08-05
+lastmod: 2026-08-05
+verdict: Community consensus indicates that site slowness is typically caused by bloated themes, excessive plugins, or poor hosting rather than WordPress core.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: performance, speed, hosting, caching, images, conflict
+faq:
+  - q: Why is my WordPress site suddenly slow?
+    a: Sudden slowness is often caused by a theme conflict, a recently installed plugin, or server-side resource limitations from your hosting provider.
+  - q: How do I test if my theme is slowing down my site?
+    a: Switch to a default WordPress theme like Twenty Twenty-Four. If your site speed improves significantly, your previous theme was likely the cause.
+  - q: Do too many plugins slow down WordPress?
+    a: Yes, excessive plugins can increase database load and front-end assets, though the quality of the plugin code matters more than the total count.
+Community consensus indicates that site slowness is typically caused by bloated themes, excessive plugins, or poor hosting rather than WordPress core. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Bloated themes causing high TTFB Excessive plugin usage impacting database queries Poor hosting infrastructure Unoptimized media library files Community Q&amp;A Why is my WordPress site suddenly slow?
+Sudden slowness is often caused by a theme conflict, a recently installed plugin, or server-side resource limitations from your hosting provider.
+How do I test if my theme is slowing down my site?
+Switch to a default WordPress theme like Twenty Twenty-Four. If your site speed improves significantly, your previous theme was likely the cause.
+Do too many plugins slow down WordPress?
+Yes, excessive plugins can increase database load and front-end assets, though the quality of the plugin code matters more than the total count.
+Reddit Sources WordPress Speed Optimization: A Practical Checklist for Website owners (and Busy Devs) (r/Wordpress) When should you use WordPress plugins and when should you opt for code, regardless of your coding knowledge? (r/Wordpress) WordPress Site Suddenly Extremely Slow – Could It Be My Theme? (r/Wordpress) Moved off WordPress to Astro after a $2k Core Web Vitals quote. Will I regret it? (r/Wordpress) The “boring” WordPress ops stack that stops 90% of downtime, hacks, and surprise bills (a practical playbook) (r/Wordpress) What actually causes slow WooCommerce product pages (r/Wordpress) Checklist: The Hidden WordPress Performance Issues That Slow Sites After 100k Visitors (r/Wordpress) Speed cloaking services (r/Wordpress) Need Advice for 2M+ Directory Website (r/Wordpress)
+---
+
+---
 title: How to Fix Duplicate Content Issues in WordPress
 url: https://wordpress-faq.com/howto/duplicate-content-wordpress/
 date: 2026-06-02
