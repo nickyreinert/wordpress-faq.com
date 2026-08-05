@@ -12117,6 +12117,34 @@ Reddit Sources It has happened before: (r/Wordpress) Is it time for a fork? A re
 ---
 
 ---
+title: Is WordPress Free to Use? Pricing Explained
+url: https://wordpress-faq.com/core/wordpress-pricing-model/
+date: 2026-08-05
+lastmod: 2026-08-05
+verdict: The WordPress software is free, but operating a functional site requires paid hosting and optional premium extensions.
+confidence: high
+sources: 8
+schema_type: FAQPage
+tags: ecommerce, hosting, performance, security
+faq:
+  - q: Is the WordPress software free?
+    a: Yes, WordPress.org software is free and open-source, allowing you to download and install it on your own server at no cost.
+  - q: What costs are associated with WordPress?
+    a: While the software is free, you must pay for web hosting, a domain name, and potentially premium themes or plugins for advanced features.
+  - q: Is WordPress.com the same as WordPress.org?
+    a: No, WordPress.org is the self-hosted software, while WordPress.com is a managed hosting service with different pricing tiers.
+The WordPress software is free, but operating a functional site requires paid hosting and optional premium extensions. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Hidden costs of premium plugins Hosting fees Domain registration costs Community Q&amp;A Is the WordPress software free?
+Yes, WordPress.org software is free and open-source, allowing you to download and install it on your own server at no cost.
+What costs are associated with WordPress?
+While the software is free, you must pay for web hosting, a domain name, and potentially premium themes or plugins for advanced features.
+Is WordPress.com the same as WordPress.org?
+No, WordPress.org is the self-hosted software, while WordPress.com is a managed hosting service with different pricing tiers.
+Reddit Sources If you aren&rsquo;t using FAQ Schema to get recommended by AI, you&rsquo;re missing out (r/woocommerce) Oy, Shipping Question - Conditions (r/woocommerce) Where to get free help with Problems with WooCommerce (r/woocommerce) I built a WooCommerce plugin that sends personal video emails to customers… is this actually useful or just gimmicky? (r/woocommerce) SB mart - Free WooCommerce Theme (r/woocommerce) Built an AI that does everything WooCommerce expects you to figure out yourself. Products, copy, ads, operations. All of it. YC backed, beta open this week. (r/woocommerce) Built a free WooCommerce bulk editor — would love some feedback (r/woocommerce) Goodbye Wordpress! (r/woocommerce)
+---
+
+---
 title: Is WordPress Free to Use? Understanding Costs
 url: https://wordpress-faq.com/howto/wordpress-pricing-usage/
 date: 2026-07-05
