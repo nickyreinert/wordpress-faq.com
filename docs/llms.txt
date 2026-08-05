@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 57 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 58 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 5 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 259 articles
@@ -84,6 +84,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Portfolio Themes: Recommendations and Tips](https://wordpress-faq.com/theme/best-wordpress-portfolio-themes/) — The community recommends using lightweight, block-based themes or the Twentig plugin for a clean, minimal portfolio design.
 - [Best WordPress Security Plugin: Expert Recommendations](https://wordpress-faq.com/compatibility/best-wordpress-security-plugin/) — Community consensus suggests that high-quality managed hosting with integrated security features is more effective than relying solely on plugins.
 - [Best WordPress Security Plugins: Expert Recommendations](https://wordpress-faq.com/review/wordpress-security-plugins/) — Wordfence is widely considered the most reliable and common security plugin for WordPress sites, though defense-in-depth strategies are essential.
+- [Best WordPress SEO Plugins Comparison](https://wordpress-faq.com/comparison/seo-plugins-comparison/) — Rank Math, SEOPress, and The SEO Framework are widely considered the most reliable and feature-rich SEO solutions for WordPress websites today.
 - [Best WordPress SEO Plugins: Comparison and Recommendations](https://wordpress-faq.com/comparison/best-wordpress-seo-plugins/) — Rank Math is preferred for power users, while SureRank is recommended for lightweight, free, and multilingual-friendly SEO requirements.
 - [Best WordPress SEO Plugins: Rank Math vs SureRank](https://wordpress-faq.com/comparison/rank-math-surerank/) — Community consensus suggests Rank Math is superior for advanced users, while SureRank is preferred for lightweight, simple site requirements.
 - [Best WordPress Themes for Blogs: Performance and Flexibility](https://wordpress-faq.com/theme/best-wordpress-themes-blogs/) — The community recommends using lightweight, multipurpose themes like GeneratePress, Astra, or Blocksy rather than niche-specific blog themes.
