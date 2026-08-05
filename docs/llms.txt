@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 2 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 3 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 54 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 27 articles
@@ -600,6 +600,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [W3 Total Cache 2.10.3 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-3-released/) — <no value>
 - [W3 Total Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/w3-total-cache-review/) — The community consensus is that W3 Total Cache is powerful but prone to configuration errors and site-breaking conflicts for many users.
 - [What Happened at WordCamp Europe 2026](https://wordpress-faq.com/news/what-happened-at-wordcamp-europe-2026/) — <no value>
+- [What is WordPress and How Does It Work](https://wordpress-faq.com/core/wordpress-core-functionality/) — WordPress is a versatile content management system that powers websites through a combination of themes, plugins, and a core database architecture.
 - [Why Use WordPress for Your Website: Benefits and Comparison](https://wordpress-faq.com/comparison/wordpress-benefits-comparison/) — WordPress is widely considered the best choice for businesses requiring full code ownership, extensive customization, and long-term cost efficiency.
 - [Why Use WordPress for Your Website: Pros and Cons](https://wordpress-faq.com/compatibility/why-use-wordpress/) — WordPress is widely considered the industry standard due to its massive ecosystem, user-friendly interface, and unmatched flexibility for developers.
 - [Why WordPress Dominates Web Market Share](https://wordpress-faq.com/comparison/wordpress-market-share-popularity/) — WordPress remains the industry standard due to its vast ecosystem, low barrier to entry, and unmatched flexibility for both beginners and developers.
