@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 56 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 57 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 5 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 259 articles
@@ -71,6 +71,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/comparison/woocommerce-payment-gateways/) — Stripe and PayPal are widely considered the most reliable and feature-rich payment gateways for WooCommerce stores.
 - [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/compatibility/woocommerce-payment-gateways/) — The community consensus is that local payment providers and Cash on Delivery are the most effective options for regional WooCommerce stores.
 - [Best WordPress Backup Plugin: Community Recommendations](https://wordpress-faq.com/review/best-wordpress-backup-plugin/) — The community consensus is that automated, off-site backups are the most reliable method for protecting WordPress site data against catastrophic loss.
+- [Best WordPress Backup Plugins: Expert Recommendations](https://wordpress-faq.com/comparison/wordpress-backup-plugins/) — Community consensus emphasizes that automated, offsite backups that are regularly tested for restoration are the gold standard for site security.
 - [Best WordPress Caching Plugins: Performance and Optimization](https://wordpress-faq.com/comparison/wordpress-caching-plugins/) — LiteSpeed Cache is widely considered the most effective caching solution for WordPress when paired with proper server-side object caching.
 - [Best WordPress Caching Plugins: Performance Comparison](https://wordpress-faq.com/comparison/best-wordpress-caching-plugins/) — LiteSpeed Cache is widely recommended for its comprehensive feature set, including object caching and minification, provided your server supports it.
 - [Best WordPress Contact Form Plugins and SMTP Solutions](https://wordpress-faq.com/comparison/wordpress-contact-form-plugins/) — Community consensus suggests using established form builders paired with dedicated SMTP services to ensure reliable email delivery and site performance.
