@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 55 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 4 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 54 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
@@ -668,6 +668,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress vs Website Builder: Choosing the Right Platform](https://wordpress-faq.com/comparison/website-builder-vs-wordpress/) — WordPress offers superior control and scalability for those willing to manage technical tasks, while website builders provide easier, turnkey solutions.
 - [WordPress vs Wix: Platform Comparison](https://wordpress-faq.com/comparison/wordpress-wix/) — WordPress is generally considered superior for long-term scalability and SEO, while Wix is preferred for beginners seeking a simple, turnkey solution.
 - [WordPress vs Wix: Which CMS is Better for Your Website?](https://wordpress-faq.com/comparison/wordpress-wix-comparison/) — WordPress is better for scalability and control, while Wix is preferred for users seeking a simplified, all-in-one website building experience.
+- [WordPress vs Wix: Which Platform is Better?](https://wordpress-faq.com/comparison/wix-wordpress/) — WordPress is generally considered superior for SEO and long-term scalability, whereas Wix is preferred for beginners needing a simple, turnkey solution.
 - [WordPress.com vs WordPress.org: Key Differences Explained](https://wordpress-faq.com/comparison/wordpress-com-vs-wordpress-org/) — WordPress.org provides self-hosted software for total control, whereas WordPress.com is a managed hosting service with limited customization.
 - [WP Engine vs DigitalOcean WordPress Hosting Comparison](https://wordpress-faq.com/comparison/digitalocean-wpengine/) — WP Engine offers managed convenience with aggressive sales tactics, while DigitalOcean provides affordable, unmanaged infrastructure for developers.
 - [WP Engine WordPress Hosting Review](https://wordpress-faq.com/hosting/wpengine-hosting-review/) — Community consensus is mixed, with users praising the platform's robust features while frequently criticizing recent declines in customer support quality.
