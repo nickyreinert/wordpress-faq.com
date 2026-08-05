@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 4 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 28 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 54 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
@@ -73,6 +73,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Caching Plugins: Performance Comparison](https://wordpress-faq.com/comparison/best-wordpress-caching-plugins/) — LiteSpeed Cache is widely recommended for its comprehensive feature set, including object caching and minification, provided your server supports it.
 - [Best WordPress Contact Form Plugins and SMTP Solutions](https://wordpress-faq.com/comparison/wordpress-contact-form-plugins/) — Community consensus suggests using established form builders paired with dedicated SMTP services to ensure reliable email delivery and site performance.
 - [Best WordPress Hosting 2025: Managed vs Unmanaged Options](https://wordpress-faq.com/hosting/best-wordpress-hosting-2025/) — Community consensus suggests Cloudways for managed ease and DigitalOcean for cost-effective performance if you have server management skills.
+- [Best WordPress Hosting for Small Business Guide](https://wordpress-faq.com/hosting/wordpress-hosting-small-business/) — Community consensus suggests prioritizing reliable support, speed, and security features over low-cost introductory pricing for small business sites.
 - [Best WordPress Hosting for Small Business Guide](https://wordpress-faq.com/hosting/best-wordpress-hosting-small-business/) — Managed cloud hosting providers are recommended over shared plans for better scalability and performance in small business WooCommerce environments.
 - [Best WordPress Hosting Practices for 2025](https://wordpress-faq.com/hosting/wordpress-hosting-best-practices/) — Community consensus suggests managed hosting like Cloudways is preferred for ease of use, while unmanaged VPS is better for experienced developers.
 - [Best WordPress Page Builder for WooCommerce 2025](https://wordpress-faq.com/comparison/bricks-woocommerce-page-builder/) — Bricks Builder is the community favorite for high-performance WooCommerce sites requiring advanced animations and AJAX functionality.
