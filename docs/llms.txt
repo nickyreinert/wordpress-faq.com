@@ -11,9 +11,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 55 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 4 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 54 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 6 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 257 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
@@ -300,7 +300,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Create a Custom Login Page in WordPress](https://wordpress-faq.com/howto/custom-login-page-wordpress/) — Using a dedicated plugin is the most efficient and secure method for creating custom login pages without extensive custom coding.
 - [How to Create a Membership Site in WordPress](https://wordpress-faq.com/howto/create-membership-site-wordpress/) — The community recommends using dedicated membership plugins to manage user roles and content access rather than building a custom database solution.
 - [How to Create a Membership Site in WordPress](https://wordpress-faq.com/howto/membership-wordpress-howto/) — The community recommends using dedicated membership plugins to manage user roles and restrict content access rather than building from scratch.
-- [How to Create a WordPress Child Theme](https://wordpress-faq.com/howto/wordpress-child-theme-creation/) — Creating a child theme is the industry-standard practice for safely modifying theme files without losing customizations during future updates.
+- [How to Create a WordPress Child Theme](https://wordpress-faq.com/howto/wordpress-child-theme-creation/) — Creating a child theme is the industry-standard method for modifying WordPress themes without losing changes during future theme updates.
 - [How to Create a WordPress Landing Page](https://wordpress-faq.com/howto/wordpress-landing-page-creation/) — The community recommends using dedicated page builders or block themes to maintain design control while keeping content separate from site templates.
 - [How to Create a WordPress Plugin from Scratch](https://wordpress-faq.com/howto/wordpress-plugin-development-guide/) — Creating a custom plugin requires a basic understanding of PHP, the WordPress Plugin API, and maintaining clean, lightweight code for performance.
 - [How to Create a WordPress Plugin from Scratch](https://wordpress-faq.com/howto/wordpress-plugin-development/) — Developing custom plugins requires a solid understanding of PHP, WordPress hooks, and secure coding practices to ensure site stability and performance.

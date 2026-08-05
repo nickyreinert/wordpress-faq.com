@@ -7171,29 +7171,29 @@ Reddit Sources Questions from a Newbie (r/webdev) Advice needed on plugins with 
 ---
 title: How to Create a WordPress Child Theme
 url: https://wordpress-faq.com/howto/wordpress-child-theme-creation/
-date: 2026-07-05
-lastmod: 2026-07-05
-verdict: Creating a child theme is the industry-standard practice for safely modifying theme files without losing customizations during future updates.
+date: 2026-08-05
+lastmod: 2026-08-05
+verdict: Creating a child theme is the industry-standard method for modifying WordPress themes without losing changes during future theme updates.
 confidence: high
-sources: 8
+sources: 12
 schema_type: HowTo
-tags: theme, performance, security
+tags: gutenberg, widgets, shortcodes
 faq:
   - q: Why should I use a child theme?
-    a: A child theme allows you to modify your site's design and functionality without losing your changes when the parent theme receives an update.
+    a: A child theme allows you to make modifications to your site that will not be overwritten when you update the parent theme.
   - q: What files are required for a child theme?
-    a: At a minimum, you need a folder in wp-content/themes and a style.css file that includes the Theme Name and Template header.
-  - q: Do I need to copy all parent theme files?
-    a: No, you only need to copy the specific template files you intend to override or modify.
-Creating a child theme is the industry-standard practice for safely modifying theme files without losing customizations during future updates. Based on 8 community reports.
-Linked sources: 9.
-Known Issues Overwriting parent theme templates incorrectly CSS specificity conflicts Missing style.css header requirements Community Q&amp;A Why should I use a child theme?
-A child theme allows you to modify your site&rsquo;s design and functionality without losing your changes when the parent theme receives an update.
+    a: At a minimum, you need a folder, a style.css file with a specific header, and a functions.php file to enqueue the parent styles.
+  - q: How do I activate my child theme?
+    a: Once the folder is uploaded to your wp-content/themes directory, go to Appearance > Themes in your dashboard and click Activate.
+Creating a child theme is the industry-standard method for modifying WordPress themes without losing changes during future theme updates. Based on 12 community reports.
+Linked sources: 4.
+Known Issues Missing style.css header Incorrect directory naming Functions.php syntax errors Community Q&amp;A Why should I use a child theme?
+A child theme allows you to make modifications to your site that will not be overwritten when you update the parent theme.
 What files are required for a child theme?
-At a minimum, you need a folder in wp-content/themes and a style.css file that includes the Theme Name and Template header.
-Do I need to copy all parent theme files?
-No, you only need to copy the specific template files you intend to override or modify.
-Reddit Sources Change template (r/Wordpress) Trying to kickstart website, need some advice (r/Wordpress) Cannot find “footer” (r/Wordpress) Problems with our e-commerce project (r/Wordpress) Trying to change the content (HTML, not posts) of my site, and nothing is working. (r/Wordpress) Questions about weird errors(WP DB Error) (r/Wordpress) How to find a deleted wordpress theme (r/Wordpress) Best AI Code Editor integration to wordpress? (r/Wordpress) How can I disable URL autocomplete (URL guessing) in WordPress? The answers that I found either don&rsquo;t work or I don&rsquo;t understand! (r/Wordpress)
+At a minimum, you need a folder, a style.css file with a specific header, and a functions.php file to enqueue the parent styles.
+How do I activate my child theme?
+Once the folder is uploaded to your wp-content/themes directory, go to Appearance &gt; Themes in your dashboard and click Activate.
+Reddit Sources Why is hosting your own email so difficult? (r/webdev) Am I over my head? Accepted a client job for a Wordpress website having never touched Wordpress and not done PHP/webdev in a few years (r/webdev) Agency refusing to transfer WP Engine site (r/webdev) Posted in /r/cscareerquestions but I think it might fit better here. Am I ready for an agency job? How do I go about getting one? (r/webdev)
 ---
 
 ---
