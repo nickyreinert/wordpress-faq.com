@@ -10,12 +10,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 59 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 6 articles
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 58 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 260 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
@@ -662,6 +662,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Lazy Loading Images: Best Practices and Fixes](https://wordpress-faq.com/howto/wordpress-lazy-loading-images/) — Lazy loading significantly improves performance, but ensure your LCP image is excluded to avoid negative impacts on Core Web Vitals scores.
 - [WordPress Local Development Setup Guide](https://wordpress-faq.com/howto/wordpress-local-development-setup/) — Community consensus favors lightweight tools like Laravel Valet or Bedrock over legacy stacks like MAMP or XAMPP for modern development workflows.
 - [WordPress Malware Removal Guide](https://wordpress-faq.com/howto/wordpress-malware-removal/) — Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections.
+- [WordPress Malware Removal: Best Practices and Diagnosis](https://wordpress-faq.com/error/wordpress-malware-removal/) — The community consensus is to identify the specific entry point, such as an abandoned plugin or compromised API token, before attempting a full cleanup.
 - [WordPress Multisite vs Single Site Comparison](https://wordpress-faq.com/comparison/multisite-single-site/) — WordPress Multisite is generally discouraged for most users due to its high maintenance overhead and potential for complex site-wide conflicts.
 - [WordPress Multisite vs Single Site: When to Use Each](https://wordpress-faq.com/comparison/multisite-vs-single-site/) — Use Multisite for managing multiple related sites under one network, while single site is better for independent, standalone website installations.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/howto/wordpress-pages-vs-posts/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog feed.
