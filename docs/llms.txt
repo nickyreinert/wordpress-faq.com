@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 59 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 6 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 58 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 260 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
@@ -220,6 +220,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor vs Oxygen Builder Compatibility & Comparison](https://wordpress-faq.com/compatibility/elementor-oxygen-builder/) — Elementor and Oxygen Builder are separate page builders that cannot be used together on the same page, though they can coexist on a single site.
 - [Elementor Website Builder 4.2.0 Released](https://wordpress-faq.com/news/elementor-4-2-0-released/) — <no value>
 - [Elementor Website Builder 4.2.1 Released](https://wordpress-faq.com/news/elementor-4-2-1-released/) — <no value>
+- [Elementor Website Builder 4.2.2 Released](https://wordpress-faq.com/news/elementor-4-2-2-released/) — <no value>
 - [Essential WordPress Plugins and Performance Optimization](https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/) — Community consensus suggests prioritizing server-side object caching and robust security practices over installing excessive third-party plugins.
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Every Website](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching, security, and backup plugins to ensure optimal site performance and data protection.
@@ -638,6 +639,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 - [WordPress 7.0.1 Maintenance Release](https://wordpress-faq.com/news/wordpress-7-0-1-maintenance-release/) — <no value>
 - [WordPress 7.0.2 Release](https://wordpress-faq.com/news/wordpress-7-0-2-release/) — <no value>
+- [WordPress 7.0.3 release](https://wordpress-faq.com/news/wordpress-7-0-3-release/) — <no value>
 - [WordPress 7.1 Beta 1](https://wordpress-faq.com/news/wordpress-7-1-beta-1/) — <no value>
 - [WordPress 7.1 Beta 3](https://wordpress-faq.com/news/wordpress-7-1-beta-3/) — <no value>
 - [WordPress 7.1 Beta 4](https://wordpress-faq.com/news/wordpress-7-1-beta-4/) — <no value>

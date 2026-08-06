@@ -5033,6 +5033,25 @@ New: Introducing Grid for building advanced row and column layouts – Atomic Ed
 ---
 
 ---
+title: Elementor Website Builder 4.2.2 Released
+url: https://wordpress-faq.com/news/elementor-4-2-2-released/
+date: 2026-08-06
+lastmod: 2026-08-06
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Website Builder 4.2.2 Released: 2026-08-06
+Active installations: 10,000,000
+Tested up to WordPress 7.0.3
+Requires PHP 7.4
+Changelog Fix: Editor top bar integrations may not appear in non-English languages Previous releases 4.2.1 — 2026-07-28
+Fix: Improved code security enforcement in template handling Fix: Improved code security enforcement in document handling Fix: Invalid border-radius values in Global Classes prevent class changes – Atomic Editor Fix: Atomic Variables synced from Atomic Classes are missing after site import – Atomic Editor 4.2.0 — 2026-07-20
+New: Introducing Grid for building advanced row and column layouts – Atomic Editor Tweak: Improved Angie layout, composition, and design system creation from prompts and images – Atomic Editor Tweak: Added dynamic tag support for AI-generated element properties Fix: VideoPress URLs do not display on the frontend when used in Background Video and Lightbox dynamic tags (#24467) Fix: Grid containers can cause slower Editor performance on complex pages Source Elementor Website Builder on WordPress.org
+---
+
+---
 title: Essential WordPress Plugins and Performance Optimization
 url: https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/
 date: 2026-08-05
@@ -16015,6 +16034,21 @@ Source WordPress 7.0.2 Release — WordPress.org News
 ---
 
 ---
+title: WordPress 7.0.3 release
+url: https://wordpress-faq.com/news/wordpress-7-0-3-release/
+date: 2026-08-06
+lastmod: 2026-08-06
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.0.3 release WordPress 7.0.3 is now available WordPress 7.0.3 is now available which features several security fixes. Because this is a security release, it is recommended that you update your sites immediately. You can update to WordPress 7.0.3 by downloading it from WordPress.org, or visiting your site’s Dashboard → Updates and clicking Update Now. Sites that support…
+Announced on the official WordPress.org news blog on 2026-08-06.
+Source WordPress 7.0.3 release — WordPress.org News
+---
+
+---
 title: WordPress 7.1 Beta 1
 url: https://wordpress-faq.com/news/wordpress-7-1-beta-1/
 date: 2026-07-15
@@ -16797,7 +16831,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-06.
-Plugin / theme Version Released Type LiteSpeed Cache 7.9 2026-08-05 plugin W3 Total Cache 2.10.4 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin WooCommerce 11.0.0 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Elementor Website Builder 4.2.1 2026-07-28 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Website Builder 4.2.2 2026-08-06 plugin LiteSpeed Cache 7.9 2026-08-05 plugin W3 Total Cache 2.10.4 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin WooCommerce 11.0.0 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Fluent Forms 6.2.11 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin Blocksy 2.1.51 2026-07-30 theme BuddyPress 14.5.2 2026-07-29 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme Kadence Security 10.0.3 2026-07-27 plugin Ninja Forms 3.14.11 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
