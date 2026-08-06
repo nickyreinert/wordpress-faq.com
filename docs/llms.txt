@@ -10,9 +10,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 59 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 6 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 58 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 260 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 56 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 59 articles
@@ -509,6 +509,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Kinsta WordPress Performance and Speed Optimization Guide](https://wordpress-faq.com/hosting/kinsta-wordpress-performance/) — Performance issues on Kinsta are typically resolved by optimizing database queries, image compression, and reviewing plugin-related resource overhead.
 - [LearnDash LMS Review and Comparison](https://wordpress-faq.com/review/learndash-review/) — LearnDash is widely considered the industry standard for robust course management, though it often requires additional plugins for complex features.
 - [LiteSpeed Cache 7.8.1 Released](https://wordpress-faq.com/news/litespeed-cache-7-8-1-released/) — <no value>
+- [LiteSpeed Cache 8.0 Released](https://wordpress-faq.com/news/litespeed-cache-8-0-released/) — <no value>
 - [LiteSpeed Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/litespeed-cache-review/) — LiteSpeed Cache is widely considered the gold standard for performance optimization when hosted on a LiteSpeed-powered server environment.
 - [Mailchimp for WordPress Review and Security Best Practices](https://wordpress-faq.com/review/mailchimp-for-wordpress/) — The plugin is a reliable tool for email integration, though developers must implement honeypots to prevent API abuse and unauthorized form submissions.
 - [Mailchimp for WordPress Review: Features and Integration](https://wordpress-faq.com/review/mailchimp-for-wordpress-review/) — The plugin is widely considered a reliable and efficient solution for connecting WordPress sites to Mailchimp lists.
@@ -612,6 +613,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [UpdraftPlus WordPress Backup Plugin Review](https://wordpress-faq.com/review/updraftplus-review/) — UpdraftPlus is highly recommended by the community as a reliable and user-friendly solution for automated WordPress backups and site restoration.
 - [W3 Total Cache 2.10.2 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-2-released/) — <no value>
 - [W3 Total Cache 2.10.3 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-3-released/) — <no value>
+- [W3 Total Cache 2.10.4 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-4-released/) — <no value>
 - [W3 Total Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/w3-total-cache-review/) — The community consensus is that W3 Total Cache is powerful but prone to configuration errors and site-breaking conflicts for many users.
 - [What Happened at WordCamp Europe 2026](https://wordpress-faq.com/news/what-happened-at-wordcamp-europe-2026/) — <no value>
 - [What is WordPress and How Does It Work](https://wordpress-faq.com/core/wordpress-core-functionality/) — WordPress is a versatile content management system that powers websites through a combination of themes, plugins, and a core database architecture.
