@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 59 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 5 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 6 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 260 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 56 articles
@@ -252,6 +252,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Free vs Premium WordPress Plugins: Are They Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/) — Premium plugins are generally worth the investment for professional support and advanced features, though free versions often suffice for basic needs.
 - [Free vs Premium WordPress Themes: Is It Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-themes/) — Premium themes generally offer better support and advanced features, but free themes are often sufficient for simple, lightweight website projects.
 - [Full Site Editing and Gutenberg in WordPress Explained](https://wordpress-faq.com/howto/gutenberg-wordpress-full-site-editing/) — Gutenberg is the core block-based editor for WordPress that has evolved into a comprehensive Full Site Editing experience for modern web design.
+- [Full Site Editing in WordPress Explained](https://wordpress-faq.com/core/full-site-editing-wordpress/) — Full Site Editing provides deep design control through the block editor, though it remains challenging for users accustomed to traditional themes.
 - [Full Site Editing in WordPress Explained](https://wordpress-faq.com/howto/full-site-editing-wordpress/) — Full Site Editing provides a block-based approach to theme customization that replaces traditional customizers for modern WordPress users.
 - [GeneratePress Review: Performance and Customization Analysis](https://wordpress-faq.com/review/generatepress-review/) — GeneratePress is highly regarded for its clean code, performance, and developer-friendly hooks, though it has a steeper learning curve than Astra.
 - [Global Partners Across the First Half of the 2026 WordPress Event Season](https://wordpress-faq.com/news/global-partners-across-the-first-half-of-the-2026-wordpress-event-season/) — <no value>

@@ -5903,6 +5903,34 @@ Reddit Sources As a freelancer, how much should I charge for a page builder buil
 
 ---
 title: Full Site Editing in WordPress Explained
+url: https://wordpress-faq.com/core/full-site-editing-wordpress/
+date: 2026-08-06
+lastmod: 2026-08-06
+verdict: Full Site Editing provides deep design control through the block editor, though it remains challenging for users accustomed to traditional themes.
+confidence: medium
+sources: 4
+schema_type: FAQPage
+tags: gutenberg, page-builder, widgets
+faq:
+  - q: What is Full Site Editing in WordPress?
+    a: Full Site Editing (FSE) is a collection of features that allows users to edit every part of their website, including headers, footers, and templates, using the block editor.
+  - q: Do I need a page builder if I use Full Site Editing?
+    a: Not necessarily. FSE provides native block-based design tools that replace many functions previously requiring third-party page builders.
+  - q: Is Full Site Editing compatible with all themes?
+    a: No, FSE requires a block-based theme to function. Traditional themes do not support the full site editing interface.
+Full Site Editing provides deep design control through the block editor, though it remains challenging for users accustomed to traditional themes. Based on 4 community reports.
+Linked sources: 4.
+Known Issues Steep learning curve for beginners Compatibility issues with legacy themes Performance overhead on complex layouts Community Q&amp;A What is Full Site Editing in WordPress?
+Full Site Editing (FSE) is a collection of features that allows users to edit every part of their website, including headers, footers, and templates, using the block editor.
+Do I need a page builder if I use Full Site Editing?
+Not necessarily. FSE provides native block-based design tools that replace many functions previously requiring third-party page builders.
+Is Full Site Editing compatible with all themes?
+No, FSE requires a block-based theme to function. Traditional themes do not support the full site editing interface.
+Reddit Sources Head of Digital - Feeling burnt out. (r/webdev) As a freelancer, how much should I charge for a page builder built wordpress site? (r/Wordpress) Gutenberg impressions and WordCamp Boston, July 2018 (r/Wordpress) Client wants to switch from Wordpress to Framer, any horror stories? (r/webdev)
+---
+
+---
+title: Full Site Editing in WordPress Explained
 url: https://wordpress-faq.com/howto/full-site-editing-wordpress/
 date: 2026-06-02
 lastmod: 2026-06-02
