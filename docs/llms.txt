@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 60 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 62 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 59 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 6 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -246,6 +246,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing Yoast SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/yoast-seo-fatal-error/) — Fatal errors in Yoast SEO are typically resolved by updating the plugin or manually deleting the plugin folder via FTP to regain site access.
 - [Flatsome Theme Review and Performance Analysis](https://wordpress-faq.com/review/flatsome-review/) — Flatsome remains a top-tier choice for WooCommerce stores due to its deep integration and speed, though it requires careful maintenance of hooks.
 - [Fluent Forms 6.2.11 Released](https://wordpress-faq.com/news/fluent-forms-6-2-11-released/) — <no value>
+- [Fluent Forms 6.2.12 Released](https://wordpress-faq.com/news/fluent-forms-6-2-12-released/) — <no value>
 - [Fluent Forms 6.2.8 Released](https://wordpress-faq.com/news/fluent-forms-6-2-8-released/) — <no value>
 - [Fluent Forms 6.2.9 Released](https://wordpress-faq.com/news/fluent-forms-6-2-9-released/) — <no value>
 - [Fluent Forms Review: Features and Lead Capture Capabilities](https://wordpress-faq.com/review/fluent-forms-review/) — Fluent Forms is widely regarded as a robust and efficient solution for capturing leads and managing form submissions within the WordPress ecosystem.
@@ -521,6 +522,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [MemberPress Review and Membership Plugin Comparison](https://wordpress-faq.com/review/memberpress-review/) — MemberPress is considered a reliable and scalable choice for building membership platforms on WordPress when paired with modular integrations.
 - [Namecheap vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/namecheap-siteground-hosting/) — SiteGround is generally preferred for managed WordPress performance, while Namecheap is often chosen for budget-friendly entry-level hosting.
 - [Ninja Forms 3.14.11 Released](https://wordpress-faq.com/news/ninja-forms-3-14-11-released/) — <no value>
+- [Ninja Forms 3.14.12 Released](https://wordpress-faq.com/news/ninja-forms-3-14-12-released/) — <no value>
 - [Ninja Forms Review: Features and Common Conflicts](https://wordpress-faq.com/review/ninja-forms-review/) — Ninja Forms is a capable builder, but users frequently report CSS conflicts with themes and limitations when calculating totals for payment gateways.
 - [Ninja Forms vs WPForms: Form Builder Comparison](https://wordpress-faq.com/comparison/ninja-forms-wpforms/) — Community consensus suggests that while Ninja Forms is powerful, it often suffers from CSS conflicts and complex payment field configurations compared to rivals.
 - [Optimizing Advanced Custom Fields for WordPress Performance](https://wordpress-faq.com/howto/advanced-custom-fields-optimization/) — Community consensus suggests offloading complex queries to Elasticsearch and minimizing field bloat to maintain high site performance.
