@@ -15488,6 +15488,25 @@ Fix: Disk cache: Restore file-locking writes on PHP 8+ Fix: Apache: Limit Option
 ---
 
 ---
+title: W3 Total Cache 2.10.5 Released
+url: https://wordpress-faq.com/news/w3-total-cache-2-10-5-released/
+date: 2026-08-10
+lastmod: 2026-08-10
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, w3-total-cache, release, changelog, news
+What&rsquo;s new in W3 Total Cache 2.10.5 Released: 2026-08-10
+Active installations: 900,000
+Tested up to WordPress 7.0.3
+Requires PHP 7.4
+Changelog Fix: Page Cache: Keep Disk Enhanced cache file operations within the cache directory Previous releases 2.10.4
+Fix: Lazy Load: Match only quoted image attributes when rewriting src/srcset/sizes Fix: Cache purge: Restore filterable capabilities for purge-all and purge-post 2.10.3
+Fix: Output buffering: Skip REST API requests unless page cache REST caching is enabled Fix: Minify: Keep cache file operations within the cache directory Fix: Defer Scripts: Restore timeout configuration placeholder replacement Source W3 Total Cache on WordPress.org
+---
+
+---
 title: W3 Total Cache Plugin Review and Performance Analysis
 url: https://wordpress-faq.com/review/w3-total-cache-review/
 date: 2026-06-07
@@ -15753,6 +15772,23 @@ Changelog Fix – Add a compatibility shim for the removed product block editor 
 ---
 
 ---
+title: WooCommerce 11.0.1 Released
+url: https://wordpress-faq.com/news/woocommerce-11-0-1-released/
+date: 2026-08-10
+lastmod: 2026-08-10
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, woocommerce, release, changelog, news
+What&rsquo;s new in WooCommerce 11.0.1 Released: 2026-08-10
+Active installations: 7,000,000
+Tested up to WordPress 7.0.3
+Requires PHP 7.4
+Changelog Fix – Fixed admin settings initialization. #67532 Fix – Fix order list checkbox interactions and responsive layout with WordPress 7.1. #67364 Fix – Prevent password-protected products from exposing short descriptions before authentication. #67557 Fix – Sanitize the single dismissible store notice before rendering so entity-encoded HTML in Store API error messages (e.g. a product name) cannot execute script on the Cart and Checkout blocks. #67476 Fix – Store API: Always resolve the cart token from a consistent place. #67550 Fix – Store API: improve coupon handling for order payments. #67549 Fix – Tighten authorization checks on the Marketplace subscription activate endpoint. #67567 Fix – Tighten authorization checks on the review-order shortcode. #67552 Fix – Update product button label checks. #67558 Fix – Update product image SKU match checks #67530 Fix – Update session cookies hashing #67408 Fix – Update theme onboarding checks #67533 Source WooCommerce on WordPress.org
+---
+
+---
 title: WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable
 url: https://wordpress-faq.com/news/woocommerce-9-8-released/
 date: 2026-05-20
@@ -15960,6 +15996,26 @@ Requires PHP 7.0
 Changelog Improvement: Better presentation of Live Traffic data on wide screens Improvement: Increased legibility of token fields Improvement: Reworked the pagination of the Blocking page for a better UX Improvement: Country blocking token field can now expand to show all entries Improvement: Performance improvements for the activity log and better pause behavior on window blur/focus Improvement: GeoIP database updated Change: Removed deprecated Central endpoint Fix: Addressed issue where the last activity log entry could repeatedly appear Fix: Using the embedded shortcode for the 2FA form now correctly enqueues core JavaScript dependencies Fix: Modals with content that overflows on smaller viewports can now be scrolled Fix: The changelog link in plugin upgrade scan issues now links correctly Previous releases 8.2.1 — May 6, 2026
 Fix: Fixed issue with some i18n plugins/themes when a user has no 2FA recovery codes Fix: Toggled options with additional help links now correctly open the link rather than toggling the option Fix: Country Blocking editing fixed when there are multiple pages of block rules Fix: Added better error handling to the initial Vue data load Fix: Handled error when logging in using legacy 2FA with separate prompts enabled 8.2.0 — April 29, 2026
 Improvement: Migrated all deprecated JavaScript libraries in use to a Vue-based infrastructure Improvement: GeoIP database update Improvement: Better coverage of aria- accessibility attributes Improvement: Added translators comments to translatable strings where previously missing Fix: WordPress 7.0 compatibility fixes Source Wordfence Security on WordPress.org
+---
+
+---
+title: Wordfence Security 9.0.0 Released
+url: https://wordpress-faq.com/news/wordfence-9-0-0-released/
+date: 2026-08-10
+lastmod: 2026-08-10
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wordfence, release, changelog, news
+What&rsquo;s new in Wordfence Security 9.0.0 Released: August 10, 2026
+Active installations: 5,000,000
+Tested up to WordPress 7.1
+Requires PHP 7.0
+Changelog Improvement: Added support for passkey authentication Available for both free and premium installations
+Can be enabled for any user role (multisite support is currently limited) WooCommerce integration Support for custom authentication integrations Improvement: GeoIP database updated Improvement: Several mobile styling and layout improvements on the login security page Improvement: Added diagnostics info for authentication hooks to assist with login-related troubleshooting Change: Hardened 2FA flow when installed next to plugins with non-standard authentication (credit: Austin Ginder of Anchor Hosting) Change: Hardened 2FA remember cookie handling Change: The scanner will now display an issue when the standalone Wordfence Login Security plugin is installed because all functionality is already provided by Wordfence itself Change: Updated internal libraries used by the Vue UI Change: Login error masking setting now also applies to the Login Security functionality Previous releases 8.2.2 — May 13, 2026
+Improvement: Better presentation of Live Traffic data on wide screens Improvement: Increased legibility of token fields Improvement: Reworked the pagination of the Blocking page for a better UX Improvement: Country blocking token field can now expand to show all entries Improvement: Performance improvements for the activity log and better pause behavior on window blur/focus 8.2.1 — May 6, 2026
+Fix: Fixed issue with some i18n plugins/themes when a user has no 2FA recovery codes Fix: Toggled options with additional help links now correctly open the link rather than toggling the option Fix: Country Blocking editing fixed when there are multiple pages of block rules Fix: Added better error handling to the initial Vue data load Fix: Handled error when logging in using legacy 2FA with separate prompts enabled Source Wordfence Security on WordPress.org
 ---
 
 ---
@@ -16869,7 +16925,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-10.
-Plugin / theme Version Released Type Fluent Forms 6.2.12 2026-08-10 plugin Ninja Forms 3.14.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin Blocksy 2.1.52 2026-08-06 theme LiteSpeed Cache 7.9 2026-08-05 plugin W3 Total Cache 2.10.4 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin WooCommerce 11.0.0 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin BuddyPress 14.5.2 2026-07-29 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme Kadence Security 10.0.3 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Wordfence Security 8.2.2 2026-05-13 plugin Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Ninja Forms 3.14.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin Blocksy 2.1.52 2026-08-06 theme LiteSpeed Cache 7.9 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin BuddyPress 14.5.2 2026-07-29 plugin Rank Math SEO 1.0.275 2026-07-28 plugin Astra 4.13.8 2026-07-28 theme Kadence Security 10.0.3 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin All-in-One WP Migration and Backup 7.107 2026-07-21 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
