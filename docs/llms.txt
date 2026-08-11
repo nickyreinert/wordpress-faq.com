@@ -9,11 +9,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 60 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 261 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 65 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 6 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 260 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
@@ -338,6 +338,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Improve WordPress Page Speed Scores](https://wordpress-faq.com/howto/wordpress-page-speed-optimization/) — Community consensus suggests focusing on database cleanup, minimizing plugin usage, and implementing caching solutions rather than chasing scores.
 - [How to Install a WordPress Theme](https://wordpress-faq.com/howto/install-wordpress-theme/) — Installing a WordPress theme is best achieved via the Appearance menu in the dashboard or by uploading a zip file through the theme installer.
 - [How to Install SSL Certificate on WordPress](https://wordpress-faq.com/howto/install-ssl-certificate-wordpress/) — The most reliable way to install an SSL certificate is to request it directly from your hosting provider to ensure proper server-side configuration.
+- [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/install-wordpress-step-by-step/) — Successful WordPress installation requires a secure hosting environment, consistent backup protocols, and a focus on performance-oriented server stacks.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/install-wordpress-guide/) — Manual installation via the WordPress dashboard or FTP is the most reliable method for site setup.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/how-to-install-wordpress/) — Manual installation provides the most reliable foundation for long-term site performance and security.
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance-workflow/) — Successful client site maintenance relies on automated backups, regular security audits, and keeping site-specific logic in micro-plugins.
