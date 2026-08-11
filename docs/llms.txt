@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 7 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 261 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 262 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 65 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
@@ -669,6 +669,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Headless CMS Explained](https://wordpress-faq.com/howto/wordpress-headless-cms/) — WordPress can function as a powerful headless CMS using its REST API, though it may feel less specialized than dedicated headless platforms.
 - [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
 - [WordPress Image Optimization Guide: Best Practices](https://wordpress-faq.com/howto/wordpress-image-optimization-guide/) — Optimizing images is essential for reducing page load times and improving core web vitals for better search engine rankings.
+- [WordPress Internal Linking Strategy and Plugin Guide](https://wordpress-faq.com/howto/internal-linking-strategy/) — Community consensus suggests using dedicated plugins like Link Whisper for automation while focusing on site structure rather than just plugin metrics.
 - [WordPress Internal Linking Strategy Best Practices](https://wordpress-faq.com/howto/wordpress-internal-linking-strategy/) — Internal linking is essential for distributing page authority and improving user experience across your WordPress website architecture.
 - [WordPress Lazy Loading Images: Best Practices and Fixes](https://wordpress-faq.com/howto/wordpress-lazy-loading-images/) — Lazy loading significantly improves performance, but ensure your LCP image is excluded to avoid negative impacts on Core Web Vitals scores.
 - [WordPress Local Development Setup Guide](https://wordpress-faq.com/howto/wordpress-local-development-setup/) — Community consensus favors lightweight tools like Laravel Valet or Bedrock over legacy stacks like MAMP or XAMPP for modern development workflows.
