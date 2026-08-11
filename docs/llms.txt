@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 7 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 262 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 67 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 68 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
@@ -37,6 +37,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All-In-One Security (AIOS) 5.4.9 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-4-9-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.107 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-107-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.108 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-108-released/) — <no value>
+- [All-in-One WP Migration and Backup 7.109 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-109-released/) — <no value>
 - [All-in-One WP Migration Plugin Review](https://wordpress-faq.com/review/all-in-one-wp-migration-review/) — The plugin is widely used for site migrations, though users report occasional link errors and reliability issues during large database transfers.
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
