@@ -9,9 +9,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 7 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 261 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 65 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 6 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
@@ -658,6 +658,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Blocks vs Shortcodes: Key Differences Explained](https://wordpress-faq.com/comparison/gutenberg-shortcodes/) — Blocks are the modern, visual standard for WordPress content, while shortcodes are considered legacy tools for simple dynamic functionality.
 - [WordPress Brute Force Protection: Best Practices](https://wordpress-faq.com/compatibility/wordpress-brute-force-protection/) — Community consensus favors lightweight, modular security plugins that utilize server-level blocking to minimize performance impact on WordPress sites.
 - [WordPress Brute Force Protection: Best Practices](https://wordpress-faq.com/howto/wordpress-brute-force-protection/) — Community consensus suggests combining a robust WAF like Cloudflare with dedicated security plugins for 2FA and login rate limiting to stop attacks.
+- [WordPress Caching Explained: Performance and Optimization](https://wordpress-faq.com/core/wordpress-caching-explained/) — Caching is a critical performance optimization that significantly reduces server load and improves user experience by serving static content.
 - [WordPress Caching Explained: Performance and Speed Basics](https://wordpress-faq.com/howto/wordpress-caching-explained/) — Caching is a critical performance optimization that stores static versions of your site to significantly reduce page load times for visitors.
 - [WordPress Core Updates and Version Compatibility](https://wordpress-faq.com/version/wordpress-core-update/) — Keeping WordPress core and PHP versions updated is essential for site security and preventing critical plugin compatibility errors.
 - [WordPress Database Optimization and Performance Guide](https://wordpress-faq.com/howto/wordpress-database-optimization/) — Community consensus suggests that database performance is best improved by optimizing data architecture and implementing object caching like Redis.
