@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 7 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 262 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 65 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 67 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
@@ -36,6 +36,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All In One WP Security Review and Security Best Practices](https://wordpress-faq.com/review/all-in-one-wp-security-review/) — Community consensus suggests that while the plugin provides a solid baseline, it is not a substitute for robust hosting security and regular backups.
 - [All-In-One Security (AIOS) 5.4.9 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-4-9-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.107 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-107-released/) — <no value>
+- [All-in-One WP Migration and Backup 7.108 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-108-released/) — <no value>
 - [All-in-One WP Migration Plugin Review](https://wordpress-faq.com/review/all-in-one-wp-migration-review/) — The plugin is widely used for site migrations, though users report occasional link errors and reliability issues during large database transfers.
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
@@ -550,6 +551,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Rank Math Not Working in WordPress: Troubleshooting Guide](https://wordpress-faq.com/error/rankmath-wordpress-error/) — Rank Math issues are typically caused by conflicts with specific themes or page builders rather than the plugin itself.
 - [Rank Math SEO 1.0.274 Released](https://wordpress-faq.com/news/rankmath-1-0-274-released/) — <no value>
 - [Rank Math SEO 1.0.275 Released](https://wordpress-faq.com/news/rankmath-1-0-275-released/) — <no value>
+- [Rank Math SEO 1.0.276 Released](https://wordpress-faq.com/news/rankmath-1-0-276-released/) — <no value>
 - [Rank Math SEO Plugin Review](https://wordpress-faq.com/review/rankmath-review/) — Rank Math is widely considered a powerful and feature-rich SEO solution for WordPress users seeking to improve their search engine rankings.
 - [Rank Math SEO Plugin Review and Analysis](https://wordpress-faq.com/review/rankmath-seo/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that offers significant value, though some users find the interface overwhelming.
 - [Resolving Elementor and WPForms Plugin Conflicts](https://wordpress-faq.com/compatibility/elementor-wpforms-conflict/) — Community consensus suggests using the dedicated Elementor widget for WPForms instead of shortcodes to ensure all form features function correctly.
