@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 8 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 263 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 68 articles
@@ -666,6 +666,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Caching Explained: Performance and Optimization](https://wordpress-faq.com/core/wordpress-caching-explained/) — Caching is a critical performance optimization that significantly reduces server load and improves user experience by serving static content.
 - [WordPress Caching Explained: Performance and Speed Basics](https://wordpress-faq.com/howto/wordpress-caching-explained/) — Caching is a critical performance optimization that stores static versions of your site to significantly reduce page load times for visitors.
 - [WordPress Core Updates and Version Compatibility](https://wordpress-faq.com/version/wordpress-core-update/) — Keeping WordPress core and PHP versions updated is essential for site security and preventing critical plugin compatibility errors.
+- [WordPress Database Optimization and Performance Guide](https://wordpress-faq.com/core/wordpress-database-optimization/) — Regular database maintenance and monitoring for autoload bloat are critical for maintaining high performance in large WordPress installations.
 - [WordPress Database Optimization and Performance Guide](https://wordpress-faq.com/howto/wordpress-database-optimization/) — Community consensus suggests that database performance is best improved by optimizing data architecture and implementing object caching like Redis.
 - [WordPress Database Optimization Best Practices](https://wordpress-faq.com/howto/database-optimization/) — Regular database cleanup and indexing are essential for maintaining optimal WordPress site performance and preventing long-term bloat issues.
 - [WordPress File Permissions and Security Best Practices](https://wordpress-faq.com/error/wordpress-file-permissions/) — Standard WordPress file permissions should be set to 755 for directories and 644 for files to ensure optimal security and functionality.
