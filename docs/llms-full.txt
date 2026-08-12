@@ -12402,6 +12402,34 @@ Reddit Sources [FREEMIUM] GriffinForms — WordPress form builder with multi-ste
 
 ---
 title: How to Use WP_Query in WordPress
+url: https://wordpress-faq.com/howto/wp-query-usage/
+date: 2026-08-12
+lastmod: 2026-08-12
+verdict: Developers must ensure show_in_rest is set to true in their custom post type registration to allow Gutenberg blocks to access the data.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: gutenberg, database, performance
+faq:
+  - q: How do I use WP_Query in WordPress?
+    a: WP_Query is a class used to fetch posts from the database. You define an array of arguments and pass it to a new instance of the class to run your custom loop.
+  - q: Why is my custom post type not showing in the Query Loop block?
+    a: This is usually because the 'show_in_rest' parameter is set to false in your register_post_type function. Gutenberg blocks require the REST API to populate data.
+  - q: How can I optimize WP_Query for performance?
+    a: Avoid complex queries that hammer the database. Use specific arguments, limit the number of posts, and consider using search plugins like Relevanssi for heavy search tasks.
+Developers must ensure show_in_rest is set to true in their custom post type registration to allow Gutenberg blocks to access the data. Based on 8 community reports.
+Linked sources: 8.
+Known Issues REST API configuration errors Missing show_in_rest parameter Database resource exhaustion from complex queries Community Q&amp;A How do I use WP_Query in WordPress?
+WP_Query is a class used to fetch posts from the database. You define an array of arguments and pass it to a new instance of the class to run your custom loop.
+Why is my custom post type not showing in the Query Loop block?
+This is usually because the &lsquo;show_in_rest&rsquo; parameter is set to false in your register_post_type function. Gutenberg blocks require the REST API to populate data.
+How can I optimize WP_Query for performance?
+Avoid complex queries that hammer the database. Use specific arguments, limit the number of posts, and consider using search plugins like Relevanssi for heavy search tasks.
+Reddit Sources WordPress Just Got Three AI Integrations in Four Days — Here&rsquo;s What Each One Actually Does (r/Wordpress) WP + ACF + Elementor - Associate a Post Category with a custom Post Type entry? (r/Wordpress) WordPress Internal Search Resource Exhaustion DoS (r/Wordpress) How do you actually know a WordPress plugin is safe? (r/Wordpress) wordpress hybrid (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress) WordPress’ Inherent Bottlenecks &amp; Architectural Limits (r/Wordpress) How to check if the post-type dropdown in the Query Loop block is populated with data? (r/Wordpress)
+---
+
+---
+title: How to Use WP_Query in WordPress
 url: https://wordpress-faq.com/howto/wp-query-wordpress/
 date: 2026-06-02
 lastmod: 2026-06-02
