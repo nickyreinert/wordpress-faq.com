@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 263 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 7 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 262 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 68 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
@@ -323,6 +323,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Create an XML Sitemap in WordPress](https://wordpress-faq.com/howto/create-xml-sitemap-wordpress/) — Using a dedicated SEO plugin is the most reliable and efficient way to manage and submit XML sitemaps for search engine indexing in WordPress.
 - [How to Create and Manage Menus in WordPress](https://wordpress-faq.com/howto/create-wordpress-menu/) — WordPress menus are managed via the Appearance menu or the Full Site Editor, depending on your theme's compatibility and structure.
 - [How to Create Custom WordPress Templates](https://wordpress-faq.com/howto/custom-wordpress-template-creation/) — The community recommends using boilerplate themes like Underscores and testing all template changes on a staging site before deploying to production.
+- [How to Customize WordPress Themes Without Coding](https://wordpress-faq.com/howto/customize-wordpress-theme-no-code/) — Customizing WordPress themes without coding is highly achievable for beginners using page builders and built-in theme customizer settings.
 - [How to Customize WordPress Themes Without Coding](https://wordpress-faq.com/howto/customize-wordpress-theme-no-coding/) — Users can effectively customize themes without coding by utilizing visual page builders like Divi or Astra's built-in hook and customizer features.
 - [How to Disable Comments in WordPress](https://wordpress-faq.com/howto/disable-comments-wordpress/) — Disabling comments is a highly effective way to reduce spam and improve site security for static content.
 - [How to Disable XML-RPC in WordPress](https://wordpress-faq.com/howto/disable-xmlrpc-wordpress/) — The community consensus is that XML-RPC is obsolete and should be disabled on all WordPress installations to prevent security vulnerabilities and CPU spikes.
