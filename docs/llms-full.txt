@@ -6657,6 +6657,34 @@ Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s 
 ---
 
 ---
+title: How to Add and Manage Categories and Tags in WordPress
+url: https://wordpress-faq.com/howto/add-categories-tags-wordpress/
+date: 2026-08-12
+lastmod: 2026-08-12
+verdict: Categories and tags are native WordPress features that can be managed via the admin sidebar or extended to custom post types using register_taxonomy.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: seo, gutenberg, widgets
+faq:
+  - q: How do I add new categories in WordPress?
+    a: Navigate to Posts > Categories in your WordPress dashboard, enter the name and slug, then click Add New Category.
+  - q: Can I use the same tags for different custom post types?
+    a: Yes, you can associate a single taxonomy with multiple custom post types by using the register_taxonomy function in your theme's functions.php file.
+  - q: How do I remove default categories and tags from the admin menu?
+    a: You can unregister default taxonomies using the unregister_taxonomy_for_object_type function or by using a plugin to clean up the admin interface.
+Categories and tags are native WordPress features that can be managed via the admin sidebar or extended to custom post types using register_taxonomy. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Default taxonomies may clutter the admin sidebar for custom post types Confusing UI for beginners when managing multiple taxonomies Community Q&amp;A How do I add new categories in WordPress?
+Navigate to Posts &gt; Categories in your WordPress dashboard, enter the name and slug, then click Add New Category.
+Can I use the same tags for different custom post types?
+Yes, you can associate a single taxonomy with multiple custom post types by using the register_taxonomy function in your theme&rsquo;s functions.php file.
+How do I remove default categories and tags from the admin menu?
+You can unregister default taxonomies using the unregister_taxonomy_for_object_type function or by using a plugin to clean up the admin interface.
+Reddit Sources Can&rsquo;t post with newest WP-Admim site (r/Wordpress) Flower shop SEO &amp; redesign - products question (r/Wordpress) Help on Taxonomies and Relations - How to create global tags to affect multiple CPTs? (r/Wordpress) Paying for a Ecommerce redesign (r/Wordpress) I wanna teach wordpress (r/Wordpress) Remove default &ldquo;Category&rdquo; and &ldquo;Tag&rdquo; taxonomies everywhere, but especially in WordPress Admin Sidebar? (r/Wordpress) Looking to create a cooking website (r/Wordpress)
+---
+
+---
 title: How to Add Custom Checkout Fields in WooCommerce
 url: https://wordpress-faq.com/howto/custom-checkout-fields-woocommerce/
 date: 2026-07-12
