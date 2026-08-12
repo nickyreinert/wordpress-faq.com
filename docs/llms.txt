@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 129 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 270 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 271 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 68 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -342,6 +342,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Fix WordPress 500 Internal Server Error](https://wordpress-faq.com/error/wordpress-500-internal-server-error/) — The consensus is to enable WordPress debug logging to identify the specific root cause, which is often a memory limit issue or a plugin conflict.
 - [How to Fix WordPress Performance Issues Caused by Plugins](https://wordpress-faq.com/howto/wordpress-performance-optimization/) — Excessive use of plugins is the primary cause of WordPress site slowdowns, which can be mitigated through careful selection and managed hosting.
 - [How to Hide Your WordPress Login Page](https://wordpress-faq.com/howto/hide-wordpress-login-page/) — Using a security plugin or WAF to change the login URL is the recommended method to reduce brute force attacks on your WordPress website.
+- [How to Import and Export WordPress Content](https://wordpress-faq.com/howto/wordpress-content-migration/) — Community consensus suggests using native XML tools for simple tasks or specialized migration plugins and CSV scripts for complex data structures.
 - [How to Import and Export WordPress Content](https://wordpress-faq.com/howto/wordpress-content-import-export/) — Community consensus suggests using specialized migration plugins or XML tools while manually verifying permalinks and 301 redirects to protect SEO.
 - [How to Improve WordPress Page Speed Scores](https://wordpress-faq.com/howto/improve-wordpress-page-speed/) — Community consensus suggests prioritizing Core Web Vitals by minimizing heavy plugins and implementing lazy loading rather than obsessing over scores.
 - [How to Improve WordPress Page Speed Scores](https://wordpress-faq.com/howto/wordpress-page-speed-optimization/) — Community consensus suggests focusing on database cleanup, minimizing plugin usage, and implementing caching solutions rather than chasing scores.
