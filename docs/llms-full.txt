@@ -9093,6 +9093,34 @@ Reddit Sources Built a dev-only content audit page inside Astro after migrating 
 ---
 
 ---
+title: How to Noindex WordPress Pages: Methods and Best Practices
+url: https://wordpress-faq.com/howto/noindex-wordpress-pages/
+date: 2026-08-12
+lastmod: 2026-08-12
+verdict: Using an SEO plugin is the recommended approach for most users, while custom PHP code is a viable alternative for developers avoiding plugins.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: seo, performance, gutenberg
+faq:
+  - q: How do I add a noindex tag to a WordPress page without a plugin?
+    a: You can add a noindex tag by inserting a conditional PHP snippet into your theme's header.php file using the is_page() function.
+  - q: Can I use SEO plugins to noindex archive pages?
+    a: Yes, plugins like Yoast SEO or All in One SEO provide specific settings under Search Appearance to disable indexing for author and date archives.
+  - q: Why does Google say my page has a noindex header when it does not?
+    a: This is often caused by server-level configurations in your .htaccess file or caching layers that are serving outdated HTTP headers.
+Using an SEO plugin is the recommended approach for most users, while custom PHP code is a viable alternative for developers avoiding plugins. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Incorrectly configured robots headers Caching plugins serving stale noindex tags Conflicts with XML sitemap generation Community Q&amp;A How do I add a noindex tag to a WordPress page without a plugin?
+You can add a noindex tag by inserting a conditional PHP snippet into your theme&rsquo;s header.php file using the is_page() function.
+Can I use SEO plugins to noindex archive pages?
+Yes, plugins like Yoast SEO or All in One SEO provide specific settings under Search Appearance to disable indexing for author and date archives.
+Why does Google say my page has a noindex header when it does not?
+This is often caused by server-level configurations in your .htaccess file or caching layers that are serving outdated HTTP headers.
+Reddit Sources Google insists my webpage has a HTTP Header &rsquo;noindex&rsquo;. But it hasn&rsquo;t (r/Wordpress) Having trouble doing bulk removals from the XML sitemaps. Tried a lot, nothing is working. (r/Wordpress) Website copy/text (on WS Forms only ) not visible to google search/seo/etc? (r/Wordpress) How to Put &lsquo;Noindex&rsquo; Meta Tag on WordPress Page Without Using a Plugin (r/Wordpress) How can i access Archives page? (r/Wordpress) Is that possible to have opengraph + seo meta tags without plugin? (r/Wordpress) Hiding a page (from other users and search engines) without making it private (r/Wordpress)
+---
+
+---
 title: How to Optimize Astra WordPress for Speed
 url: https://wordpress-faq.com/howto/astra-optimization/
 date: 2026-07-15
