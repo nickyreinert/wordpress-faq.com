@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 129 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 266 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 267 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 68 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -481,6 +481,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Setup WPForms in WordPress](https://wordpress-faq.com/howto/wpforms-setup-wordpress/) — WPForms is a reliable plugin for WordPress, but users should ensure proper SMTP configuration to guarantee that form notifications are delivered successfully.
 - [How to Setup WPForms in WordPress](https://wordpress-faq.com/howto/wpforms-wordpress-setup/) — WPForms is widely considered a user-friendly, drag-and-drop form builder suitable for beginners and professionals alike.
 - [How to Setup Yoast SEO in WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-setup/) — Yoast SEO is a highly effective tool for managing on-page optimization and technical SEO settings for WordPress websites.
+- [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/performance-woocommerce/) — Community consensus suggests prioritizing database indexing, object caching, and optimizing PHP-FPM settings over simply adding more server cores.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/ecommerce-speed-optimization/) — Community consensus suggests that reducing plugin bloat, implementing effective caching, and optimizing assets are the keys to a fast store.
 - [How to Speed Up WooCommerce Performance](https://wordpress-faq.com/howto/speed-up-woocommerce/) — Community consensus suggests minimizing plugin bloat, using effective caching solutions, and upgrading to high-performance hosting for optimal speed.
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
