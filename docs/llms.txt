@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 129 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 267 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 268 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 68 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -320,6 +320,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Create a WordPress Landing Page](https://wordpress-faq.com/howto/wordpress-landing-page-creation/) — The community recommends using dedicated page builders or block themes to maintain design control while keeping content separate from site templates.
 - [How to Create a WordPress Plugin from Scratch](https://wordpress-faq.com/howto/wordpress-plugin-development-guide/) — Creating a custom plugin requires a basic understanding of PHP, the WordPress Plugin API, and maintaining clean, lightweight code for performance.
 - [How to Create a WordPress Plugin from Scratch](https://wordpress-faq.com/howto/wordpress-plugin-development/) — Developing custom plugins requires a solid understanding of PHP, WordPress hooks, and secure coding practices to ensure site stability and performance.
+- [How to Create a WordPress Plugin Using AI Tools](https://wordpress-faq.com/howto/wordpress-plugin-development-ai/) — AI-generated code for WordPress plugins is a powerful tool but requires rigorous human review and security testing to be considered production-ready.
 - [How to Create a WordPress Staging Site](https://wordpress-faq.com/howto/wordpress-staging-site-creation/) — Creating a staging site is essential for testing plugin conflicts and configuration changes before pushing them to your live production environment.
 - [How to Create an Online Course in WordPress](https://wordpress-faq.com/howto/create-online-course-wordpress/) — Building a course site requires combining a robust LMS plugin with a membership or community platform for the best student experience.
 - [How to Create an XML Sitemap in WordPress](https://wordpress-faq.com/howto/create-xml-sitemap-wordpress/) — Using a dedicated SEO plugin is the most reliable and efficient way to manage and submit XML sitemaps for search engine indexing in WordPress.

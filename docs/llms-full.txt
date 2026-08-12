@@ -7701,6 +7701,34 @@ Reddit Sources Taking over clusterf*ck sites (r/Wordpress) Blocks aren’t Regis
 ---
 
 ---
+title: How to Create a WordPress Plugin Using AI Tools
+url: https://wordpress-faq.com/howto/wordpress-plugin-development-ai/
+date: 2026-08-12
+lastmod: 2026-08-12
+verdict: AI-generated code for WordPress plugins is a powerful tool but requires rigorous human review and security testing to be considered production-ready.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: security, performance, gutenberg
+faq:
+  - q: Is it safe to use AI to build WordPress plugins?
+    a: AI is a tool, not a replacement for a developer. You must review every line of code for security gaps and ensure proper testing before deployment.
+  - q: What is the best practice for AI-assisted plugin development?
+    a: Treat AI as a junior developer. Plan your architecture, request unit tests, and manually audit the output against WordPress coding standards.
+  - q: Should I use AI code on a live WordPress site?
+    a: No, always test AI-generated plugins on a staging environment first to ensure compatibility and stability before moving to production.
+AI-generated code for WordPress plugins is a powerful tool but requires rigorous human review and security testing to be considered production-ready. Based on 8 community reports.
+Linked sources: 8.
+Known Issues AI-generated code may contain security vulnerabilities Lack of unit testing in basic AI prompts Potential for bloated or inefficient code structures Community Q&amp;A Is it safe to use AI to build WordPress plugins?
+AI is a tool, not a replacement for a developer. You must review every line of code for security gaps and ensure proper testing before deployment.
+What is the best practice for AI-assisted plugin development?
+Treat AI as a junior developer. Plan your architecture, request unit tests, and manually audit the output against WordPress coding standards.
+Should I use AI code on a live WordPress site?
+No, always test AI-generated plugins on a staging environment first to ensure compatibility and stability before moving to production.
+Reddit Sources Taking over clusterf*ck sites (r/Wordpress) Building WordPress plugins with AI (Claude): how safe is it? (r/Wordpress) I finally built the AI WordPress tool I needed for my own client work. Looking for beta testers. (r/Wordpress) Cant import products of a subdomain to Google merchant center (r/Wordpress) Taken over messy WordPress account, need help making it more user friendly (r/Wordpress) Claude Code WordPress Plugin (r/Wordpress) Unpopular Opinion: Most wordpress plugins will be obsolete within 1 year. (r/Wordpress) Coded Websites vs WordPress Websites: Which One Is Right for You? (r/Wordpress)
+---
+
+---
 title: How to Create a WordPress Staging Site
 url: https://wordpress-faq.com/howto/wordpress-staging-site-creation/
 date: 2026-06-03
