@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 263 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 264 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 68 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -688,6 +688,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Performance Audit Checklist: Best Practices](https://wordpress-faq.com/howto/wordpress-performance-audit-checklist/) — Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching.
 - [WordPress Plugin & Theme Updates](https://wordpress-faq.com/news/wordpress-plugin-theme-updates/) — <no value>
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
+- [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening-checklist/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
 - [WordPress Security Scan Tools: Best Practices and Audits](https://wordpress-faq.com/compatibility/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners are useful for basic vulnerability checks, manual server log analysis remains essential for security.
 - [WordPress SEO Basics for Beginners](https://wordpress-faq.com/howto/wordpress-seo-basics/) — Community consensus suggests using dedicated SEO plugins like RankMath or Yoast for superior control over on-page optimization compared to builders.
