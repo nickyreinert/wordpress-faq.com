@@ -8,6 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 129 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 264 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
@@ -16,7 +17,6 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
-- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 128 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
 
@@ -618,6 +618,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Yoast SEO Not Working in WordPress](https://wordpress-faq.com/error/yoast-seo-wordpress-error/) — Most Yoast SEO issues stem from site indexing misconfigurations or conflicts with other plugins, which can be resolved by verifying URL settings.
 - [Tutor LMS 4.0.3 Released](https://wordpress-faq.com/news/tutor-lms-4-0-3-released/) — <no value>
 - [Tutor LMS 4.0.4 Released](https://wordpress-faq.com/news/tutor-lms-4-0-4-released/) — <no value>
+- [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/) — Community consensus strongly supports implementing 2FA as a critical security layer for all WordPress installations to prevent unauthorized access.
 - [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/howto/two-factor-authentication-wordpress/) — Implementing two-factor authentication is a highly recommended security best practice to protect WordPress sites from unauthorized access.
 - [Understanding WordPress: How It Works and Core Concepts](https://wordpress-faq.com/howto/wordpress-fundamentals/) — WordPress is a powerful, flexible CMS that requires careful plugin management and database optimization to maintain high performance and security.
 - [UpdraftPlus 1.26.6 Released](https://wordpress-faq.com/news/updraftplus-1-26-6-released/) — <no value>
