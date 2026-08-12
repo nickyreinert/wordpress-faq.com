@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 8 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 263 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 7 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 68 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
@@ -240,6 +240,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing the WordPress White Screen of Death](https://wordpress-faq.com/error/wordpress-white-screen-of-death-fix/) — The White Screen of Death is typically caused by plugin conflicts, theme errors, or memory limits, and is best resolved by enabling WP_DEBUG to identify the root cause.
 - [Fixing WooCommerce Fatal Errors in WordPress](https://wordpress-faq.com/error/woocommerce-wordpress-fatal-error/) — Fatal errors in WooCommerce are typically caused by plugin conflicts, outdated PHP versions, or recent WordPress core updates breaking custom code.
 - [Fixing WordPress Core Web Vitals: LCP Optimization Guide](https://wordpress-faq.com/howto/wordpress-core-web-vitals-fix/) — Community consensus suggests prioritizing image optimization, removing lazy-loading from hero elements, and avoiding conflicting performance plugins.
+- [Fixing WordPress Core Web Vitals: Performance Optimization](https://wordpress-faq.com/core/wordpress-core-web-vitals-fix/) — Community consensus suggests that performance issues are usually caused by bloated themes, plugin conflicts, and improper image loading configurations.
 - [Fixing WordPress Database Connection Errors](https://wordpress-faq.com/error/wordpress-database-connection-error/) — Database connection errors are typically caused by server resource exhaustion, MySQL service crashes, or database table corruption.
 - [Fixing WordPress Database Connection Errors in Docker](https://wordpress-faq.com/error/database-error-docker/) — Database connection errors in Docker are typically caused by using localhost instead of the container service name in wp-config.php.
 - [Fixing WordPress Login Redirect Loop Errors](https://wordpress-faq.com/error/wordpress-login-redirect-loop/) — Most login redirect loops are caused by corrupted .htaccess files, incorrect site URL settings in the database, or SSL/proxy configuration conflicts.
