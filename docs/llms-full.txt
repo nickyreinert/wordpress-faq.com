@@ -13509,6 +13509,25 @@ fix anchor tag URLs breaking when merge tags are used as querystrings in HTML fi
 ---
 
 ---
+title: Ninja Forms 3.15.0 Released
+url: https://wordpress-faq.com/news/ninja-forms-3-15-0-released/
+date: 2026-08-12
+lastmod: 2026-08-12
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ninja-forms, release, changelog, news
+What&rsquo;s new in Ninja Forms 3.15.0 Released: (12 August 2026)
+Active installations: 600,000
+Tested up to WordPress 7.0.4
+Requires PHP 7.4
+Changelog add AI Form Builder: generate forms from natural language prompts via the Abilities API fix typed signatures with periods appearing incomplete after switching fields prevent form from rendering multiple times when using “Append a Ninja Form” with other plugins allow terms list field to be set as required Previous releases 3.14.12 — (10 August 2026)
+tables inserted via toolbar now have visible borders and padding preserve hand-coded table HTML in Email Message field resolve TypeError when nf-behavioral.js file is missing validation error on Time Only field now clears correctly required field asterisk displays correctly on multi-form pages 3.14.11 — (23 July 2026)
+fix CSV export column alignment for fields placed after repeatable fieldsets preserve , Source Ninja Forms on WordPress.org
+---
+
+---
 title: Ninja Forms Review: Features and Common Conflicts
 url: https://wordpress-faq.com/review/ninja-forms-review/
 date: 2026-07-23
@@ -15740,6 +15759,25 @@ Update: Add Hyperlink Support to Instructor Feedback and Instructor Notes Update
 ---
 
 ---
+title: Tutor LMS 4.0.5 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-0-5-released/
+date: 2026-08-12
+lastmod: 2026-08-12
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.0.5 Released: 12 Aug, 2026
+Active installations: 100,000
+Tested up to WordPress 7.0.4
+Requires PHP 7.4
+Changelog Update: Added an option to return to the homepage from the student dashboard on mobile devices. Update: Strengthened instructor capability checks for better security. Update: Changing a course author now updates authorship across all content. Update: Hid course products from the shop page settings when using Native Monetization. Fix: Resolved the PHP fatal error caused by WooCommerce Subscriptions renewal orders. (Pro) Fix: Fixed the incorrect date issue on the enrollment time extension date picker. (Pro) Fix: Resolved the manual email delivery issue. (Pro) Fix: Fixed the incorrect URL issue in OTP verification emails. (Pro) Fix: Resolved the course bundle enrollment limit issue. (Pro) Fix: Fixed the issue where canceling a failed order removed course access. Fix: Resolved the issue preventing co-authors from viewing submitted assignments. (Pro) Fix: Fixed the YouTube preview issue in quiz answer explanations. Previous releases 4.0.4 — 31 July, 2026
+Fix: Resolved the dark theme compatibility issue in the Course Builder. Fix: Added translation support for some previously untranslatable strings. Fix: Fixed the incorrect update notification in Tutor LMS Pro. (Pro) Fix: Prevented certificates from appearing for courses with no assigned certificate. (Pro) 4.0.3 — 24 July, 2026
+Fix: Resolved an issue where quiz submissions failed in Legacy Mode. Fix: Resolved an issue where the correct answer was incorrectly marked in True/False quizzes. Fix: Resolved an issue where the certificate footer displayed “Tutor LMS” instead of the site title. (Pro) Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -16575,6 +16613,21 @@ tags: wordpress, core, news, release
 WordPress 7.0.3 release WordPress 7.0.3 is now available WordPress 7.0.3 is now available which features several security fixes. Because this is a security release, it is recommended that you update your sites immediately. You can update to WordPress 7.0.3 by downloading it from WordPress.org, or visiting your site’s Dashboard → Updates and clicking Update Now. Sites that support…
 Announced on the official WordPress.org news blog on 2026-08-06.
 Source WordPress 7.0.3 release — WordPress.org News
+---
+
+---
+title: WordPress 7.0.4 Release
+url: https://wordpress-faq.com/news/wordpress-7-0-4-release/
+date: 2026-08-12
+lastmod: 2026-08-12
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.0.4 Release WordPress 7.0.4 is now available WordPress 7.0.4 is now available which features a security fix. Because this is a security release, it is recommended that you update your sites immediately. You can update to WordPress 7.0.4 by downloading it from WordPress.org, or visiting your site’s Dashboard → Updates and clicking Update Now. Sites that support…
+Announced on the official WordPress.org news blog on 2026-08-12.
+Source WordPress 7.0.4 Release — WordPress.org News
 ---
 
 ---
@@ -17444,7 +17497,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-12.
-Plugin / theme Version Released Type All-in-One WP Migration and Backup 7.109 2026-08-11 plugin Rank Math SEO 1.0.276 2026-08-11 plugin Astra 4.13.9 2026-08-11 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Ninja Forms 3.14.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin Blocksy 2.1.52 2026-08-06 theme LiteSpeed Cache 7.9 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin Tutor LMS 4.0.4 2026-07-31 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Ninja Forms 3.15.0 2026-08-12 plugin Tutor LMS 4.0.5 2026-08-12 plugin All-in-One WP Migration and Backup 7.109 2026-08-11 plugin Rank Math SEO 1.0.276 2026-08-11 plugin Astra 4.13.9 2026-08-11 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin Blocksy 2.1.52 2026-08-06 theme LiteSpeed Cache 7.9 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
