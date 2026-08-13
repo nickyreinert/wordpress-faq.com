@@ -9,8 +9,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 10 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 274 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 71 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -707,6 +707,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
 - [WordPress Security Scan Tools: Best Practices and Audits](https://wordpress-faq.com/compatibility/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners are useful for basic vulnerability checks, manual server log analysis remains essential for security.
 - [WordPress SEO Basics for Beginners](https://wordpress-faq.com/howto/wordpress-seo-basics/) — Community consensus suggests using dedicated SEO plugins like RankMath or Yoast for superior control over on-page optimization compared to builders.
+- [WordPress Template Hierarchy Explained](https://wordpress-faq.com/core/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/howto/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.
 - [WordPress Two-Factor Authentication Security Guide](https://wordpress-faq.com/howto/wordpress-two-factor-authentication/) — Implementing two-factor authentication is the most effective way to prevent unauthorized access to WordPress administrator accounts.
