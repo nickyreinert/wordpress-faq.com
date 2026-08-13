@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 271 articles
-- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 129 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 71 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
@@ -648,6 +648,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WooCommerce 11.0.0 Released](https://wordpress-faq.com/news/woocommerce-11-0-0-released/) — <no value>
 - [WooCommerce 11.0.1 Released](https://wordpress-faq.com/news/woocommerce-11-0-1-released/) — <no value>
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
+- [WooCommerce Abandoned Cart Recovery Best Practices](https://wordpress-faq.com/compatibility/woocommerce-abandoned-cart-recovery/) — Klaviyo is widely considered the most reliable solution for deep WooCommerce integration and effective abandoned cart win-back automation flows.
 - [WooCommerce Abandoned Cart Recovery Solutions](https://wordpress-faq.com/comparison/woocommerce-abandoned-cart-recovery/) — Open-source plugins that allow direct ownership of WhatsApp Business API accounts are preferred over high-fee SaaS alternatives.
 - [WooCommerce Payment Gateway Setup and Configuration Guide](https://wordpress-faq.com/howto/woocommerce-payment-gateway-setup/) — Community consensus recommends using native Stripe and PayPal integrations for reliability rather than relying on third-party failover plugins.
 - [WooCommerce Review and Security Considerations](https://wordpress-faq.com/review/woocommerce-review/) — Community consensus suggests exercising extreme caution with third-party WooCommerce plugins due to recent supply chain security vulnerabilities.
