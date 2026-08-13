@@ -10478,6 +10478,34 @@ Reddit Sources How to Prevent Incremental Slugs in WordPress Custom Post Type (r
 
 ---
 title: How to Set Up and Manage Comments in WordPress
+url: https://wordpress-faq.com/howto/comments-wordpress-setup/
+date: 2026-08-13
+lastmod: 2026-08-13
+verdict: WordPress comments are managed via the Discussion settings panel, where you can control moderation, avatar display, and comment thread depth.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: widgets, permissions, security
+faq:
+  - q: Where do I enable comments in WordPress?
+    a: Navigate to Settings > Discussion in your WordPress dashboard to toggle comment settings for your site.
+  - q: How do I moderate comments?
+    a: Go to the Comments menu in your dashboard to approve, delete, or mark comments as spam.
+  - q: Can I disable comments on specific posts?
+    a: Yes, you can uncheck 'Allow comments' in the Discussion meta box on the individual post edit screen.
+WordPress comments are managed via the Discussion settings panel, where you can control moderation, avatar display, and comment thread depth. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Spam accumulation Comment notification delays Theme compatibility with comment forms Community Q&amp;A Where do I enable comments in WordPress?
+Navigate to Settings &gt; Discussion in your WordPress dashboard to toggle comment settings for your site.
+How do I moderate comments?
+Go to the Comments menu in your dashboard to approve, delete, or mark comments as spam.
+Can I disable comments on specific posts?
+Yes, you can uncheck &lsquo;Allow comments&rsquo; in the Discussion meta box on the individual post edit screen.
+Reddit Sources I replaced The Events Calendar with CPT + ACF + blocks. Here’s how the calendar grid works. (r/Wordpress) WordPress Just Got Three AI Integrations in Four Days — Here&rsquo;s What Each One Actually Does (r/Wordpress) How can I make my basic WordPress eco-tour site look more polished and professional? (r/Wordpress) Enabling Gutenberg (Block Editor) with custom post type from old theme (r/Wordpress) Newbie questions (r/Wordpress) My Website Launch Checklist Before Every WordPress Site Goes Live (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress) Notification for Telegram is now MCP-Compatible — Let AI Agents Send Telegram Messages from WordPress (r/Wordpress)
+---
+
+---
+title: How to Set Up and Manage Comments in WordPress
 url: https://wordpress-faq.com/howto/wordpress-comment-setup/
 date: 2026-06-02
 lastmod: 2026-06-02

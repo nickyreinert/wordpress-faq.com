@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 11 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 274 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 275 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 71 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -422,6 +422,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Secure WordPress Admin Login](https://wordpress-faq.com/howto/secure-wordpress-admin-login/) — The community consensus is that robust security requires 2FA, limiting login attempts, and keeping all themes and plugins updated regularly.
 - [How to Sell Digital Products on WordPress](https://wordpress-faq.com/howto/selling-digital-products-wordpress/) — WordPress is a powerful platform for selling digital goods, but it requires the user to manage their own hosting, security, and tax compliance.
 - [How to Set and Customize WordPress Permalink Structures](https://wordpress-faq.com/howto/wordpress-permalink-structure-guide/) — Use the built-in Post Name permalink setting for optimal SEO and stability, avoiding complex custom rewrite rules whenever possible.
+- [How to Set Up and Manage Comments in WordPress](https://wordpress-faq.com/howto/comments-wordpress-setup/) — WordPress comments are managed via the Discussion settings panel, where you can control moderation, avatar display, and comment thread depth.
 - [How to Set Up and Manage Comments in WordPress](https://wordpress-faq.com/howto/wordpress-comment-setup/) — WordPress provides native comment management tools, but most users prefer adding anti-spam plugins to maintain site security and performance.
 - [How to Set Up Comments in WordPress](https://wordpress-faq.com/howto/living-comments-ai-setup/) — Native WordPress comments are sufficient for most sites, while AI plugins are generally viewed with skepticism by the community.
 - [How to Set Up Stripe in WooCommerce](https://wordpress-faq.com/howto/stripe-woocommerce/) — Stripe is the industry-standard payment gateway for WooCommerce, offering robust support for auth-capture and secure transaction processing.
