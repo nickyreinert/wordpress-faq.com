@@ -12381,31 +12381,31 @@ Reddit Sources WordPress Speed Optimization: A Practical Checklist for Website o
 ---
 
 ---
-title: How to Use the WordPress REST API
+title: How to Use and Secure the WordPress REST API
 url: https://wordpress-faq.com/howto/wordpress-rest-api-usage/
-date: 2026-07-13
-lastmod: 2026-07-13
-verdict: The WordPress REST API is a powerful tool for developers to interact with site data programmatically using standard HTTP requests and JSON responses.
-confidence: low
-sources: 1
+date: 2026-08-13
+lastmod: 2026-08-13
+verdict: Use Application Passwords for secure authentication to avoid exposing your primary login credentials when connecting external services.
+confidence: high
+sources: 8
 schema_type: HowTo
-tags: seo, performance, security, database
+tags: security, performance, login, permissions
 faq:
-  - q: What is the WordPress REST API?
-    a: It is an interface that allows developers to interact with WordPress sites by sending and receiving JSON data via HTTP requests.
-  - q: How do I authenticate with the REST API?
-    a: You can use Application Passwords, Cookie Authentication, or OAuth depending on your specific application requirements.
-  - q: Can I use the REST API to create posts?
-    a: Yes, by sending a POST request to the /wp/v2/posts endpoint with the appropriate permissions and data payload.
-The WordPress REST API is a powerful tool for developers to interact with site data programmatically using standard HTTP requests and JSON responses. Based on 1 community reports.
-Linked sources: 6.
-Known Issues Authentication complexity Rate limiting on shared hosting CORS policy restrictions Community Q&amp;A What is the WordPress REST API?
-It is an interface that allows developers to interact with WordPress sites by sending and receiving JSON data via HTTP requests.
-How do I authenticate with the REST API?
-You can use Application Passwords, Cookie Authentication, or OAuth depending on your specific application requirements.
-Can I use the REST API to create posts?
-Yes, by sending a POST request to the /wp/v2/posts endpoint with the appropriate permissions and data payload.
-Reddit Sources [FREEMIUM] GriffinForms — WordPress form builder with multi-step forms, user registration, payments, and AI-assisted building (r/WordpressPlugins) [DISCUSSION] [REQUEST] Introducing Blacklight SEO Suite — A Next-Gen, Modular WordPress SEO Toolkit (In Development) (r/WordpressPlugins) [DISCUSSION] I got tired of WordPress themes breaking my complex forms, so I built a decoupled builder with strictly scoped CSS &amp; native PHP rendering. (r/WordpressPlugins) [REVIEW] Plugins I wish I&rsquo;d discovered earlier - all solid (from plugins for beginners to pros) (r/WordpressPlugins) [DISCUSSION] Plugins I wish I&rsquo;d discovered earlier - all solid (from plugins for beginners to pros) (r/WordpressPlugins) I spent the last year building a tool I desperately needed two years ago — an AI-powered security auditor for WordPress plugins [FREEMIUM] (r/WordpressPlugins)
+  - q: How do I authenticate with the WordPress REST API?
+    a: The recommended method is using Application Passwords, which provide secure access without exposing your main WordPress login credentials.
+  - q: Is the WordPress REST API secure?
+    a: It is secure if implemented with proper authentication and restricted permissions, though it has been targeted by batch API exploits in the past.
+  - q: How do I connect an AI agent to WordPress?
+    a: Most AI agents use the REST API as a bridge, requiring you to install a plugin, generate an API token, and input it into your AI client settings.
+Use Application Passwords for secure authentication to avoid exposing your primary login credentials when connecting external services. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Vulnerability to batch API attacks Security risks with improper authentication Complexity in managing API tokens Community Q&amp;A How do I authenticate with the WordPress REST API?
+The recommended method is using Application Passwords, which provide secure access without exposing your main WordPress login credentials.
+Is the WordPress REST API secure?
+It is secure if implemented with proper authentication and restricted permissions, though it has been targeted by batch API exploits in the past.
+How do I connect an AI agent to WordPress?
+Most AI agents use the REST API as a bridge, requiring you to install a plugin, generate an API token, and input it into your AI client settings.
+Reddit Sources [Guide] Complete cleanup and securing of WordPress after REST Batch API (wp2shell) attack (r/Wordpress) AI is Killing Website Page Builders 🤔 (r/Wordpress) The hardest part of custom WordPress work is not building the feature, it’s maintaining it across many sites (r/Wordpress) How do MCP servers interact with WordPress? How the bridge is established between them at the backend? (r/Wordpress) Here What I’ve learned about WordPress authentication when using MCP servers (r/Wordpress) Is WordPress 7.0 finally the cure for admin fatigue? (r/Wordpress) wp-admin has too many screens. so i built a free plugin where you type &ldquo;refund order 1042&rdquo; or &ldquo;update all plugins except Elementor&rdquo; and it just does it. on wordpress.org now. (r/Wordpress) wordpress hybrid (r/Wordpress) We built an open-source WordPress plugin that lets a local AI desktop agent manage your site - looking for testers and feedback (r/Wordpress)
 ---
 
 ---
