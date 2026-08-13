@@ -7253,6 +7253,38 @@ Reddit Sources Transferring a free domain name? (r/Wordpress) emergency help (r/
 ---
 
 ---
+title: How to Change Your WordPress Domain URL Safely
+url: https://wordpress-faq.com/howto/change-wordpress-domain-url/
+date: 2026-08-13
+lastmod: 2026-08-13
+verdict: Changing a domain requires updating WordPress settings, DNS records, and performing a database search and replace to ensure all internal links function.
+confidence: high
+sources: 8
+schema_type: HowTo
+tags: migration, database, hosting, security
+faq:
+  - q: How do I change my WordPress site URL?
+    a: Navigate to Settings > General in your dashboard and update the WordPress Address and Site Address fields.
+  - q: What happens after I change my WordPress URL?
+    a: You will be logged out immediately and must ensure your DNS records point to the new domain to regain access.
+  - q: Do I need to update my database after changing domains?
+    a: Yes, you must perform a find and replace in your database to update old URL paths to the new domain to prevent broken links.
+  - q: Can I change my domain on WordPress.com?
+    a: Yes, WordPress.com users must set a primary address via their domain management settings rather than the standard General settings.
+Changing a domain requires updating WordPress settings, DNS records, and performing a database search and replace to ensure all internal links function. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Loss of access to admin dashboard Broken internal image links Database path mismatch DNS propagation delays Community Q&amp;A How do I change my WordPress site URL?
+Navigate to Settings &gt; General in your dashboard and update the WordPress Address and Site Address fields.
+What happens after I change my WordPress URL?
+You will be logged out immediately and must ensure your DNS records point to the new domain to regain access.
+Do I need to update my database after changing domains?
+Yes, you must perform a find and replace in your database to update old URL paths to the new domain to prevent broken links.
+Can I change my domain on WordPress.com?
+Yes, WordPress.com users must set a primary address via their domain management settings rather than the standard General settings.
+Reddit Sources Transferring a free domain name? (r/Wordpress) emergency help (r/Wordpress) Question about website migration (r/Wordpress) Social login stopped working after changing WordPress login URL. What am I missing? (r/Wordpress) Google has indexed pages but not posts? Is this a common issue? (r/Wordpress) How do I change my Wordpress address URL? (r/Wordpress) Changing domain from subfolder (r/Wordpress) Lost content (r/Wordpress) How can I fix my broken images after migrating website? (I know the problem, just not how to fix it) (r/Wordpress)
+---
+
+---
 title: How to Choose a Domain Name for WordPress
 url: https://wordpress-faq.com/howto/choosing-wordpress-domain-name/
 date: 2026-06-01
@@ -17689,14 +17721,14 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-08-12
-lastmod: 2026-08-12
+date: 2026-08-13
+lastmod: 2026-08-13
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-12.
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-13.
 Plugin / theme Version Released Type Ninja Forms 3.15.0 2026-08-12 plugin Tutor LMS 4.0.5 2026-08-12 plugin All-in-One WP Migration and Backup 7.109 2026-08-11 plugin Rank Math SEO 1.0.276 2026-08-11 plugin Astra 4.13.9 2026-08-11 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin Blocksy 2.1.52 2026-08-06 theme LiteSpeed Cache 7.9 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Easy Digital Downloads 3.6.9.1 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme UpdraftPlus 1.26.6 2026-07-23 plugin Polylang 3.8.6 2026-07-20 plugin Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin All-In-One Security (AIOS) 5.4.9 2026-06-05 plugin Hello Elementor 3.4.9 2026-05-20 theme Contact Form 7 6.1.6 2026-05-15 plugin Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 

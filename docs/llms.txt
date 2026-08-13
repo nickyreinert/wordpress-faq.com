@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 11 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 277 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 278 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 71 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -304,6 +304,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/wordpress-site-title-tagline-change/) — Changes are typically made in General Settings, but SEO plugins or theme overrides may be required if the site title does not update correctly.
 - [How to Change WordPress Site Title and Tagline](https://wordpress-faq.com/howto/change-wordpress-site-title-tagline/) — The site title and tagline are primarily managed in General Settings, though SEO plugins often override these values for search engine results.
 - [How to Change Your WordPress Domain URL](https://wordpress-faq.com/howto/wordpress-domain-url-change/) — Changing a WordPress domain requires updating site settings, moving files, and performing a database search-and-replace to ensure all links function.
+- [How to Change Your WordPress Domain URL Safely](https://wordpress-faq.com/howto/change-wordpress-domain-url/) — Changing a domain requires updating WordPress settings, DNS records, and performing a database search and replace to ensure all internal links function.
 - [How to Choose a Domain Name for WordPress](https://wordpress-faq.com/howto/choosing-wordpress-domain-name/) — Choose a short, memorable, and brandable domain name that avoids hyphens and uses a reputable registrar for long-term stability and SEO success.
 - [How to Choose a WordPress Theme](https://wordpress-faq.com/howto/choosing-wordpress-theme/) — Community consensus suggests prioritizing lightweight, stable themes like Astra or Enfold over feature-bloated options to ensure better site performance.
 - [How to Choose a WordPress Theme for Your Website](https://wordpress-faq.com/howto/how-to-choose-wordpress-theme/) — Prioritize block-based themes that offer clean code and avoid unnecessary bloat to ensure long-term site performance and easier maintenance.
