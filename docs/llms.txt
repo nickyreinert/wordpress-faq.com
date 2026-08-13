@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 11 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 275 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 276 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 71 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -371,6 +371,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress to Namecheap Hosting](https://wordpress-faq.com/howto/migrate-wordpress-namecheap/) — Migrating to Namecheap is best achieved by pointing your domain nameservers to their hosting servers after transferring your site files and database.
 - [How to Migrate WordPress to SiteGround](https://wordpress-faq.com/howto/migrate-wordpress-siteground/) — Using a dedicated migration plugin like Duplicator or the official SiteGround Migrator is the most reliable method for a successful site transfer.
 - [How to Migrate WordPress to WP Engine](https://wordpress-faq.com/howto/migrate-wordpress-wpengine/) — Successful migration to WP Engine requires careful handling of database prefixes, file permissions, and proper configuration of offloaded media.
+- [How to Moderate WordPress Comments Effectively](https://wordpress-faq.com/howto/moderate-wordpress-comments/) — Community consensus suggests using custom user roles for moderation and dedicated plugins to disable unwanted comment spam effectively.
 - [How to Moderate WordPress Comments Effectively](https://wordpress-faq.com/howto/wordpress-comment-moderation-guide/) — The consensus is to use native WordPress settings combined with a dedicated anti-spam plugin like Akismet for the most efficient moderation workflow.
 - [How to Monetize a WordPress Blog Effectively](https://wordpress-faq.com/howto/monetize-wordpress-blog/) — Focus on building consistent organic traffic and quality content before investing in paid growth experts or complex monetization strategies.
 - [How to Noindex a Page in WordPress](https://wordpress-faq.com/howto/how-to-noindex-page-wordpress/) — The most reliable way to noindex a page in WordPress is by using an SEO plugin like Yoast or Rank Math to add the meta robots tag to the page header.

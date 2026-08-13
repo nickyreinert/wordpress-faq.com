@@ -9134,6 +9134,30 @@ Reddit Sources Migrating Away from WPEngine with a Site that has offloaded media
 
 ---
 title: How to Moderate WordPress Comments Effectively
+url: https://wordpress-faq.com/howto/moderate-wordpress-comments/
+date: 2026-08-13
+lastmod: 2026-08-13
+verdict: Community consensus suggests using custom user roles for moderation and dedicated plugins to disable unwanted comment spam effectively.
+confidence: medium
+sources: 6
+schema_type: HowTo
+tags: security, permissions, login
+faq:
+  - q: How can I create a comment moderator role without post editing access?
+    a: You can use the add_role function in your functions.php file to create a custom role with only the moderate_comments capability.
+  - q: What is the best way to stop comment spam in WordPress?
+    a: You can disable comments globally in Settings, use a plugin like Disable Comments, or turn off pingbacks to reduce automated spam.
+Community consensus suggests using custom user roles for moderation and dedicated plugins to disable unwanted comment spam effectively. Based on 6 community reports.
+Linked sources: 6.
+Known Issues Spam accumulation Role permission conflicts Admin access lockout Community Q&amp;A How can I create a comment moderator role without post editing access?
+You can use the add_role function in your functions.php file to create a custom role with only the moderate_comments capability.
+What is the best way to stop comment spam in WordPress?
+You can disable comments globally in Settings, use a plugin like Disable Comments, or turn off pingbacks to reduce automated spam.
+Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce) Hey mods: people preferred the more hands-off moderation approach. Stop laying on the ban hammer. It only makes you look worse. (r/Wordpress) Comment spam (r/Wordpress) Issues With Render Blocking Resources and WP Rocket (r/Wordpress) I can&rsquo;t access admin section of my webpage in order to update wordpress version and edit commenting settings (r/Wordpress) How to have comment moderators without the ability to edit posts? (r/Wordpress)
+---
+
+---
+title: How to Moderate WordPress Comments Effectively
 url: https://wordpress-faq.com/howto/wordpress-comment-moderation-guide/
 date: 2026-07-13
 lastmod: 2026-07-13
