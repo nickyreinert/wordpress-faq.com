@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 11 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 282 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 71 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 72 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
@@ -513,6 +513,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Version Control WordPress with Git](https://wordpress-faq.com/howto/git-version-control-wordpress/) — Professional WordPress developers should use Git for themes and custom code, while managing database changes via local JSON or PHP array exports.
 - [How to Write SEO Friendly WordPress Posts](https://wordpress-faq.com/howto/seo-friendly-wordpress-posts/) — Community consensus suggests using lightweight themes like GeneratePress and focusing on site speed to achieve optimal SEO results for WordPress blogs.
 - [Improving Slow WordPress Performance on Namecheap Hosting](https://wordpress-faq.com/hosting/namecheap-wordpress-speed/) — Community consensus indicates that shared hosting resource limits are the primary cause of slow performance, often requiring a plan upgrade.
+- [Introducing the WordPress Browser Extension](https://wordpress-faq.com/news/introducing-the-wordpress-browser-extension/) — <no value>
 - [Is Bluehost Good for WordPress Hosting?](https://wordpress-faq.com/hosting/bluehost-wordpress-hosting/) — Bluehost is considered suitable for beginners but often lacks the performance and scaling capabilities required for growing or high-traffic websites.
 - [Is Cloudways Good for WordPress Hosting?](https://wordpress-faq.com/hosting/cloudways-wordpress-hosting/) — Cloudways is widely considered a high-performance, flexible managed hosting solution that is well-suited for both small and scaling WordPress sites.
 - [Is DigitalOcean Good for WordPress Hosting?](https://wordpress-faq.com/hosting/digitalocean-wordpress-hosting/) — DigitalOcean is excellent for experienced users needing performance and control, but it is generally considered too complex for WordPress beginners.
