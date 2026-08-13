@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 11 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 279 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 280 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 71 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -277,6 +277,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How Many WordPress Plugins Is Too Many?](https://wordpress-faq.com/core/wordpress-plugin-count-performance/) — There is no fixed limit, but excessive plugins often cause performance bloat, so prioritize lightweight, task-specific solutions over multipurpose ones.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/hosting/wordpress-website-cost/) — Costs range from minimal DIY expenses for hosting and plugins to significant professional fees depending on site complexity and custom requirements.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
+- [How to Add Ads to a WordPress Site](https://wordpress-faq.com/howto/add-ads-wordpress/) — The community recommends using reputable ad management plugins or direct ad network scripts while maintaining strict site security protocols.
 - [How to Add Ads to a WordPress Site](https://wordpress-faq.com/howto/add-ads-wordpress-site/) — The community recommends using reputable ad management plugins and maintaining strict security protocols to avoid malicious ad injections.
 - [How to Add Affiliate Links in WordPress](https://wordpress-faq.com/howto/affiliate-links-wordpress/) — Adding affiliate links can be done manually via redirects or by using specialized plugins for tracking, link cloaking, and automated product boxes.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard, but checking the database is recommended to ensure security and integrity.
