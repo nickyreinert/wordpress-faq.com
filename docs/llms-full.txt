@@ -6765,6 +6765,34 @@ Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimi
 ---
 
 ---
+title: How to Add Custom CSS to WordPress Themes
+url: https://wordpress-faq.com/howto/custom-css-wordpress/
+date: 2026-08-13
+lastmod: 2026-08-13
+verdict: Use browser developer tools to identify correct CSS selectors for specific styling rather than relying on the !important override rule.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: performance, gutenberg, widgets
+faq:
+  - q: How do I add custom CSS to my WordPress site?
+    a: You can add custom CSS via the WordPress Customizer under 'Additional CSS' or by using a child theme's style.css file.
+  - q: Should I use !important in my custom CSS?
+    a: It is generally recommended to avoid !important and instead use more specific CSS selectors to override existing styles.
+  - q: How can I find the right CSS selector to change?
+    a: Right-click the element on your website and select 'Inspect' in your browser to view the current CSS classes and styles applied.
+Use browser developer tools to identify correct CSS selectors for specific styling rather than relying on the !important override rule. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Overusing !important can lead to maintenance difficulties Theme updates may overwrite changes made directly in style.css Community Q&amp;A How do I add custom CSS to my WordPress site?
+You can add custom CSS via the WordPress Customizer under &lsquo;Additional CSS&rsquo; or by using a child theme&rsquo;s style.css file.
+Should I use !important in my custom CSS?
+It is generally recommended to avoid !important and instead use more specific CSS selectors to override existing styles.
+How can I find the right CSS selector to change?
+Right-click the element on your website and select &lsquo;Inspect&rsquo; in your browser to view the current CSS classes and styles applied.
+Reddit Sources Raw Gutenberg Challenge (r/Wordpress) 5 Things You Never Skip Before Stepping into WordPress Development (A Personal Experience) (r/Wordpress) Advice on how to take on updating a client&rsquo;s existing custom theme from a few years ago (r/Wordpress) Why is Gutenberg + TT5 so limited? (r/Wordpress) How do I override the theme with my own css? (r/Wordpress) GoDaddy Managed WordPress - Can&rsquo;t upload custom static HTML site (permission denied on root files, SFTP only shows when WP is installed) (r/Wordpress) I&rsquo;ve been trying to make WooCommerce development feel more like building a Shopify theme with liquid (r/Wordpress) Moved off WordPress to Astro after a $2k Core Web Vitals quote. Will I regret it? (r/Wordpress) [DISCUSSION] I built a free WordPress plugin for Amazon affiliates - product boxes, comparison tables, geo-targeting across 22 marketplaces (r/Wordpress)
+---
+
+---
 title: How to Add Custom Fields in WordPress Without a Plugin
 url: https://wordpress-faq.com/howto/add-custom-fields-wordpress-no-plugin/
 date: 2026-06-02

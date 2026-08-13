@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 272 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 273 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 9 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 71 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
@@ -286,6 +286,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/custom-checkout-fields-woocommerce/) — Adding custom checkout fields is best achieved through custom PHP code snippets or dedicated plugins like Checkout Field Editor for full control.
 - [How to Add Custom Checkout Fields in WooCommerce](https://wordpress-faq.com/howto/woocommerce-checkout-fields/) — Adding custom checkout fields is best achieved through dedicated plugins or custom code hooks within your child theme's functions.php file.
 - [How to Add Custom CSS to WordPress Safely](https://wordpress-faq.com/howto/add-custom-css-wordpress/) — The community recommends using the WordPress Customizer or a child theme to ensure your custom CSS remains intact after theme updates.
+- [How to Add Custom CSS to WordPress Themes](https://wordpress-faq.com/howto/custom-css-wordpress/) — Use browser developer tools to identify correct CSS selectors for specific styling rather than relying on the !important override rule.
 - [How to Add Custom Fields in WordPress Without a Plugin](https://wordpress-faq.com/howto/add-custom-fields-wordpress-no-plugin/) — Adding custom fields manually requires basic PHP knowledge and creating a custom plugin file to register meta boxes and save data securely.
 - [How to Add Custom Fields in WordPress Without Plugins](https://wordpress-faq.com/howto/custom-fields-wordpress-no-plugin/) — Adding custom fields manually requires basic PHP knowledge and editing your theme's functions.php file or creating a custom plugin.
 - [How to Add Custom Fonts to WordPress](https://wordpress-faq.com/howto/custom-fonts-wordpress/) — The community recommends using a dedicated plugin for ease of use or CSS @font-face for better performance without adding unnecessary plugin bloat.
