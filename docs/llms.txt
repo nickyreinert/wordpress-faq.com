@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 283 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 11 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 282 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 72 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -356,6 +356,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/install-wordpress-step-by-step/) — Successful WordPress installation requires a secure hosting environment, consistent backup protocols, and a focus on performance-oriented server stacks.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/install-wordpress-guide/) — Manual installation via the WordPress dashboard or FTP is the most reliable method for site setup.
 - [How to Install WordPress: A Step-by-Step Guide](https://wordpress-faq.com/howto/how-to-install-wordpress/) — Manual installation provides the most reliable foundation for long-term site performance and security.
+- [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-site-maintenance/) — Successful maintenance relies on automated backups, regular security audits, and keeping plugin counts low to prevent site regressions.
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance-workflow/) — Successful client site maintenance relies on automated backups, regular security audits, and keeping site-specific logic in micro-plugins.
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance/) — Proactive maintenance through security hardening, performance optimization, and standardized workflows is essential for successful client site management.
 - [How to Manage Categories and Tags in WordPress](https://wordpress-faq.com/howto/wordpress-categories-tags-management/) — WordPress provides native support for categories and tags, but complex filtering often requires additional plugins or custom taxonomy configurations.
