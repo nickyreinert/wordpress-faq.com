@@ -11,8 +11,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 6 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 12 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 283 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 73 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 72 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
@@ -171,6 +171,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Duplicator WordPress Plugin Review and Migration Guide](https://wordpress-faq.com/review/duplicator-review/) — Duplicator is a reliable tool for site migration and backups, though users should exercise caution when syncing live databases to avoid data loss.
 - [Easy Digital Downloads 3.6.9 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-released/) — <no value>
 - [Easy Digital Downloads 3.6.9.1 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-1-released/) — <no value>
+- [Easy Digital Downloads 3.7.0 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-7-0-released/) — <no value>
 - [Easy Digital Downloads and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/) — Elementor is fully compatible with Easy Digital Downloads, especially when paired with lightweight themes like Hello Elementor or Astra.
 - [Easy Digital Downloads Review and Performance Analysis](https://wordpress-faq.com/review/easy-digital-downloads-review/) — Easy Digital Downloads is widely considered a stable and reliable plugin for managing digital product sales on WordPress.
 - [Easy Digital Downloads Troubleshooting and Common Errors](https://wordpress-faq.com/error/easy-digital-downloads-troubleshooting/) — Most Easy Digital Downloads issues are resolved by verifying file upload paths or contacting official plugin support for specific configuration errors.
