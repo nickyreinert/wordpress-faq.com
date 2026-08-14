@@ -8,6 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 6 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 283 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 11 articles
@@ -18,7 +19,6 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
-- [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 5 articles
 
 
 ## All pages
@@ -723,6 +723,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.
 - [WordPress Two-Factor Authentication Security Guide](https://wordpress-faq.com/howto/wordpress-two-factor-authentication/) — Implementing two-factor authentication is the most effective way to prevent unauthorized access to WordPress administrator accounts.
 - [WordPress Version Updates and Plugin Management](https://wordpress-faq.com/version/wordpress-version-update-guide/) — Community consensus suggests that plugin update delays are a necessary security measure, and users should always backup before applying new versions.
+- [WordPress Version Updates and Security Best Practices](https://wordpress-faq.com/version/wordpress-version-updates/) — Always perform a full site backup before applying any WordPress core or plugin updates to ensure you can recover if a conflict occurs.
 - [WordPress vs Ghost: Blogging Platform Comparison](https://wordpress-faq.com/comparison/ghost-wordpress-comparison/) — WordPress is generally recommended for most users due to its extensive plugin ecosystem and the ease of finding support for common technical issues.
 - [WordPress vs Shopify for Ecommerce Comparison](https://wordpress-faq.com/comparison/shopify-woocommerce/) — WordPress offers superior long-term flexibility and ownership, while Shopify provides a faster, more user-friendly experience for non-technical users.
 - [WordPress vs Shopify for Ecommerce Comparison](https://wordpress-faq.com/comparison/shopify-wordpress/) — WordPress offers superior control and customization for tech-savvy users, while Shopify provides a simpler, faster setup for those prioritizing ease of use.
