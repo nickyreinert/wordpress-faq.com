@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 284 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 73 articles
-- [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 6 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
@@ -698,6 +698,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress File Permissions and Security Best Practices](https://wordpress-faq.com/error/wordpress-file-permissions/) — Standard WordPress file permissions should be set to 755 for directories and 644 for files to ensure optimal security and functionality.
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress Freelance Business Tips and Pricing Strategies](https://wordpress-faq.com/howto/wordpress-freelance-business-tips/) — Community consensus suggests charging flat fees for projects while maintaining high hourly rates for maintenance to ensure professional credibility.
+- [WordPress Gutenberg and Core Update Guide](https://wordpress-faq.com/version/gutenberg-wordpress-updates/) — Community consensus suggests testing major WordPress updates on staging environments before deploying to live sites to ensure full compatibility.
 - [WordPress Headless CMS Explained](https://wordpress-faq.com/core/wordpress-headless-cms/) — WordPress is a viable headless CMS option when paired with its REST API, though dedicated headless systems may offer more streamlined developer tools.
 - [WordPress Headless CMS Explained](https://wordpress-faq.com/howto/wordpress-headless-cms/) — WordPress can function as a powerful headless CMS using its REST API, though it may feel less specialized than dedicated headless platforms.
 - [WordPress Hosting Requirements: PHP and MySQL Guide](https://wordpress-faq.com/hosting/wordpress-hosting-requirements/) — WordPress requires a modern PHP version and MySQL or MariaDB database to function correctly in production environments.
