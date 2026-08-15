@@ -9,12 +9,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 284 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 73 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 6 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 29 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -674,7 +674,6 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Wordfence Security 8.2.2 Released](https://wordpress-faq.com/news/wordfence-8-2-2-released/) — <no value>
 - [Wordfence Security 9.0.0 Released](https://wordpress-faq.com/news/wordfence-9-0-0-released/) — <no value>
 - [Wordfence Security Plugin Review and Performance Analysis](https://wordpress-faq.com/review/wordfence-review/) — Wordfence is widely considered a reliable and user-friendly security solution for WordPress, though advanced users may prefer server-level configurations.
-- [WordPress 4.2.2 Security Patch and XSS Vulnerability](https://wordpress-faq.com/error/wordpress-security-vulnerability/) — The 4.2.2 patch is a critical security update that addresses XSS vulnerabilities within the core add_query_arg function to protect site integrity.
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 - [WordPress 7.0.1 Maintenance Release](https://wordpress-faq.com/news/wordpress-7-0-1-maintenance-release/) — <no value>
 - [WordPress 7.0.2 Release](https://wordpress-faq.com/news/wordpress-7-0-2-release/) — <no value>
@@ -720,6 +719,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening-checklist/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
+- [WordPress Security Patch and Vulnerability Management](https://wordpress-faq.com/error/wordpress-security-vulnerability/) — Maintaining a secure WordPress site requires consistent updates to core, themes, and plugins to mitigate known vulnerabilities and exploit risks.
 - [WordPress Security Scan Tools: Best Practices and Audits](https://wordpress-faq.com/compatibility/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners are useful for basic vulnerability checks, manual server log analysis remains essential for security.
 - [WordPress SEO Basics for Beginners](https://wordpress-faq.com/howto/wordpress-seo-basics/) — Community consensus suggests using dedicated SEO plugins like RankMath or Yoast for superior control over on-page optimization compared to builders.
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/core/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
