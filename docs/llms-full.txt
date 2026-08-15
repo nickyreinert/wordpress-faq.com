@@ -7049,6 +7049,34 @@ Reddit Sources The Ultimate Wordpress Pagespeed Guide (r/Wordpress) The Ultimate
 
 ---
 title: How to Add Google Fonts to WordPress
+url: https://wordpress-faq.com/howto/google-fonts-wordpress/
+date: 2026-08-15
+lastmod: 2026-08-15
+verdict: The community recommends using theme-integrated settings or lightweight plugins to avoid performance degradation from excessive font loading.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: performance, speed, gutenberg
+faq:
+  - q: How do I add Google Fonts to WordPress without a plugin?
+    a: You can add Google Fonts by enqueuing them in your theme's functions.php file or by using the @import rule in your custom CSS stylesheet.
+  - q: Does adding Google Fonts slow down my WordPress site?
+    a: Yes, loading multiple font weights and styles from external servers can increase page load times; consider local hosting for better performance.
+  - q: Can I use Google Fonts with the WordPress Block Editor?
+    a: Yes, many modern block themes allow you to select Google Fonts directly within the Site Editor or Global Styles interface.
+The community recommends using theme-integrated settings or lightweight plugins to avoid performance degradation from excessive font loading. Based on 1 community reports.
+Linked sources: 6.
+Known Issues Excessive font loading impacts page speed Privacy concerns with Google Fonts API Community Q&amp;A How do I add Google Fonts to WordPress without a plugin?
+You can add Google Fonts by enqueuing them in your theme&rsquo;s functions.php file or by using the @import rule in your custom CSS stylesheet.
+Does adding Google Fonts slow down my WordPress site?
+Yes, loading multiple font weights and styles from external servers can increase page load times; consider local hosting for better performance.
+Can I use Google Fonts with the WordPress Block Editor?
+Yes, many modern block themes allow you to select Google Fonts directly within the Site Editor or Global Styles interface.
+Reddit Sources The Ultimate Wordpress Pagespeed Guide (r/Wordpress) The Ultimate Wordpress Pagespeed Guide (r/Wordpress) How to Write a Website Maintenance Report Your Clients Actually Value (r/Wordpress) The Ultimate Wordpress Pagespeed Guide (r/Wordpress) Am I holding it wrong? (r/Wordpress) The Ultimate WordPress Page speed Guide (r/Wordpress)
+---
+
+---
+title: How to Add Google Fonts to WordPress
 url: https://wordpress-faq.com/howto/add-google-fonts-wordpress/
 date: 2026-07-15
 lastmod: 2026-07-15

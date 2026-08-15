@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 284 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 73 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 6 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 12 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 283 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -297,6 +297,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Custom Widgets in WordPress](https://wordpress-faq.com/howto/how-to-add-custom-widget-wordpress/) — Developers recommend using the WP_Widget class or ACF for custom widget creation to maintain site performance and avoid unnecessary plugin bloat.
 - [How to Add Custom Widgets in WordPress](https://wordpress-faq.com/howto/add-custom-widget-wordpress/) — Adding custom widgets is best achieved by registering them in your theme's functions.php file or using a dedicated plugin for non-coders.
 - [How to Add Google Analytics to WordPress](https://wordpress-faq.com/howto/google-analytics-wordpress/) — Using a dedicated plugin is the recommended method for most users to ensure accurate tracking and compliance with privacy regulations.
+- [How to Add Google Fonts to WordPress](https://wordpress-faq.com/howto/google-fonts-wordpress/) — The community recommends using theme-integrated settings or lightweight plugins to avoid performance degradation from excessive font loading.
 - [How to Add Google Fonts to WordPress](https://wordpress-faq.com/howto/add-google-fonts-wordpress/) — The community recommends using plugins for ease of use or local hosting via CSS to ensure optimal site performance and privacy compliance.
 - [How to Add Google Fonts to WordPress](https://wordpress-faq.com/howto/google-fonts-wordpress-howto/) — The community recommends using a plugin or theme settings to manage Google Fonts to ensure optimal site performance and compliance with privacy laws.
 - [How to Add Schema Markup in WordPress](https://wordpress-faq.com/howto/add-schema-markup-wordpress/) — Community consensus suggests using clean JSON-LD via plugins or custom blocks for better maintainability and SEO performance.
