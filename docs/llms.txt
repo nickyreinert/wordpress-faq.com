@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 73 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 75 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
@@ -122,6 +122,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Cloudways WordPress Performance and Speed Optimization](https://wordpress-faq.com/hosting/cloudways-wordpress-performance/) — Cloudways generally offers high performance, but users often see speed improvements by switching from the default Breeze plugin to alternatives like WP-Optimize.
 - [Configuring WooCommerce Shipping Methods and Plugins](https://wordpress-faq.com/howto/woocommerce-shipping-configuration/) — Community consensus suggests using specialized plugins like PluginHive or EasyPost for complex carrier integrations, while flat rates suffice for simple setups.
 - [Contact Form 7 6.1.6 Released](https://wordpress-faq.com/news/contact-form-7-6-1-6-released/) — <no value>
+- [Contact Form 7 6.1.7 Released](https://wordpress-faq.com/news/contact-form-7-6-1-7-released/) — <no value>
 - [Contact Form 7 Conflict Troubleshooting Guide](https://wordpress-faq.com/compatibility/contact-form-7-conflict/) — Most Contact Form 7 conflicts are caused by using multiple recaptcha versions simultaneously or misconfigured SMTP email settings on your domain host.
 - [Contact Form 7 Fatal Error Troubleshooting](https://wordpress-faq.com/error/contact-form-7-fatal-error/) — Fatal errors with Contact Form 7 are typically caused by PHP 8.x compatibility issues or plugin conflicts requiring a downgrade or code patch.
 - [Contact Form 7 Review and Spam Prevention Guide](https://wordpress-faq.com/review/contact-form-7/) — Contact Form 7 is a highly reliable and flexible plugin that requires additional tools like reCAPTCHA or CleanTalk to effectively manage spam.
@@ -572,6 +573,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Oxygen Builder WordPress Safari Layout Issues](https://wordpress-faq.com/compatibility/oxygen-builder-wordpress-compatibility/) — Safari layout issues in Oxygen Builder are typically caused by specific CSS flexbox properties that require vendor prefixes or explicit sizing adjustments.
 - [Perfmatters Plugin Review: Performance and Compatibility](https://wordpress-faq.com/review/perfmatters-review/) — Perfmatters is a highly effective performance optimization tool, though users must ensure their server meets the minimum PHP 7.4 requirement.
 - [Polylang 3.8.6 Released](https://wordpress-faq.com/news/polylang-3-8-6-released/) — <no value>
+- [Polylang 3.8.7 Released](https://wordpress-faq.com/news/polylang-3-8-7-released/) — <no value>
 - [Polylang WordPress Plugin Review and Community Feedback](https://wordpress-faq.com/review/polylang-review/) — Polylang is widely considered a reliable and simple plugin for basic multilingual needs, though it lacks advanced features found in competitors.
 - [Rank Math and WP Rocket Sitemap Conflict](https://wordpress-faq.com/compatibility/rankmath-wp-rocket-conflict/) — The issue is caused by WP Rocket caching the sitemap, which can be resolved by adding the sitemap URL to the plugin's exclusion list.
 - [Rank Math Not Working in WordPress: Troubleshooting Guide](https://wordpress-faq.com/error/rankmath-wordpress-error/) — Rank Math issues are typically caused by conflicts with specific themes or page builders rather than the plugin itself.
