@@ -14918,6 +14918,25 @@ Fix: Bundle item basis amount not persisting when edited from the bundle item dr
 ---
 
 ---
+title: SureCart 4.6.4 Released
+url: https://wordpress-faq.com/news/surecart-4-6-4-released/
+date: 2026-08-17
+lastmod: 2026-08-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.6.4 Released: August 18th, 2026
+Active installations: 80,000
+Tested up to WordPress 7.0.4
+Requires PHP 7.4
+Changelog New: Admin notice when the site’s WordPress version is below the minimum SureCart requires. New: Developer filters to customize the checkout success redirect and to turn off Google tracking. Fix: Bundle Quick Add on the shop page skipping variant selection. Fix: Quick Add button in Bricks and Elementor showing the loading spinner on every button instead of the clicked one. Fix: Single image product media collapsing to 1px. Fix: Toast messages appearing behind WordPress popovers and dropdowns. Fix: Unknown email at checkout returning a 500 error instead of a proper not-found response. Fix: Dark 3px borders on some elements caused by the new WordPress 7.0 border styles. Fix: Customer dashboard back link not using the customized “back home” text for screen readers. Fix: Shop page crash when a filter URL was requested with a single value instead of a list, which search bots often do. Previous releases 4.6.3 — August 5th, 2026
+Fix: Issue where some address fields were not being required when google autocomplete is connected. Fix: Issue with product thumbnail settings sometimes not applying on Elementor and Bricks. Fix: Hardened access controls (props to Jakub Herman of WPScan) Fix: Hardened security of WooCommerce imports (props to TurboNexic of PatchStack) 4.6.2 — July 27th, 2026
+Fix: WP sidebar not scrollable on new product list view on shorter screens. Fix: Block crash when selecting products on checkout forms in some cases. Source SureCart on WordPress.org
+---
+
+---
 title: SureCart and WooCommerce Compatibility Guide
 url: https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/
 date: 2026-06-05
@@ -18041,7 +18060,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-17.
-Plugin / theme Version Released Type Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin UpdraftPlus 1.26.6 2026-08-13 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Tutor LMS 4.0.5 2026-08-12 plugin All-in-One WP Migration and Backup 7.109 2026-08-11 plugin Rank Math SEO 1.0.276 2026-08-11 plugin Astra 4.13.9 2026-08-11 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin LiteSpeed Cache 7.9 2026-08-05 plugin SureCart 4.6.3 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin SureCart 4.6.4 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin UpdraftPlus 1.26.6 2026-08-13 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Tutor LMS 4.0.5 2026-08-12 plugin All-in-One WP Migration and Backup 7.109 2026-08-11 plugin Rank Math SEO 1.0.276 2026-08-11 plugin Astra 4.13.9 2026-08-11 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin LiteSpeed Cache 7.9 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
