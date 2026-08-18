@@ -18088,7 +18088,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-18.
-Plugin / theme Version Released Type Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin SureCart 4.6.4 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin UpdraftPlus 1.26.6 2026-08-13 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Tutor LMS 4.0.5 2026-08-12 plugin All-in-One WP Migration and Backup 7.109 2026-08-11 plugin Rank Math SEO 1.0.276 2026-08-11 plugin Astra 4.13.9 2026-08-11 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin LiteSpeed Cache 7.9 2026-08-05 plugin Yoast SEO 28.2 2026-08-04 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.3 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin SureCart 4.6.4 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin UpdraftPlus 1.26.6 2026-08-13 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Tutor LMS 4.0.5 2026-08-12 plugin All-in-One WP Migration and Backup 7.109 2026-08-11 plugin Rank Math SEO 1.0.276 2026-08-11 plugin Astra 4.13.9 2026-08-11 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin W3 Total Cache 2.10.5 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin Elementor Website Builder 4.2.2 2026-08-06 plugin LiteSpeed Cache 7.9 2026-08-05 plugin Advanced Custom Fields (ACF®) 6.8.7 2026-08-04 plugin MC4WP 4.14.0 2026-08-04 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme Autoptimize 3.1.15.1 2026-04-04 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -18952,6 +18952,24 @@ Tested up to WordPress 7.0.2
 Requires PHP 7.4
 Changelog Fixes a bug where the overall SEO score was lowered when the focus keyphrase did not consist of function words only. Props to @faisalahammad. Fixes a bug where an uncaught fatal error was thrown in the post editor on sites using the OAuth connection to MyYoast, when the AUTH_KEY salt in wp-config.php was set to a non-string value. Prevents Yoast SEO Abilities from being registered when indexables are disabled. Previous releases 28.1
 Redesigns the bulk editor page, which allows users to edit Metadata for multiple posts at once. Source Yoast SEO on WordPress.org
+---
+
+---
+title: Yoast SEO 28.3 Released
+url: https://wordpress-faq.com/news/yoast-seo-28-3-released/
+date: 2026-08-18
+lastmod: 2026-08-18
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, yoast-seo, release, changelog, news
+What&rsquo;s new in Yoast SEO 28.3 Released: 2026-08-18
+Active installations: 10,000,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Adds a schemamap.xml file at the site root that exposes the aggregated schema map. Adds the failing object’s type and ID to the SEO data optimization error report when an indexable cannot be built. Improves performance when running the SEO optimization by warming post and term caches in bulk. Improves the performance of generating XML sitemaps by warming post, term and featured-image caches in bulk. Fixes a bug where the AI Content Planner inserted an empty paragraph block before the template blocks when a post type had a block template registered. Adds a first-time guided tour to the bulk editor. Sets the minimum supported WordPress version to 6.9. Sets the WordPress tested up to version to 7.1. Previous releases 28.2
+Fixes a bug where the overall SEO score was lowered when the focus keyphrase did not consist of function words only. Props to @faisalahammad. Fixes a bug where an uncaught fatal error was thrown in the post editor on sites using the OAuth connection to MyYoast, when the AUTH_KEY salt in wp-config.php was set to a non-string value. Prevents Yoast SEO Abilities from being registered when indexables are disabled. Source Yoast SEO on WordPress.org
 ---
 
 ---
