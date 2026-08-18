@@ -9,8 +9,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 76 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
