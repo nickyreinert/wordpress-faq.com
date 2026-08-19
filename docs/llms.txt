@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 78 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 80 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -26,6 +26,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [About WordPress FAQ](https://wordpress-faq.com/about/)
 - [Advanced Custom Fields (ACF®) 6.8.6 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-6-released/) — <no value>
 - [Advanced Custom Fields (ACF®) 6.8.7 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-7-released/) — <no value>
+- [Advanced Custom Fields (ACF®) 6.8.8 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-8-released/) — <no value>
 - [Advanced Custom Fields and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/advanced-custom-fields-elementor/) — Advanced Custom Fields and Elementor are fully compatible and work together seamlessly to create dynamic, data-driven WordPress websites.
 - [Advanced Custom Fields Plugin Review](https://wordpress-faq.com/review/advanced-custom-fields-review/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
 - [Advanced Custom Fields Review and Usage Guide](https://wordpress-faq.com/review/advanced-custom-fields/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
@@ -228,6 +229,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor Website Builder 4.2.0 Released](https://wordpress-faq.com/news/elementor-4-2-0-released/) — <no value>
 - [Elementor Website Builder 4.2.1 Released](https://wordpress-faq.com/news/elementor-4-2-1-released/) — <no value>
 - [Elementor Website Builder 4.2.2 Released](https://wordpress-faq.com/news/elementor-4-2-2-released/) — <no value>
+- [Elementor Website Builder 4.2.3 Released](https://wordpress-faq.com/news/elementor-4-2-3-released/) — <no value>
 - [Essential WordPress Plugins and Performance Optimization](https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/) — Community consensus suggests prioritizing server-side object caching and robust security practices over installing excessive third-party plugins.
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Every Website](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching, security, and backup plugins to ensure optimal site performance and data protection.
