@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 80 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 81 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -687,6 +687,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 7.0.2 Release](https://wordpress-faq.com/news/wordpress-7-0-2-release/) — <no value>
 - [WordPress 7.0.3 release](https://wordpress-faq.com/news/wordpress-7-0-3-release/) — <no value>
 - [WordPress 7.0.4 Release](https://wordpress-faq.com/news/wordpress-7-0-4-release/) — <no value>
+- [WordPress 7.1 “Mary Lou”](https://wordpress-faq.com/news/wordpress-7-1-mary-lou/) — <no value>
 - [WordPress 7.1 Beta 1](https://wordpress-faq.com/news/wordpress-7-1-beta-1/) — <no value>
 - [WordPress 7.1 Beta 3](https://wordpress-faq.com/news/wordpress-7-1-beta-3/) — <no value>
 - [WordPress 7.1 Beta 4](https://wordpress-faq.com/news/wordpress-7-1-beta-4/) — <no value>

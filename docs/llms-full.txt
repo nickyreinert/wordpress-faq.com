@@ -17203,6 +17203,21 @@ Source WordPress 7.0.4 Release — WordPress.org News
 ---
 
 ---
+title: WordPress 7.1 “Mary Lou”
+url: https://wordpress-faq.com/news/wordpress-7-1-mary-lou/
+date: 2026-08-19
+lastmod: 2026-08-19
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.1 “Mary Lou” WordPress 7.1, “Mary Lou,” is here—celebrating the pioneering jazz pianist, composer, and arranger Mary Lou Williams and her spirit of reinvention and collaboration. This release brings a more flexible, responsive, and collaborative WordPress experience, with new responsive styling controls, a redesigned media editor, richer Notes with mentions and inline feedback, improved image processing, and new Playlist and Tabs blocks.
+Announced on the official WordPress.org news blog on 2026-08-19.
+Source WordPress 7.1 “Mary Lou” — WordPress.org News
+---
+
+---
 title: WordPress 7.1 Beta 1
 url: https://wordpress-faq.com/news/wordpress-7-1-beta-1/
 date: 2026-07-15
