@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 83 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 84 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -601,6 +601,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [SureCart 4.6.2 Released](https://wordpress-faq.com/news/surecart-4-6-2-released/) — <no value>
 - [SureCart 4.6.3 Released](https://wordpress-faq.com/news/surecart-4-6-3-released/) — <no value>
 - [SureCart 4.6.4 Released](https://wordpress-faq.com/news/surecart-4-6-4-released/) — <no value>
+- [SureCart 4.6.5 Released](https://wordpress-faq.com/news/surecart-4-6-5-released/) — <no value>
 - [SureCart and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/) — Running SureCart and WooCommerce in parallel is not recommended due to significant shop page and theme conflicts.
 - [The First AI Leaders Graduates](https://wordpress-faq.com/news/the-first-ai-leaders-graduates/) — <no value>
 - [Troubleshooting All in One SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/all-in-one-seo-conflict/) — Conflicts are typically resolved by flushing permalinks, checking for plugin overlaps, or rolling back to a stable version if a recent update is buggy.
