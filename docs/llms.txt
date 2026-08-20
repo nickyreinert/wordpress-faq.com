@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 81 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 83 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -30,6 +30,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Advanced Custom Fields and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/advanced-custom-fields-elementor/) — Advanced Custom Fields and Elementor are fully compatible and work together seamlessly to create dynamic, data-driven WordPress websites.
 - [Advanced Custom Fields Plugin Review](https://wordpress-faq.com/review/advanced-custom-fields-review/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
 - [Advanced Custom Fields Review and Usage Guide](https://wordpress-faq.com/review/advanced-custom-fields/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
+- [AI Creates Opportunity While Artists Ship at WordCamp US 2026](https://wordpress-faq.com/news/ai-creates-opportunity-while-artists-ship-at-wordcamp-us-2026/) — <no value>
 - [All in One SEO 4.9.10 Released](https://wordpress-faq.com/news/all-in-one-seo-4-9-10-released/) — <no value>
 - [All in One SEO 5.0.0.1 Released](https://wordpress-faq.com/news/all-in-one-seo-5-0-0-1-released/) — <no value>
 - [All in One SEO Review: Features and Community Consensus](https://wordpress-faq.com/review/all-in-one-seo-review/) — The community generally prefers Rank Math for its modern interface and feature set, though All in One SEO remains a stable, legacy-supported choice.
@@ -39,6 +40,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All-in-One WP Migration and Backup 7.107 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-107-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.108 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-108-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.109 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-109-released/) — <no value>
+- [All-in-One WP Migration and Backup 7.110 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-110-released/) — <no value>
 - [All-in-One WP Migration Plugin Review](https://wordpress-faq.com/review/all-in-one-wp-migration-review/) — The plugin is widely used for site migrations, though users report occasional link errors and reliability issues during large database transfers.
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
