@@ -16390,6 +16390,25 @@ Fix: Resolved the dark theme compatibility issue in the Course Builder. Fix: Add
 ---
 
 ---
+title: Tutor LMS 4.0.7 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-0-7-released/
+date: 2026-08-21
+lastmod: 2026-08-21
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.0.7 Released: 20 Aug, 2026
+Active installations: 100,000
+Tested up to WordPress 7.0.4
+Requires PHP 7.4
+Changelog Fix: Resolved an issue that caused errors when editing courses with the Multi Instructor addon enabled. (Pro) Previous releases 4.0.6 — 18 Aug, 2026
+Update: Improved WPML compatibility. (Pro) Fix: Resolved an issue where the course content author ID was not updated when the course author was changed with the Multi-Instructor add-on enabled. (Pro) Fix: Patched a security vulnerability related to the course list query parameter. 4.0.5 — 12 Aug, 2026
+Update: Added an option to return to the homepage from the student dashboard on mobile devices. Update: Strengthened instructor capability checks for better security. Update: Changing a course author now updates authorship across all content. Update: Hid course products from the shop page settings when using Native Monetization. Fix: Resolved the PHP fatal error caused by WooCommerce Subscriptions renewal orders. (Pro) Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -18232,7 +18251,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-21.
-Plugin / theme Version Released Type All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin SureCart 4.6.6 2026-08-20 plugin Elementor Website Builder 4.2.3 2026-08-19 plugin Advanced Custom Fields (ACF®) 6.8.8 2026-08-19 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Tutor LMS 4.0.6 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin UpdraftPlus 1.26.6 2026-08-13 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Rank Math SEO 1.0.276 2026-08-11 plugin WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Tutor LMS 4.0.6 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin SureCart 4.6.6 2026-08-20 plugin Elementor Website Builder 4.2.3 2026-08-19 plugin Advanced Custom Fields (ACF®) 6.8.8 2026-08-19 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin UpdraftPlus 1.26.6 2026-08-13 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Rank Math SEO 1.0.276 2026-08-11 plugin WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

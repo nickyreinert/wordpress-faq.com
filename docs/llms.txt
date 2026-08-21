@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 85 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 86 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -653,6 +653,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Tutor LMS 4.0.4 Released](https://wordpress-faq.com/news/tutor-lms-4-0-4-released/) — <no value>
 - [Tutor LMS 4.0.5 Released](https://wordpress-faq.com/news/tutor-lms-4-0-5-released/) — <no value>
 - [Tutor LMS 4.0.6 Released](https://wordpress-faq.com/news/tutor-lms-4-0-6-released/) — <no value>
+- [Tutor LMS 4.0.7 Released](https://wordpress-faq.com/news/tutor-lms-4-0-7-released/) — <no value>
 - [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/) — Community consensus strongly supports implementing 2FA as a critical security layer for all WordPress installations to prevent unauthorized access.
 - [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/howto/two-factor-authentication-wordpress/) — Implementing two-factor authentication is a highly recommended security best practice to protect WordPress sites from unauthorized access.
 - [Understanding WordPress Core Updates and Changes](https://wordpress-faq.com/core/wordpress-core-updates/) — WordPress prioritizes backward compatibility in core updates, meaning major refactoring is rare to ensure existing sites remain functional.
