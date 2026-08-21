@@ -16535,6 +16535,24 @@ FIX: In version 1.26.2, a regression prevented the backup schedule, including th
 ---
 
 ---
+title: UpdraftPlus 1.26.7 Released
+url: https://wordpress-faq.com/news/updraftplus-1-26-7-released/
+date: 2026-08-21
+lastmod: 2026-08-21
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, updraftplus, release, changelog, news
+What&rsquo;s new in UpdraftPlus 1.26.7 Released: 21/Aug/2026
+Active installations: 3,000,000
+Tested up to WordPress 7.1
+Changelog SECURITY: Restoration now requires provision of a nonce, and not only the epoch-second timestamp of a backup. This prevents an insider threat in which a previous administrator who has been removed from a site could seek to persuade a logged-in current administrator to follow a link to restore a backup which he had previous knowledge of. Thanks to Jashid Sany for raising this issue (via WPScan). TWEAK: In UpdraftPlus Premium, for scheduled monthly backups, change the behaviour to backup on the chosen day every month (better matching user expectation). TWEAK: UpdraftClone no longer supports clones launched with PHP 5.4 or 5.5. Previous releases 1.26.6 — 23/Jul/2026
+FEATURE: Upon plugin deactivation, a popup will appear with data removal options, enabling users to opt-in to deleting saved data. FIX: “Unattached” media filter lists attached images when no unattached items exist TWEAK: Added Burst Statistics to TeamUpdraft family admin notices. TWEAK: Create a better UX for free users around premium remote storage locations TWEAK: Prefer http_get_last_response_headers() (PHP 8.4+) to avoid PHP 8.5 deprecation warnings for $http_response_header. 1.26.5 — 05/Jun/2026
+SECURITY: Previous versions contained a defect allowing sites with an active Migrator key (paid versions only) or UpdraftCentral key (free and paid versions) to have unauthorised operations carried out on them. All users should update immediately. TWEAK: Added explicit HTTP timeout of 60 seconds to pCloud chunk upload requests to prevent cURL error 28 on slow server connections TWEAK: Guard curl_close(), finfo_close() and xml_parser_free() calls with a PHP version check to prevent deprecation warnings on PHP 8.5+ TWEAK: Update the bundled common-libs version TWEAK: Replace all usages of wpdb::esc_like() with UpdraftPlus_Database_Utility::esc_like() across the codebase to maintain consistency. Source UpdraftPlus on WordPress.org
+---
+
+---
 title: UpdraftPlus WordPress Backup Plugin Review
 url: https://wordpress-faq.com/review/updraftplus-review/
 date: 2026-06-07
@@ -18251,7 +18269,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-21.
-Plugin / theme Version Released Type Tutor LMS 4.0.6 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin SureCart 4.6.6 2026-08-20 plugin Elementor Website Builder 4.2.3 2026-08-19 plugin Advanced Custom Fields (ACF®) 6.8.8 2026-08-19 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin UpdraftPlus 1.26.6 2026-08-13 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Rank Math SEO 1.0.276 2026-08-11 plugin WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin SureCart 4.6.6 2026-08-20 plugin Elementor Website Builder 4.2.3 2026-08-19 plugin Advanced Custom Fields (ACF®) 6.8.8 2026-08-19 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme Ninja Forms 3.15.0 2026-08-12 plugin Rank Math SEO 1.0.276 2026-08-11 plugin WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin Fluent Forms 6.2.12 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin Hello Elementor 3.4.9 2026-05-20 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

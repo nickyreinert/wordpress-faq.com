@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 86 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 87 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -659,6 +659,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Understanding WordPress Core Updates and Changes](https://wordpress-faq.com/core/wordpress-core-updates/) — WordPress prioritizes backward compatibility in core updates, meaning major refactoring is rare to ensure existing sites remain functional.
 - [Understanding WordPress: How It Works and Core Concepts](https://wordpress-faq.com/howto/wordpress-fundamentals/) — WordPress is a powerful, flexible CMS that requires careful plugin management and database optimization to maintain high performance and security.
 - [UpdraftPlus 1.26.6 Released](https://wordpress-faq.com/news/updraftplus-1-26-6-released/) — <no value>
+- [UpdraftPlus 1.26.7 Released](https://wordpress-faq.com/news/updraftplus-1-26-7-released/) — <no value>
 - [UpdraftPlus WordPress Backup Plugin Review](https://wordpress-faq.com/review/updraftplus-review/) — UpdraftPlus is highly recommended by the community as a reliable and user-friendly solution for automated WordPress backups and site restoration.
 - [W3 Total Cache 2.10.2 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-2-released/) — <no value>
 - [W3 Total Cache 2.10.3 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-3-released/) — <no value>
