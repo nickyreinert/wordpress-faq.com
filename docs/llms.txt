@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 87 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 88 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -259,6 +259,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Flatsome Theme Review and Performance Analysis](https://wordpress-faq.com/review/flatsome-review/) — Flatsome remains a top-tier choice for WooCommerce stores due to its deep integration and speed, though it requires careful maintenance of hooks.
 - [Fluent Forms 6.2.11 Released](https://wordpress-faq.com/news/fluent-forms-6-2-11-released/) — <no value>
 - [Fluent Forms 6.2.12 Released](https://wordpress-faq.com/news/fluent-forms-6-2-12-released/) — <no value>
+- [Fluent Forms 6.2.13 Released](https://wordpress-faq.com/news/fluent-forms-6-2-13-released/) — <no value>
 - [Fluent Forms 6.2.8 Released](https://wordpress-faq.com/news/fluent-forms-6-2-8-released/) — <no value>
 - [Fluent Forms 6.2.9 Released](https://wordpress-faq.com/news/fluent-forms-6-2-9-released/) — <no value>
 - [Fluent Forms Review: Features and Lead Capture Capabilities](https://wordpress-faq.com/review/fluent-forms-review/) — Fluent Forms is widely regarded as a robust and efficient solution for capturing leads and managing form submissions within the WordPress ecosystem.
