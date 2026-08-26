@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 91 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 92 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -33,6 +33,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [AI Creates Opportunity While Artists Ship at WordCamp US 2026](https://wordpress-faq.com/news/ai-creates-opportunity-while-artists-ship-at-wordcamp-us-2026/) — <no value>
 - [All in One SEO 4.9.10 Released](https://wordpress-faq.com/news/all-in-one-seo-4-9-10-released/) — <no value>
 - [All in One SEO 5.0.0.1 Released](https://wordpress-faq.com/news/all-in-one-seo-5-0-0-1-released/) — <no value>
+- [All in One SEO 5.0.1 Released](https://wordpress-faq.com/news/all-in-one-seo-5-0-1-released/) — <no value>
 - [All in One SEO Review: Features and Community Consensus](https://wordpress-faq.com/review/all-in-one-seo-review/) — The community generally prefers Rank Math for its modern interface and feature set, though All in One SEO remains a stable, legacy-supported choice.
 - [All in One SEO vs Yoast SEO Comparison](https://wordpress-faq.com/comparison/all-in-one-seo-yoast-seo/) — Both plugins provide comparable core functionality, though Yoast SEO is often noted for having a more intrusive upsell strategy for premium features.
 - [All In One WP Security Review and Security Best Practices](https://wordpress-faq.com/review/all-in-one-wp-security-review/) — Community consensus suggests that while the plugin provides a solid baseline, it is not a substitute for robust hosting security and regular backups.

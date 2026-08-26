@@ -201,6 +201,25 @@ New: Added a new ability to list terms that are missing SEO data. Fixed: PHP 8.5
 ---
 
 ---
+title: All in One SEO 5.0.1 Released
+url: https://wordpress-faq.com/news/all-in-one-seo-5-0-1-released/
+date: 2026-08-26
+lastmod: 2026-08-26
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-seo, release, changelog, news
+What&rsquo;s new in All in One SEO 5.0.1 Released: 2026-08-26
+Active installations: 2,000,000
+Tested up to WordPress 7.1
+Requires PHP 7.2
+Changelog New: TruSEO content analysis for taxonomy terms, starting with WooCommerce product categories. Fixed: SEO Analysis now shows a clear “Preview unavailable” message when a firewall blocks the homepage or competitor screenshot. Fixed: Sitemap image URLs being duplicated on WordPress subdirectory installations. Fixed: Redirects no longer create cache entries on sites that don’t use the Redirects feature. Fixed: Overlapping redirects now apply in the correct order. Fixed: A textdomain loading notice that could appear when checking for addon updates on WordPress 6.7 and later. Fixed: Table of Contents block sometimes reset custom heading text and pointed to incorrect links. Fixed: Added a warning when a redirect’s destination URL contains invalid characters in the domain. Fixed: Redirects from child pages to parent pages not working for smart 404 redirects. Previous releases 5.0.0.1
+Updated: Made Search Appearance and Social Appearance cards in metabox collapsible. Fixed: Focus keyword and additional keywords sometimes not appearing in TruSEO after 5.0.0 update. Fixed: Resurfaced missing product ID, SKU and image alt text checks in TruSEO. 5.0.0
+New: TruSEO just got a major revamp — it’s smarter, faster, supports 10+ new languages and has a new modern UI. New: TruSEO Highlighter revamp — an improved editor highlighter that flags issues TruSEO found, working seamlessly across the Block Editor and Classic Editor (page builder support coming soon!). New: Spell checker – automatically detect spelling mistakes directly in the editor as you write and fix them instantly. New: Optimize posts with AI – let our smart AI assistant automatically optimize your post for SEO by improving your SEO title, meta description, headline, keyword checks and spelling mistakes in just one click! New: Actionable AI-powered fixes for TruSEO — let AI help you rewrite sentences or paragraphs to fix readability and SEO issues in your content. Source All in One SEO on WordPress.org
+---
+
+---
 title: All in One SEO Review: Features and Community Consensus
 url: https://wordpress-faq.com/review/all-in-one-seo-review/
 date: 2026-07-22
@@ -18343,7 +18362,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-26.
-Plugin / theme Version Released Type Rank Math SEO 1.0.277 2026-08-26 plugin SureCart 4.7.0 2026-08-25 plugin Hello Elementor 3.5.1 2026-08-25 theme Ninja Forms 3.15.1 2026-08-24 plugin Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Elementor Website Builder 4.2.3 2026-08-19 plugin Advanced Custom Fields (ACF®) 6.8.8 2026-08-19 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin All in One SEO 5.0.0.1 2026-08-03 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Rank Math SEO 1.0.277 2026-08-26 plugin All in One SEO 5.0.1 2026-08-26 plugin SureCart 4.7.0 2026-08-25 plugin Hello Elementor 3.5.1 2026-08-25 theme Ninja Forms 3.15.1 2026-08-24 plugin Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Elementor Website Builder 4.2.3 2026-08-19 plugin Advanced Custom Fields (ACF®) 6.8.8 2026-08-19 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Blocksy 2.1.53 2026-08-13 theme WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
