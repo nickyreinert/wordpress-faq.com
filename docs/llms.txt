@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 90 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 91 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 30 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -586,6 +586,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Rank Math SEO 1.0.274 Released](https://wordpress-faq.com/news/rankmath-1-0-274-released/) — <no value>
 - [Rank Math SEO 1.0.275 Released](https://wordpress-faq.com/news/rankmath-1-0-275-released/) — <no value>
 - [Rank Math SEO 1.0.276 Released](https://wordpress-faq.com/news/rankmath-1-0-276-released/) — <no value>
+- [Rank Math SEO 1.0.277 Released](https://wordpress-faq.com/news/rankmath-1-0-277-released/) — <no value>
 - [Rank Math SEO Plugin Review](https://wordpress-faq.com/review/rankmath-review/) — Rank Math is widely considered a powerful and feature-rich SEO solution for WordPress users seeking to improve their search engine rankings.
 - [Rank Math SEO Plugin Review and Analysis](https://wordpress-faq.com/review/rankmath-seo/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that offers significant value, though some users find the interface overwhelming.
 - [Resolving Elementor and WPForms Plugin Conflicts](https://wordpress-faq.com/compatibility/elementor-wpforms-conflict/) — Community consensus suggests using the dedicated Elementor widget for WPForms instead of shortcodes to ensure all form features function correctly.
