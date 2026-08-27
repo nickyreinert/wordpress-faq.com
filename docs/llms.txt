@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 31 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 286 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 287 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 92 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
@@ -382,6 +382,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress to Dreamhost](https://wordpress-faq.com/howto/migrate-wordpress-dreamhost/) — Migrating to Dreamhost is best achieved using their automated migration plugin or a manual file and database transfer for experienced users.
 - [How to Migrate WordPress to Flywheel Hosting](https://wordpress-faq.com/howto/migration-wordpress-flywheel/) — Migrating to Flywheel is best handled using their dedicated migration plugin or by requesting a manual migration from their support team.
 - [How to Migrate WordPress to Hostinger](https://wordpress-faq.com/howto/migrate-wordpress-hostinger/) — The community recommends using migration plugins like All-in-One WP Migration or Duplicator for most users, while manual transfer is best for experts.
+- [How to Migrate WordPress to Kinsta Hosting](https://wordpress-faq.com/howto/migrate-wordpress-to-kinsta/) — Migrating to Kinsta is highly recommended for performance, though users should utilize their free migration service to avoid manual configuration errors.
 - [How to Migrate WordPress to Kinsta Hosting](https://wordpress-faq.com/howto/migrate-wordpress-kinsta/) — Kinsta provides a free migration service for all plans, making the transition process highly reliable and recommended for most WordPress users.
 - [How to Migrate WordPress to Namecheap Hosting](https://wordpress-faq.com/howto/migrate-wordpress-namecheap/) — Migrating to Namecheap is best achieved by pointing your domain nameservers to their hosting servers after transferring your site files and database.
 - [How to Migrate WordPress to SiteGround](https://wordpress-faq.com/howto/migrate-wordpress-siteground/) — Using a dedicated migration plugin like Duplicator or the official SiteGround Migrator is the most reliable method for a successful site transfer.
