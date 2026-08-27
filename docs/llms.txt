@@ -12,7 +12,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 92 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 94 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
@@ -27,6 +27,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Advanced Custom Fields (ACF®) 6.8.6 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-6-released/) — <no value>
 - [Advanced Custom Fields (ACF®) 6.8.7 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-7-released/) — <no value>
 - [Advanced Custom Fields (ACF®) 6.8.8 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-8-released/) — <no value>
+- [Advanced Custom Fields (ACF®) 6.8.9 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-9-released/) — <no value>
 - [Advanced Custom Fields and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/advanced-custom-fields-elementor/) — Advanced Custom Fields and Elementor are fully compatible and work together seamlessly to create dynamic, data-driven WordPress websites.
 - [Advanced Custom Fields Plugin Review](https://wordpress-faq.com/review/advanced-custom-fields-review/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
 - [Advanced Custom Fields Review and Usage Guide](https://wordpress-faq.com/review/advanced-custom-fields/) — Advanced Custom Fields is widely considered the most reliable and feature-rich solution for custom field management in the WordPress ecosystem.
@@ -756,6 +757,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Security Patch and Vulnerability Management](https://wordpress-faq.com/error/wordpress-security-vulnerability/) — Maintaining a secure WordPress site requires consistent updates to core, themes, and plugins to mitigate known vulnerabilities and exploit risks.
 - [WordPress Security Scan Tools: Best Practices and Audits](https://wordpress-faq.com/compatibility/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners are useful for basic vulnerability checks, manual server log analysis remains essential for security.
 - [WordPress SEO Basics for Beginners](https://wordpress-faq.com/howto/wordpress-seo-basics/) — Community consensus suggests using dedicated SEO plugins like RankMath or Yoast for superior control over on-page optimization compared to builders.
+- [WordPress Signs the Open Weights and American AI Leadership Letter](https://wordpress-faq.com/news/wordpress-signs-the-open-weights-and-american-ai-leadership-letter/) — <no value>
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/core/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/howto/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.
