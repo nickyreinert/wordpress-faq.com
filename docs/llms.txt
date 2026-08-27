@@ -10,8 +10,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 31 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 286 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 92 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
@@ -385,6 +385,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress to Kinsta Hosting](https://wordpress-faq.com/howto/migrate-wordpress-kinsta/) — Kinsta provides a free migration service for all plans, making the transition process highly reliable and recommended for most WordPress users.
 - [How to Migrate WordPress to Namecheap Hosting](https://wordpress-faq.com/howto/migrate-wordpress-namecheap/) — Migrating to Namecheap is best achieved by pointing your domain nameservers to their hosting servers after transferring your site files and database.
 - [How to Migrate WordPress to SiteGround](https://wordpress-faq.com/howto/migrate-wordpress-siteground/) — Using a dedicated migration plugin like Duplicator or the official SiteGround Migrator is the most reliable method for a successful site transfer.
+- [How to Migrate WordPress to SiteGround Successfully](https://wordpress-faq.com/howto/migration-siteground-wordpress/) — Manual migration using database exports and file transfers is the most reliable method for moving WordPress sites to SiteGround.
 - [How to Migrate WordPress to WP Engine](https://wordpress-faq.com/howto/migrate-wordpress-wpengine/) — Successful migration to WP Engine requires careful handling of database prefixes, file permissions, and proper configuration of offloaded media.
 - [How to Moderate WordPress Comments Effectively](https://wordpress-faq.com/howto/moderate-wordpress-comments/) — Community consensus suggests using custom user roles for moderation and dedicated plugins to disable unwanted comment spam effectively.
 - [How to Moderate WordPress Comments Effectively](https://wordpress-faq.com/howto/wordpress-comment-moderation-guide/) — The consensus is to use native WordPress settings combined with a dedicated anti-spam plugin like Akismet for the most efficient moderation workflow.
