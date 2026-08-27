@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 33 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 34 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 288 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 92 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -173,6 +173,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Yoast SEO Compatibility Guide](https://wordpress-faq.com/compatibility/divi-yoast-seo/) — Divi and Yoast SEO are generally compatible, though users should verify HTML output and use shortcodes to ensure proper integration across pages.
 - [Divi Page Builder WordPress Compatibility Issues](https://wordpress-faq.com/compatibility/divi-wordpress-compatibility/) — Most Divi issues are caused by plugin conflicts or outdated theme files that require a clean cache and plugin audit to resolve effectively.
 - [Divi Theme Review: Features and Performance Analysis](https://wordpress-faq.com/review/divi-theme-review/) — The Divi theme is widely recognized for its frequent feature updates and robust page-building capabilities for WordPress users.
+- [DreamHost WordPress Slow Loading Issues](https://wordpress-faq.com/hosting/dreamhost-wordpress-performance/) — Community consensus suggests that DreamHost shared hosting plans often hit memory limits, making performance tuning or migration necessary.
 - [Duplicator WordPress Plugin Review and Migration Guide](https://wordpress-faq.com/review/duplicator-review/) — Duplicator is a reliable tool for site migration and backups, though users should exercise caution when syncing live databases to avoid data loss.
 - [Easy Digital Downloads 3.6.9 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-released/) — <no value>
 - [Easy Digital Downloads 3.6.9.1 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-1-released/) — <no value>
