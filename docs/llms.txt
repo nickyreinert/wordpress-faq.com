@@ -8,12 +8,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 31 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 92 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 285 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 60 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
@@ -641,6 +641,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting Slow WordPress Performance on Bluehost](https://wordpress-faq.com/hosting/bluehost-performance/) — Community consensus suggests that while Bluehost can be slow, performance issues are often resolved by optimizing plugins, database cleanup, or migrating.
 - [Troubleshooting Slow WordPress Performance on DreamHost](https://wordpress-faq.com/hosting/dreamhost-performance/) — Community consensus suggests that while DreamHost shared plans have resource limits, performance issues are often resolved by optimizing images, plugins, and PHP settings.
 - [Troubleshooting Slow WordPress Sites on Local by Flywheel](https://wordpress-faq.com/error/flywheel-wordpress-performance/) — Local by Flywheel performance issues on Windows are often resolved by switching to Docker, using an SSD, or optimizing local database configurations.
+- [Troubleshooting Slow WordPress Sites on SiteGround](https://wordpress-faq.com/error/siteground-wordpress-performance/) — Most performance issues on SiteGround are caused by bloated themes, excessive plugins, and poor image optimization rather than the host itself.
 - [Troubleshooting Slow WordPress Sites on SiteGround](https://wordpress-faq.com/hosting/siteground-wordpress-speed/) — Community consensus indicates that slow site performance is usually caused by bloated themes and excessive plugins rather than the hosting provider itself.
 - [Troubleshooting WooCommerce and WordPress Issues](https://wordpress-faq.com/error/woocommerce-wordpress-troubleshooting/) — Community consensus suggests that most WooCommerce issues stem from plugin conflicts or database bottlenecks rather than core software failures.
 - [Troubleshooting WooCommerce and WordPress Plugin Conflicts](https://wordpress-faq.com/compatibility/woocommerce-wordpress-conflict/) — Most WooCommerce conflicts are resolved by enabling WP_DEBUG, resetting permalinks, or identifying caching plugin incompatibilities.
