@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 35 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 289 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 92 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -266,6 +266,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fluent Forms 6.2.8 Released](https://wordpress-faq.com/news/fluent-forms-6-2-8-released/) — <no value>
 - [Fluent Forms 6.2.9 Released](https://wordpress-faq.com/news/fluent-forms-6-2-9-released/) — <no value>
 - [Fluent Forms Review: Features and Lead Capture Capabilities](https://wordpress-faq.com/review/fluent-forms-review/) — Fluent Forms is widely regarded as a robust and efficient solution for capturing leads and managing form submissions within the WordPress ecosystem.
+- [Flywheel WordPress Hosting Review](https://wordpress-faq.com/hosting/flywheel-hosting/) — Flywheel is considered a solid, user-friendly managed hosting option, though recent corporate shifts have caused some concern among long-term users.
 - [Flywheel WordPress Hosting Review and Community Feedback](https://wordpress-faq.com/hosting/flywheel-hosting-review/) — Flywheel is generally considered a capable managed host, though recent forced migrations to WP Engine have caused concern among some users.
 - [Free vs Premium WordPress Plugins: Are They Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/) — Premium plugins are generally worth the investment for professional support and advanced features, though free versions often suffice for basic needs.
 - [Free vs Premium WordPress Themes: Is It Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-themes/) — Premium themes generally offer better support and advanced features, but free themes are often sufficient for simple, lightweight website projects.
