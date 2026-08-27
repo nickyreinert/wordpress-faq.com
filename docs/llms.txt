@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 289 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 92 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
@@ -385,6 +385,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress to DigitalOcean](https://wordpress-faq.com/howto/digitalocean-migration/) — Migrating to DigitalOcean is best achieved by using rsync for file transfers and manual database imports or specialized backup plugins for reliability.
 - [How to Migrate WordPress to Dreamhost](https://wordpress-faq.com/howto/migrate-wordpress-dreamhost/) — Migrating to Dreamhost is best achieved using their automated migration plugin or a manual file and database transfer for experienced users.
 - [How to Migrate WordPress to DreamHost](https://wordpress-faq.com/howto/dreamhost-migration/) — Migrating to DreamHost requires careful handling of database credentials and DNS settings to ensure your site remains accessible during the move.
+- [How to Migrate WordPress to Flywheel Hosting](https://wordpress-faq.com/howto/migrate-wordpress-flywheel/) — Migrating to Flywheel is best achieved using their dedicated migration plugin or by contacting their support team for a seamless site transfer process.
 - [How to Migrate WordPress to Flywheel Hosting](https://wordpress-faq.com/howto/migration-wordpress-flywheel/) — Migrating to Flywheel is best handled using their dedicated migration plugin or by requesting a manual migration from their support team.
 - [How to Migrate WordPress to Hostinger](https://wordpress-faq.com/howto/migrate-wordpress-hostinger/) — The community recommends using migration plugins like All-in-One WP Migration or Duplicator for most users, while manual transfer is best for experts.
 - [How to Migrate WordPress to Kinsta Hosting](https://wordpress-faq.com/howto/migrate-wordpress-to-kinsta/) — Migrating to Kinsta is highly recommended for performance, though users should utilize their free migration service to avoid manual configuration errors.
