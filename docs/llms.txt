@@ -8,6 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 63 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
@@ -15,7 +16,6 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 62 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
@@ -174,6 +174,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Divi and Yoast SEO Compatibility Guide](https://wordpress-faq.com/compatibility/divi-yoast-seo/) — Divi and Yoast SEO are generally compatible, though users should verify HTML output and use shortcodes to ensure proper integration across pages.
 - [Divi Page Builder WordPress Compatibility Issues](https://wordpress-faq.com/compatibility/divi-wordpress-compatibility/) — Most Divi issues are caused by plugin conflicts or outdated theme files that require a clean cache and plugin audit to resolve effectively.
 - [Divi Theme Review: Features and Performance Analysis](https://wordpress-faq.com/review/divi-theme-review/) — The Divi theme is widely recognized for its frequent feature updates and robust page-building capabilities for WordPress users.
+- [DreamHost vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dreamhost-siteground-hosting/) — SiteGround is generally preferred for superior support and performance, while DreamHost offers better value for budget-conscious users.
 - [DreamHost WordPress Slow Loading Issues](https://wordpress-faq.com/hosting/dreamhost-wordpress-performance/) — Community consensus suggests that DreamHost shared hosting plans often hit memory limits, making performance tuning or migration necessary.
 - [Duplicator WordPress Plugin Review and Migration Guide](https://wordpress-faq.com/review/duplicator-review/) — Duplicator is a reliable tool for site migration and backups, though users should exercise caution when syncing live databases to avoid data loss.
 - [Easy Digital Downloads 3.6.9 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-6-9-released/) — <no value>
