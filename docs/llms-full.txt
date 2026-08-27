@@ -14558,6 +14558,34 @@ Reddit Sources How To Make A WordPress Site Faster (r/Wordpress) What are your f
 ---
 
 ---
+title: Optimizing WP Engine Performance and Slow Loading Issues
+url: https://wordpress-faq.com/hosting/wpengine-performance-optimization/
+date: 2026-08-27
+lastmod: 2026-08-27
+verdict: Performance issues on WP Engine are typically caused by inefficient plugin or theme code rather than the hosting environment itself.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: performance, hosting, database, speed, conflict
+faq:
+  - q: Why is my WordPress site slow on WP Engine?
+    a: Slow performance is usually caused by inefficient database queries or excessive script loading from plugins and themes, not the host.
+  - q: How do I find what is slowing down my WordPress site?
+    a: Install the Query Monitor plugin to identify slow database queries, slow requests, and identify which plugins are loading unnecessary assets.
+  - q: Can I exclude specific JS or CSS files from loading?
+    a: Yes, you can use functions in your functions.php file or asset management plugins to dequeue scripts on pages where they are not needed.
+Performance issues on WP Engine are typically caused by inefficient plugin or theme code rather than the hosting environment itself. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Unnecessary JS and CSS loading on pages Excessive database queries from plugins Poorly coded theme functions Community Q&amp;A Why is my WordPress site slow on WP Engine?
+Slow performance is usually caused by inefficient database queries or excessive script loading from plugins and themes, not the host.
+How do I find what is slowing down my WordPress site?
+Install the Query Monitor plugin to identify slow database queries, slow requests, and identify which plugins are loading unnecessary assets.
+Can I exclude specific JS or CSS files from loading?
+Yes, you can use functions in your functions.php file or asset management plugins to dequeue scripts on pages where they are not needed.
+Reddit Sources How to speed up WP-Admin? (r/Wordpress)
+---
+
+---
 title: Optimizing WP Mail SMTP for WordPress Performance
 url: https://wordpress-faq.com/howto/wp-mail-smtp-optimization/
 date: 2026-06-06
