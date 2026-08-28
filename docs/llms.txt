@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 63 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 64 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
@@ -121,6 +121,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [BuddyPress Review: Community Features and Alternatives](https://wordpress-faq.com/review/buddypress-review/) — BuddyPress is a robust but complex solution that frequently necessitates custom development or alternative platforms for modern community needs.
 - [Cloudways vs DigitalOcean WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-digitalocean/) — Cloudways provides a managed interface for DigitalOcean servers, making it the better choice for users who prefer convenience over manual configuration.
 - [Cloudways vs Kinsta Managed WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-kinsta/) — Cloudways offers superior flexibility and value for developers, while Kinsta provides a premium, fully managed experience for high-traffic sites.
+- [Cloudways vs Namecheap WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-namecheap-hosting/) — Cloudways is generally preferred for performance and scalability, whereas Namecheap is favored for entry-level budget hosting needs.
 - [Cloudways vs Namecheap WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-namecheap/) — Cloudways is generally preferred for performance and scalability, while Namecheap is often chosen for budget-friendly entry-level hosting needs.
 - [Cloudways vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-siteground/) — Cloudways offers superior performance and control for advanced users, while SiteGround provides a more managed, beginner-friendly experience.
 - [Cloudways vs WP Engine WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-wpengine/) — Cloudways is generally preferred for flexibility and cost, while WP Engine is criticized for aggressive upsell tactics and billing issues.
