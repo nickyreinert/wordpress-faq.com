@@ -5453,6 +5453,25 @@ Fix: Improved code security enforcement in template handling Fix: Improved code 
 ---
 
 ---
+title: Elementor Website Builder 4.2.4 Released
+url: https://wordpress-faq.com/news/elementor-4-2-4-released/
+date: 2026-08-31
+lastmod: 2026-08-31
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Website Builder 4.2.4 Released: 2026-08-31
+Active installations: 10,000,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Tweak: Updated WordPress compatibility to version 7.1 Fix: Improved code security enforcement in query handling Previous releases 4.2.3 — 2026-08-19
+Fix: Improved code security enforcement in template handling Fix: Invalid style properties prevent pages from being published 4.2.2 — 2026-08-06
+Fix: Editor top bar integrations may not appear in non-English languages Source Elementor Website Builder on WordPress.org
+---
+
+---
 title: Essential WordPress Plugins and Performance Optimization
 url: https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/
 date: 2026-08-05
@@ -14432,6 +14451,25 @@ tables inserted via toolbar now have visible borders and padding preserve hand-c
 ---
 
 ---
+title: Ninja Forms 3.15.2 Released
+url: https://wordpress-faq.com/news/ninja-forms-3-15-2-released/
+date: 2026-08-31
+lastmod: 2026-08-31
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ninja-forms, release, changelog, news
+What&rsquo;s new in Ninja Forms 3.15.2 Released: (31 August 2026)
+Active installations: 600,000
+Tested up to WordPress 7.0.4
+Requires PHP 7.4
+Changelog enforce granular two-tier permission model in Abilities API, responsibly reported by ChinhNguyen neutralize shortcode brackets in IP address and referer URL merge tags, responsibly reported by Jakub Herman validate repeater child field entries against server-side definitions apply context-correct output escaping in legacy submissions admin ensure shortcode neutralization callback is accessible for array inputs fix fatal error when Date/Time field is included in a CSV email attachment show correct Developer Mode status notice in form builder settings drawer Previous releases 3.15.1 — (24 August 2026)
+strengthen input validation for list field option imports allow non-Latin characters and special symbols in list field option values preserve HTML formatting in checkbox and radio list option labels after editing capture time values correctly when Date/Time field is inside a Repeater preserve user-authored HTML in rich text editor without restructuring on toggle 3.15.0 — (12 August 2026)
+add AI Form Builder: generate forms from natural language prompts via the Abilities API fix typed signatures with periods appearing incomplete after switching fields prevent form from rendering multiple times when using “Append a Ninja Form” with other plugins allow terms list field to be set as required Source Ninja Forms on WordPress.org
+---
+
+---
 title: Ninja Forms Review: Features and Common Conflicts
 url: https://wordpress-faq.com/review/ninja-forms-review/
 date: 2026-07-23
@@ -18776,7 +18814,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-08-31.
-Plugin / theme Version Released Type All in One SEO 5.0.1.1 2026-08-28 plugin Elementor Website Builder 4.2.3 2026-08-27 plugin Rank Math SEO 1.0.277.1 2026-08-27 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Blocksy 2.1.55 2026-08-27 theme SureCart 4.7.0 2026-08-25 plugin Hello Elementor 3.5.1 2026-08-25 theme Ninja Forms 3.15.1 2026-08-24 plugin Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Website Builder 4.2.4 2026-08-31 plugin Rank Math SEO 1.0.277.2 2026-08-31 plugin Ninja Forms 3.15.2 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Blocksy 2.1.55 2026-08-27 theme SureCart 4.7.0 2026-08-25 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme Yoast SEO 28.3 2026-08-18 plugin W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin LiteSpeed Cache 7.9 2026-08-05 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

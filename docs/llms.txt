@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 95 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 97 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 64 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
@@ -239,6 +239,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor Website Builder 4.2.1 Released](https://wordpress-faq.com/news/elementor-4-2-1-released/) — <no value>
 - [Elementor Website Builder 4.2.2 Released](https://wordpress-faq.com/news/elementor-4-2-2-released/) — <no value>
 - [Elementor Website Builder 4.2.3 Released](https://wordpress-faq.com/news/elementor-4-2-3-released/) — <no value>
+- [Elementor Website Builder 4.2.4 Released](https://wordpress-faq.com/news/elementor-4-2-4-released/) — <no value>
 - [Essential WordPress Plugins and Performance Optimization](https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/) — Community consensus suggests prioritizing server-side object caching and robust security practices over installing excessive third-party plugins.
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Every Website](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching, security, and backup plugins to ensure optimal site performance and data protection.
@@ -575,6 +576,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Ninja Forms 3.14.12 Released](https://wordpress-faq.com/news/ninja-forms-3-14-12-released/) — <no value>
 - [Ninja Forms 3.15.0 Released](https://wordpress-faq.com/news/ninja-forms-3-15-0-released/) — <no value>
 - [Ninja Forms 3.15.1 Released](https://wordpress-faq.com/news/ninja-forms-3-15-1-released/) — <no value>
+- [Ninja Forms 3.15.2 Released](https://wordpress-faq.com/news/ninja-forms-3-15-2-released/) — <no value>
 - [Ninja Forms Review: Features and Common Conflicts](https://wordpress-faq.com/review/ninja-forms-review/) — Ninja Forms is a capable builder, but users frequently report CSS conflicts with themes and limitations when calculating totals for payment gateways.
 - [Ninja Forms vs WPForms: Form Builder Comparison](https://wordpress-faq.com/comparison/ninja-forms-wpforms/) — Community consensus suggests that while Ninja Forms is powerful, it often suffers from CSS conflicts and complex payment field configurations compared to rivals.
 - [Optimizing Advanced Custom Fields for WordPress Performance](https://wordpress-faq.com/howto/advanced-custom-fields-optimization/) — Community consensus suggests offloading complex queries to Elasticsearch and minimizing field bloat to maintain high site performance.
