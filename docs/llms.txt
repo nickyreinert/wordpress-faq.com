@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 97 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 98 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 64 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
@@ -789,6 +789,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Yoast SEO 28.1 Released](https://wordpress-faq.com/news/yoast-seo-28-1-released/) — <no value>
 - [Yoast SEO 28.2 Released](https://wordpress-faq.com/news/yoast-seo-28-2-released/) — <no value>
 - [Yoast SEO 28.3 Released](https://wordpress-faq.com/news/yoast-seo-28-3-released/) — <no value>
+- [Yoast SEO 28.4 Released](https://wordpress-faq.com/news/yoast-seo-28-4-released/) — <no value>
 - [Yoast SEO Plugin Review and Community Feedback](https://wordpress-faq.com/review/yoast-seo-review/) — While Yoast SEO remains a standard, many developers now prefer Rank Math for its modern features and lighter footprint.
 - [Yoast SEO WordPress Troubleshooting Guide](https://wordpress-faq.com/error/yoast-seo-troubleshooting/) — Most Yoast SEO issues stem from incorrect site visibility settings, caching conflicts, or improper URL canonicalization rather than plugin bugs.
 - [Your Guide to WordCamp US 2026](https://wordpress-faq.com/news/your-guide-to-wordcamp-us-2026/) — <no value>
