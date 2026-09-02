@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 65 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 98 articles
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 64 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
@@ -99,6 +99,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress SEO Plugins Comparison](https://wordpress-faq.com/comparison/seo-plugins-comparison/) — Rank Math, SEOPress, and The SEO Framework are widely considered the most reliable and feature-rich SEO solutions for WordPress websites today.
 - [Best WordPress SEO Plugins: Comparison and Recommendations](https://wordpress-faq.com/comparison/best-wordpress-seo-plugins/) — Rank Math is preferred for power users, while SureRank is recommended for lightweight, free, and multilingual-friendly SEO requirements.
 - [Best WordPress SEO Plugins: Rank Math vs SureRank](https://wordpress-faq.com/comparison/rank-math-surerank/) — Community consensus suggests Rank Math is superior for advanced users, while SureRank is preferred for lightweight, simple site requirements.
+- [Best WordPress Themes for Blogs: Community Recommendations](https://wordpress-faq.com/comparison/best-wordpress-themes-for-blogs/) — The community consensus is to avoid niche-specific themes and instead use lightweight, general-purpose options like GeneratePress, Astra, or Blocksy.
 - [Best WordPress Themes for Blogs: Performance and Flexibility](https://wordpress-faq.com/theme/best-wordpress-themes-blogs/) — The community recommends using lightweight, multipurpose themes like GeneratePress, Astra, or Blocksy rather than niche-specific blog themes.
 - [Best WordPress Themes for Business Websites](https://wordpress-faq.com/theme/best-wordpress-business-themes/) — Community consensus favors lightweight block themes and full site editing over heavy page builders for better performance and SEO results.
 - [Best WordPress Themes for Portfolio Sites](https://wordpress-faq.com/theme/best-wordpress-themes-portfolio/) — Community consensus suggests using lightweight builders like Bricks or starter themes like Underscores for maximum flexibility and clean code.
