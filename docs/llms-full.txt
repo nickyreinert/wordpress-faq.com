@@ -15667,6 +15667,25 @@ Fix: Some product blocks showing “This block has encountered an error and cann
 ---
 
 ---
+title: SureCart 4.7.2 Released
+url: https://wordpress-faq.com/news/surecart-4-7-2-released/
+date: 2026-09-03
+lastmod: 2026-09-03
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.7.2 Released: September 3rd, 2026
+Active installations: 80,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Fix: Product image unclickable in the Shop page product list when the image sits inside a Cover block. Previous releases 4.7.1 — September 2nd, 2026
+New: Variant Pills and Buy Buttons blocks can now be added inside a Product List, so shoppers can pick a variant and add to cart without leaving the list. New: “Product List with Variants” block pattern, built with the new Variant Pills and Buy Buttons support. New: Native “Duplicate” row action for checkout forms, cloning a form as a new draft. New: Order fulfillment timeline now shows the package a purchased shipping label was rated against (carrier package, saved template, or custom size). Fix: Upsell Funnel and Order Bump price picker omitting valid prices on products with more than ~20 prices. 4.7.0 — August 25th, 2026
+New: Ship orders from the fulfillment drawer — get live Shippo rates, buy a label, and track the package. New: Warehouse management under Settings → Shipping for managing ship-from addresses. New: “Live carrier rates” shipping rate type quotes real-time carrier rates at checkout from your connected Shippo account, with separate test/live mode support. New: Customers see shipment tracking and status on their dashboard order page as soon as a label is purchased. Improvement: Address autocomplete now uses Google’s Places Autocomplete API instead of Text Search, returning street addresses instead of businesses and billing each search as a single session. Source SureCart on WordPress.org
+---
+
+---
 title: SureCart and WooCommerce Compatibility Guide
 url: https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/
 date: 2026-06-05
@@ -17274,6 +17293,25 @@ Requires PHP 7.4
 Changelog Fix: Page Cache: Keep Disk Enhanced cache file operations within the cache directory Previous releases 2.10.4
 Fix: Lazy Load: Match only quoted image attributes when rewriting src/srcset/sizes Fix: Cache purge: Restore filterable capabilities for purge-all and purge-post 2.10.3
 Fix: Output buffering: Skip REST API requests unless page cache REST caching is enabled Fix: Minify: Keep cache file operations within the cache directory Fix: Defer Scripts: Restore timeout configuration placeholder replacement Source W3 Total Cache on WordPress.org
+---
+
+---
+title: W3 Total Cache 2.10.6 Released
+url: https://wordpress-faq.com/news/w3-total-cache-2-10-6-released/
+date: 2026-09-03
+lastmod: 2026-09-03
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, w3-total-cache, release, changelog, news
+What&rsquo;s new in W3 Total Cache 2.10.6 Released: 2026-09-03
+Active installations: 900,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Fix: Database Cluster: Restore placeholder unescape so admin searches with wildcards match Enhancement: Page Cache: Add w3tc_pgcache_rules_required filter to skip writing rewrite rules Fix: Settings: Restrict POST updates to keys owned by the active admin page Fix: Licensing: Limit plugin type updates to the license path Fix: Image Converter: Require administrator capability for convert and submit Fix: Config import: Validate structure before applying Fix: Role cookies: Stop honoring legacy names unless explicitly enabled Fix: Minify: Validate precache URLs before outbound fetch Fix: URL constants: Apply host allowlists to overrides Fix: Minify: Validate Java minifier JAR paths before invocation Update: Bunny CDN and Redis: Enable verified TLS by default Fix: Diagnostics: Extend log redaction across remaining formats Previous releases 2.10.5
+Fix: Page Cache: Keep Disk Enhanced cache file operations within the cache directory 2.10.4
+Fix: Lazy Load: Match only quoted image attributes when rewriting src/srcset/sizes Fix: Cache purge: Restore filterable capabilities for purge-all and purge-post Source W3 Total Cache on WordPress.org
 ---
 
 ---
@@ -18906,7 +18944,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-03.
-Plugin / theme Version Released Type WooCommerce 11.1.0 2026-09-03 plugin SureCart 4.7.1 2026-09-02 plugin Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin Rank Math SEO 1.0.277.2 2026-08-31 plugin Ninja Forms 3.15.2 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Blocksy 2.1.55 2026-08-27 theme Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Wordfence Security 9.0.0 2026-08-10 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type WooCommerce 11.1.0 2026-09-03 plugin W3 Total Cache 2.10.6 2026-09-03 plugin SureCart 4.7.2 2026-09-03 plugin Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin Rank Math SEO 1.0.277.2 2026-08-31 plugin Ninja Forms 3.15.2 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Blocksy 2.1.55 2026-08-27 theme Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Wordfence Security 9.0.0 2026-08-10 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

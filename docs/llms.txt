@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 100 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 102 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 66 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 8 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
@@ -628,6 +628,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [SureCart 4.6.6 Released](https://wordpress-faq.com/news/surecart-4-6-6-released/) — <no value>
 - [SureCart 4.7.0 Released](https://wordpress-faq.com/news/surecart-4-7-0-released/) — <no value>
 - [SureCart 4.7.1 Released](https://wordpress-faq.com/news/surecart-4-7-1-released/) — <no value>
+- [SureCart 4.7.2 Released](https://wordpress-faq.com/news/surecart-4-7-2-released/) — <no value>
 - [SureCart and WooCommerce Compatibility Guide](https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/) — Running SureCart and WooCommerce in parallel is not recommended due to significant shop page and theme conflicts.
 - [The First AI Leaders Graduates](https://wordpress-faq.com/news/the-first-ai-leaders-graduates/) — <no value>
 - [Troubleshooting All in One SEO Conflicts in WordPress](https://wordpress-faq.com/compatibility/all-in-one-seo-conflict/) — Conflicts are typically resolved by flushing permalinks, checking for plugin overlaps, or rolling back to a stable version if a recent update is buggy.
@@ -691,6 +692,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [W3 Total Cache 2.10.3 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-3-released/) — <no value>
 - [W3 Total Cache 2.10.4 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-4-released/) — <no value>
 - [W3 Total Cache 2.10.5 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-5-released/) — <no value>
+- [W3 Total Cache 2.10.6 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-6-released/) — <no value>
 - [W3 Total Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/w3-total-cache-review/) — The community consensus is that W3 Total Cache is powerful but prone to configuration errors and site-breaking conflicts for many users.
 - [What Happened at WordCamp Europe 2026](https://wordpress-faq.com/news/what-happened-at-wordcamp-europe-2026/) — <no value>
 - [What is WordPress and How Does It Work](https://wordpress-faq.com/core/wordpress-core-functionality/) — WordPress is a versatile content management system that powers websites through a combination of themes, plugins, and a core database architecture.
