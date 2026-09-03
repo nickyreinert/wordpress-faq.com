@@ -17559,6 +17559,23 @@ Changelog Fix – Fixed admin settings initialization. #67532 Fix – Fix order 
 ---
 
 ---
+title: WooCommerce 11.1.0 Released
+url: https://wordpress-faq.com/news/woocommerce-11-1-0-released/
+date: 2026-09-03
+lastmod: 2026-09-03
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, woocommerce, release, changelog, news
+What&rsquo;s new in WooCommerce 11.1.0 Released: 2026-09-03
+Active installations: 7,000,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Fix – Activity Panel counts endpoint now respects an explicitly-empty actionable order statuses setting instead of falling back to the defaults, so a cleared setting reports zero orders to fulfill. #66483 Fix – Add aria-label to Product Gallery Thumbnails #67303 Fix – Add a visible validation message for the checkout terms and conditions checkbox. #66449 Fix – Add explicit sale date fields to product Quick Edit and save schedules consistently with the full product editor. #66931 Fix – Align the Core Breadcrumbs block output with WooCommerce Store Breadcrumbs on shop, product, account, archive, and custom taxonomy pages. #66382 Fix – Align the Payments settings partner recommendations with the partnership tracking sheet: add Mayotte, add PayPal to Guyana, add Airwallex to Malaysia and South Korea, make MONEI the preferred provider in Andorra, and place Paytrail before GoCardless in Finland. #67395 Fix – Allow customers to save account details when an unchanged display name is already an email address. #66645 Fix – Allow null parent names in REST API order line items. #66636 Fix – Allow Product Gallery variation events to use numeric string IDs. #67768 Fix – Allow REST order updates to accept round-tripped line item meta display values with complex data. #65513 Fix – Allow Shop Managers to save Local Pickup settings by adding a dedicated /wc/v3/pickup-locations REST route guarded by the manage_woocommerce capability, instead of posting to /wp/v2/settings which requires manage_options. #65286 Fix – Analytics: initialize the Date type selector in Analytics settings with the effective date_paid default instead of rendering blank when the option was never saved. #67423 Source WooCommerce on WordPress.org
+---
+
+---
 title: WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable
 url: https://wordpress-faq.com/news/woocommerce-9-8-released/
 date: 2026-05-20
@@ -18889,7 +18906,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-03.
-Plugin / theme Version Released Type SureCart 4.7.1 2026-09-02 plugin Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin Rank Math SEO 1.0.277.2 2026-08-31 plugin Ninja Forms 3.15.2 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Blocksy 2.1.55 2026-08-27 theme Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin WooCommerce 11.0.1 2026-08-10 plugin Wordfence Security 9.0.0 2026-08-10 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type WooCommerce 11.1.0 2026-09-03 plugin SureCart 4.7.1 2026-09-02 plugin Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin Rank Math SEO 1.0.277.2 2026-08-31 plugin Ninja Forms 3.15.2 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Blocksy 2.1.55 2026-08-27 theme Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme W3 Total Cache 2.10.5 2026-08-18 plugin Contact Form 7 6.1.7 2026-08-17 plugin Polylang 3.8.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Wordfence Security 9.0.0 2026-08-10 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
