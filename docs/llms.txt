@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 37 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 102 articles
-- [WordPress Themes](https://wordpress-faq.com/theme/) — 9 articles
+- [WordPress Themes](https://wordpress-faq.com/theme/) — 10 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 66 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
@@ -330,6 +330,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Choose a Domain Name for WordPress](https://wordpress-faq.com/howto/choosing-wordpress-domain-name/) — Choose a short, memorable, and brandable domain name that avoids hyphens and uses a reputable registrar for long-term stability and SEO success.
 - [How to Choose a WordPress Theme](https://wordpress-faq.com/howto/choosing-wordpress-theme/) — Community consensus suggests prioritizing lightweight, stable themes like Astra or Enfold over feature-bloated options to ensure better site performance.
 - [How to Choose a WordPress Theme for Your Website](https://wordpress-faq.com/howto/how-to-choose-wordpress-theme/) — Prioritize block-based themes that offer clean code and avoid unnecessary bloat to ensure long-term site performance and easier maintenance.
+- [How to Choose a WordPress Theme: Best Practices](https://wordpress-faq.com/theme/choosing-wordpress-theme/) — Prioritize lightweight, stable themes with good Gutenberg support over feature-heavy options that may cause performance bloat.
 - [How to Choose the Right WordPress Plugins for Your Website](https://wordpress-faq.com/howto/choosing-wordpress-plugins/) — Prioritize plugins that are actively maintained, lightweight, and essential to your site's core functionality to avoid performance degradation.
 - [How to Choose WordPress Hosting](https://wordpress-faq.com/hosting/wordpress-hosting-selection/) — Choose a host based on your specific traffic needs, support quality, and technical requirements rather than just the lowest price point.
 - [How to Choose WordPress Hosting: A Practical Guide](https://wordpress-faq.com/hosting/wordpress-hosting-selection-guide/) — Community consensus suggests prioritizing reliable performance and security features over low-cost options to avoid long-term site downtime.

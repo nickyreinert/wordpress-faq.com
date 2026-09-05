@@ -7874,6 +7874,34 @@ Reddit Sources The Breadcrumb Block for Gutenberg (r/ProWordPress) Are WP Blocks
 ---
 
 ---
+title: How to Choose a WordPress Theme: Best Practices
+url: https://wordpress-faq.com/theme/choosing-wordpress-theme/
+date: 2026-09-05
+lastmod: 2026-09-05
+verdict: Prioritize lightweight, stable themes with good Gutenberg support over feature-heavy options that may cause performance bloat.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: performance, gutenberg, page-builder, speed
+faq:
+  - q: What should I look for when choosing a WordPress theme?
+    a: Look for lightweight code, long-term reliability, and compatibility with the Gutenberg block editor to ensure future-proof performance.
+  - q: Are feature-rich themes like Avada or BeTheme good choices?
+    a: They offer many features but can be heavy; choose them only if you need the specific functionality, otherwise prioritize lighter themes.
+  - q: Should I use a page builder or a custom theme?
+    a: The best approach often combines both: use custom code for core functionality and page builders for content management to save time.
+Prioritize lightweight, stable themes with good Gutenberg support over feature-heavy options that may cause performance bloat. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Performance bloat from feature-heavy themes Compatibility issues with Gutenberg blocks Excessive plugin dependencies Community Q&amp;A What should I look for when choosing a WordPress theme?
+Look for lightweight code, long-term reliability, and compatibility with the Gutenberg block editor to ensure future-proof performance.
+Are feature-rich themes like Avada or BeTheme good choices?
+They offer many features but can be heavy; choose them only if you need the specific functionality, otherwise prioritize lighter themes.
+Should I use a page builder or a custom theme?
+The best approach often combines both: use custom code for core functionality and page builders for content management to save time.
+Reddit Sources Performance issues we found across 500+ WordPress sites (ranked by frequency) (r/Wordpress) Why use Elementor if you can actually code? Genuine question from a custom theme developer. (r/Wordpress) Potential client rejected my proposal, hired someone else, and now wants me back 3.5 months later. WWYD? (r/Wordpress) [PROMO] Frontend Editor ACF - Edit ACF Fields Directly From the Frontend, No wp-admin Needed (r/Wordpress) Is Gutenberg fragmentation impacting your plugin architecture? (Block-only vs. Legacy theme compatibility (r/Wordpress) [PROMO] Themeless WordPress websites (r/Wordpress) What&rsquo;s the best way to turn a WordPress site into a mobile app? (r/Wordpress) Need help choosing a theme (from Template Forest) (r/Wordpress) I built an AI chatbot for WordPress that answers using your content — giving away 20 lifetime licenses (r/Wordpress)
+---
+
+---
 title: How to Choose the Right WordPress Plugins for Your Website
 url: https://wordpress-faq.com/howto/choosing-wordpress-plugins/
 date: 2026-06-01
