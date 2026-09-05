@@ -8,6 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 102 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 66 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 8 articles
@@ -15,7 +16,6 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 36 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 13 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
@@ -550,6 +550,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is Namecheap Good for WordPress Hosting?](https://wordpress-faq.com/hosting/namecheap-wordpress-hosting/) — Namecheap is considered a functional budget hosting provider, though users often recommend researching specific performance tiers for WordPress.
 - [Is SiteGround Good for WordPress Hosting?](https://wordpress-faq.com/hosting/siteground-wordpress/) — SiteGround is widely considered a reliable and user-friendly hosting provider, particularly valued for its excellent customer support and ease of use.
 - [Is SiteGround Good for WordPress Hosting?](https://wordpress-faq.com/hosting/siteground-hosting-review/) — SiteGround is widely considered a reliable and user-friendly hosting provider, though some users note that costs increase after the initial promotional period.
+- [Is WordPress Free to Use? Cost and Licensing Explained](https://wordpress-faq.com/core/wordpress-cost-analysis/) — The WordPress software itself is free, but operating a functional site requires additional costs for hosting, domains, and premium extensions.
 - [Is WordPress Free to Use? Pricing Explained](https://wordpress-faq.com/core/wordpress-pricing-model/) — The WordPress software is free, but operating a functional site requires paid hosting and optional premium extensions.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/howto/wordpress-pricing-usage/) — The WordPress software is free, but self-hosting it requires ongoing costs for infrastructure and premium extensions.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.

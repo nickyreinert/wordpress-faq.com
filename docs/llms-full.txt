@@ -13837,6 +13837,34 @@ Reddit Sources It has happened before: (r/Wordpress) Is it time for a fork? A re
 ---
 
 ---
+title: Is WordPress Free to Use? Cost and Licensing Explained
+url: https://wordpress-faq.com/core/wordpress-cost-analysis/
+date: 2026-09-05
+lastmod: 2026-09-05
+verdict: The WordPress software itself is free, but operating a functional site requires additional costs for hosting, domains, and premium extensions.
+confidence: high
+sources: 8
+schema_type: FAQPage
+tags: ecommerce, hosting, security, performance
+faq:
+  - q: Is WordPress software free?
+    a: Yes, WordPress.org software is free and open-source, allowing you to download and install it on your own server without licensing fees.
+  - q: What costs are associated with a free WordPress site?
+    a: While the software is free, you must pay for web hosting, a domain name, and potentially premium themes or plugins for advanced functionality.
+  - q: Is WordPress.com the same as WordPress.org?
+    a: No, WordPress.org is the self-hosted software, while WordPress.com is a commercial hosting service that offers free and paid subscription tiers.
+The WordPress software itself is free, but operating a functional site requires additional costs for hosting, domains, and premium extensions. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Hidden costs of premium plugins Hosting fees Maintenance overhead Community Q&amp;A Is WordPress software free?
+Yes, WordPress.org software is free and open-source, allowing you to download and install it on your own server without licensing fees.
+What costs are associated with a free WordPress site?
+While the software is free, you must pay for web hosting, a domain name, and potentially premium themes or plugins for advanced functionality.
+Is WordPress.com the same as WordPress.org?
+No, WordPress.org is the self-hosted software, while WordPress.com is a commercial hosting service that offers free and paid subscription tiers.
+Reddit Sources What are you using for cookie consent on WordPress? Any genuinely free options? (r/Wordpress) [PROMO] Built a 100% free WooCommerce ticketing plugin - come break it for me! (r/Wordpress) Any good alternatives to Modular DS for starting a WP maintenance business? (Free/Open-source) (r/Wordpress) [PROMO] I’ve been working on OpenStation, a different way to use WordPress admin (r/Wordpress) Surprising number of php files in a small site (r/Wordpress) [Review] 8 Featured Plugins from WP.org tested - September #1 (r/Wordpress) [PROMO] QR food menus that stay in WordPress instead of another SaaS (r/Wordpress) Does WordPress have an AI chatbot? (r/Wordpress)
+---
+
+---
 title: Is WordPress Free to Use? Pricing Explained
 url: https://wordpress-faq.com/core/wordpress-pricing-model/
 date: 2026-08-05
