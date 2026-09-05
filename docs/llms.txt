@@ -11,8 +11,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 37 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 102 articles
+- [WordPress Themes](https://wordpress-faq.com/theme/) — 9 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 66 articles
-- [WordPress Themes](https://wordpress-faq.com/theme/) — 8 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 290 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -73,6 +73,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best Lightweight and Fast WordPress Themes for Performance](https://wordpress-faq.com/theme/lightweight-fast-wordpress-themes/) — Community consensus suggests using minimal, lightweight themes or building custom solutions to ensure maximum site speed and performance.
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
 - [Best Managed WordPress Hosting: Community Recommendations](https://wordpress-faq.com/hosting/managed-wordpress-hosting/) — SiteGround is frequently cited by the community as a reliable and high-performing choice for managed WordPress hosting needs.
+- [Best Premium WordPress Themes for Performance and Design](https://wordpress-faq.com/theme/best-premium-wordpress-themes/) — The community consensus favors lightweight, block-editor-compatible themes like Kadence, Astra, and GeneratePress for modern website development.
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/theme/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/comparison/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best Premium WordPress Themes Guide](https://wordpress-faq.com/comparison/best-premium-wordpress-themes/) — Premium themes are best chosen based on code quality, support availability, and specific feature requirements rather than just visual aesthetics.
