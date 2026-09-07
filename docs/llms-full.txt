@@ -14718,6 +14718,25 @@ add AI Form Builder: generate forms from natural language prompts via the Abilit
 ---
 
 ---
+title: Ninja Forms 3.15.3 Released
+url: https://wordpress-faq.com/news/ninja-forms-3-15-3-released/
+date: 2026-09-07
+lastmod: 2026-09-07
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ninja-forms, release, changelog, news
+What&rsquo;s new in Ninja Forms 3.15.3 Released: (07 September 2026)
+Active installations: 600,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog strengthen input validation for unserialize() operations preserve newsletter action list selection when provider connection is temporarily unavailable encode special characters correctly in CSV submission exports allow optional and hidden Date/Time fields to pass validation keep rich text editor scrollbar visible and functional in all views Previous releases 3.15.2 — (31 August 2026)
+enforce granular two-tier permission model in Abilities API, responsibly reported by ChinhNguyen neutralize shortcode brackets in IP address and referer URL merge tags, responsibly reported by Jakub Herman validate repeater child field entries against server-side definitions apply context-correct output escaping in legacy submissions admin ensure shortcode neutralization callback is accessible for array inputs 3.15.1 — (24 August 2026)
+strengthen input validation for list field option imports allow non-Latin characters and special symbols in list field option values preserve HTML formatting in checkbox and radio list option labels after editing capture time values correctly when Date/Time field is inside a Repeater preserve user-authored HTML in rich text editor without restructuring on toggle Source Ninja Forms on WordPress.org
+---
+
+---
 title: Ninja Forms Review: Features and Common Conflicts
 url: https://wordpress-faq.com/review/ninja-forms-review/
 date: 2026-07-23
@@ -19155,7 +19174,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-07.
-Plugin / theme Version Released Type Polylang 3.8.8 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin SureCart 4.7.2 2026-09-03 plugin Blocksy 2.1.56 2026-09-03 theme Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin Rank Math SEO 1.0.277.2 2026-08-31 plugin Ninja Forms 3.15.2 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Wordfence Security 9.0.0 2026-08-10 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Polylang 3.8.8 2026-09-07 plugin Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin SureCart 4.7.2 2026-09-03 plugin Blocksy 2.1.56 2026-09-03 theme Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin Rank Math SEO 1.0.277.2 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Wordfence Security 9.0.0 2026-08-10 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
