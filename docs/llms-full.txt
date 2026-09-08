@@ -15270,6 +15270,25 @@ Pro: Security: Ensure the user has the required capability for ACF fields when s
 ---
 
 ---
+title: Polylang 3.8.9 Released
+url: https://wordpress-faq.com/news/polylang-3-8-9-released/
+date: 2026-09-08
+lastmod: 2026-09-08
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, polylang, release, changelog, news
+What&rsquo;s new in Polylang 3.8.9 Released: (2026-09-08)
+Active installations: 800,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Fix wrong redirect on home when the URL includes a query var #1998 Previous releases 3.8.8 — (2026-09-07)
+Security: Fix exposure of some draft posts metadata to non-authorized users. Reported by Patchstack. Pro: Allow plugins requiring Polylang to be installed when Polylang Pro is active #3051 #3116 Pro: Fix warning WP_Post conversion to int with WooCommerce #3101 Pro: Fix creation of translation in block editor for WP &lt; 6.7 #3105 Fix duplicated posts page #1992 3.8.7 — (2026-08-17)
+Pro: Add the translation of new blocks introduced by WP 7.1 #3048 Fix quick edit parent page dropdown for hierarchical custom post types #1947 Fix wp-editor script enqueued together with the new widgets editor #1968 Source Polylang on WordPress.org
+---
+
+---
 title: Polylang WordPress Plugin Review and Community Feedback
 url: https://wordpress-faq.com/review/polylang-review/
 date: 2026-06-07
@@ -18134,6 +18153,26 @@ Fix: Fixed issue with some i18n plugins/themes when a user has no 2FA recovery c
 ---
 
 ---
+title: Wordfence Security 9.0.1 Released
+url: https://wordpress-faq.com/news/wordfence-9-0-1-released/
+date: 2026-09-08
+lastmod: 2026-09-08
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wordfence, release, changelog, news
+What&rsquo;s new in Wordfence Security 9.0.1 Released: September 8, 2026
+Active installations: 5,000,000
+Tested up to WordPress 7.1
+Requires PHP 7.0
+Changelog Improvement: UX enhancements for passkey authentication and general login security Improvement: GeoIP database updated Fix: Improved error handling in WAF request handlers and XML-RPC parser Fix: Fixed an issue with translations not showing on the Login Security Settings tab Fix: Addressed several potential PHP 8.5+ deprecation notices Fix: Reworked MD5 hash use in MySQL to avoid deprecation in 9.7+ Previous releases 9.0.0 — August 10, 2026
+Improvement: Added support for passkey authentication Available for both free and premium installations
+Can be enabled for any user role (multisite support is currently limited) WooCommerce integration Support for custom authentication integrations Improvement: GeoIP database updated 8.2.2 — May 13, 2026
+Improvement: Better presentation of Live Traffic data on wide screens Improvement: Increased legibility of token fields Improvement: Reworked the pagination of the Blocking page for a better UX Improvement: Country blocking token field can now expand to show all entries Improvement: Performance improvements for the activity log and better pause behavior on window blur/focus Source Wordfence Security on WordPress.org
+---
+
+---
 title: Wordfence Security Plugin Review and Performance Analysis
 url: https://wordpress-faq.com/review/wordfence-review/
 date: 2026-06-06
@@ -19206,7 +19245,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-08.
-Plugin / theme Version Released Type Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.8 2026-09-07 plugin Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin SureCart 4.7.2 2026-09-03 plugin Blocksy 2.1.56 2026-09-03 theme Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Astra 4.13.10 2026-08-19 theme Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin Wordfence Security 9.0.0 2026-08-10 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin SureCart 4.7.2 2026-09-03 plugin Blocksy 2.1.56 2026-09-03 theme Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

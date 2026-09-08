@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 106 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 108 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 37 articles
@@ -609,6 +609,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Polylang 3.8.6 Released](https://wordpress-faq.com/news/polylang-3-8-6-released/) — <no value>
 - [Polylang 3.8.7 Released](https://wordpress-faq.com/news/polylang-3-8-7-released/) — <no value>
 - [Polylang 3.8.8 Released](https://wordpress-faq.com/news/polylang-3-8-8-released/) — <no value>
+- [Polylang 3.8.9 Released](https://wordpress-faq.com/news/polylang-3-8-9-released/) — <no value>
 - [Polylang WordPress Plugin Review and Community Feedback](https://wordpress-faq.com/review/polylang-review/) — Polylang is widely considered a reliable and simple plugin for basic multilingual needs, though it lacks advanced features found in competitors.
 - [Rank Math and WP Rocket Sitemap Conflict](https://wordpress-faq.com/compatibility/rankmath-wp-rocket-conflict/) — The issue is caused by WP Rocket caching the sitemap, which can be resolved by adding the sitemap URL to the plugin's exclusion list.
 - [Rank Math Not Working in WordPress: Troubleshooting Guide](https://wordpress-faq.com/error/rankmath-wordpress-error/) — Rank Math issues are typically caused by conflicts with specific themes or page builders rather than the plugin itself.
@@ -727,6 +728,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WooCommerce Subscriptions Review and Implementation Guide](https://wordpress-faq.com/review/woocommerce-subscriptions/) — The plugin is powerful but often requires custom development or specific plugin stacks to function reliably in complex multi-vendor environments.
 - [Wordfence Security 8.2.2 Released](https://wordpress-faq.com/news/wordfence-8-2-2-released/) — <no value>
 - [Wordfence Security 9.0.0 Released](https://wordpress-faq.com/news/wordfence-9-0-0-released/) — <no value>
+- [Wordfence Security 9.0.1 Released](https://wordpress-faq.com/news/wordfence-9-0-1-released/) — <no value>
 - [Wordfence Security Plugin Review and Performance Analysis](https://wordpress-faq.com/review/wordfence-review/) — Wordfence is widely considered a reliable and user-friendly security solution for WordPress, though advanced users may prefer server-level configurations.
 - [WordPress 6.8 Released: Performance and Accessibility Improvements](https://wordpress-faq.com/news/wordpress-6-8-released/) — The community welcomes WordPress 6.8 as a solid incremental release focused on performance and editor polish, with no major breaking changes reported.
 - [WordPress 7.0.1 Maintenance Release](https://wordpress-faq.com/news/wordpress-7-0-1-maintenance-release/) — <no value>
