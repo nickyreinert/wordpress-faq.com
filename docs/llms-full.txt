@@ -15748,6 +15748,25 @@ Fix salt bug in the wp-config file. Source Sucuri Security on WordPress.org
 ---
 
 ---
+title: Sucuri Security 2.8 Released
+url: https://wordpress-faq.com/news/sucuri-2-8-released/
+date: 2026-09-09
+lastmod: 2026-09-09
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, sucuri, release, changelog, news
+What&rsquo;s new in Sucuri Security 2.8 Released: 2026-09-09
+Active installations: 600,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Add one-time backup codes for Two-Factor Authentication. Ten codes are created when 2FA is turned on, any one of them will get you in if you lose your authenticator app, and each code stops working once it has been used. You can generate a fresh set at any time from your WordPress profile. Add a search box and severity, plugin, and theme filters to the Audit Logs page, so you can find a specific event without paging through the whole history. Filtering and paging now happen instantly. Add a one-click CSV download of the complete audit trail, ready for a compliance review, an incident timeline, or an archive before older records age out. Large histories export without slowing the site down. Fix an issue that left the audit trail completely empty on sites that do not run in English. Events were recorded but never shown. Fix audit entries being cut short or lost. Saving the WordPress Writing settings discarded the record of every other option changed in that same save, and a less-than sign in a site title or option value truncated the entry from that point on. Fix plugin and theme names that contain an ampersand being shown with an HTML escape code in place of the character itself, both on the page and in the export, which also stopped them from being found by search. Mask API keys, tokens, and salts in the audit trail. They were previously stored in plain text, and are now masked both as new events are recorded and as existing records are read back. Fix a case where markup returned by the Sucuri API could reach the dashboard without being escaped. Fix removing a file from the Hardening allowlist when its path contains characters that have a special meaning in a regular expression. Require PHP 7.4 and WordPress 6.0 or later, and correct the places in the plugin that still advertised PHP 5 support. Previous releases 2.7.4
+Improve the Two-Factor Authentication page to load the users list in pages, so it stays fast and reliable on sites with hundreds or thousands of users (for example, WooCommerce stores). Add a search box to the Two-Factor Authentication page to quickly find users by username, email, or display name. Strengthen input validation, access checks, and output escaping. Add a one-click “Disable XML-RPC” option to the Hardening page to close a common brute-force and pingback-based DDoS attack vector, with a warning if an active plugin (e.g. Jetpack) depends on XML-RPC. Fix a fatal error on PHP 8 when the API returns the “messages” field as a string instead of an array. 2.7.3
+Refactor AJAX handler to an explicit dispatch map for improved security and efficiency. Improve 2FA section with more UI clarity. Make light-mode default when no preference is defined. Correct inverted dark/light mode icons. Fix i18n regression in 2FA status and setup templates. Fix duplicate CSS property declarations. Source Sucuri Security on WordPress.org
+---
+
+---
 title: Sucuri vs Wordfence Security Plugin Review
 url: https://wordpress-faq.com/review/sucuri-wordfence/
 date: 2026-06-07
@@ -19264,7 +19283,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-09.
-Plugin / theme Version Released Type SureCart 4.7.3 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin Blocksy 2.1.56 2026-09-03 theme Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme Sucuri Security 2.7.4 2026-07-07 plugin WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Sucuri Security 2.8 2026-09-09 plugin SureCart 4.7.3 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin Blocksy 2.1.56 2026-09-03 theme Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Advanced Custom Fields (ACF®) 6.8.9 2026-08-27 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Tutor LMS 4.0.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin MC4WP 4.14.0 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
