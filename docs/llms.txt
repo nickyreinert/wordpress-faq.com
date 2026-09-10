@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 111 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 112 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 37 articles
@@ -24,6 +24,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## All pages
 
 - [About WordPress FAQ](https://wordpress-faq.com/about/)
+- [Advanced Custom Fields (ACF®) 6.8.10 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-10-released/) — <no value>
 - [Advanced Custom Fields (ACF®) 6.8.6 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-6-released/) — <no value>
 - [Advanced Custom Fields (ACF®) 6.8.7 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-7-released/) — <no value>
 - [Advanced Custom Fields (ACF®) 6.8.8 Released](https://wordpress-faq.com/news/advanced-custom-fields-6-8-8-released/) — <no value>
