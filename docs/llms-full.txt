@@ -8403,29 +8403,29 @@ Reddit Sources Feeling lost in the Gutenberg era (r/Wordpress) How do you guys l
 ---
 title: How to Create a WordPress Plugin from Scratch
 url: https://wordpress-faq.com/howto/wordpress-plugin-development-guide/
-date: 2026-07-12
-lastmod: 2026-07-12
-verdict: Creating a custom plugin requires a basic understanding of PHP, the WordPress Plugin API, and maintaining clean, lightweight code for performance.
-confidence: low
-sources: 1
+date: 2026-09-12
+lastmod: 2026-09-12
+verdict: The community recommends using the official wp-scripts package for a zero-config build process when developing custom WordPress plugins.
+confidence: medium
+sources: 5
 schema_type: HowTo
-tags: performance, security, forms
+tags: gutenberg, performance, seo
 faq:
-  - q: What is the first step to creating a WordPress plugin?
-    a: The first step is to create a folder in your wp-content/plugins directory and add a PHP file with a specific header comment.
-  - q: Do I need to know PHP to build a WordPress plugin?
-    a: Yes, WordPress plugins are built using PHP, so a foundational knowledge of the language is required to interact with the WordPress core.
-  - q: How do I ensure my plugin is lightweight?
-    a: Avoid loading unnecessary scripts or styles on the frontend and keep your database queries efficient to prevent site bloat.
-Creating a custom plugin requires a basic understanding of PHP, the WordPress Plugin API, and maintaining clean, lightweight code for performance. Based on 1 community reports.
-Linked sources: 1.
-Known Issues Lack of standardized documentation for beginners Potential for plugin bloat if not optimized Community Q&amp;A What is the first step to creating a WordPress plugin?
-The first step is to create a folder in your wp-content/plugins directory and add a PHP file with a specific header comment.
-Do I need to know PHP to build a WordPress plugin?
-Yes, WordPress plugins are built using PHP, so a foundational knowledge of the language is required to interact with the WordPress core.
-How do I ensure my plugin is lightweight?
-Avoid loading unnecessary scripts or styles on the frontend and keep your database queries efficient to prevent site bloat.
-Reddit Sources [FREEMIUM] I built Uncomplicated Forms because I was tired of bloated, high-overhead form builders. Looking for feedback! (r/WordpressPlugins)
+  - q: What is the best way to start building a WordPress plugin?
+    a: Use the official wp-scripts package, which provides a zero-config webpack build process for building, testing, and linting your code.
+  - q: Do I need to configure webpack manually for WordPress plugins?
+    a: No, it is generally recommended to use wp-scripts to handle the build process automatically without manual configuration.
+  - q: How do I get my plugin published on the WordPress repository?
+    a: You must submit your plugin to the official WordPress review team, which can be a rigorous process requiring adherence to coding standards.
+The community recommends using the official wp-scripts package for a zero-config build process when developing custom WordPress plugins. Based on 5 community reports.
+Linked sources: 5.
+Known Issues Complex build processes Plugin review team delays Maintenance overhead for updates Community Q&amp;A What is the best way to start building a WordPress plugin?
+Use the official wp-scripts package, which provides a zero-config webpack build process for building, testing, and linting your code.
+Do I need to configure webpack manually for WordPress plugins?
+No, it is generally recommended to use wp-scripts to handle the build process automatically without manual configuration.
+How do I get my plugin published on the WordPress repository?
+You must submit your plugin to the official WordPress review team, which can be a rigorous process requiring adherence to coding standards.
+Reddit Sources Wordpress Development Workflow (r/ProWordPress) Published my first plugin - What would you like to know? (r/ProWordPress) I built a WordPress plugin to auto-generate SEO-optimized WooCommerce product descriptions (REQUESTING FOR A FEW TESTERS) (r/woocommerce) A governed WordPress block system delivering unexpected highscore on PageSpeed without optimization plugins (r/ProWordPress) Barebones tutorial for creating custom blocks with a webpack build process? (r/ProWordPress)
 ---
 
 ---
