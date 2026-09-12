@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 62 articles
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 63 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 113 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 294 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
@@ -792,6 +792,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/core/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/howto/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.
+- [WordPress Two-Factor Authentication Security Guide](https://wordpress-faq.com/error/wordpress-two-factor-authentication/) — Implementing two-factor authentication is widely considered a mandatory security best practice for all WordPress administrators to prevent account hacks.
 - [WordPress Two-Factor Authentication Security Guide](https://wordpress-faq.com/howto/wordpress-two-factor-authentication/) — Implementing two-factor authentication is the most effective way to prevent unauthorized access to WordPress administrator accounts.
 - [WordPress Version Updates and Plugin Management](https://wordpress-faq.com/version/wordpress-version-update-guide/) — Community consensus suggests that plugin update delays are a necessary security measure, and users should always backup before applying new versions.
 - [WordPress Version Updates and Security Best Practices](https://wordpress-faq.com/version/wordpress-version-updates/) — Always perform a full site backup before applying any WordPress core or plugin updates to ensure you can recover if a conflict occurs.
