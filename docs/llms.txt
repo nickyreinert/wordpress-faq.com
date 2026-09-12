@@ -8,13 +8,13 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 62 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 113 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 294 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 37 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 10 articles
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 61 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -262,6 +262,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing Slow WooCommerce Performance and Plugin Bloat](https://wordpress-faq.com/howto/performance-woocommerce-optimization/) — Excessive plugin usage is the primary cause of WooCommerce performance degradation, which can be mitigated through managed hosting and optimization.
 - [Fixing the WordPress White Screen of Death](https://wordpress-faq.com/error/wordpress-white-screen-of-death-fix/) — The White Screen of Death is typically caused by plugin conflicts, theme errors, or memory limits, and is best resolved by enabling WP_DEBUG to identify the root cause.
 - [Fixing WooCommerce Fatal Errors in WordPress](https://wordpress-faq.com/error/woocommerce-wordpress-fatal-error/) — Fatal errors in WooCommerce are typically caused by plugin conflicts, outdated PHP versions, or recent WordPress core updates breaking custom code.
+- [Fixing WordPress Core Web Vitals Performance Issues](https://wordpress-faq.com/error/wordpress-core-web-vitals-fix/) — Community consensus suggests that improving Core Web Vitals requires a combination of image optimization, high-quality hosting, and theme selection.
 - [Fixing WordPress Core Web Vitals: LCP Optimization Guide](https://wordpress-faq.com/howto/wordpress-core-web-vitals-fix/) — Community consensus suggests prioritizing image optimization, removing lazy-loading from hero elements, and avoiding conflicting performance plugins.
 - [Fixing WordPress Core Web Vitals: Performance Optimization](https://wordpress-faq.com/core/wordpress-core-web-vitals-fix/) — Community consensus suggests that performance issues are usually caused by bloated themes, plugin conflicts, and improper image loading configurations.
 - [Fixing WordPress Database Connection Errors](https://wordpress-faq.com/error/wordpress-database-connection-error/) — Database connection errors are typically caused by server resource exhaustion, MySQL service crashes, or database table corruption.
