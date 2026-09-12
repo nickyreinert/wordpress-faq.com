@@ -13626,6 +13626,34 @@ Reddit Sources [FREEMIUM] GriffinForms — WordPress form builder with multi-ste
 
 ---
 title: How to Use WP_Query in WordPress
+url: https://wordpress-faq.com/howto/wp-query-usage-guide/
+date: 2026-09-12
+lastmod: 2026-09-12
+verdict: Developers must ensure show_in_rest is set to true in their custom post type registration to allow the Query Loop block to access data.
+confidence: medium
+sources: 8
+schema_type: HowTo
+tags: gutenberg, database, performance
+faq:
+  - q: How do I use WP_Query in WordPress?
+    a: You use WP_Query by creating a new instance of the class with your arguments array to fetch posts, then loop through them using have_posts() and the_post().
+  - q: Why is my custom post type not showing in the Query Loop block?
+    a: This is usually because 'show_in_rest' is set to false in your register_post_type function; Gutenberg requires the REST API to populate the dropdown.
+  - q: Is WP_Query safe for large databases?
+    a: Complex queries can cause resource exhaustion; it is recommended to limit search query lengths and use caching or specialized search plugins like Relevanssi.
+Developers must ensure show_in_rest is set to true in their custom post type registration to allow the Query Loop block to access data. Based on 8 community reports.
+Linked sources: 8.
+Known Issues REST API visibility Query loop block data population Database resource exhaustion Community Q&amp;A How do I use WP_Query in WordPress?
+You use WP_Query by creating a new instance of the class with your arguments array to fetch posts, then loop through them using have_posts() and the_post().
+Why is my custom post type not showing in the Query Loop block?
+This is usually because &lsquo;show_in_rest&rsquo; is set to false in your register_post_type function; Gutenberg requires the REST API to populate the dropdown.
+Is WP_Query safe for large databases?
+Complex queries can cause resource exhaustion; it is recommended to limit search query lengths and use caching or specialized search plugins like Relevanssi.
+Reddit Sources WordPress Just Got Three AI Integrations in Four Days — Here&rsquo;s What Each One Actually Does (r/Wordpress) WP + ACF + Elementor - Associate a Post Category with a custom Post Type entry? (r/Wordpress) WordPress Internal Search Resource Exhaustion DoS (r/Wordpress) How do you actually know a WordPress plugin is safe? (r/Wordpress) wordpress hybrid (r/Wordpress) EasyInstall - The WordPress Stack That Heals Itself (AI-Powered + Per-Site Redis) 🤖💪 (r/Wordpress) WordPress’ Inherent Bottlenecks &amp; Architectural Limits (r/Wordpress) How to check if the post-type dropdown in the Query Loop block is populated with data? (r/Wordpress)
+---
+
+---
+title: How to Use WP_Query in WordPress
 url: https://wordpress-faq.com/howto/wp-query-usage/
 date: 2026-08-12
 lastmod: 2026-08-12
