@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 299 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 63 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 298 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 113 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
@@ -787,6 +787,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Plugin & Theme Updates](https://wordpress-faq.com/news/wordpress-plugin-theme-updates/) — <no value>
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-post-install-configuration/) — A systematic post-installation checklist covering security, caching, and payment testing is essential for a stable and performant website launch.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
+- [WordPress Post-Installation Configuration Guide](https://wordpress-faq.com/howto/wordpress-configuration-guide/) — Community consensus suggests prioritizing performance tuning and security hardening immediately after a fresh WordPress installation.
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening-checklist/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
 - [WordPress Security Patch and Vulnerability Management](https://wordpress-faq.com/error/wordpress-security-vulnerability/) — Maintaining a secure WordPress site requires consistent updates to core, themes, and plugins to mitigate known vulnerabilities and exploit risks.
