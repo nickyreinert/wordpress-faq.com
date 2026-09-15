@@ -6491,6 +6491,25 @@ Added safeguards for outdated Fluent Forms Pro installations. Source Fluent Form
 ---
 
 ---
+title: Fluent Forms 6.2.14 Released
+url: https://wordpress-faq.com/news/fluent-forms-6-2-14-released/
+date: 2026-09-15
+lastmod: 2026-09-15
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, fluent-forms, release, changelog, news
+What&rsquo;s new in Fluent Forms 6.2.14 Released: (Date: September 15, 2026)
+Active installations: 700,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Improves Stripe payment confirmation when updates arrive after checkout Improves payment retries and checkout confirmation messages Improves subscription trial, installment, and custom amount processing Improves refund and completed payment consistency Refines payment totals for conditional quantities and inventory-controlled items Improves notification delivery for valid zero-value orders Refines manager search and admin data handling Improves form import reliability Improves Save &amp; Resume, entry status, and payment receipt handling Improves compatibility for advanced Date field configuration Previous releases 6.2.13 — (Date: August 22, 2026)
+Adds minimum and maximum selection limits for checkbox and multi-select fields Improves the Other option (checkable inputs) so a preselected value shows its text input on page load Improves accessibility of the required Other input with proper validation state Fixes the empty Other marker showing in stored entries, email, and PDF output Fixes file type validation so extensions are matched case-insensitively on upload and import 6.2.12 — (Date: August 10, 2026)
+Adds an optional MCP server that lets AI assistants work with your forms, entries, and reports, turned off by default Adds a Spam option to the entry status filter on the entries list Adds a notice when global captcha auto load is enabled but the keys are missing Improves the Steps progress indicator so you can click it to move between steps, like Tabs Improves how cookie smartcode values are handled and displayed Source Fluent Forms on WordPress.org
+---
+
+---
 title: Fluent Forms 6.2.8 Released
 url: https://wordpress-faq.com/news/fluent-forms-6-2-8-released/
 date: 2026-07-23
@@ -16370,6 +16389,25 @@ New: Variant Pills and Buy Buttons blocks can now be added inside a Product List
 ---
 
 ---
+title: SureCart 4.8.0 Released
+url: https://wordpress-faq.com/news/surecart-4-8-0-released/
+date: 2026-09-15
+lastmod: 2026-09-15
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.8.0 Released: September 15th, 2026
+Active installations: 80,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog New: Added the modern DataViews list experience to the rest of the SureCart admin pages. New: Fully client-side, SPA-like navigation across the SureCart admin. New: Product integrations list now has an edit action and a richer view. Improvement: Print the JS translation catalog once per page instead of once per block handle (~150 copies down to 1), fixing a blank block editor on WP 7.1 (Chromium). Fix: Checkout only requires a phone number for physical products when shipping actually needs one, instead of always. Fix: Collection sync now adopts an existing unlinked term instead of failing when a collection term creation collides with it. Fix: sc_product_media shortcode rendering a placeholder instead of the WP media library gallery when passing an id. Fix: Price input fields ignoring the site locale and only accepting a dot as the decimal separator. Fix: PayPal’s Credit Card option losing its button or reverting to the regular PayPal button after a checkout field change like email or address. Fix: Product page migration wrapping WooCommerce’s single-product block template, corrupting product pages on hybrid WooCommerce/SureCart sites. Previous releases 4.7.3 — September 9th, 2026
+Improvement: Faster block registration using a build-time metadata manifest. Fix: Shop page and Quick View load time on stores with many product variants, cutting it from 20-30s to a few seconds. Fix: SureCart disabling LiteSpeed Cache’s page caching site-wide. Fix: Address autocomplete reversing the street name and house number order for countries that write them in that order. Fix: Cancelling or editing a subscription that no longer exists now shows a “Not found” message on the customer dashboard instead of a fatal error. 4.7.2 — September 3rd, 2026
+Fix: Product image unclickable in the Shop page product list when the image sits inside a Cover block. Source SureCart on WordPress.org
+---
+
+---
 title: SureCart and WooCommerce Compatibility Guide
 url: https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/
 date: 2026-06-05
@@ -19671,7 +19709,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-15.
-Plugin / theme Version Released Type Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin MC4WP 4.14.1 2026-09-10 plugin Tutor LMS 4.0.8 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin SureCart 4.7.3 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin SureCart 4.8.0 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin MC4WP 4.14.1 2026-09-10 plugin Tutor LMS 4.0.8 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme UpdraftPlus 1.26.7 2026-08-21 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
