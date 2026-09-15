@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 113 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 303 articles
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 63 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 37 articles
@@ -796,6 +796,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Security Hardening Checklist](https://wordpress-faq.com/howto/wordpress-security-hardening/) — Regular updates, strong authentication, and limiting file permissions are the most effective ways to secure a WordPress installation against attacks.
 - [WordPress Security Patch and Vulnerability Management](https://wordpress-faq.com/error/wordpress-security-vulnerability/) — Maintaining a secure WordPress site requires consistent updates to core, themes, and plugins to mitigate known vulnerabilities and exploit risks.
 - [WordPress Security Scan Tools: Best Practices and Audits](https://wordpress-faq.com/compatibility/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners are useful for basic vulnerability checks, manual server log analysis remains essential for security.
+- [WordPress Security Vulnerabilities and Patching Guide](https://wordpress-faq.com/error/wordpress-security-vulnerability-patch/) — The community consensus is that proactive plugin management, regular updates, and monitoring vulnerability databases are essential for site safety.
 - [WordPress SEO Basics for Beginners](https://wordpress-faq.com/howto/wordpress-seo-basics/) — Community consensus suggests using dedicated SEO plugins like RankMath or Yoast for superior control over on-page optimization compared to builders.
 - [WordPress Signs the Open Weights and American AI Leadership Letter](https://wordpress-faq.com/news/wordpress-signs-the-open-weights-and-american-ai-leadership-letter/) — <no value>
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/core/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
