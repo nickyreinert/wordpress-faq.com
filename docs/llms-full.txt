@@ -456,6 +456,25 @@ Site import on multisite now requires network-level capabilities. Special thanks
 ---
 
 ---
+title: All-in-One WP Migration and Backup 7.111 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-migration-7-111-released/
+date: 2026-09-15
+lastmod: 2026-09-15
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-migration, release, changelog, news
+What&rsquo;s new in All-in-One WP Migration and Backup 7.111 Released: 2026-09-15
+Active installations: 5,000,000
+Tested up to WordPress 7.1
+Requires PHP 5.3
+Changelog Export and import now require the administrator capability. This closes a missing-authorization issue that allowed authenticated users without administrator privileges to run migrations. Credits to Charles Vosburgh for reporting it Backup actions (list, delete, label, browse, and download) are now restricted to users who can export or import HTTP authentication credentials are no longer captured for users who lack permission to run a migration. Credits to Jakub Herman for reporting it Backup list, archive browser, and downloads now fail closed with a clear error when the session has expired, instead of failing silently Export REST route no longer accepts malformed find-and-replace pairs (previously ignored silently) SQLite export no longer removes the substring STRICT from column names that contain it Previous releases 7.110
+Find and replace on values ending in a backslash. Special thanks to Jack Taylor for responsibly disclosing this issue Wrong warning message when leaving the page during export 7.109
+File option in the Import From menu did not open the file picker, which prevented importing a backup from a local file Source All-in-One WP Migration and Backup on WordPress.org
+---
+
+---
 title: All-in-One WP Migration Plugin Review
 url: https://wordpress-faq.com/review/all-in-one-wp-migration-review/
 date: 2026-06-07
@@ -19652,7 +19671,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-15.
-Plugin / theme Version Released Type Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin MC4WP 4.14.1 2026-09-10 plugin Tutor LMS 4.0.8 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin SureCart 4.7.3 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin Yoast SEO 28.4 2026-09-01 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin All-in-One WP Migration and Backup 7.110 2026-08-20 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin MC4WP 4.14.1 2026-09-10 plugin Tutor LMS 4.0.8 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin SureCart 4.7.3 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme Fluent Forms 6.2.13 2026-08-22 plugin UpdraftPlus 1.26.7 2026-08-21 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence Security 10.0.3 2026-07-27 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -20675,6 +20694,24 @@ Tested up to WordPress 7.1
 Requires PHP 7.4
 Changelog Adds an option to access the Yoast SEO Bulk editor from the Bulk actions menu in the Posts and Pages sections of the WordPress dashboard. Fixes a bug where the AI generator’s tip to write more content was not shown for posts whose content consisted mostly of block markup, because the markup was counted as content. Previous releases 28.3
 Adds a schemamap.xml file at the site root that exposes the aggregated schema map. Adds the failing object’s type and ID to the SEO data optimization error report when an indexable cannot be built. Improves performance when running the SEO optimization by warming post and term caches in bulk. Improves the performance of generating XML sitemaps by warming post, term and featured-image caches in bulk. Fixes a bug where the AI Content Planner inserted an empty paragraph block before the template blocks when a post type had a block template registered. Source Yoast SEO on WordPress.org
+---
+
+---
+title: Yoast SEO 28.5 Released
+url: https://wordpress-faq.com/news/yoast-seo-28-5-released/
+date: 2026-09-15
+lastmod: 2026-09-15
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, yoast-seo, release, changelog, news
+What&rsquo;s new in Yoast SEO 28.5 Released: 2026-09-15
+Active installations: 10,000,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Fixes a bug where the SEO data optimization would loop endlessly when an indexing batch was repeatedly returned without being processed. Adds a link with more information about social previews to the social appearance sections of the editor. Updates the plugin’s app URL and logo that are used when initiating the MyYoast connection. Previous releases 28.4
+Adds an option to access the Yoast SEO Bulk editor from the Bulk actions menu in the Posts and Pages sections of the WordPress dashboard. Fixes a bug where the AI generator’s tip to write more content was not shown for posts whose content consisted mostly of block markup, because the markup was counted as content. Source Yoast SEO on WordPress.org
 ---
 
 ---

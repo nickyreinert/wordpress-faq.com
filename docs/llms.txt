@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 113 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 115 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 303 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
@@ -45,6 +45,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All-in-One WP Migration and Backup 7.108 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-108-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.109 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-109-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.110 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-110-released/) — <no value>
+- [All-in-One WP Migration and Backup 7.111 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-111-released/) — <no value>
 - [All-in-One WP Migration Plugin Review](https://wordpress-faq.com/review/all-in-one-wp-migration-review/) — The plugin is widely used for site migrations, though users report occasional link errors and reliability issues during large database transfers.
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
@@ -829,6 +830,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Yoast SEO 28.2 Released](https://wordpress-faq.com/news/yoast-seo-28-2-released/) — <no value>
 - [Yoast SEO 28.3 Released](https://wordpress-faq.com/news/yoast-seo-28-3-released/) — <no value>
 - [Yoast SEO 28.4 Released](https://wordpress-faq.com/news/yoast-seo-28-4-released/) — <no value>
+- [Yoast SEO 28.5 Released](https://wordpress-faq.com/news/yoast-seo-28-5-released/) — <no value>
 - [Yoast SEO Plugin Review and Community Feedback](https://wordpress-faq.com/review/yoast-seo-review/) — While Yoast SEO remains a standard, many developers now prefer Rank Math for its modern features and lighter footprint.
 - [Yoast SEO WordPress Troubleshooting Guide](https://wordpress-faq.com/error/yoast-seo-troubleshooting/) — Most Yoast SEO issues stem from incorrect site visibility settings, caching conflicts, or improper URL canonicalization rather than plugin bugs.
 - [Your Guide to WordCamp US 2026](https://wordpress-faq.com/news/your-guide-to-wordcamp-us-2026/) — <no value>
