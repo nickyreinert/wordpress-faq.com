@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 119 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 120 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 303 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
@@ -761,6 +761,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 7.1 Beta 3](https://wordpress-faq.com/news/wordpress-7-1-beta-3/) — <no value>
 - [WordPress 7.1 Beta 4](https://wordpress-faq.com/news/wordpress-7-1-beta-4/) — <no value>
 - [WordPress 7.1 Release Candidate 1](https://wordpress-faq.com/news/wordpress-7-1-release-candidate-1/) — <no value>
+- [WordPress 7.1.1 Maintenance and Security Release](https://wordpress-faq.com/news/wordpress-7-1-1-maintenance-and-security-release/) — <no value>
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-pros-cons/) — WordPress is the industry standard for ease of use and scalability, though it may be outperformed by custom frameworks for highly specialized projects.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress and WooCommerce Performance Optimization Guide](https://wordpress-faq.com/compatibility/wordpress-woocommerce-performance/) — Performance issues in WooCommerce are typically caused by poor server configuration or plugin bloat rather than the core software itself.

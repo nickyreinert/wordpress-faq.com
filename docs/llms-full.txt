@@ -18861,6 +18861,21 @@ Source WordPress 7.1 Release Candidate 1 — WordPress.org News
 ---
 
 ---
+title: WordPress 7.1.1 Maintenance and Security Release
+url: https://wordpress-faq.com/news/wordpress-7-1-1-maintenance-and-security-release/
+date: 2026-09-17
+lastmod: 2026-09-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.1.1 Maintenance and Security Release This security and maintenance release features 17 bug fixes on Core, 19 bug fixes for the Block Editor, and 11 security fixes. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.1 from WordPress.org, or visit your WordPress Dashboard, click “Updates”, and then click “Update…
+Announced on the official WordPress.org news blog on 2026-09-17.
+Source WordPress 7.1.1 Maintenance and Security Release — WordPress.org News
+---
+
+---
 title: WordPress Advantages and Disadvantages Explained
 url: https://wordpress-faq.com/comparison/wordpress-pros-cons/
 date: 2026-07-05
