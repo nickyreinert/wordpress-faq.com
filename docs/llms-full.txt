@@ -361,6 +361,25 @@ Reddit Sources New Malware Found in WordPress Installations: Hidden Admin Users,
 ---
 
 ---
+title: All-In-One Security (AIOS) 5.4.10 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-security-5-4-10-released/
+date: 2026-09-17
+lastmod: 2026-09-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-security, release, changelog, news
+What&rsquo;s new in All-In-One Security (AIOS) 5.4.10 Released: 16/Sep/2026
+Active installations: 1,000,000
+Tested up to WordPress 7.1
+Requires PHP 5.6
+Changelog SECURITY: Login lockout unlock requests allowed users to unlock another account’s lockout because they were validated based only on the IP address, without checking the user account. Thanks to Ananda Dhakal for disclosing this defect. (This would allow an attacker sharing the same IP address as a user with an active lockout to clear that user’s lockout.) Previous releases 5.4.9 — 5/Jun/2026
+TWEAK: Added a filter that validates POST requests containing UDRPC messages TWEAK: Update the internal common libs package to latest version 5.4.8 — 2/Jun/2026
+SECURITY: Escaped debug log messages before rendering them in the admin area to prevent a stored XSS vulnerability. Thanks to Dmitrii Ignatyev for disclosing this defect. (This issue required both the debug logging feature and the “Disallow unauthorized REST API requests” setting to be enabled. Under those conditions, an attacker could inject malicious scripts into the debug logs via specially crafted requests, which could execute when viewed by an administrator on the AIOS debug logs page). FEATURE: Add notification method to reporting class to handle mails FEATURE: Added bulk actions to audit log table for blacklisting IPs FIX: Fixed minor bug when setting up TFA with the Onboarding wizard where correct codes are rejected if they are entered more than once. FIX: Log out button/link not working immediately after enabling the rename login feature Source All-In-One Security (AIOS) on WordPress.org
+---
+
+---
 title: All-In-One Security (AIOS) 5.4.9 Released
 url: https://wordpress-faq.com/news/all-in-one-wp-security-5-4-9-released/
 date: 2026-06-05
@@ -17789,6 +17808,25 @@ Update: Improved WPML compatibility. (Pro) Fix: Resolved the author ID mismatch 
 ---
 
 ---
+title: Tutor LMS 4.0.9 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-0-9-released/
+date: 2026-09-17
+lastmod: 2026-09-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.0.9 Released: 17 Sep, 2026
+Active installations: 100,000
+Tested up to WordPress 7.1
+Requires PHP 7.4
+Changelog Update: Improved overall performance and strengthened security measures. Previous releases 4.0.8 — 10 Sep, 2026
+Update: Added an option to show or hide the Header and Footer in the Dashboard and Learning Area. Update: Added options to upload separate logos for Light and Dark modes. Update: Added a setting to control the Puzzle Quiz reference image visibility. (Pro) Update: Improved the assignment submission flow for learners. (Pro) Update: Added links to the associated course and lesson in frontend Q&amp;A lists. 4.0.7 — 20 Aug, 2026
+Fix: Fixed course creation issues caused by the Multi Instructor addon. (Pro) Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -19709,7 +19747,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-17.
-Plugin / theme Version Released Type MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin SureCart 4.8.0 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Tutor LMS 4.0.8 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Astra 4.13.11 2026-09-08 theme Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme UpdraftPlus 1.26.7 2026-08-21 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin All-In-One Security (AIOS) 5.4.9 2026-08-13 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin Tutor LMS 4.0.9 2026-09-17 plugin Astra 4.13.12 2026-09-17 theme MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin SureCart 4.8.0 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin WooCommerce 11.1.0 2026-09-03 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme UpdraftPlus 1.26.7 2026-08-21 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
