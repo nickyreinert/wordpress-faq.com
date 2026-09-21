@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 121 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 123 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 303 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
@@ -603,6 +603,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Ninja Forms 3.15.1 Released](https://wordpress-faq.com/news/ninja-forms-3-15-1-released/) — <no value>
 - [Ninja Forms 3.15.2 Released](https://wordpress-faq.com/news/ninja-forms-3-15-2-released/) — <no value>
 - [Ninja Forms 3.15.3 Released](https://wordpress-faq.com/news/ninja-forms-3-15-3-released/) — <no value>
+- [Ninja Forms 3.15.4 Released](https://wordpress-faq.com/news/ninja-forms-3-15-4-released/) — <no value>
 - [Ninja Forms Review: Features and Common Conflicts](https://wordpress-faq.com/review/ninja-forms-review/) — Ninja Forms is a capable builder, but users frequently report CSS conflicts with themes and limitations when calculating totals for payment gateways.
 - [Ninja Forms vs WPForms: Form Builder Comparison](https://wordpress-faq.com/comparison/ninja-forms-wpforms/) — Community consensus suggests that while Ninja Forms is powerful, it often suffers from CSS conflicts and complex payment field configurations compared to rivals.
 - [Optimizing Advanced Custom Fields for WordPress Performance](https://wordpress-faq.com/howto/advanced-custom-fields-optimization/) — Community consensus suggests offloading complex queries to Elasticsearch and minimizing field bloat to maintain high site performance.
@@ -806,6 +807,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Security Vulnerabilities and Patching Guide](https://wordpress-faq.com/error/wordpress-security-vulnerability-patch/) — The community consensus is that proactive plugin management, regular updates, and monitoring vulnerability databases are essential for site safety.
 - [WordPress SEO Basics for Beginners](https://wordpress-faq.com/howto/wordpress-seo-basics/) — Community consensus suggests using dedicated SEO plugins like RankMath or Yoast for superior control over on-page optimization compared to builders.
 - [WordPress Signs the Open Weights and American AI Leadership Letter](https://wordpress-faq.com/news/wordpress-signs-the-open-weights-and-american-ai-leadership-letter/) — <no value>
+- [WordPress Takes Its Turn Leading the Open Website Alliance](https://wordpress-faq.com/news/wordpress-takes-its-turn-leading-the-open-website-alliance/) — <no value>
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/core/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Template Hierarchy Explained](https://wordpress-faq.com/howto/wordpress-template-hierarchy/) — The template hierarchy is the fundamental logic WordPress uses to select the correct theme file for any given URL request based on specific rules.
 - [WordPress Themes vs Page Builders: Which to Use](https://wordpress-faq.com/comparison/page-builder-theme/) — Themes are better for performance and stability, while page builders offer easier design customization for beginners at the cost of site speed.

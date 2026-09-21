@@ -15140,6 +15140,25 @@ strengthen input validation for list field option imports allow non-Latin charac
 ---
 
 ---
+title: Ninja Forms 3.15.4 Released
+url: https://wordpress-faq.com/news/ninja-forms-3-15-4-released/
+date: 2026-09-21
+lastmod: 2026-09-21
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ninja-forms, release, changelog, news
+What&rsquo;s new in Ninja Forms 3.15.4 Released: (21 September 2026)
+Active installations: 500,000
+Tested up to WordPress 7.1.1
+Requires PHP 7.4
+Changelog strengthen output escaping in admin submission edit screen; responsibly reported by Venkateswara Reddy Challa protect CSV export against object injection in stored submission data enforce server-side option validation for list fields add CSS class setting to Hidden fields make Select Image field mobile responsive use relative paths for image URLs in Select Image field fix JavaScript error when deleting forms in dashboard resolve PHP warning for undefined reCAPTCHA settings key display form title correctly when heading level is unset return proper error when submission abilities reference nonexistent submission prevent fatal memory error on Get Help page with large debug logs silence PHP 8 warning from add-on update checker when store returns no record Previous releases 3.15.3 — (07 September 2026)
+strengthen input validation for unserialize() operations preserve newsletter action list selection when provider connection is temporarily unavailable encode special characters correctly in CSV submission exports allow optional and hidden Date/Time fields to pass validation keep rich text editor scrollbar visible and functional in all views 3.15.2 — (31 August 2026)
+enforce granular two-tier permission model in Abilities API, responsibly reported by ChinhNguyen neutralize shortcode brackets in IP address and referer URL merge tags, responsibly reported by Jakub Herman validate repeater child field entries against server-side definitions apply context-correct output escaping in legacy submissions admin ensure shortcode neutralization callback is accessible for array inputs Source Ninja Forms on WordPress.org
+---
+
+---
 title: Ninja Forms Review: Features and Common Conflicts
 url: https://wordpress-faq.com/review/ninja-forms-review/
 date: 2026-07-23
@@ -19779,7 +19798,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-21.
-Plugin / theme Version Released Type WooCommerce 11.1.1 2026-09-18 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin Tutor LMS 4.0.9 2026-09-17 plugin Astra 4.13.12 2026-09-17 theme MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin SureCart 4.8.0 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin Ninja Forms 3.15.3 2026-09-07 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme UpdraftPlus 1.26.7 2026-08-21 plugin Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type UpdraftPlus 1.26.8 2026-09-21 plugin Ninja Forms 3.15.4 2026-09-21 plugin WooCommerce 11.1.1 2026-09-18 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin Tutor LMS 4.0.9 2026-09-17 plugin Astra 4.13.12 2026-09-17 theme MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin SureCart 4.8.0 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Rank Math SEO 1.0.278 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin Easy Digital Downloads 3.7.0 2026-08-14 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -20035,6 +20054,21 @@ tags: wordpress, core, news, release
 WordPress Signs the Open Weights and American AI Leadership Letter We’re proud to announce that WordPress has signed Open Weights and American AI Leadership, an open letter asking US policymakers to not place early restrictions on open weight AI models. These are artificial intelligence models that anyone can download, inspect, modify, and run on their own infrastructure. The letter was published on July 24, 2026,…
 Announced on the official WordPress.org news blog on 2026-08-27.
 Source WordPress Signs the Open Weights and American AI Leadership Letter — WordPress.org News
+---
+
+---
+title: WordPress Takes Its Turn Leading the Open Website Alliance
+url: https://wordpress-faq.com/news/wordpress-takes-its-turn-leading-the-open-website-alliance/
+date: 2026-09-21
+lastmod: 2026-09-21
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress Takes Its Turn Leading the Open Website Alliance I’m happy to announce that I am now serving as president of the Open Website Alliance (OWA), representing the WordPress Foundation. The Alliance brings together the community organizations behind Drupal, Joomla!, TYPO3, and WordPress to advocate for open source and share practices that benefit their projects. I represent the WordPress Foundation in this role, which…
+Announced on the official WordPress.org news blog on 2026-09-21.
+Source WordPress Takes Its Turn Leading the Open Website Alliance — WordPress.org News
 ---
 
 ---
