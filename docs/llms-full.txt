@@ -5688,6 +5688,23 @@ Fix: Editor top bar integrations may not appear in non-English languages Source 
 ---
 
 ---
+title: Elementor Website Builder 4.3.0 Released
+url: https://wordpress-faq.com/news/elementor-4-3-0-released/
+date: 2026-09-22
+lastmod: 2026-09-22
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Website Builder 4.3.0 Released: 2026-09-22
+Active installations: 10,000,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog New: Introducing Elementor MCP – enabling compatible AI tools to build pages, edit elements, and work with your design system New: Introducing a dedicated Elementor MCP page for connecting external AI tools to your site New: Introducing Background Video for placing locally uploaded videos behind section content, with built-in play and pause controls New: Introducing Accordion for building expandable and collapsible content sections with nested content New: Introducing Default Styles for setting and managing styles for supported HTML tags globally Tweak: Added ‘nav’ and ‘main’ HTML tag options to Flexbox and Div Block elements (#33682) Tweak: Removed the WordPress section from the widget panel Tweak: Added text decoration controls to the inline text editing toolbar in Heading and Paragraph elements Tweak: Improved element duplication to prevent duplicate IDs Tweak: Updated minimum supported versions for Chrome, Firefox, and Safari Tweak: Updated Grid layout presets to use Atomic Grid Tweak: Improved nested elements by auto-wrapping them in a Flexbox Container Source Elementor Website Builder on WordPress.org
+---
+
+---
 title: Essential WordPress Plugins and Performance Optimization
 url: https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/
 date: 2026-08-05
@@ -18948,6 +18965,21 @@ Source WordPress 7.1.1 Maintenance and Security Release — WordPress.org News
 ---
 
 ---
+title: WordPress 7.1.2 Release
+url: https://wordpress-faq.com/news/wordpress-7-1-2-release/
+date: 2026-09-22
+lastmod: 2026-09-22
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.1.2 Release This security release features a fix for a critical severity security vulnerability. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.2 from WordPress.org, or visit your WordPress Dashboard, click “Updates”, and then click “Update Now”. If you have sites that support automatic background updates,…
+Announced on the official WordPress.org news blog on 2026-09-22.
+Source WordPress 7.1.2 Release — WordPress.org News
+---
+
+---
 title: WordPress Advantages and Disadvantages Explained
 url: https://wordpress-faq.com/comparison/wordpress-pros-cons/
 date: 2026-07-05
@@ -19834,7 +19866,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-22.
-Plugin / theme Version Released Type Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Ninja Forms 3.15.4 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin WooCommerce 11.1.1 2026-09-18 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin Tutor LMS 4.0.9 2026-09-17 plugin Astra 4.13.12 2026-09-17 theme MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin SureCart 4.8.0 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Elementor Website Builder 4.2.4 2026-08-31 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Website Builder 4.3.0 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Ninja Forms 3.15.4 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin WooCommerce 11.1.1 2026-09-18 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin Tutor LMS 4.0.9 2026-09-17 plugin Astra 4.13.12 2026-09-17 theme MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin SureCart 4.8.0 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin Polylang 3.8.9 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin All in One SEO 5.0.1.1 2026-08-28 plugin Hello Elementor 3.5.1 2026-08-25 theme Autoptimize 3.1.15.1 2026-08-20 plugin Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
