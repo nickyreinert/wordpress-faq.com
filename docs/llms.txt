@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 129 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 131 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 303 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
@@ -37,6 +37,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All in One SEO 5.0.0.1 Released](https://wordpress-faq.com/news/all-in-one-seo-5-0-0-1-released/) — <no value>
 - [All in One SEO 5.0.1 Released](https://wordpress-faq.com/news/all-in-one-seo-5-0-1-released/) — <no value>
 - [All in One SEO 5.0.1.1 Released](https://wordpress-faq.com/news/all-in-one-seo-5-0-1-1-released/) — <no value>
+- [All in One SEO 5.0.2 Released](https://wordpress-faq.com/news/all-in-one-seo-5-0-2-released/) — <no value>
 - [All in One SEO Review: Features and Community Consensus](https://wordpress-faq.com/review/all-in-one-seo-review/) — The community generally prefers Rank Math for its modern interface and feature set, though All in One SEO remains a stable, legacy-supported choice.
 - [All in One SEO vs Yoast SEO Comparison](https://wordpress-faq.com/comparison/all-in-one-seo-yoast-seo/) — Both plugins provide comparable core functionality, though Yoast SEO is often noted for having a more intrusive upsell strategy for premium features.
 - [All In One WP Security Review and Security Best Practices](https://wordpress-faq.com/review/all-in-one-wp-security-review/) — Community consensus suggests that while the plugin provides a solid baseline, it is not a substitute for robust hosting security and regular backups.
@@ -250,6 +251,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Elementor Website Builder 4.2.3 Released](https://wordpress-faq.com/news/elementor-4-2-3-released/) — <no value>
 - [Elementor Website Builder 4.2.4 Released](https://wordpress-faq.com/news/elementor-4-2-4-released/) — <no value>
 - [Elementor Website Builder 4.3.0 Released](https://wordpress-faq.com/news/elementor-4-3-0-released/) — <no value>
+- [Elementor Website Builder 4.3.1 Released](https://wordpress-faq.com/news/elementor-4-3-1-released/) — <no value>
 - [Essential WordPress Plugins and Performance Optimization](https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/) — Community consensus suggests prioritizing server-side object caching and robust security practices over installing excessive third-party plugins.
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Every Website](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching, security, and backup plugins to ensure optimal site performance and data protection.
