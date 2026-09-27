@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 38 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 39 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 304 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 133 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
@@ -121,6 +121,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Bluehost vs Hostinger WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-hostinger/) — Hostinger is generally preferred for better performance and value, while Bluehost is often cited for its beginner-friendly WordPress integration.
 - [Bluehost vs Namecheap WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-namecheap/) — Both providers offer entry-level shared hosting, but performance and support quality vary significantly based on your specific website requirements.
 - [Bluehost vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-siteground/) — Both hosts are considered accessible entry-level options for WordPress, though individual performance and support experiences vary widely among users.
+- [Bluehost WordPress Performance and Speed Issues](https://wordpress-faq.com/hosting/bluehost-wordpress-performance/) — Community consensus suggests that Bluehost performance issues are common and often require migrating to a more optimized hosting provider.
 - [Bricks and WPML Compatibility and Performance Review](https://wordpress-faq.com/compatibility/bricks-wpml/) — Users generally report that while Bricks is efficient, WPML often suffers from interface bugs, leading many to prefer Polylang for better stability.
 - [Bricks Builder Review: Performance and Workflow Analysis](https://wordpress-faq.com/review/bricks-builder-review/) — Bricks Builder is widely considered a high-performance, developer-friendly page builder, though some users report issues with refund policy transparency.
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
