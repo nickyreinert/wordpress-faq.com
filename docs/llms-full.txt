@@ -20772,6 +20772,34 @@ Reddit Sources UPDATE: WPEngine didn&rsquo;t follow through on cancelling my acc
 
 ---
 title: WP Engine WordPress Hosting Review
+url: https://wordpress-faq.com/hosting/wpengine-review/
+date: 2026-09-27
+lastmod: 2026-09-27
+verdict: WP Engine is a high-performance managed hosting provider, though users occasionally report frustrations with recent changes to their support chat.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: hosting, performance, security, caching
+faq:
+  - q: Is WP Engine good for WordPress hosting?
+    a: WP Engine is widely considered a top-tier managed WordPress host known for excellent performance, security, and specialized developer tools.
+  - q: What are the main drawbacks of using WP Engine?
+    a: Some users find the pricing higher than standard shared hosting and have recently expressed concerns regarding the quality of their support chat.
+  - q: How does WP Engine compare to self-hosting?
+    a: WP Engine handles server-side optimization, caching, and security updates, whereas self-hosting offers more control but requires manual maintenance.
+WP Engine is a high-performance managed hosting provider, though users occasionally report frustrations with recent changes to their support chat. Based on 8 community reports.
+Linked sources: 8.
+Known Issues Recent changes to support chat quality Premium pricing compared to self-hosting Community Q&amp;A Is WP Engine good for WordPress hosting?
+WP Engine is widely considered a top-tier managed WordPress host known for excellent performance, security, and specialized developer tools.
+What are the main drawbacks of using WP Engine?
+Some users find the pricing higher than standard shared hosting and have recently expressed concerns regarding the quality of their support chat.
+How does WP Engine compare to self-hosting?
+WP Engine handles server-side optimization, caching, and security updates, whereas self-hosting offers more control but requires manual maintenance.
+Reddit Sources WP Engine rolled out new support chat last night and it&rsquo;s awful (r/Wordpress) Advice for allowing nonprofit to have better control of their sites WordPress design? (r/Wordpress) LocalWP + Breakdance + Home?? (r/Wordpress) Any Training/Certification Recommendations? (r/Wordpress) Looking for a young/early-career wp developer/assistant with good organization skills (r/Wordpress) As a WPEngine user, I am STRUGGLING with Wordpress.com. I feel lost and upset with myself for trying this site builder. Please advise on how to proceed. (r/Wordpress) WordPress site conversion (r/Wordpress) Wordpress as a Strategic pick (r/Wordpress)
+---
+
+---
+title: WP Engine WordPress Hosting Review
 url: https://wordpress-faq.com/hosting/wpengine-hosting-review/
 date: 2026-07-27
 lastmod: 2026-07-27

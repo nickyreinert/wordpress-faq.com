@@ -8,12 +8,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 38 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 133 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 303 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 67 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 37 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 10 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
@@ -837,6 +837,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress vs Wix: Which Platform is Better?](https://wordpress-faq.com/comparison/wix-wordpress/) — WordPress is generally considered superior for SEO and long-term scalability, whereas Wix is preferred for beginners needing a simple, turnkey solution.
 - [WordPress.com vs WordPress.org: Key Differences Explained](https://wordpress-faq.com/comparison/wordpress-com-vs-wordpress-org/) — WordPress.org provides self-hosted software for total control, whereas WordPress.com is a managed hosting service with limited customization.
 - [WP Engine vs DigitalOcean WordPress Hosting Comparison](https://wordpress-faq.com/comparison/digitalocean-wpengine/) — WP Engine offers managed convenience with aggressive sales tactics, while DigitalOcean provides affordable, unmanaged infrastructure for developers.
+- [WP Engine WordPress Hosting Review](https://wordpress-faq.com/hosting/wpengine-review/) — WP Engine is a high-performance managed hosting provider, though users occasionally report frustrations with recent changes to their support chat.
 - [WP Engine WordPress Hosting Review](https://wordpress-faq.com/hosting/wpengine-hosting-review/) — Community consensus is mixed, with users praising the platform's robust features while frequently criticizing recent declines in customer support quality.
 - [WP Mail SMTP by WPForms 4.9.0 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-9-0-released/) — <no value>
 - [WP Mail SMTP Plugin Review and Email Delivery Guide](https://wordpress-faq.com/review/wp-mail-smtp-review/) — WP Mail SMTP is widely considered the industry standard for ensuring reliable WordPress email delivery through authenticated SMTP connections.
