@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 39 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 40 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 304 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 133 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
@@ -574,6 +574,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is DigitalOcean Good for WordPress Hosting?](https://wordpress-faq.com/hosting/digitalocean-wordpress-hosting/) — DigitalOcean is excellent for experienced users needing performance and control, but it is generally considered too complex for WordPress beginners.
 - [Is DreamHost Good for WordPress Hosting?](https://wordpress-faq.com/hosting/dreamhost-wordpress-hosting/) — Community consensus is mixed, with many users preferring premium alternatives for better performance and advanced caching support.
 - [Is Hetzner Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hetzner-wordpress-hosting/) — Hetzner is widely considered an excellent, high-performance, and cost-effective choice for WordPress hosting, especially for those comfortable with VPS.
+- [Is Hostinger Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hostinger-wordpress-hosting/) — Hostinger is considered a reliable and easy-to-manage entry-level host, though it may lack the performance required for high-traffic professional sites.
 - [Is Hostinger Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hostinger-wordpress-review/) — Hostinger is widely regarded as a solid, cost-effective entry point for small WordPress sites, though it may lack the power needed for large-scale projects.
 - [Is Kinsta Good for WordPress Hosting?](https://wordpress-faq.com/hosting/kinsta-hosting-review/) — Kinsta is widely considered a high-performance, reliable managed hosting solution, though its premium pricing may be prohibitive for smaller budgets.
 - [Is Namecheap Good for WordPress Hosting?](https://wordpress-faq.com/hosting/namecheap-wordpress-hosting/) — Namecheap is considered a functional budget hosting provider, though users often recommend researching specific performance tiers for WordPress.
