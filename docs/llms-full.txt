@@ -20151,7 +20151,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-29.
-Plugin / theme Version Released Type Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Elementor Website Builder 4.3.2 2026-09-24 plugin Astra 4.14.0 2026-09-24 theme All in One SEO 5.0.2 2026-09-23 plugin SureCart 4.9.0 2026-09-23 plugin WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin Tutor LMS 4.0.9 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin Yoast SEO 28.5 2026-09-15 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Elementor Website Builder 4.3.2 2026-09-24 plugin Astra 4.14.0 2026-09-24 theme All in One SEO 5.0.2 2026-09-23 plugin SureCart 4.9.0 2026-09-23 plugin WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin Tutor LMS 4.0.9 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -21235,6 +21235,24 @@ Tested up to WordPress 7.1
 Requires PHP 7.4
 Changelog Fixes a bug where the SEO data optimization would loop endlessly when an indexing batch was repeatedly returned without being processed. Adds a link with more information about social previews to the social appearance sections of the editor. Updates the plugin’s app URL and logo that are used when initiating the MyYoast connection. Previous releases 28.4
 Adds an option to access the Yoast SEO Bulk editor from the Bulk actions menu in the Posts and Pages sections of the WordPress dashboard. Fixes a bug where the AI generator’s tip to write more content was not shown for posts whose content consisted mostly of block markup, because the markup was counted as content. Source Yoast SEO on WordPress.org
+---
+
+---
+title: Yoast SEO 28.6 Released
+url: https://wordpress-faq.com/news/yoast-seo-28-6-released/
+date: 2026-09-29
+lastmod: 2026-09-29
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, yoast-seo, release, changelog, news
+What&rsquo;s new in Yoast SEO 28.6 Released: 2026-09-29
+Active installations: 10,000,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog Don’t show a post type in the Bulk editor if Enable SEO controls and assessments is turned off for that post type. Introduces 2 new Yoast Abilities, to allow agents to get and update SEO data for given posts. Adds a notice to the bulk editor explaining that no content types are available when Enable SEO controls and assessments is disabled for all post types, with a link to the settings page. Fixes a bug where a rest_invalid_content_type error would be logged in the browser console when opening the bulk editor while Enable SEO controls and assessments was disabled for all post types. Adds two new cards for the Schema aggregator and the WordPress abilities API features. Adjust the name and description of the setting’s toggle controlling the breadcrumbs’ rendering to state clearly its intended behaviour. Re-groups the integrations’ cards in the Integrations page. Previous releases 28.5
+Fixes a bug where the SEO data optimization would loop endlessly when an indexing batch was repeatedly returned without being processed. Adds a link with more information about social previews to the social appearance sections of the editor. Updates the plugin’s app URL and logo that are used when initiating the MyYoast connection. Source Yoast SEO on WordPress.org
 ---
 
 ---
