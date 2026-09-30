@@ -6711,6 +6711,25 @@ Adds an optional MCP server that lets AI assistants work with your forms, entrie
 ---
 
 ---
+title: Fluent Forms 6.2.15 Released
+url: https://wordpress-faq.com/news/fluent-forms-6-2-15-released/
+date: 2026-09-30
+lastmod: 2026-09-30
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, fluent-forms, release, changelog, news
+What&rsquo;s new in Fluent Forms 6.2.15 Released: (Date: September 30, 2026)
+Active installations: 700,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog Adds a Stripe Payment Element option to the inline Stripe field, with Apple Pay and Google Pay Adds an Autocomplete setting on form fields so browsers can fill in details like name, email, and address Adds a Duplicate option for integration feeds Adds an Export option to the Entries page Adds an optional per-form AI Agents (WebMCP) setting that describes your form to AI-powered browsers, turned off by default Fixes the fluentform_info shortcode output so it is escaped safely Fixes Stripe 3D Secure payments not completing on conversational forms Fixes CleanTalk checking the same submission more than once Fixes the default report date range missing today’s entries on sites ahead of UTC Fixes conversational forms that could not be edited after their fields were updated through MCP Hardens input sanitization and permission checks across field settings, blocks, and entries Fixes payment forms accepting a zero, negative, or unlisted payment value that could skip payment Previous releases 6.2.14 — (Date: September 15, 2026)
+Improves Stripe payment confirmation when updates arrive after checkout Improves payment retries and checkout confirmation messages Improves subscription trial, installment, and custom amount processing Improves refund and completed payment consistency Refines payment totals for conditional quantities and inventory-controlled items 6.2.13 — (Date: August 22, 2026)
+Adds minimum and maximum selection limits for checkbox and multi-select fields Improves the Other option (checkable inputs) so a preselected value shows its text input on page load Improves accessibility of the required Other input with proper validation state Fixes the empty Other marker showing in stored entries, email, and PDF output Fixes file type validation so extensions are matched case-insensitively on upload and import Source Fluent Forms on WordPress.org
+---
+
+---
 title: Fluent Forms 6.2.8 Released
 url: https://wordpress-faq.com/news/fluent-forms-6-2-8-released/
 date: 2026-07-23
@@ -16786,6 +16805,25 @@ Improvement: Faster block registration using a build-time metadata manifest. Fix
 ---
 
 ---
+title: SureCart 4.9.1 Released
+url: https://wordpress-faq.com/news/surecart-4-9-1-released/
+date: 2026-09-30
+lastmod: 2026-09-30
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.9.1 Released: September 30th, 2026
+Active installations: 80,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog New: Connect SureCart to ChatGPT with a Custom GPT and manage your store by chatting with it. New: Import and Export options on admin list pages, grouped under one menu. Exports now run right inside your dashboard. Improvement: Google and Facebook conversion tracking now counts accepted post-purchase upsells. Improvement: Search engines no longer crawl the endless filter and sort variations of your shop page, which keeps your SEO clean. Improvement: Block labels such as button and field text now appear in your site’s language instead of always in English. Fix: Dates picked in the admin (coupons, invoices, trials, subscriptions, affiliates, payouts, fees) now follow your site’s timezone instead of your computer’s. Fix: A subscription scheduled to pause was shown as “cancelling” to both you and your customer. Fix: You can now choose a specific variant of a physical product when adding it to a checkout form. Fix: When picking a price for a Name Your Own Price product in the checkout form editor, every price looked the same, and product search did not work. Fix: Saving changes to a subscription in the admin failed with an error. Fix: Broken spacing on SureCart admin pages when Astra’s Design Library is active. Previous releases 4.9.0 — September 23rd, 2026
+New: Bulk shipping labels — pick multiple orders under Orders → Shipping Labels, compare rates, and buy labels in one go. New: “Start With a Complete Site” onboarding option to preview and import a ready-made SureCart starter template. New: Checkout, orders, invoices, and subscriptions show each tax rate on its own line when a region stacks taxes (e.g. Canadian GST + PST). New: Tax overrides can carry a custom Tax Label (e.g. “GST + PST”) shown at checkout and on receipts. New: “Limit Location Capture To” setting asks only buyers in the countries you pick for their location. 4.8.0 — September 15th, 2026
+New: Added the modern DataViews list experience to the rest of the SureCart admin pages. New: Fully client-side, SPA-like navigation across the SureCart admin. New: Product integrations list now has an edit action and a richer view. Improvement: Print the JS translation catalog once per page instead of once per block handle (~150 copies down to 1), fixing a blank block editor on WP 7.1 (Chromium). Fix: Checkout only requires a phone number for physical products when shipping actually needs one, instead of always. Source SureCart on WordPress.org
+---
+
+---
 title: SureCart and WooCommerce Compatibility Guide
 url: https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/
 date: 2026-06-05
@@ -19083,6 +19121,26 @@ Improvement: Better presentation of Live Traffic data on wide screens Improvemen
 ---
 
 ---
+title: Wordfence Security 9.0.2 Released
+url: https://wordpress-faq.com/news/wordfence-9-0-2-released/
+date: 2026-09-30
+lastmod: 2026-09-30
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wordfence, release, changelog, news
+What&rsquo;s new in Wordfence Security 9.0.2 Released: September 30, 2026
+Active installations: 5,000,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.0
+Changelog Change: Changed IPv6 diagnostics result to be informational only Change: Added help link to increased attack rate emails Improvement: Increased compatibility with WordPress Playground Improvement: Harden REST API user enumeration protection Fix: Upgraded virtualizer dependency to fix Firefox tab crash on screens with a lot of DOM elements (e.g., a running scan) Fix: Better detection and handling of “module” script tagging to avoid conflict with renamed plugin directories Fix: Add missed return value from upgrader_pre_install audit log filter Fix: PHP 8.1 deprecation notice fixes Fix: Fixed translation support on login page Fix: Improve handling of WAF JSON processing to better handle array values Fix: Address early translation calls to avoid _load_textdomain_just_in_time notices Fix: Changed a few translated strings to avoid containing HTML due to a broken CZ translation Previous releases 9.0.1 — September 8, 2026
+Improvement: UX enhancements for passkey authentication and general login security Improvement: GeoIP database updated Fix: Improved error handling in WAF request handlers and XML-RPC parser Fix: Fixed an issue with translations not showing on the Login Security Settings tab Fix: Addressed several potential PHP 8.5+ deprecation notices 9.0.0 — August 10, 2026
+Improvement: Added support for passkey authentication Available for both free and premium installations
+Can be enabled for any user role (multisite support is currently limited) WooCommerce integration Support for custom authentication integrations Improvement: GeoIP database updated Source Wordfence Security on WordPress.org
+---
+
+---
 title: Wordfence Security Plugin Review and Performance Analysis
 url: https://wordpress-faq.com/review/wordfence-review/
 date: 2026-06-06
@@ -20189,7 +20247,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-30.
-Plugin / theme Version Released Type Elementor Website Builder 4.3.3 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Tutor LMS 4.1.0 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All in One SEO 5.0.2 2026-09-23 plugin SureCart 4.9.0 2026-09-23 plugin WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Website Builder 4.3.3 2026-09-30 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin SureCart 4.9.1 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Tutor LMS 4.1.0 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All in One SEO 5.0.2 2026-09-23 plugin WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
