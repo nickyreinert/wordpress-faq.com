@@ -5832,6 +5832,25 @@ New: Introducing Elementor MCP – enabling compatible AI tools to build pages, 
 ---
 
 ---
+title: Elementor Website Builder 4.3.3 Released
+url: https://wordpress-faq.com/news/elementor-4-3-3-released/
+date: 2026-09-30
+lastmod: 2026-09-30
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Website Builder 4.3.3 Released: 2026-09-30
+Active installations: 10,000,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog Tweak: Improved access control when MCP is disabled Fix: MCP build errors do not clearly identify invalid or unclosed elements Fix: Certain MCP style values are not applied correctly in Atomic elements Previous releases 4.3.2 — 2026-09-24
+Tweak: Improved the Editor onboarding flow for a smoother getting-started experience. Fix: HTML Tags do not work correctly with Background Video (#37393) Fix: Improved compatibility with sites protected by HTTP Basic Authentication (#37421) Fix: Page styles may not load correctly after being regenerated Fix: Improved code security enforcement in data handling 4.3.1 — 2026-09-23
+Fix: Top bar translations are not displayed correctly on Elementor admin pages Source Elementor Website Builder on WordPress.org
+---
+
+---
 title: Essential WordPress Plugins and Performance Optimization
 url: https://wordpress-faq.com/howto/essential-wordpress-plugins-optimization/
 date: 2026-08-05
@@ -20170,7 +20189,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-09-30.
-Plugin / theme Version Released Type Yoast SEO 28.6 2026-09-29 plugin Tutor LMS 4.1.0 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Elementor Website Builder 4.3.2 2026-09-24 plugin Astra 4.14.0 2026-09-24 theme All in One SEO 5.0.2 2026-09-23 plugin SureCart 4.9.0 2026-09-23 plugin WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme WP Mail SMTP by WPForms 4.9.0 2026-06-25 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Website Builder 4.3.3 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Tutor LMS 4.1.0 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All in One SEO 5.0.2 2026-09-23 plugin SureCart 4.9.0 2026-09-23 plugin WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Kadence Security 10.0.4 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Fluent Forms 6.2.14 2026-09-15 plugin Blocksy 2.1.57 2026-09-11 theme Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin Wordfence Security 9.0.1 2026-09-08 plugin W3 Total Cache 2.10.6 2026-09-04 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -21017,6 +21036,25 @@ Common alternatives include Flywheel, Kinsta, and various self-hosted VPS soluti
 Does WP Engine support local development?
 Yes, WP Engine owns LocalWP, which is a popular tool for building and testing WordPress sites locally before pushing them to a live server.
 Reddit Sources Propaganda forecast incoming (r/Wordpress) WP Engine rolled out new support chat last night and it&rsquo;s awful (r/Wordpress) LocalWP + Breakdance + Home?? (r/Wordpress) Any Training/Certification Recommendations? (r/Wordpress) Looking for a young/early-career wp developer/assistant with good organization skills (r/Wordpress) As a WPEngine user, I am STRUGGLING with Wordpress.com. I feel lost and upset with myself for trying this site builder. Please advise on how to proceed. (r/Wordpress) WordPress site conversion (r/Wordpress) Wordpress as a Strategic pick (r/Wordpress)
+---
+
+---
+title: WP Mail SMTP by WPForms 4.10.0 Released
+url: https://wordpress-faq.com/news/wp-mail-smtp-4-10-0-released/
+date: 2026-09-30
+lastmod: 2026-09-30
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wp-mail-smtp, release, changelog, news
+What&rsquo;s new in WP Mail SMTP by WPForms 4.10.0 Released: 2026-09-30
+Active installations: 4,000,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog Added: New Dashboard page, now the default screen for WP Mail SMTP, with email statistics, a setup overview, connection status, and recommended next steps. Added: Setup Checklist: a new page that guides you through connecting a mailer, sending a test email, and the rest of your email setup, with progress tracked automatically. Added: Email Detective: a new tab on the Tools page that sends a test email through your primary connection and emails you a free deliverability report covering authentication, blocklists, and spam filter scoring. Added: Setup Wizard now verifies your mailer settings with your email provider before saving them, and guides you through each mailer’s required settings as numbered steps. Changed: Setup Wizard’s email test now reports the exact sending error with the fix steps for it, names the setting at fault where it can be identified, and shows the domain checker results. Changed: Updated Action Scheduler library to 4.1.0. Fixed: The plugin could not be activated on some sites and failed with a fatal error when its stored activation dates were saved in an unexpected format. Fixed: A database error was logged and the Dashboard widget’s email error alert never appeared on sites whose MySQL server treats double quotes as identifiers (ANSI_QUOTES mode). Fixed: The Setup Wizard’s test email did not send while the “Do Not Send” option was enabled. Fixed: Hardened permission checks and request handling across several admin features to address potential security issues. Previous releases 4.9.0 — 2026-06-26
+Added: WP-CLI commands to configure WP Mail SMTP from the command line, including SMTP and API-key mailer setup and individual setting management. Added: Code Snippets tab on the Tools page to browse, preview, and install WP Mail SMTP’s WPCode snippets. Added: Support for the WordPress Abilities API (WordPress 6.9), letting connected tools and AI assistants securely read your debug events. Added: A one-click option to deactivate a conflicting plugin directly from the conflict notice. Added: Confirmation prompt before enabling the “Hide Email Delivery Errors” option, so the setting is not turned on by accident. 4.8.0 — 2026-04-16
+Added: SendLayer Quick Connect – allows connecting to SendLayer without DNS setup in 2 minutes. Changed: Improved plugin security. Source WP Mail SMTP by WPForms on WordPress.org
 ---
 
 ---
