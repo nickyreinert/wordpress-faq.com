@@ -16913,6 +16913,25 @@ New: Bulk shipping labels — pick multiple orders under Orders → Shipping Lab
 ---
 
 ---
+title: SureCart 4.9.3 Released
+url: https://wordpress-faq.com/news/surecart-4-9-3-released/
+date: 2026-10-05
+lastmod: 2026-10-05
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.9.3 Released: October 5th, 2026
+Active installations: 80,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog Fix: In the customer dashboard, switching plans within an upgrade group did not show the group’s draft (members-only) products to customers who own a product in that group. Previous releases 4.9.2 — October 2nd, 2026
+Improvement: Product structured data now includes the offer URL, item condition, SKU, and sale (strikethrough) pricing, so more product pages qualify for Google rich results. Fix: Product structured data no longer lists subscription, pay-what-you-want, or free prices as offers. It now uses the price the product page preselects. Fix: Currency codes in product structured data are now uppercase, as Google expects. Fix: The SureCart Dashboard and Learn pages appeared blank when the classic view was enabled. Fix: Draft products in the checkout form editor were wrongly shown as “This product has been archived.” 4.9.1 — September 30th, 2026
+New: Connect SureCart to ChatGPT with a Custom GPT and manage your store by chatting with it. New: Import and Export options on admin list pages, grouped under one menu. Exports now run right inside your dashboard. Improvement: Google and Facebook conversion tracking now counts accepted post-purchase upsells. Improvement: Search engines no longer crawl the endless filter and sort variations of your shop page, which keeps your SEO clean. Improvement: Block labels such as button and field text now appear in your site’s language instead of always in English. Source SureCart on WordPress.org
+---
+
+---
 title: SureCart and WooCommerce Compatibility Guide
 url: https://wordpress-faq.com/compatibility/surecart-woocommerce-compatibility/
 date: 2026-06-05
@@ -20355,7 +20374,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-05.
-Plugin / theme Version Released Type Elementor Website Builder 4.3.4 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme All in One SEO 5.0.2.1 2026-10-01 plugin W3 Total Cache 2.10.7 2026-10-01 plugin SureCart 4.9.2 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Tutor LMS 4.1.0 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Website Builder 4.3.4 2026-10-05 plugin SureCart 4.9.3 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme All in One SEO 5.0.2.1 2026-10-01 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Tutor LMS 4.1.0 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme Contact Form 7 6.1.7 2026-08-17 plugin BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
