@@ -12,9 +12,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 70 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 17 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 306 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 148 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 305 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -86,6 +86,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/comparison/woocommerce-payment-gateways/) — Stripe and PayPal are widely considered the most reliable and feature-rich payment gateways for WooCommerce stores.
 - [Best WooCommerce Payment Gateways for eCommerce](https://wordpress-faq.com/compatibility/woocommerce-payment-gateways/) — The community consensus is that local payment providers and Cash on Delivery are the most effective options for regional WooCommerce stores.
 - [Best WordPress Backup Plugin: Community Recommendations](https://wordpress-faq.com/review/best-wordpress-backup-plugin/) — The community consensus is that automated, off-site backups are the most reliable method for protecting WordPress site data against catastrophic loss.
+- [Best WordPress Backup Plugins and Practices](https://wordpress-faq.com/howto/wordpress-backup-plugins/) — The community consensus is that automated, offsite backups that are regularly tested for restoration are the only reliable way to secure your site.
 - [Best WordPress Backup Plugins: Expert Recommendations](https://wordpress-faq.com/comparison/wordpress-backup-plugins/) — Community consensus emphasizes that automated, offsite backups that are regularly tested for restoration are the gold standard for site security.
 - [Best WordPress Caching Plugins Comparison](https://wordpress-faq.com/comparison/wordpress-caching-plugins-comparison/) — Community consensus favors LiteSpeed Cache for performance and WP Super Cache for reliability, provided object caching like Redis is also configured.
 - [Best WordPress Caching Plugins: Performance and Optimization](https://wordpress-faq.com/comparison/wordpress-caching-plugins/) — LiteSpeed Cache is widely considered the most effective caching solution for WordPress when paired with proper server-side object caching.
