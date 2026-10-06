@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 15 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 16 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 68 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 147 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
@@ -755,6 +755,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [W3 Total Cache 2.10.7 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-7-released/) — <no value>
 - [W3 Total Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/w3-total-cache-review/) — The community consensus is that W3 Total Cache is powerful but prone to configuration errors and site-breaking conflicts for many users.
 - [What Happened at WordCamp Europe 2026](https://wordpress-faq.com/news/what-happened-at-wordcamp-europe-2026/) — <no value>
+- [What is WordPress and How Does It Work](https://wordpress-faq.com/core/wordpress-core-overview/) — WordPress is a versatile, database-driven content management system that relies on themes and plugins to extend its core functionality.
 - [What is WordPress and How Does It Work](https://wordpress-faq.com/core/wordpress-core-functionality/) — WordPress is a versatile content management system that powers websites through a combination of themes, plugins, and a core database architecture.
 - [Why Use WordPress for Your Website](https://wordpress-faq.com/core/why-use-wordpress/) — WordPress is widely recommended for its superior flexibility and ownership, though it requires more maintenance than closed-source site builders.
 - [Why Use WordPress for Your Website: Benefits and Comparison](https://wordpress-faq.com/comparison/wordpress-benefits-comparison/) — WordPress is widely considered the best choice for businesses requiring full code ownership, extensive customization, and long-term cost efficiency.
