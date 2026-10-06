@@ -13,7 +13,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 17 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 307 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 148 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 151 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -49,6 +49,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All-in-One WP Migration and Backup 7.109 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-109-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.110 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-110-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.111 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-111-released/) — <no value>
+- [All-in-One WP Migration and Backup 7.112 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-112-released/) — <no value>
 - [All-in-One WP Migration Plugin Review](https://wordpress-faq.com/review/all-in-one-wp-migration-review/) — The plugin is widely used for site migrations, though users report occasional link errors and reliability issues during large database transfers.
 - [Are Avada and Elementor Compatible?](https://wordpress-faq.com/compatibility/avada-elementor/) — Avada and Elementor are incompatible because Avada relies on its own proprietary page builder, and using both together causes severe performance and layout conflicts.
 - [Astra and Divi Compatibility and Performance Comparison](https://wordpress-faq.com/compatibility/astra-divi/) — Combining Astra and Divi is generally discouraged by the community due to significant performance overhead and potential theme-builder conflicts.
@@ -663,6 +664,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Rank Math SEO 1.0.277 Released](https://wordpress-faq.com/news/rankmath-1-0-277-released/) — <no value>
 - [Rank Math SEO 1.0.278 Released](https://wordpress-faq.com/news/rankmath-1-0-278-released/) — <no value>
 - [Rank Math SEO 1.0.279 Released](https://wordpress-faq.com/news/rankmath-1-0-279-released/) — <no value>
+- [Rank Math SEO 1.0.280 Released](https://wordpress-faq.com/news/rankmath-1-0-280-released/) — <no value>
 - [Rank Math SEO Plugin Review](https://wordpress-faq.com/review/rankmath-review/) — Rank Math is widely considered a powerful and feature-rich SEO solution for WordPress users seeking to improve their search engine rankings.
 - [Rank Math SEO Plugin Review and Analysis](https://wordpress-faq.com/review/rankmath-seo/) — Rank Math is widely considered a powerful, feature-rich SEO plugin that offers significant value, though some users find the interface overwhelming.
 - [Resolving Elementor and WPForms Plugin Conflicts](https://wordpress-faq.com/compatibility/elementor-wpforms-conflict/) — Community consensus suggests using the dedicated Elementor widget for WPForms instead of shortcodes to ensure all form features function correctly.
@@ -748,6 +750,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Tutor LMS 4.0.8 Released](https://wordpress-faq.com/news/tutor-lms-4-0-8-released/) — <no value>
 - [Tutor LMS 4.0.9 Released](https://wordpress-faq.com/news/tutor-lms-4-0-9-released/) — <no value>
 - [Tutor LMS 4.1.0 Released](https://wordpress-faq.com/news/tutor-lms-4-1-0-released/) — <no value>
+- [Tutor LMS 4.1.1 Released](https://wordpress-faq.com/news/tutor-lms-4-1-1-released/) — <no value>
 - [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/) — Community consensus strongly supports implementing 2FA as a critical security layer for all WordPress installations to prevent unauthorized access.
 - [Two-Factor Authentication for WordPress Security](https://wordpress-faq.com/howto/two-factor-authentication-wordpress/) — Implementing two-factor authentication is a highly recommended security best practice to protect WordPress sites from unauthorized access.
 - [Understanding WordPress Core Updates and Changes](https://wordpress-faq.com/core/wordpress-core-updates/) — WordPress prioritizes backward compatibility in core updates, meaning major refactoring is rare to ensure existing sites remain functional.

@@ -532,6 +532,25 @@ File option in the Import From menu did not open the file picker, which prevente
 ---
 
 ---
+title: All-in-One WP Migration and Backup 7.112 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-migration-7-112-released/
+date: 2026-10-06
+lastmod: 2026-10-06
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-migration, release, changelog, news
+What&rsquo;s new in All-in-One WP Migration and Backup 7.112 Released: 2026-10-06
+Active installations: 5,000,000
+Tested up to WordPress 7.1.2
+Requires PHP 5.3
+Changelog Scheduled backups stopping without an error on hosts that limit concurrent requests Exported databases with empty binary or blob values could not be read by tools outside the plugin Previous releases 7.111
+Export and import now require the administrator capability. This closes a missing-authorization issue that allowed authenticated users without administrator privileges to run migrations. Credits to Charles Vosburgh for reporting it Backup actions (list, delete, label, browse, and download) are now restricted to users who can export or import HTTP authentication credentials are no longer captured for users who lack permission to run a migration. Credits to Jakub Herman for reporting it Backup list, archive browser, and downloads now fail closed with a clear error when the session has expired, instead of failing silently Export REST route no longer accepts malformed find-and-replace pairs (previously ignored silently) 7.110
+Find and replace on values ending in a backslash. Special thanks to Jack Taylor for responsibly disclosing this issue Wrong warning message when leaving the page during export Source All-in-One WP Migration and Backup on WordPress.org
+---
+
+---
 title: All-in-One WP Migration Plugin Review
 url: https://wordpress-faq.com/review/all-in-one-wp-migration-review/
 date: 2026-06-07
@@ -16528,6 +16547,23 @@ Changelog [HUGE!] Added Gemini Tracking, Multi-Language Support, and Daily/Weekl
 ---
 
 ---
+title: Rank Math SEO 1.0.280 Released
+url: https://wordpress-faq.com/news/rankmath-1-0-280-released/
+date: 2026-10-06
+lastmod: 2026-10-06
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, rankmath, release, changelog, news
+What&rsquo;s new in Rank Math SEO 1.0.280 Released: [Oct 06, 2026]
+Active installations: 4,000,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog Improved Sitemaps can now be fully pre-generated with the wp rankmath sitemap generate WP-CLI command, so large sites serve cached sitemap files instead of building them on every visit. Improved plugin security with additional input validation and output escaping hardening. Fixed Analytics dashboard sections showing N/A after data fetching was completed. Fixed Polylang meta translations that were not showing for secondary languages when Polylang PRO was active. Fixed a database error being logged when saving user profiles with SEO Controls enabled for Author Archives. Source Rank Math SEO on WordPress.org
+---
+
+---
 title: Rank Math SEO Plugin Review
 url: https://wordpress-faq.com/review/rankmath-review/
 date: 2026-07-22
@@ -18596,6 +18632,25 @@ Update: Added an option to show or hide the Header and Footer in the Dashboard a
 ---
 
 ---
+title: Tutor LMS 4.1.1 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-1-1-released/
+date: 2026-10-06
+lastmod: 2026-10-06
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.1.1 Released: 06 Oct, 2026
+Active installations: 100,000
+Tested up to WordPress 7.1.2
+Requires PHP 7.4
+Changelog Update: Optimized SQL queries for improved performance in Orders and Analytics. Fix: Added missing input validation to payment method configuration. Fix: Added missing input validation to withdrawal method configuration. Previous releases 4.1.0 — 29 Sep, 2026
+New: Introduced negative and partial marking for quizzes. (Pro) New: Added a new Cart button for Block and Classic themes. Update: Integrated the WordPress AI Connector with Tutor AI Studio. (Pro) Update: Improved page loading performance on the Instructor Dashboard. Update: Quiz grading emails are now sent only after manual evaluation is complete. (Pro) 4.0.9 — 17 Sep, 2026
+Update: Improved overall performance and strengthened security measures. Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -20647,7 +20702,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-06.
-Plugin / theme Version Released Type Contact Form 7 6.2 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin SureCart 4.9.3 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme All in One SEO 5.0.2.1 2026-10-01 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Tutor LMS 4.1.0 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin Rank Math SEO 1.0.279 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin All-in-One WP Migration and Backup 7.111 2026-09-15 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Contact Form 7 6.2 2026-10-06 plugin All-in-One WP Migration and Backup 7.112 2026-10-06 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Tutor LMS 4.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin SureCart 4.9.3 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme All in One SEO 5.0.2.1 2026-10-01 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
