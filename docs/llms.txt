@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 69 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 70 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 16 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 148 articles
@@ -129,6 +129,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Bricks Builder vs Divi Compatibility and Performance](https://wordpress-faq.com/comparison/bricks-builder-divi/) — Bricks is preferred for clean code and performance, while Divi remains a popular all-in-one solution for users prioritizing design options over speed.
 - [Bricks Builder vs Elementor: Compatibility & Migration](https://wordpress-faq.com/comparison/bricks-builder-elementor/) — Bricks Builder and Elementor are mutually exclusive page builders; users overwhelmingly prefer Bricks for its cleaner code and superior performance.
 - [Bricks Builder WordPress Compatibility and Conflicts](https://wordpress-faq.com/compatibility/bricks-builder-conflict/) — Bricks Builder functions as a theme rather than a plugin, which can lead to specific compatibility conflicts with other active WordPress themes.
+- [Bricks vs GenerateBlocks with WPML for Translation Sites](https://wordpress-faq.com/comparison/bricks-wpml-generateblocks/) — Bricks is preferred for design flexibility, while GenerateBlocks is recommended for developers seeking cleaner code and better performance with WPML.
 - [Browse the New Mercantile Swag Store](https://wordpress-faq.com/news/browse-the-new-mercantile-swag-store/) — <no value>
 - [BuddyPress 14.4.0 Released](https://wordpress-faq.com/news/buddypress-14-4-0-released/) — <no value>
 - [BuddyPress 14.5.2 Released](https://wordpress-faq.com/news/buddypress-14-5-2-released/) — <no value>
