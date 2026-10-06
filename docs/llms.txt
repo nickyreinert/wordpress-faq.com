@@ -12,7 +12,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 71 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 17 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 306 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 307 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 148 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
@@ -485,6 +485,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Price WordPress Development Services](https://wordpress-faq.com/howto/wordpress-development-pricing/) — Community consensus suggests calculating pricing based on defined project scope and your desired monthly salary rather than arbitrary flat fees.
 - [How to Redirect WordPress URLs Effectively](https://wordpress-faq.com/howto/wordpress-url-redirects/) — The community recommends using the Redirection plugin for simple tasks or .htaccess rules for bulk redirects to maintain SEO and prevent 404 errors.
 - [How to Redirect WordPress URLs Effectively](https://wordpress-faq.com/howto/wordpress-url-redirection-guide/) — Using a dedicated redirection plugin is the most reliable method for managing URL changes without causing 404 errors or losing search engine authority.
+- [How to Reduce Server Response Time in WordPress](https://wordpress-faq.com/howto/reduce-server-response-time-wordpress/) — Reducing server response time requires implementing server-level caching and optimizing PHP execution to bypass redundant script processing.
 - [How to Reduce WordPress Server Response Time](https://wordpress-faq.com/howto/reduce-wordpress-server-response-time/) — Implementing server-side caching and a CDN are the most effective ways to improve WordPress server response times.
 - [How to Restore WordPress from Backup](https://wordpress-faq.com/howto/restore-wordpress-backup/) — Restoring a WordPress site requires access to both the database and file system, ideally using a staging environment or a fresh installation.
 - [How to Restore WordPress from Backup Safely](https://wordpress-faq.com/howto/wordpress-backup-restore/) — Automated off-server backup solutions are the most reliable way to ensure you can restore your site without significant data loss.
