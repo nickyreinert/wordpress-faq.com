@@ -11,7 +11,11 @@ Bricks is often praised for its design interface, while GenerateBlocks is favore
 Active installations: 10,000,000
 Tested up to WordPress 7.1.2
 Requires PHP 8.3
-Changelog Release announcement Source Contact Form 7 on WordPress.org</description></item><item><title>Is WordPress Free to Use? Understanding Costs and Licensing</title><link>https://wordpress-faq.com/core/wordpress-free-usage-guide/</link><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/core/wordpress-free-usage-guide/</guid><description>The WordPress software itself is free and open-source, but you will incur costs for hosting, domain registration, and premium extensions. Based on 8 community reports.
+Changelog Release announcement Source Contact Form 7 on WordPress.org</description></item><item><title>Essential WordPress Plugins for Performance and Optimization</title><link>https://wordpress-faq.com/compatibility/essential-wordpress-performance-plugins/</link><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/compatibility/essential-wordpress-performance-plugins/</guid><description>Community consensus suggests using Query Monitor for debugging and W3 Total Cache for performance optimization to resolve slow site load times. Based on 5 community reports.
+Linked sources: 5.
+Known Issues Poorly optimized database queries Slow PHP runtime environments Excessive plugin bloat Community Q&amp;amp;A Which plugins help identify slow WordPress sites?
+Query Monitor and Code Profiler are highly recommended for identifying slow database queries and plugin-related performance bottlenecks.
+How can I improve my WooCommerce store load time?</description></item><item><title>Is WordPress Free to Use? Understanding Costs and Licensing</title><link>https://wordpress-faq.com/core/wordpress-free-usage-guide/</link><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate><guid>https://wordpress-faq.com/core/wordpress-free-usage-guide/</guid><description>The WordPress software itself is free and open-source, but you will incur costs for hosting, domain registration, and premium extensions. Based on 8 community reports.
 Linked sources: 9.
 Known Issues Hidden costs in premium plugins Hosting fees are mandatory Domain registration costs Community Q&amp;amp;A Is the WordPress software free?
 Yes, WordPress.org software is free and open-source under the GPL license.
