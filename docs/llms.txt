@@ -12,9 +12,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 16 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 148 articles
+- [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 305 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
-- [WordPress Themes](https://wordpress-faq.com/theme/) — 10 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -114,6 +114,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Themes for Business Websites](https://wordpress-faq.com/theme/best-wordpress-themes-business/) — The community consensus recommends prioritizing lightweight, high-performance themes like GeneratePress, Astra, or Blocksy for business sites.
 - [Best WordPress Themes for Business Websites](https://wordpress-faq.com/theme/best-wordpress-business-themes/) — Community consensus favors lightweight block themes and full site editing over heavy page builders for better performance and SEO results.
 - [Best WordPress Themes for Portfolio Sites](https://wordpress-faq.com/theme/best-wordpress-themes-portfolio/) — Community consensus suggests using lightweight builders like Bricks or starter themes like Underscores for maximum flexibility and clean code.
+- [Best WordPress Themes for Portfolio Websites](https://wordpress-faq.com/theme/wordpress-portfolio-themes/) — The community recommends using lightweight, block-based themes or the Twentig plugin for minimal, high-performance portfolio sites.
 - [Best WordPress Themes for Portfolio Websites](https://wordpress-faq.com/review/best-wordpress-portfolio-themes/) — The community recommends using lightweight, high-performance builders like Bricks or Kadence for modern, clean portfolio development.
 - [Blocksy and Elementor Compatibility and Conflicts](https://wordpress-faq.com/compatibility/blocksy-elementor-conflict/) — Blocksy is generally compatible with Elementor, though specific layout or editor conflicts can usually be resolved by regenerating CSS or plugin settings.
 - [Blocksy and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/blocksy-elementor/) — While Blocksy and Elementor are fully compatible, the community warns they can impact site speed, often preferring Gutenberg with Blocksy.
