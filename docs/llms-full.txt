@@ -19816,6 +19816,21 @@ Source WordPress 7.1.2 Release — WordPress.org News
 ---
 
 ---
+title: WordPress 7.1.3 Maintenance and Security Release
+url: https://wordpress-faq.com/news/wordpress-7-1-3-maintenance-and-security-release/
+date: 2026-10-06
+lastmod: 2026-10-06
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.1.3 Maintenance and Security Release This security and maintenance release features 7 security fixes and 4 bug fixes. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.3 from WordPress.org, or visit your WordPress Dashboard, click “Updates”, and then click “Update Now”. If you have sites that support automatic background…
+Announced on the official WordPress.org news blog on 2026-10-06.
+Source WordPress 7.1.3 Maintenance and Security Release — WordPress.org News
+---
+
+---
 title: WordPress Advantages and Disadvantages Explained
 url: https://wordpress-faq.com/comparison/wordpress-pros-cons/
 date: 2026-07-05

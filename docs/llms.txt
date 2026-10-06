@@ -13,7 +13,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 17 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 307 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 151 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 152 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -805,6 +805,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 7.1 Release Candidate 1](https://wordpress-faq.com/news/wordpress-7-1-release-candidate-1/) — <no value>
 - [WordPress 7.1.1 Maintenance and Security Release](https://wordpress-faq.com/news/wordpress-7-1-1-maintenance-and-security-release/) — <no value>
 - [WordPress 7.1.2 Release](https://wordpress-faq.com/news/wordpress-7-1-2-release/) — <no value>
+- [WordPress 7.1.3 Maintenance and Security Release](https://wordpress-faq.com/news/wordpress-7-1-3-maintenance-and-security-release/) — <no value>
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-pros-cons/) — WordPress is the industry standard for ease of use and scalability, though it may be outperformed by custom frameworks for highly specialized projects.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress and WooCommerce Performance Optimization Guide](https://wordpress-faq.com/compatibility/wordpress-woocommerce-performance/) — Performance issues in WooCommerce are typically caused by poor server configuration or plugin bloat rather than the core software itself.
