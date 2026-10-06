@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 131 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 70 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 16 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 17 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 148 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -318,6 +318,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Gutenberg vs Classic Editor: Comparison and User Sentiment](https://wordpress-faq.com/comparison/classic-editor-gutenberg/) — Community sentiment remains polarized, with many users preferring the Classic Editor for stability while others adapt to Gutenberg's block-based workflow.
 - [Gutenberg vs Page Builders: Performance and Workflow](https://wordpress-faq.com/comparison/gutenberg-page-builder/) — Community consensus favors Gutenberg with block libraries for performance, while page builders are recommended only for specific design requirements.
 - [Hello Elementor Theme Review](https://wordpress-faq.com/review/hello-elementor-review/) — Hello Elementor is a lightweight, minimalist starter theme that serves as an ideal foundation for users building sites with the Elementor page builder.
+- [How Many WordPress Plugins Are Too Many?](https://wordpress-faq.com/core/wordpress-plugin-count-optimization/) — Performance issues are typically caused by poorly coded plugins or server resource limits rather than the sheer quantity of active plugins.
 - [How Many WordPress Plugins Are Too Many?](https://wordpress-faq.com/compatibility/wordpress-plugin-count-optimization/) — There is no fixed limit, as performance depends on plugin quality, code efficiency, and server resources rather than the raw count of installations.
 - [How Many WordPress Plugins Is Too Many?](https://wordpress-faq.com/core/wordpress-plugin-count-performance/) — There is no fixed limit, but excessive plugins often cause performance bloat, so prioritize lightweight, task-specific solutions over multipurpose ones.
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/hosting/wordpress-website-cost/) — Costs range from minimal DIY expenses for hosting and plugins to significant professional fees depending on site complexity and custom requirements.
