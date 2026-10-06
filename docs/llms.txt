@@ -8,12 +8,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 15 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 68 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 147 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 305 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 14 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 10 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 130 articles
@@ -591,6 +591,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is WordPress Free to Use? Pricing Explained](https://wordpress-faq.com/core/wordpress-pricing-model/) — The WordPress software is free, but operating a functional site requires paid hosting and optional premium extensions.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/howto/wordpress-pricing-usage/) — The WordPress software is free, but self-hosting it requires ongoing costs for infrastructure and premium extensions.
 - [Is WordPress Free to Use? Understanding Costs](https://wordpress-faq.com/compatibility/wordpress-cost-usage/) — The WordPress software itself is free, but running a professional site requires paid hosting, domain registration, and potentially premium plugins.
+- [Is WordPress Free to Use? Understanding Costs and Licensing](https://wordpress-faq.com/core/wordpress-free-usage-guide/) — The WordPress software itself is free and open-source, but you will incur costs for hosting, domain registration, and premium extensions.
 - [Is WP Engine Good for WordPress Hosting?](https://wordpress-faq.com/hosting/wpengine-hosting/) — WP Engine is considered a reliable managed hosting provider, though some users report frustrations with recent changes to their support services.
 - [iThemes Security Plugin Review and Security Analysis](https://wordpress-faq.com/review/ithemes-security-review/) — iThemes Security is a reliable security plugin, but it must be paired with strong password policies and regular backups to ensure complete site safety.
 - [Jetpack Plugin Review and Performance Analysis](https://wordpress-faq.com/review/jetpack-review/) — Community consensus suggests avoiding Jetpack due to its heavy code footprint, performance degradation, and poor customer support experiences.

@@ -14852,6 +14852,34 @@ Reddit Sources Cloudflare R2 + Media Cloud Sync plugin feedback? (r/Wordpress) F
 ---
 
 ---
+title: Is WordPress Free to Use? Understanding Costs and Licensing
+url: https://wordpress-faq.com/core/wordpress-free-usage-guide/
+date: 2026-10-06
+lastmod: 2026-10-06
+verdict: The WordPress software itself is free and open-source, but you will incur costs for hosting, domain registration, and premium extensions.
+confidence: high
+sources: 8
+schema_type: FAQPage
+tags: hosting, ecommerce, security, performance
+faq:
+  - q: Is the WordPress software free?
+    a: Yes, WordPress.org software is free and open-source under the GPL license.
+  - q: What costs are associated with WordPress?
+    a: You must pay for web hosting, a domain name, and potentially premium themes or plugins.
+  - q: Is WordPress.com the same as WordPress.org?
+    a: No, WordPress.org is self-hosted software, while WordPress.com is a managed hosting service with different pricing tiers.
+The WordPress software itself is free and open-source, but you will incur costs for hosting, domain registration, and premium extensions. Based on 8 community reports.
+Linked sources: 9.
+Known Issues Hidden costs in premium plugins Hosting fees are mandatory Domain registration costs Community Q&amp;A Is the WordPress software free?
+Yes, WordPress.org software is free and open-source under the GPL license.
+What costs are associated with WordPress?
+You must pay for web hosting, a domain name, and potentially premium themes or plugins.
+Is WordPress.com the same as WordPress.org?
+No, WordPress.org is self-hosted software, while WordPress.com is a managed hosting service with different pricing tiers.
+Reddit Sources [FREE] I built a lightweight bug reporter because reporting bugs was slowing down my WordPress development (r/ProWordPress) A read-only tool to diagnose/monitor lots of WordPress sites through an AI (MCP) — Beta, looking for testers (r/ProWordPress) I went through the code of every plugin I could find that registers Abilities API abilities. 196 do, and 52 of them hide it behind a setting. (r/ProWordPress) I built a zero-server-impact tool to fix ugly WooCommerce share previews on WhatsApp &amp; LinkedIn (Before vs After inside) (r/ProWordPress) Industrial v2.1.1 is out: meet Demo 14, Metallurgy 🔥 (r/ProWordPress) How I manage multiple WordPress sites (80+) without losing my weekends (r/ProWordPress) Generating native Bricks Builder JSON with a token-based design system: how I avoided inline styles and made site writes safe (r/ProWordPress) [FREEMIUM] Built a plugin that auto-publishes new WordPress posts to your Facebook Page — looking for a few people to test it (happy to test yours back) (r/ProWordPress) [DISCUSSION] Create a security plugin which is free (r/ProWordPress)
+---
+
+---
 title: Is WP Engine Good for WordPress Hosting?
 url: https://wordpress-faq.com/hosting/wpengine-hosting/
 date: 2026-08-27
