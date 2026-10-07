@@ -315,6 +315,25 @@ New: TruSEO content analysis for taxonomy terms, starting with WooCommerce produ
 ---
 
 ---
+title: All in One SEO 5.0.3 Released
+url: https://wordpress-faq.com/news/all-in-one-seo-5-0-3-released/
+date: 2026-10-07
+lastmod: 2026-10-07
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-seo, release, changelog, news
+What&rsquo;s new in All in One SEO 5.0.3 Released: 2026-10-07
+Active installations: 2,000,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog Updated: SEO Revisions comparisons now show the current value of a smart tag when you hover over it, including Custom Field and Taxonomy Name tags. Updated: Removed unused breadcrumb schema code that ran on every page load. Fixed: AI features now check your available credits before sending a request, and AI schema generation always uses the schema credit cost. Fixed: The AI Bulk Generator and the Media Library’s Generate Alt Text with AI action now tell you when generation fails, for example when you’re out of AI credits. Fixed: Improved security and access protections in the AI Image Generator and Markdown (.md) versions of posts. Fixed: Regenerating an image from an earlier result in the AI Image Generator now works for everyone who can edit the post, and AI permission errors in the REST API return the correct status code. Fixed: The AI Suite MCP setup could show as complete on sites where another plugin bundles the MCP Adapter library. Fixed: The Back to Posts link in the AI Bulk Generator now returns you to the same list view, and some links in the plugin interface now open in a new tab. Fixed: Homepage SEO data could be incomplete or incorrect when a theme uses a custom homepage layout. Fixed: The AIOSEO editor now works when editing a WooCommerce product in Elementor, and the AIOSEO button no longer stays on screen when editing a theme template or Site Settings. Fixed: WPBakery and Avada elements could run twice on the front end and break layouts, tabs and forms. Fixed: Auto-generated descriptions could miss or mix up text from WPBakery and Avada elements. Previous releases 5.0.2.1
+Fixed: Improved security protections for shortcodes on search pages. Fixed: The Elementor editor could get stuck on “Loading” on some hosts, such as GoDaddy Managed WordPress, when Redirects was active. 5.0.2
+Updated: The minimum required PHP version is now 7.4. Updated: Reduced duplicate database queries on admin page loads. Updated: The mobile tabs dropdown now has a visible border, so it no longer blends into white backgrounds. Updated: The Taxonomy Name smart tag now shows a taxonomy-specific input placeholder. Fixed: Rating values could appear as text instead of numbers when comparing SEO Revisions. Source All in One SEO on WordPress.org
+---
+
+---
 title: All in One SEO Review: Features and Community Consensus
 url: https://wordpress-faq.com/review/all-in-one-seo-review/
 date: 2026-07-22
@@ -20816,7 +20835,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-07.
-Plugin / theme Version Released Type Contact Form 7 6.2 2026-10-06 plugin All-in-One WP Migration and Backup 7.112 2026-10-06 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Tutor LMS 4.1.1 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin SureCart 4.9.3 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme All in One SEO 5.0.2.1 2026-10-01 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type All-in-One WP Migration and Backup 7.112 2026-10-07 plugin WP Mail SMTP by WPForms 4.10.1 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Contact Form 7 6.2 2026-10-06 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Tutor LMS 4.1.1 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin SureCart 4.9.3 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -21710,6 +21729,25 @@ Requires PHP 7.4
 Changelog Added: New Dashboard page, now the default screen for WP Mail SMTP, with email statistics, a setup overview, connection status, and recommended next steps. Added: Setup Checklist: a new page that guides you through connecting a mailer, sending a test email, and the rest of your email setup, with progress tracked automatically. Added: Email Detective: a new tab on the Tools page that sends a test email through your primary connection and emails you a free deliverability report covering authentication, blocklists, and spam filter scoring. Added: Setup Wizard now verifies your mailer settings with your email provider before saving them, and guides you through each mailer’s required settings as numbered steps. Changed: Setup Wizard’s email test now reports the exact sending error with the fix steps for it, names the setting at fault where it can be identified, and shows the domain checker results. Changed: Updated Action Scheduler library to 4.1.0. Fixed: The plugin could not be activated on some sites and failed with a fatal error when its stored activation dates were saved in an unexpected format. Fixed: A database error was logged and the Dashboard widget’s email error alert never appeared on sites whose MySQL server treats double quotes as identifiers (ANSI_QUOTES mode). Fixed: The Setup Wizard’s test email did not send while the “Do Not Send” option was enabled. Fixed: Hardened permission checks and request handling across several admin features to address potential security issues. Previous releases 4.9.0 — 2026-06-26
 Added: WP-CLI commands to configure WP Mail SMTP from the command line, including SMTP and API-key mailer setup and individual setting management. Added: Code Snippets tab on the Tools page to browse, preview, and install WP Mail SMTP’s WPCode snippets. Added: Support for the WordPress Abilities API (WordPress 6.9), letting connected tools and AI assistants securely read your debug events. Added: A one-click option to deactivate a conflicting plugin directly from the conflict notice. Added: Confirmation prompt before enabling the “Hide Email Delivery Errors” option, so the setting is not turned on by accident. 4.8.0 — 2026-04-16
 Added: SendLayer Quick Connect – allows connecting to SendLayer without DNS setup in 2 minutes. Changed: Improved plugin security. Source WP Mail SMTP by WPForms on WordPress.org
+---
+
+---
+title: WP Mail SMTP by WPForms 4.10.1 Released
+url: https://wordpress-faq.com/news/wp-mail-smtp-4-10-1-released/
+date: 2026-10-07
+lastmod: 2026-10-07
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wp-mail-smtp, release, changelog, news
+What&rsquo;s new in WP Mail SMTP by WPForms 4.10.1 Released: 2026-10-07
+Active installations: 4,000,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog Changed: Improved security and privacy across the plugin, including temporary file storage and requests to external services. Fixed: Some Setup Wizard labels and the Lite install date in Site Health could not be translated. Fixed: The Posts, Pages and post editor screens failed with a fatal error on hosts without the PHP intl extension when another plugin, such as All in One SEO, used the intl IDN functions while the Gmail mailer was in use. Previous releases 4.10.0 — 2026-09-30
+Added: New Dashboard page, now the default screen for WP Mail SMTP, with email statistics, a setup overview, connection status, and recommended next steps. Added: Setup Checklist: a new page that guides you through connecting a mailer, sending a test email, and the rest of your email setup, with progress tracked automatically. Added: Email Detective: a new tab on the Tools page that sends a test email through your primary connection and emails you a free deliverability report covering authentication, blocklists, and spam filter scoring. Added: Setup Wizard now verifies your mailer settings with your email provider before saving them, and guides you through each mailer’s required settings as numbered steps. Changed: Setup Wizard’s email test now reports the exact sending error with the fix steps for it, names the setting at fault where it can be identified, and shows the domain checker results. 4.9.0 — 2026-06-26
+Added: WP-CLI commands to configure WP Mail SMTP from the command line, including SMTP and API-key mailer setup and individual setting management. Added: Code Snippets tab on the Tools page to browse, preview, and install WP Mail SMTP’s WPCode snippets. Added: Support for the WordPress Abilities API (WordPress 6.9), letting connected tools and AI assistants securely read your debug events. Added: A one-click option to deactivate a conflicting plugin directly from the conflict notice. Added: Confirmation prompt before enabling the “Hide Email Delivery Errors” option, so the setting is not turned on by accident. Source WP Mail SMTP by WPForms on WordPress.org
 ---
 
 ---
