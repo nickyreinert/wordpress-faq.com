@@ -20271,6 +20271,30 @@ Reddit Sources Wordpress freelancers: what tech stack &amp; workflow do you use 
 ---
 
 ---
+title: WordPress Full Site Editing and Gutenberg Explained
+url: https://wordpress-faq.com/core/gutenberg-wordpress-full-site-editing/
+date: 2026-10-07
+lastmod: 2026-10-07
+verdict: The community remains divided on Gutenberg, with significant debate regarding its usability compared to established page builders like Elementor.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: gutenberg, page-builder, core
+faq:
+  - q: What is WordPress Full Site Editing?
+    a: Full Site Editing is a collection of features that allow users to design their entire website using blocks, including headers, footers, and templates.
+  - q: Is Gutenberg the same as Full Site Editing?
+    a: Gutenberg is the block editor project that powers Full Site Editing, serving as the underlying technology for the modern WordPress design experience.
+The community remains divided on Gutenberg, with significant debate regarding its usability compared to established page builders like Elementor. Based on 1 community reports.
+Linked sources: 1.
+Known Issues High volume of negative user reviews Steep learning curve for legacy users Comparison concerns with third-party page builders Community Q&amp;A What is WordPress Full Site Editing?
+Full Site Editing is a collection of features that allow users to design their entire website using blocks, including headers, footers, and templates.
+Is Gutenberg the same as Full Site Editing?
+Gutenberg is the block editor project that powers Full Site Editing, serving as the underlying technology for the modern WordPress design experience.
+Reddit Sources Gutenberg impressions and WordCamp Boston, July 2018 (r/Wordpress)
+---
+
+---
 title: WordPress Gutenberg and Core Update Guide
 url: https://wordpress-faq.com/version/gutenberg-wordpress-updates/
 date: 2026-08-15
