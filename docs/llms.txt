@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 18 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 65 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 155 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 156 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 131 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 307 articles
@@ -784,6 +784,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WooCommerce 11.1.0 Released](https://wordpress-faq.com/news/woocommerce-11-1-0-released/) — <no value>
 - [WooCommerce 11.1.1 Released](https://wordpress-faq.com/news/woocommerce-11-1-1-released/) — <no value>
 - [WooCommerce 11.1.2 Released](https://wordpress-faq.com/news/woocommerce-11-1-2-released/) — <no value>
+- [WooCommerce 11.2.0 Released](https://wordpress-faq.com/news/woocommerce-11-2-0-released/) — <no value>
 - [WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable](https://wordpress-faq.com/news/woocommerce-9-8-released/) — WooCommerce 9.8 is a landmark release making HPOS default and Checkout Blocks stable — most stores upgrade cleanly, but custom order table extensions need testing.
 - [WooCommerce Abandoned Cart Recovery Best Practices](https://wordpress-faq.com/compatibility/woocommerce-abandoned-cart-recovery/) — Klaviyo is widely considered the most reliable solution for deep WooCommerce integration and effective abandoned cart win-back automation flows.
 - [WooCommerce Abandoned Cart Recovery Solutions](https://wordpress-faq.com/comparison/woocommerce-abandoned-cart-recovery/) — Open-source plugins that allow direct ownership of WhatsApp Business API accounts are preferred over high-fee SaaS alternatives.
