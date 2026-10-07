@@ -10,12 +10,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 18 articles
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 65 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 131 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 307 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 152 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 64 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
@@ -367,6 +367,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Choose WordPress Hosting](https://wordpress-faq.com/hosting/wordpress-hosting-selection/) — Choose a host based on your specific traffic needs, support quality, and technical requirements rather than just the lowest price point.
 - [How to Choose WordPress Hosting: A Practical Guide](https://wordpress-faq.com/hosting/wordpress-hosting-selection-guide/) — Community consensus suggests prioritizing reliable performance and security features over low-cost options to avoid long-term site downtime.
 - [How to Choose WordPress Hosting: A Practical Guide](https://wordpress-faq.com/hosting/choosing-wordpress-hosting/) — Community consensus suggests prioritizing managed hosting providers that offer reliable support, automated backups, and robust security features.
+- [How to Clean and Secure a Hacked WordPress Site](https://wordpress-faq.com/error/wordpress-hacked-site-recovery/) — Community consensus suggests using security plugins like Wordfence or Sucuri while performing a full server-level audit to remove persistent backdoors.
 - [How to Clone a WordPress Site: Methods and Best Practices](https://wordpress-faq.com/howto/wordpress-site-cloning/) — Using dedicated migration plugins or hosting-provided tools is the most reliable method for cloning a WordPress site without data loss.
 - [How to Create a Child Theme in WordPress](https://wordpress-faq.com/howto/create-child-theme-wordpress/) — Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates.
 - [How to Create a Contact Page in WordPress](https://wordpress-faq.com/howto/create-contact-page-wordpress/) — Using a dedicated contact form plugin is the most reliable and secure method for creating a functional contact page in WordPress.
