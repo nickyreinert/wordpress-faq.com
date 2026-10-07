@@ -4591,6 +4591,25 @@ Admin: Hardened the display of payment gateway error and API request log message
 ---
 
 ---
+title: Easy Digital Downloads 3.7.1.1 Released
+url: https://wordpress-faq.com/news/easy-digital-downloads-3-7-1-1-released/
+date: 2026-10-06
+lastmod: 2026-10-07
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, easy-digital-downloads, release, changelog, news
+What&rsquo;s new in Easy Digital Downloads 3.7.1.1 Released: 2026-10-06
+Active installations: 40,000
+Tested up to WordPress 7.0.7
+Requires PHP 8.0
+Changelog Improved: Square orders are now completed only once Square confirms the payment is complete. Previous releases 3.7.1
+NEW: Abilities – Store data is now registered with WordPress’s Abilities API, so AI assistants can discover and work with orders, customers, products and discounts. NEW: Admin – Introducing Command Palette support, so orders, customers, discounts and downloads can be found and jumped to with Cmd+K / Ctrl+K on WordPress 6.9 and later. Admin: Improved the styling of enhanced select fields so they render correctly alongside plugins that load their own Chosen styles. Admin: Hardened the validation and output of store settings when they are saved. API: Improved the visibility checks on the products API endpoint. 3.7.0
+NEW: Checkout – The block editor checkout now supports customization with inner blocks. NEW: Checkout – New composable checkout widgets for finer control of the Elementor checkout. NEW: Stripe – Added support for UPI payments. Admin: Fixed compatibility with WordPress 7.1 for admin list tables and bulk invoice generation. Admin: Prevented EDD’s admin styles from overriding other plugins’ meta box styling in the block editor. Source Easy Digital Downloads on WordPress.org
+---
+
+---
 title: Easy Digital Downloads and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/
 date: 2026-05-28
@@ -20789,15 +20808,15 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-10-06
-lastmod: 2026-10-06
+date: 2026-10-07
+lastmod: 2026-10-07
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-06.
-Plugin / theme Version Released Type Contact Form 7 6.2 2026-10-06 plugin All-in-One WP Migration and Backup 7.112 2026-10-06 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Tutor LMS 4.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin SureCart 4.9.3 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme All in One SEO 5.0.2.1 2026-10-01 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin Easy Digital Downloads 3.7.1 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-07.
+Plugin / theme Version Released Type Contact Form 7 6.2 2026-10-06 plugin All-in-One WP Migration and Backup 7.112 2026-10-06 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Tutor LMS 4.1.1 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin SureCart 4.9.3 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme All in One SEO 5.0.2.1 2026-10-01 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin WP Mail SMTP by WPForms 4.10.0 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme WooCommerce 11.1.2 2026-09-22 plugin UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
