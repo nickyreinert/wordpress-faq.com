@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 157 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 158 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 18 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 65 articles
@@ -881,6 +881,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WP Engine WordPress Hosting Review](https://wordpress-faq.com/hosting/wpengine-hosting-review/) — Community consensus is mixed, with users praising the platform's robust features while frequently criticizing recent declines in customer support quality.
 - [WP Mail SMTP by WPForms 4.10.0 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-10-0-released/) — <no value>
 - [WP Mail SMTP by WPForms 4.10.1 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-10-1-released/) — <no value>
+- [WP Mail SMTP by WPForms 4.10.2 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-10-2-released/) — <no value>
 - [WP Mail SMTP by WPForms 4.9.0 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-9-0-released/) — <no value>
 - [WP Mail SMTP Plugin Review and Email Delivery Guide](https://wordpress-faq.com/review/wp-mail-smtp-review/) — WP Mail SMTP is widely considered the industry standard for ensuring reliable WordPress email delivery through authenticated SMTP connections.
 - [WP Rocket Review: Performance and Caching Analysis](https://wordpress-faq.com/review/wp-rocket-review/) — WP Rocket is widely considered the industry standard for WordPress caching and performance optimization due to its ease of use and effectiveness.
