@@ -20881,15 +20881,15 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-10-08
-lastmod: 2026-10-08
+date: 2026-10-09
+lastmod: 2026-10-09
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-08.
-Plugin / theme Version Released Type Contact Form 7 6.2.1 2026-10-08 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin SureCart 4.9.4 2026-10-08 plugin WooCommerce 11.2.0 2026-10-07 plugin All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Tutor LMS 4.1.1 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin Blocksy 2.1.58 2026-10-02 theme W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-09.
+Plugin / theme Version Released Type Contact Form 7 6.2.1 2026-10-08 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin SureCart 4.9.4 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme WooCommerce 11.2.0 2026-10-07 plugin All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Tutor LMS 4.1.1 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Polylang 3.8.10 2026-09-28 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
