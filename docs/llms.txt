@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 132 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 161 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 18 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 65 articles
-- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 131 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 307 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -106,6 +106,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Plugins for Bloggers: Essential Tools Guide](https://wordpress-faq.com/review/best-wordpress-plugins-bloggers/) — Community consensus favors Rank Math for SEO and Wordfence for security as essential tools for any professional WordPress blog setup.
 - [Best WordPress Portfolio Themes: Recommendations and Tips](https://wordpress-faq.com/theme/best-wordpress-portfolio-themes/) — The community recommends using lightweight, block-based themes or the Twentig plugin for a clean, minimal portfolio design.
 - [Best WordPress Security Plugin: Expert Recommendations](https://wordpress-faq.com/compatibility/best-wordpress-security-plugin/) — Community consensus suggests that high-quality managed hosting with integrated security features is more effective than relying solely on plugins.
+- [Best WordPress Security Plugins and Hosting Practices](https://wordpress-faq.com/compatibility/wordpress-security-plugins/) — Community consensus suggests that managed hosting with integrated security features is more effective than relying solely on security plugins.
 - [Best WordPress Security Plugins: Expert Recommendations](https://wordpress-faq.com/comparison/wordpress-security-plugins/) — Community consensus suggests that combining a reputable plugin like Wordfence with Cloudflare WAF and proactive maintenance provides the best protection.
 - [Best WordPress Security Plugins: Expert Recommendations](https://wordpress-faq.com/review/wordpress-security-plugins/) — Wordfence is widely considered the most reliable and common security plugin for WordPress sites, though defense-in-depth strategies are essential.
 - [Best WordPress Security Scan Tools and Maintenance Practices](https://wordpress-faq.com/howto/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners provide convenience, manual database and file integrity checks are essential for security.
