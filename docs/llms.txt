@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 132 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 161 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 162 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 18 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 65 articles
@@ -658,6 +658,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Oxygen Builder WordPress Safari Layout Issues](https://wordpress-faq.com/compatibility/oxygen-builder-wordpress-compatibility/) — Safari layout issues in Oxygen Builder are typically caused by specific CSS flexbox properties that require vendor prefixes or explicit sizing adjustments.
 - [Perfmatters Plugin Review: Performance and Compatibility](https://wordpress-faq.com/review/perfmatters-review/) — Perfmatters is a highly effective performance optimization tool, though users must ensure their server meets the minimum PHP 7.4 requirement.
 - [Polylang 3.8.10 Released](https://wordpress-faq.com/news/polylang-3-8-10-released/) — <no value>
+- [Polylang 3.8.11 Released](https://wordpress-faq.com/news/polylang-3-8-11-released/) — <no value>
 - [Polylang 3.8.6 Released](https://wordpress-faq.com/news/polylang-3-8-6-released/) — <no value>
 - [Polylang 3.8.7 Released](https://wordpress-faq.com/news/polylang-3-8-7-released/) — <no value>
 - [Polylang 3.8.8 Released](https://wordpress-faq.com/news/polylang-3-8-8-released/) — <no value>
