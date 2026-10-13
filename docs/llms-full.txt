@@ -21146,7 +21146,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-13.
-Plugin / theme Version Released Type Polylang 3.8.11 2026-10-12 plugin Tutor LMS 4.1.2 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Yoast SEO 28.6 2026-09-29 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin Tutor LMS 4.1.2 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin Elementor Website Builder 4.3.4 2026-10-05 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -22357,6 +22357,24 @@ Tested up to WordPress 7.1.2
 Requires PHP 7.4
 Changelog Don’t show a post type in the Bulk editor if Enable SEO controls and assessments is turned off for that post type. Introduces 2 new Yoast Abilities, to allow agents to get and update SEO data for given posts. Adds a notice to the bulk editor explaining that no content types are available when Enable SEO controls and assessments is disabled for all post types, with a link to the settings page. Fixes a bug where a rest_invalid_content_type error would be logged in the browser console when opening the bulk editor while Enable SEO controls and assessments was disabled for all post types. Adds two new cards for the Schema aggregator and the WordPress abilities API features. Adjust the name and description of the setting’s toggle controlling the breadcrumbs’ rendering to state clearly its intended behaviour. Re-groups the integrations’ cards in the Integrations page. Previous releases 28.5
 Fixes a bug where the SEO data optimization would loop endlessly when an indexing batch was repeatedly returned without being processed. Adds a link with more information about social previews to the social appearance sections of the editor. Updates the plugin’s app URL and logo that are used when initiating the MyYoast connection. Source Yoast SEO on WordPress.org
+---
+
+---
+title: Yoast SEO 28.7 Released
+url: https://wordpress-faq.com/news/yoast-seo-28-7-released/
+date: 2026-10-13
+lastmod: 2026-10-13
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, yoast-seo, release, changelog, news
+What&rsquo;s new in Yoast SEO 28.7 Released: 2026-10-13
+Active installations: 10,000,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog Allows agents to update titles and descriptions via the respective Yoast Ability. Previous releases 28.6
+Don’t show a post type in the Bulk editor if Enable SEO controls and assessments is turned off for that post type. Introduces 2 new Yoast Abilities, to allow agents to get and update SEO data for given posts. Adds a notice to the bulk editor explaining that no content types are available when Enable SEO controls and assessments is disabled for all post types, with a link to the settings page. Fixes a bug where a rest_invalid_content_type error would be logged in the browser console when opening the bulk editor while Enable SEO controls and assessments was disabled for all post types. Adds two new cards for the Schema aggregator and the WordPress abilities API features. Source Yoast SEO on WordPress.org
 ---
 
 ---
