@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 66 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 309 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 310 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 165 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
@@ -348,6 +348,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Custom Fields in WordPress Without a Plugin](https://wordpress-faq.com/howto/add-custom-fields-wordpress-no-plugin/) — Adding custom fields manually requires basic PHP knowledge and creating a custom plugin file to register meta boxes and save data securely.
 - [How to Add Custom Fields in WordPress Without Plugins](https://wordpress-faq.com/howto/add-custom-fields-wordpress-without-plugin/) — Adding custom fields manually requires basic PHP knowledge and editing your theme's functions.php file or creating a custom plugin.
 - [How to Add Custom Fields in WordPress Without Plugins](https://wordpress-faq.com/howto/custom-fields-wordpress-no-plugin/) — Adding custom fields manually requires basic PHP knowledge and editing your theme's functions.php file or creating a custom plugin.
+- [How to Add Custom Fonts to WordPress](https://wordpress-faq.com/howto/add-custom-fonts-wordpress/) — The community recommends using a dedicated plugin for ease of use or CSS @font-face for better performance without extra bloat.
 - [How to Add Custom Fonts to WordPress](https://wordpress-faq.com/howto/custom-fonts-wordpress/) — The community recommends using a dedicated plugin for ease of use or CSS @font-face for better performance without adding unnecessary plugin bloat.
 - [How to Add Custom Fonts to WordPress](https://wordpress-faq.com/howto/wordpress-custom-fonts-guide/) — Adding custom fonts via CSS or dedicated plugins is effective, provided you limit font weights to maintain site speed and performance.
 - [How to Add Custom Post Types in WordPress](https://wordpress-faq.com/howto/add-custom-post-type-wordpress/) — Adding custom post types is best achieved via the register_post_type function in functions.php or by using the Advanced Custom Fields plugin.
