@@ -9,12 +9,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 19 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 308 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 164 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 132 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 65 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 307 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -452,6 +452,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Moderate WordPress Comments Effectively](https://wordpress-faq.com/howto/wordpress-comment-moderation-guide/) — The consensus is to use native WordPress settings combined with a dedicated anti-spam plugin like Akismet for the most efficient moderation workflow.
 - [How to Monetize a WordPress Blog Effectively](https://wordpress-faq.com/howto/monetize-wordpress-blog/) — Focus on building consistent organic traffic and quality content before investing in paid growth experts or complex monetization strategies.
 - [How to Noindex a Page in WordPress](https://wordpress-faq.com/howto/how-to-noindex-page-wordpress/) — The most reliable way to noindex a page in WordPress is by using an SEO plugin like Yoast or Rank Math to add the meta robots tag to the page header.
+- [How to Noindex a WordPress Page](https://wordpress-faq.com/howto/noindex-page-wordpress/) — Using an SEO plugin is the recommended approach for most users, while custom PHP code is effective for developers avoiding plugin bloat.
 - [How to Noindex WordPress Pages: Methods and Best Practices](https://wordpress-faq.com/howto/noindex-wordpress-pages/) — Using an SEO plugin is the recommended approach for most users, while custom PHP code is a viable alternative for developers avoiding plugins.
 - [How to Optimize Astra WordPress for Speed](https://wordpress-faq.com/howto/astra-optimization/) — Optimizing Astra requires a combination of lightweight image management, effective caching plugins, and proper server-side compression settings.
 - [How to Optimize Autoptimize for WordPress Performance](https://wordpress-faq.com/howto/autoptimize-wordpress-optimization/) — Autoptimize is effective for minification, but should be used sparingly alongside other caching solutions to avoid site-breaking conflicts.

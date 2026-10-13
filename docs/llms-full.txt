@@ -11084,6 +11084,34 @@ Reddit Sources Built a dev-only content audit page inside Astro after migrating 
 ---
 
 ---
+title: How to Noindex a WordPress Page
+url: https://wordpress-faq.com/howto/noindex-page-wordpress/
+date: 2026-10-13
+lastmod: 2026-10-13
+verdict: Using an SEO plugin is the recommended approach for most users, while custom PHP code is effective for developers avoiding plugin bloat.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: seo, performance, conflict
+faq:
+  - q: How do I add a noindex tag to a WordPress page without a plugin?
+    a: You can add a conditional PHP snippet to your theme's header.php file using the is_page() function to inject the meta robots tag.
+  - q: Can I noindex multiple WordPress pages at once?
+    a: Yes, you can create an array of page slugs and use the in_array() function within your theme's header.php to apply the tag to multiple pages.
+  - q: Do SEO plugins like Yoast handle noindexing automatically?
+    a: Yes, SEO plugins provide a simple checkbox interface in the page editor to set pages to noindex without requiring any manual coding.
+Using an SEO plugin is the recommended approach for most users, while custom PHP code is effective for developers avoiding plugin bloat. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Incorrect PHP placement in header.php Caching plugins serving stale meta tags Conflicting settings between multiple SEO plugins Community Q&amp;A How do I add a noindex tag to a WordPress page without a plugin?
+You can add a conditional PHP snippet to your theme&rsquo;s header.php file using the is_page() function to inject the meta robots tag.
+Can I noindex multiple WordPress pages at once?
+Yes, you can create an array of page slugs and use the in_array() function within your theme&rsquo;s header.php to apply the tag to multiple pages.
+Do SEO plugins like Yoast handle noindexing automatically?
+Yes, SEO plugins provide a simple checkbox interface in the page editor to set pages to noindex without requiring any manual coding.
+Reddit Sources Google insists my webpage has a HTTP Header &rsquo;noindex&rsquo;. But it hasn&rsquo;t (r/Wordpress) Having trouble doing bulk removals from the XML sitemaps. Tried a lot, nothing is working. (r/Wordpress) Website copy/text (on WS Forms only ) not visible to google search/seo/etc? (r/Wordpress) How to Put &lsquo;Noindex&rsquo; Meta Tag on WordPress Page Without Using a Plugin (r/Wordpress) How can i access Archives page? (r/Wordpress) Is that possible to have opengraph + seo meta tags without plugin? (r/Wordpress) Hiding a page (from other users and search engines) without making it private (r/Wordpress)
+---
+
+---
 title: How to Noindex WordPress Pages: Methods and Best Practices
 url: https://wordpress-faq.com/howto/noindex-wordpress-pages/
 date: 2026-08-12
