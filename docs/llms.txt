@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 308 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 164 articles
-- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 132 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 65 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
@@ -625,6 +625,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [LiteSpeed Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/litespeed-cache-review/) — LiteSpeed Cache is widely considered the gold standard for performance optimization when hosted on a LiteSpeed-powered server environment.
 - [Mailchimp for WordPress Review and Security Best Practices](https://wordpress-faq.com/review/mailchimp-for-wordpress/) — The plugin is a reliable tool for email integration, though developers must implement honeypots to prevent API abuse and unauthorized form submissions.
 - [Mailchimp for WordPress Review: Features and Integration](https://wordpress-faq.com/review/mailchimp-for-wordpress-review/) — The plugin is widely considered a reliable and efficient solution for connecting WordPress sites to Mailchimp lists.
+- [Managing WooCommerce Product Variations and Imports](https://wordpress-faq.com/compatibility/woocommerce-product-variations/) — Community consensus suggests using official English CSV headers and dynamic templates to resolve common WooCommerce variation and scaling issues.
 - [Managing WooCommerce Product Variations and Imports](https://wordpress-faq.com/howto/woocommerce-product-variations/) — Efficient management of large WooCommerce catalogs requires CSV-based bulk importing and object caching to maintain site performance.
 - [Managing WordPress Version Updates and Theme Compatibility](https://wordpress-faq.com/version/wordpress-version-update/) — Always backup your site before performing any WordPress core, theme, or plugin updates to prevent potential data loss or site conflicts.
 - [MC4WP 4.13.1 Released](https://wordpress-faq.com/news/mailchimp-for-wordpress-4-13-1-released/) — <no value>
