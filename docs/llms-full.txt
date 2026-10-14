@@ -12199,6 +12199,34 @@ Reddit Sources WooCommerce Quick Set-Up | 46+ Essential Checklist (Own Workflow)
 ---
 
 ---
+title: How to Perform a Manual WordPress Backup
+url: https://wordpress-faq.com/howto/wordpress-manual-backup/
+date: 2026-10-14
+lastmod: 2026-10-14
+verdict: Manual backups are considered the most reliable method for site recovery if performed correctly by exporting the database and saving site files.
+confidence: low
+sources: 2
+schema_type: HowTo
+tags: backup, hosting, database
+faq:
+  - q: How do I manually backup my WordPress database?
+    a: You can export your database using phpMyAdmin by selecting your database, clicking the Export tab, and downloading the SQL file.
+  - q: Which files do I need to copy for a full WordPress backup?
+    a: You should download all files in your WordPress root directory via FTP, specifically focusing on the wp-content folder.
+  - q: Why does my site ask for installation after restoring a backup?
+    a: This usually happens if your wp-config.php file is missing or contains incorrect database credentials pointing to an empty database.
+Manual backups are considered the most reliable method for site recovery if performed correctly by exporting the database and saving site files. Based on 2 community reports.
+Linked sources: 6.
+Known Issues Incorrect wp-config.php database credentials Database import errors during restoration Incomplete file transfers via FTP Community Q&amp;A How do I manually backup my WordPress database?
+You can export your database using phpMyAdmin by selecting your database, clicking the Export tab, and downloading the SQL file.
+Which files do I need to copy for a full WordPress backup?
+You should download all files in your WordPress root directory via FTP, specifically focusing on the wp-content folder.
+Why does my site ask for installation after restoring a backup?
+This usually happens if your wp-config.php file is missing or contains incorrect database credentials pointing to an empty database.
+Reddit Sources Built a hosting platform over 16 years, giving away free lifetime licenses (r/webdev) Arvixe is bonin&rsquo; me&hellip; all of my sites have been down for over 3 weeks. What should I do? (r/webdev) noob looking for help restoring wordpress folders backup (r/webdev) I have some questions and need advice with servers and client hosting. Long post but would love some help. (r/webdev) How to restore Wordpress backup manually? (r/webdev) Are there resources for handling compromised servers? (r/webdev)
+---
+
+---
 title: How to Prevent WordPress Spam Comments
 url: https://wordpress-faq.com/howto/prevent-wordpress-spam-comments/
 date: 2026-07-15

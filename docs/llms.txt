@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 315 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 316 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 166 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
@@ -495,6 +495,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Optimize WPML for WordPress Performance](https://wordpress-faq.com/howto/wpml-optimization-guide/) — WPML performance issues are often mitigated by implementing strict Cloudflare WAF rules and optimizing database queries for multilingual content.
 - [How to Optimize Yoast SEO for WordPress](https://wordpress-faq.com/howto/yoast-seo-optimization/) — Yoast SEO remains a popular choice for WordPress users, though many now consider Rank Math a feature-rich alternative for advanced site optimization.
 - [How to Optimize Yoast SEO for WordPress](https://wordpress-faq.com/howto/yoast-seo-wordpress-optimization/) — Yoast SEO remains a highly popular and reliable choice for WordPress users, though competitors like Rank Math offer more features for advanced users.
+- [How to Perform a Manual WordPress Backup](https://wordpress-faq.com/howto/wordpress-manual-backup/) — Manual backups are considered the most reliable method for site recovery if performed correctly by exporting the database and saving site files.
 - [How to Prevent WordPress Spam Comments](https://wordpress-faq.com/howto/prevent-wordpress-spam-comments/) — The community consensus is to use a combination of Akismet or CleanTalk plugins alongside native WordPress Discussion settings to effectively block bots.
 - [How to Price WordPress Development Services](https://wordpress-faq.com/howto/wordpress-development-pricing-guide/) — Community consensus suggests balancing hourly rates with project complexity while avoiding low-balling to maintain professional service quality.
 - [How to Price WordPress Development Services](https://wordpress-faq.com/howto/pricing-wordpress-development-services/) — Pricing should be based on project scope, developer experience, and the specific value delivered to the client rather than a flat industry standard.
