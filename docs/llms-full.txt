@@ -17401,6 +17401,25 @@ Refactor AJAX handler to an explicit dispatch map for improved security and effi
 ---
 
 ---
+title: Sucuri Security 2.8.1 Released
+url: https://wordpress-faq.com/news/sucuri-2-8-1-released/
+date: 2026-10-14
+lastmod: 2026-10-14
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, sucuri, release, changelog, news
+What&rsquo;s new in Sucuri Security 2.8.1 Released: 2026-10-14
+Active installations: 600,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog Fix the Last Logins date and time column showing up blank when the site’s date or time format setting is empty or invalid. The WordPress default format is used instead. Fix logins completed through Two-Factor Authentication not being recorded in Last Logins or reported to other plugins that watch for logins. Previous releases 2.8
+Add one-time backup codes for Two-Factor Authentication. Ten codes are created when 2FA is turned on, any one of them will get you in if you lose your authenticator app, and each code stops working once it has been used. You can generate a fresh set at any time from your WordPress profile. Add a search box and severity, plugin, and theme filters to the Audit Logs page, so you can find a specific event without paging through the whole history. Filtering and paging now happen instantly. Add a one-click CSV download of the complete audit trail, ready for a compliance review, an incident timeline, or an archive before older records age out. Large histories export without slowing the site down. Fix an issue that left the audit trail completely empty on sites that do not run in English. Events were recorded but never shown. Fix audit entries being cut short or lost. Saving the WordPress Writing settings discarded the record of every other option changed in that same save, and a less-than sign in a site title or option value truncated the entry from that point on. 2.7.4
+Improve the Two-Factor Authentication page to load the users list in pages, so it stays fast and reliable on sites with hundreds or thousands of users (for example, WooCommerce stores). Add a search box to the Two-Factor Authentication page to quickly find users by username, email, or display name. Strengthen input validation, access checks, and output escaping. Add a one-click “Disable XML-RPC” option to the Hardening page to close a common brute-force and pingback-based DDoS attack vector, with a warning if an active plugin (e.g. Jetpack) depends on XML-RPC. Fix a fatal error on PHP 8 when the API returns the “messages” field as a string instead of an array. Source Sucuri Security on WordPress.org
+---
+
+---
 title: Sucuri vs Wordfence Security Plugin Review
 url: https://wordpress-faq.com/review/sucuri-wordfence/
 date: 2026-06-07
@@ -19405,6 +19424,24 @@ SECURITY: Previous versions contained a defect allowing sites with an active Mig
 ---
 
 ---
+title: UpdraftPlus 1.26.9 Released
+url: https://wordpress-faq.com/news/updraftplus-1-26-9-released/
+date: 2026-10-14
+lastmod: 2026-10-14
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, updraftplus, release, changelog, news
+What&rsquo;s new in UpdraftPlus 1.26.9 Released: 14/Oct/2026
+Active installations: 4,000,000
+Tested up to WordPress 7.1.3
+Changelog SECURITY: On a site where an attacker who is not an admin has the ability to insert a database cell over 1MB with his own chosen content, if the site owner backs up and restores the site, then upon restoring, arbitrary SQL from the attacker may be run. Thanks to Wordfence for the responsible disclosure. TWEAK: Drop support for generating RSA keys less than 2048 bits TWEAK: If set, unset the SQL compatibility mode NO_BACKSLASH_ESCAPE Previous releases 1.26.8 — 17/Sep/2026
+SECURITY: On a site which has been migrated (i.e. moved to a new address using UpdraftPlus’s migration feature), and is using an .htaccess file, and the .htaccess file has not been updated with the new site reference, and where the site owner does not respond to the notice to do so, and where the site has non-admin users who can login to the WP dashboard, and where the site had saved storage login credentials in the UpdraftPlus settings, such a logged-in user could access some of those credentials (e.g. could access FTP, but not Dropbox). Thanks to Jakub Herman for notifying us of this issue (via WPScan). FEATURE: Implemented an onboarding wizard to assist first-time users with plugin configuration (requires WordPress 6.2+ and PHP 7.4+). FIX: Error caused by the FTP wrapper referencing the STDIN constant when configuring the cURL CURLOPT_INFILE option. Since STDIN is only defined under the PHP CLI SAPI, this caused failures in PHP-FPM environments. FIX: WebDAV backup failures caused by a deprecated regular expression escape since PCRE2 version 10.45. TWEAK: The “Tour” functionality has been removed from the UI and deactivated. Its underlying code remains temporarily and will be fully removed in a future release. 1.26.7 — 21/Aug/2026
+SECURITY: Restoration now requires provision of a nonce, and not only the epoch-second timestamp of a backup. This prevents an insider threat in which a previous administrator who has been removed from a site could seek to persuade a logged-in current administrator to follow a link to restore a backup which he had previous knowledge of. Thanks to Jashid Sany for raising this issue (via WPScan). TWEAK: In UpdraftPlus Premium, for scheduled monthly backups, change the behaviour to backup on the chosen day every month (better matching user expectation). TWEAK: UpdraftClone no longer supports clones launched with PHP 5.4 or 5.5. Source UpdraftPlus on WordPress.org
+---
+
+---
 title: UpdraftPlus WordPress Backup Plugin Review
 url: https://wordpress-faq.com/review/updraftplus-review/
 date: 2026-06-07
@@ -21289,28 +21326,28 @@ Reddit Sources Who is WordPress now for? (r/ProWordPress)
 ---
 title: WordPress Pages vs Posts: Key Differences Explained
 url: https://wordpress-faq.com/core/pages-vs-posts-wordpress/
-date: 2026-08-13
-lastmod: 2026-08-13
-verdict: Posts are for time-sensitive, chronological content while pages are for static, evergreen information that remains outside the blog flow.
-confidence: low
-sources: 2
+date: 2026-10-14
+lastmod: 2026-10-14
+verdict: Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog flow.
+confidence: high
+sources: 12
 schema_type: FAQPage
 tags: seo, gutenberg, widgets
 faq:
   - q: What is the main difference between a post and a page in WordPress?
-    a: Posts are dynamic, chronological entries often used for blogs, while pages are static, timeless content used for information like About or Contact pages.
+    a: Posts are chronological entries used for blogs, while pages are static, timeless content used for information like About or Contact pages.
   - q: Can I use categories and tags on WordPress pages?
-    a: By default, WordPress pages do not support categories or tags, as they are designed for hierarchical, static content rather than chronological feeds.
+    a: By default, WordPress pages do not support categories or tags; these features are reserved for posts to help organize chronological content.
   - q: Which should I use for my homepage?
-    a: Most users prefer a static page for their homepage to control the layout, though you can set your latest posts as the homepage in reading settings.
-Posts are for time-sensitive, chronological content while pages are for static, evergreen information that remains outside the blog flow. Based on 2 community reports.
+    a: Most users set a static page as their homepage to control the layout, though you can also set your latest posts as the homepage.
+Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog flow. Based on 12 community reports.
 Linked sources: 2.
-Known Issues Confusion regarding URL structure Misunderstanding of taxonomy usage Community Q&amp;A What is the main difference between a post and a page in WordPress?
-Posts are dynamic, chronological entries often used for blogs, while pages are static, timeless content used for information like About or Contact pages.
+Known Issues Confusion regarding URL structure Misunderstanding of taxonomy support Community Q&amp;A What is the main difference between a post and a page in WordPress?
+Posts are chronological entries used for blogs, while pages are static, timeless content used for information like About or Contact pages.
 Can I use categories and tags on WordPress pages?
-By default, WordPress pages do not support categories or tags, as they are designed for hierarchical, static content rather than chronological feeds.
+By default, WordPress pages do not support categories or tags; these features are reserved for posts to help organize chronological content.
 Which should I use for my homepage?
-Most users prefer a static page for their homepage to control the layout, though you can set your latest posts as the homepage in reading settings.
+Most users set a static page as their homepage to control the layout, though you can also set your latest posts as the homepage.
 Reddit Sources We&rsquo;ve done 110+ WordPress to Webflow migrations: Here&rsquo;s the honest comparison nobody writes (r/Wordpress) The Difference Between Theme and Template in WordPress: Unraveling the Mystery (r/Wordpress)
 ---
 
@@ -21413,7 +21450,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-14.
-Plugin / theme Version Released Type Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin Tutor LMS 4.1.2 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme UpdraftPlus 1.26.8 2026-09-21 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Sucuri Security 2.8 2026-09-09 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type UpdraftPlus 1.26.9 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin Tutor LMS 4.1.2 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

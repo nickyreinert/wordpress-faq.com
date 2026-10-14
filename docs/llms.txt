@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 317 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 166 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 168 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -699,6 +699,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Students Built 108 Websites in Two Weeks in Bangladesh](https://wordpress-faq.com/news/students-built-108-websites-in-two-weeks-in-bangladesh/) — <no value>
 - [Sucuri Security 2.7.4 Released](https://wordpress-faq.com/news/sucuri-2-7-4-released/) — <no value>
 - [Sucuri Security 2.8 Released](https://wordpress-faq.com/news/sucuri-2-8-released/) — <no value>
+- [Sucuri Security 2.8.1 Released](https://wordpress-faq.com/news/sucuri-2-8-1-released/) — <no value>
 - [Sucuri vs Wordfence Security Plugin Review](https://wordpress-faq.com/review/sucuri-wordfence/) — Wordfence is generally preferred for ease of use, while server-level blocking is considered more efficient for high-traffic sites.
 - [Sucuri WordPress Security Review](https://wordpress-faq.com/review/sucuri-review/) — Sucuri is widely regarded as a robust, enterprise-grade security solution that provides excellent protection against malware and brute force attacks.
 - [SureCart 4.6.1 Released](https://wordpress-faq.com/news/surecart-4-6-1-released/) — <no value>
@@ -782,6 +783,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Understanding WordPress: How It Works and Core Concepts](https://wordpress-faq.com/howto/wordpress-fundamentals/) — WordPress is a powerful, flexible CMS that requires careful plugin management and database optimization to maintain high performance and security.
 - [UpdraftPlus 1.26.6 Released](https://wordpress-faq.com/news/updraftplus-1-26-6-released/) — <no value>
 - [UpdraftPlus 1.26.7 Released](https://wordpress-faq.com/news/updraftplus-1-26-7-released/) — <no value>
+- [UpdraftPlus 1.26.9 Released](https://wordpress-faq.com/news/updraftplus-1-26-9-released/) — <no value>
 - [UpdraftPlus WordPress Backup Plugin Review](https://wordpress-faq.com/review/updraftplus-review/) — UpdraftPlus is highly recommended by the community as a reliable and user-friendly solution for automated WordPress backups and site restoration.
 - [W3 Total Cache 2.10.2 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-2-released/) — <no value>
 - [W3 Total Cache 2.10.3 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-3-released/) — <no value>
@@ -863,7 +865,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Malware Removal: Best Practices and Diagnosis](https://wordpress-faq.com/error/wordpress-malware-removal/) — The community consensus is to identify the specific entry point, such as an abandoned plugin or compromised API token, before attempting a full cleanup.
 - [WordPress Multisite vs Single Site Comparison](https://wordpress-faq.com/comparison/multisite-single-site/) — WordPress Multisite is generally discouraged for most users due to its high maintenance overhead and potential for complex site-wide conflicts.
 - [WordPress Multisite vs Single Site: When to Use Each](https://wordpress-faq.com/comparison/multisite-vs-single-site/) — Use Multisite for managing multiple related sites under one network, while single site is better for independent, standalone website installations.
-- [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/core/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content while pages are for static, evergreen information that remains outside the blog flow.
+- [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/core/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog flow.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/howto/wordpress-pages-vs-posts/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog feed.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/comparison/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that exists outside the blog timeline.
 - [WordPress Performance Audit Checklist: Best Practices](https://wordpress-faq.com/howto/wordpress-performance-audit-checklist/) — Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching.
