@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 316 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 317 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 166 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
@@ -336,6 +336,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How Much Does a WordPress Website Cost?](https://wordpress-faq.com/howto/wordpress-website-cost/) — WordPress costs range from minimal hosting fees for DIY projects to significant investments for professional development and custom integrations.
 - [How to Add Ads to a WordPress Site](https://wordpress-faq.com/howto/add-ads-wordpress-site/) — The community recommends using dedicated ad management plugins or Google Tag Manager to maintain site speed and avoid manual code errors.
 - [How to Add Ads to a WordPress Site](https://wordpress-faq.com/howto/add-ads-wordpress/) — The community recommends using reputable ad management plugins or direct ad network scripts while maintaining strict site security protocols.
+- [How to Add Affiliate Links in WordPress](https://wordpress-faq.com/howto/add-affiliate-links-wordpress/) — The community recommends using dedicated affiliate management plugins to track clicks and cloak links for better SEO and performance management.
 - [How to Add Affiliate Links in WordPress](https://wordpress-faq.com/howto/affiliate-links-wordpress/) — Adding affiliate links can be done manually via redirects or by using specialized plugins for tracking, link cloaking, and automated product boxes.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/add-admin-user-wordpress/) — Adding an admin user is best performed through the WordPress dashboard, but checking the database is recommended to ensure security and integrity.
 - [How to Add an Admin User to WordPress](https://wordpress-faq.com/howto/wordpress-admin-user-creation/) — Adding an admin user is best performed via the WordPress dashboard Users menu for security and ease of use.
