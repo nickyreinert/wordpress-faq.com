@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 314 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 315 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 166 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
@@ -379,6 +379,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Choose WordPress Hosting: A Practical Guide](https://wordpress-faq.com/hosting/choosing-wordpress-hosting/) — Community consensus suggests prioritizing managed hosting providers that offer reliable support, automated backups, and robust security features.
 - [How to Clean and Secure a Hacked WordPress Site](https://wordpress-faq.com/error/wordpress-hacked-site-recovery/) — Community consensus suggests using security plugins like Wordfence or Sucuri while performing a full server-level audit to remove persistent backdoors.
 - [How to Clone a WordPress Site: Methods and Best Practices](https://wordpress-faq.com/howto/wordpress-site-cloning/) — Using dedicated migration plugins or hosting-provided tools is the most reliable method for cloning a WordPress site without data loss.
+- [How to Clone and Migrate a WordPress Site](https://wordpress-faq.com/howto/wordpress-site-migration/) — Cloning a WordPress site is best achieved using dedicated migration plugins or server-side tools to ensure database and file integrity during the move.
 - [How to Create a Child Theme in WordPress](https://wordpress-faq.com/howto/create-child-theme-wordpress/) — Creating a child theme is the recommended best practice for modifying themes to ensure your custom changes are preserved during parent theme updates.
 - [How to Create a Contact Page in WordPress](https://wordpress-faq.com/howto/create-contact-page-wordpress/) — Using a dedicated contact form plugin is the most reliable and secure method for creating a functional contact page in WordPress.
 - [How to Create a Custom Login Page in WordPress](https://wordpress-faq.com/howto/custom-login-page-wordpress/) — The community recommends using dedicated login plugins for ease of use or custom PHP and CSS for full control over the design and functionality.
