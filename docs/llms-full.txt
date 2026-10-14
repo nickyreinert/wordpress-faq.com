@@ -9472,6 +9472,34 @@ Reddit Sources Serious issues with the Full Site Editor, it&rsquo;s confusing AF
 
 ---
 title: How to Create Custom WordPress Templates
+url: https://wordpress-faq.com/howto/create-custom-wordpress-template/
+date: 2026-10-14
+lastmod: 2026-10-14
+verdict: Users should utilize the Appearance Editor to assign templates and ensure the Post Content block is included for dynamic page rendering.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: gutenberg, page-builder, widgets
+faq:
+  - q: How do I create a custom template in WordPress?
+    a: Navigate to Appearance > Editor > Design > Templates, create a new template, and ensure you add the Post Content block to display dynamic page data.
+  - q: Why is my custom template showing the homepage content?
+    a: This usually happens if the template is missing the Post Content block or if static HTML was pasted directly into the template file instead of using blocks.
+  - q: Should I convert a classic theme to a block theme?
+    a: Converting can be time-consuming; often, rebuilding with a modern block-first approach is more efficient for long-term maintenance and performance.
+Users should utilize the Appearance Editor to assign templates and ensure the Post Content block is included for dynamic page rendering. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Missing Post Content block in template Hardcoded HTML overriding dynamic content Classic theme conversion complexity Community Q&amp;A How do I create a custom template in WordPress?
+Navigate to Appearance &gt; Editor &gt; Design &gt; Templates, create a new template, and ensure you add the Post Content block to display dynamic page data.
+Why is my custom template showing the homepage content?
+This usually happens if the template is missing the Post Content block or if static HTML was pasted directly into the template file instead of using blocks.
+Should I convert a classic theme to a block theme?
+Converting can be time-consuming; often, rebuilding with a modern block-first approach is more efficient for long-term maintenance and performance.
+Reddit Sources Mini sites within a wordpress site. (r/Wordpress) Anyone have experience converting classic themes to FSE? (r/Wordpress) WP + ACF + Elementor - Associate a Post Category with a custom Post Type entry? (r/Wordpress) WordPress Twenty Twenty-Five: Individual pages keep showing my homepage/template instead of their own custom HTML (r/Wordpress) WordPress custom AJAX form submits silently — no email sent, no console errors (r/Wordpress) Need help choosing a theme (from Template Forest) (r/Wordpress) I asked for help in the elementor community already but im just trying to see if someone here has a better solution.. (r/Wordpress)
+---
+
+---
+title: How to Create Custom WordPress Templates
 url: https://wordpress-faq.com/howto/wordpress-custom-template-creation/
 date: 2026-08-13
 lastmod: 2026-08-13
