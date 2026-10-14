@@ -4694,6 +4694,25 @@ NEW: Checkout – The block editor checkout now supports customization with inne
 ---
 
 ---
+title: Easy Digital Downloads 3.7.2 Released
+url: https://wordpress-faq.com/news/easy-digital-downloads-3-7-2-released/
+date: 2026-10-14
+lastmod: 2026-10-14
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, easy-digital-downloads, release, changelog, news
+What&rsquo;s new in Easy Digital Downloads 3.7.2 Released: 2026-10-14
+Active installations: 40,000
+Tested up to WordPress 7.0.7
+Requires PHP 8.0
+Changelog Security: Fixed a missing authorization check when sending a test Email Summary. Security: Discount codes with a maximum number of uses are now reserved when checkout starts, so customers checking out at the same time can no longer redeem a code past its limit. Checkout: Fixed the Log in and Register forms not showing on a checkout page built from the Checkout block with no inner blocks. Checkout: Improved order completion speed by deferring total store earnings calculations until after checkout has completed. Database: Database events can now be triggered only by the operations that create them. Discounts: Discount uses held by unpaid pending orders are now given back sooner, so abandoned checkouts no longer block other customers from using a limited code. Discounts: A paid order whose discount code has no uses left is now placed On Hold for review instead of completing. Emails: Fixed a fatal error with Cart Recovery enabled that could stop all site emails from sending when another mail plugin is active. Emails: Fixed sending a test email or previewing a custom Cart Recovery email. Emails: The new user email can now be sent only by user registration. Orders: Fixed order status changes running pending order processing for statuses other than pending and processing. Orders: Fixed PHP warnings on the order screens when an order has no IP address. Previous releases 3.7.1.1
+Improved: Square orders are now completed only once Square confirms the payment is complete. 3.7.1
+NEW: Abilities – Store data is now registered with WordPress’s Abilities API, so AI assistants can discover and work with orders, customers, products and discounts. NEW: Admin – Introducing Command Palette support, so orders, customers, discounts and downloads can be found and jumped to with Cmd+K / Ctrl+K on WordPress 6.9 and later. Admin: Improved the styling of enhanced select fields so they render correctly alongside plugins that load their own Chosen styles. Admin: Hardened the validation and output of store settings when they are saved. API: Improved the visibility checks on the products API endpoint. Source Easy Digital Downloads on WordPress.org
+---
+
+---
 title: Easy Digital Downloads and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/
 date: 2026-05-28
@@ -15661,6 +15680,25 @@ Tweak: Updated branding from SolidWP to Kadence. New: QR code for 2FA is generat
 ---
 
 ---
+title: Kadence Security 10.0.6 Released
+url: https://wordpress-faq.com/news/ithemes-security-10-0-6-released/
+date: 2026-10-14
+lastmod: 2026-10-14
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ithemes-security, release, changelog, news
+What&rsquo;s new in Kadence Security 10.0.6 Released: 2026-10-14
+Active installations: 700,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog Bug Fix: Prevented wp-config.php and .htaccess from being left empty after a server crash or a failed file update. Bug Fix: Resolved an error that broke the Firewall settings tab when IP Detection was set to “Unconfigured”. Bug Fix: Resolved an issue where modals and popovers in the admin UI rendered without their styles. Previous releases 10.0.5
+Bug Fix: Resolved 404 errors when loading settings for features. 10.0.4
+Bug Fix: Settings and setup no longer fail with a “not a valid JSON response” error when a host firewall blocks the batch REST endpoint. Bug Fix: Prevent fatal errors for banned IPs when Security is loaded early by the MU Plugin Loader. Source Kadence Security on WordPress.org
+---
+
+---
 title: Kadence WordPress Theme Compatibility and Conflicts
 url: https://wordpress-faq.com/compatibility/kadence-wordpress-conflict/
 date: 2026-06-10
@@ -21450,7 +21488,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-14.
-Plugin / theme Version Released Type UpdraftPlus 1.26.9 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin Tutor LMS 4.1.2 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Easy Digital Downloads 3.7.1.1 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Kadence Security 10.0.5 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type UpdraftPlus 1.26.9 2026-10-14 plugin Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin Tutor LMS 4.1.2 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

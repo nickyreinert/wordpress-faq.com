@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 317 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 168 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 170 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
@@ -210,6 +210,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Easy Digital Downloads 3.7.0 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-7-0-released/) — <no value>
 - [Easy Digital Downloads 3.7.1 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-7-1-released/) — <no value>
 - [Easy Digital Downloads 3.7.1.1 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-7-1-1-released/) — <no value>
+- [Easy Digital Downloads 3.7.2 Released](https://wordpress-faq.com/news/easy-digital-downloads-3-7-2-released/) — <no value>
 - [Easy Digital Downloads and Elementor Compatibility Guide](https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/) — Elementor is fully compatible with Easy Digital Downloads, especially when paired with lightweight themes like Hello Elementor or Astra.
 - [Easy Digital Downloads Review and Performance Analysis](https://wordpress-faq.com/review/easy-digital-downloads-review/) — Easy Digital Downloads is widely considered a stable and reliable plugin for managing digital product sales on WordPress.
 - [Easy Digital Downloads Troubleshooting and Common Errors](https://wordpress-faq.com/error/easy-digital-downloads-troubleshooting/) — Most Easy Digital Downloads issues are resolved by verifying file upload paths or contacting official plugin support for specific configuration errors.
@@ -623,6 +624,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [iThemes Security Plugin Review and Security Analysis](https://wordpress-faq.com/review/ithemes-security-review/) — iThemes Security is a reliable security plugin, but it must be paired with strong password policies and regular backups to ensure complete site safety.
 - [Jetpack Plugin Review and Performance Analysis](https://wordpress-faq.com/review/jetpack-review/) — Community consensus suggests avoiding Jetpack due to its heavy code footprint, performance degradation, and poor customer support experiences.
 - [Kadence Security 10.0.2 Released](https://wordpress-faq.com/news/ithemes-security-10-0-2-released/) — <no value>
+- [Kadence Security 10.0.6 Released](https://wordpress-faq.com/news/ithemes-security-10-0-6-released/) — <no value>
 - [Kadence WordPress Theme Compatibility and Conflicts](https://wordpress-faq.com/compatibility/kadence-wordpress-conflict/) — Kadence is generally stable, but users should monitor for plugin conflicts when using multiple modular features alongside other heavy page builders.
 - [Kadence WordPress Theme Review and Performance Analysis](https://wordpress-faq.com/review/kadence-review/) — Kadence is widely considered a top-tier, lightweight, and highly flexible block-based theme suitable for both beginners and advanced developers.
 - [Kim Parsell Memorial Scholarship Opens for WordCamp US 2026](https://wordpress-faq.com/news/kim-parsell-memorial-scholarship-opens-for-wordcamp-us-2026/) — <no value>
