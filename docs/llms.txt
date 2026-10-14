@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 317 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 166 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
-- [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 66 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -759,6 +759,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Troubleshooting WooCommerce Syntax Parse Errors](https://wordpress-faq.com/error/woocommerce-syntax-error/) — Most WooCommerce syntax errors are caused by incomplete file transfers or corrupted plugin installations during site migration or updates.
 - [Troubleshooting WordPress Failed to Open Stream Errors](https://wordpress-faq.com/error/wordpress-failed-to-open-stream-error/) — This error typically indicates a missing file, incorrect file permissions, or a plugin conflict that prevents the server from accessing required scripts.
 - [Troubleshooting WordPress Failed to Open Stream Errors](https://wordpress-faq.com/error/wordpress-failed-to-open-stream/) — The error is typically caused by missing core files or incorrect file permissions, which can be resolved by re-uploading files or resetting permissions.
+- [Troubleshooting WordPress Parse and Syntax Errors](https://wordpress-faq.com/error/wordpress-parse-error-syntax-error/) — Most WordPress parse errors are resolved by updating the PHP version or correcting syntax errors in the functions.php or plugin files.
 - [Troubleshooting WPForms Fatal Errors in WordPress](https://wordpress-faq.com/error/wpforms-fatal-error/) — Fatal errors in WPForms are typically caused by plugin conflicts or incorrect database queries, which can be resolved by disabling the plugin via FTP.
 - [Troubleshooting WPForms Not Working in WordPress](https://wordpress-faq.com/error/wpforms-not-working/) — Most WPForms issues are resolved by updating the plugin to the latest version to ensure compatibility with other installed WordPress extensions.
 - [Troubleshooting WPForms Not Working in WordPress](https://wordpress-faq.com/compatibility/wpforms-compatibility/) — WPForms issues are typically caused by plugin conflicts, caching layers, or server-side security restrictions blocking form submission requests.
