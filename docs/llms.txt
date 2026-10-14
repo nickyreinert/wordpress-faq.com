@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 312 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 313 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 166 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 66 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 166 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -356,6 +356,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Custom Widgets in WordPress](https://wordpress-faq.com/howto/wordpress-widget-customization/) — Adding custom widgets is best achieved through the native block editor or dedicated widget areas within your theme settings.
 - [How to Add Custom Widgets in WordPress](https://wordpress-faq.com/howto/how-to-add-custom-widget-wordpress/) — Developers recommend using the WP_Widget class or ACF for custom widget creation to maintain site performance and avoid unnecessary plugin bloat.
 - [How to Add Custom Widgets in WordPress](https://wordpress-faq.com/howto/add-custom-widget-wordpress/) — Adding custom widgets is best achieved by registering them in your theme's functions.php file or using a dedicated plugin for non-coders.
+- [How to Add Google Analytics to WordPress](https://wordpress-faq.com/howto/google-analytics-wordpress-setup/) — The community recommends using dedicated plugins like Site Kit or MonsterInsights for the easiest and most reliable Google Analytics integration.
 - [How to Add Google Analytics to WordPress](https://wordpress-faq.com/howto/google-analytics-wordpress/) — Using a dedicated plugin is the recommended method for most users to ensure accurate tracking and compliance with privacy regulations.
 - [How to Add Google Fonts to WordPress](https://wordpress-faq.com/howto/google-fonts-wordpress/) — The community recommends using theme-integrated settings or lightweight plugins to avoid performance degradation from excessive font loading.
 - [How to Add Google Fonts to WordPress](https://wordpress-faq.com/howto/add-google-fonts-wordpress/) — The community recommends using plugins for ease of use or local hosting via CSS to ensure optimal site performance and privacy compliance.
