@@ -1338,6 +1338,38 @@ Reddit Sources How do web agencies protect themselves when a client leaves? (Wor
 ---
 
 ---
+title: Best Practices for Maintaining Client WordPress Sites
+url: https://wordpress-faq.com/howto/client-site-maintenance-best-practices/
+date: 2026-10-15
+lastmod: 2026-10-15
+verdict: Successful maintenance requires client-owned hosting, automated backups, regular security audits, and a disciplined approach to plugin management.
+confidence: high
+sources: 7
+schema_type: HowTo
+tags: performance, security, backup, hosting, conflict
+faq:
+  - q: Should I host client sites on my own account?
+    a: No, it is recommended to let clients own their hosting to ensure better trust, control, and easier management of site ownership.
+  - q: How do I handle caching with dynamic forms?
+    a: Exclude pages containing forms, checkout, or user-specific content from your caching layer or use cache-busting query parameters.
+  - q: How can I prevent plugin conflicts during maintenance?
+    a: Adopt a 'one task, one plugin' philosophy, avoid multipurpose plugins, and keep a documented list of known problematic plugins.
+  - q: What is the best way to monitor accessibility?
+    a: Run automated scans like axe devtools after content updates and perform manual checks on critical components like navigation and forms.
+Successful maintenance requires client-owned hosting, automated backups, regular security audits, and a disciplined approach to plugin management. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Plugin bloat leading to performance degradation Cache conflicts with dynamic content like forms Accessibility regressions after client content updates Community Q&amp;A Should I host client sites on my own account?
+No, it is recommended to let clients own their hosting to ensure better trust, control, and easier management of site ownership.
+How do I handle caching with dynamic forms?
+Exclude pages containing forms, checkout, or user-specific content from your caching layer or use cache-busting query parameters.
+How can I prevent plugin conflicts during maintenance?
+Adopt a &lsquo;one task, one plugin&rsquo; philosophy, avoid multipurpose plugins, and keep a documented list of known problematic plugins.
+What is the best way to monitor accessibility?
+Run automated scans like axe devtools after content updates and perform manual checks on critical components like navigation and forms.
+Reddit Sources AI is Killing Website Page Builders 🤔 (r/Wordpress) Why is it so hard to tell good WordPress development from bad? (r/Wordpress) Replacing WordPress plugins with small reusable custom functions – how far do you take it? (r/Wordpress) Education material for launching and monitoring sites?? (r/Wordpress) The hardest part of custom WordPress work is not building the feature, it’s maintaining it across many sites (r/Wordpress) How do you freelancers handle long Varnish/page-cache TTLs with WordPress nonces? (r/Wordpress) Anyone here doing ongoing accessibility monitoring on WordPress sites? (r/Wordpress)
+---
+
+---
 title: Best Premium WordPress Themes for Performance and Design
 url: https://wordpress-faq.com/theme/best-premium-wordpress-themes/
 date: 2026-09-05

@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 318 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 20 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 317 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 170 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
@@ -81,6 +81,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best Lightweight and Fast WordPress Themes for Performance](https://wordpress-faq.com/theme/lightweight-fast-wordpress-themes/) — Community consensus suggests using minimal, lightweight themes or building custom solutions to ensure maximum site speed and performance.
 - [Best Managed WordPress Hosting Guide](https://wordpress-faq.com/hosting/best-managed-wordpress-hosting/) — Managed hosting is preferred for growing sites due to superior speed, automated backups, and expert support compared to standard shared plans.
 - [Best Managed WordPress Hosting: Community Recommendations](https://wordpress-faq.com/hosting/managed-wordpress-hosting/) — SiteGround is frequently cited by the community as a reliable and high-performing choice for managed WordPress hosting needs.
+- [Best Practices for Maintaining Client WordPress Sites](https://wordpress-faq.com/howto/client-site-maintenance-best-practices/) — Successful maintenance requires client-owned hosting, automated backups, regular security audits, and a disciplined approach to plugin management.
 - [Best Premium WordPress Themes for Performance and Design](https://wordpress-faq.com/theme/best-premium-wordpress-themes/) — The community consensus favors lightweight, block-editor-compatible themes like Kadence, Astra, and GeneratePress for modern website development.
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/theme/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
 - [Best Premium WordPress Themes for WooCommerce](https://wordpress-faq.com/comparison/premium-wordpress-themes/) — Community consensus favors lightweight, purpose-built themes like Storefront or Rey for WooCommerce performance and stability.
