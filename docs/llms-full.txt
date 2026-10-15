@@ -19350,6 +19350,25 @@ New: Introduced negative and partial marking for quizzes. (Pro) New: Added a new
 ---
 
 ---
+title: Tutor LMS 4.1.3 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-1-3-released/
+date: 2026-10-15
+lastmod: 2026-10-15
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.1.3 Released: 15 Oct, 2026
+Active installations: 100,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog Fix: Patched a security vulnerability. Previous releases 4.1.2 — 12 Oct, 2026
+Fix: Resolved an issue where zoom &amp; google meeting deleting was not working. (Pro) Fix: Resolved an issue where student wasn’t able to upload assignment attachment. (Pro) 4.1.1 — 06 Oct, 2026
+Update: Optimized SQL queries for improved performance in Orders and Analytics. Fix: Added missing input validation to payment method configuration. Fix: Added missing input validation to withdrawal method configuration. Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -21520,7 +21539,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-15.
-Plugin / theme Version Released Type UpdraftPlus 1.26.9 2026-10-14 plugin Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin Tutor LMS 4.1.2 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Tutor LMS 4.1.3 2026-10-15 plugin UpdraftPlus 1.26.9 2026-10-14 plugin Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin Astra 4.14.0 2026-09-24 theme All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
