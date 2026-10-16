@@ -15039,6 +15039,34 @@ Reddit Sources Is wordpress an appropriate CMS for heavy sites in the long run? 
 
 ---
 title: How to Version Control WordPress with Git
+url: https://wordpress-faq.com/howto/wordpress-git-version-control/
+date: 2026-10-16
+lastmod: 2026-10-16
+verdict: The community consensus is to use Git exclusively for custom themes and plugins while managing database synchronization separately via external tools.
+confidence: medium
+sources: 6
+schema_type: HowTo
+tags: performance, database, hosting, migration, conflict
+faq:
+  - q: Should I put my entire WordPress installation in Git?
+    a: No, it is considered best practice to only track your custom themes and plugins in Git to avoid repository bloat and maintenance issues.
+  - q: How do I handle database changes with Git?
+    a: Git does not track database changes. You should use tools like WP-CLI or WP Migrate DB to sync database dumps between your local and production environments.
+  - q: What is the cleanest way to deploy WordPress themes?
+    a: Treat the theme repository as the source of truth, use GitHub Actions for CI/CD, and deploy only the compiled output files to your server.
+The community consensus is to use Git exclusively for custom themes and plugins while managing database synchronization separately via external tools. Based on 6 community reports.
+Linked sources: 6.
+Known Issues Database synchronization is not handled by Git Full WordPress installation tracking leads to repository bloat Environment-specific configuration conflicts Community Q&amp;A Should I put my entire WordPress installation in Git?
+No, it is considered best practice to only track your custom themes and plugins in Git to avoid repository bloat and maintenance issues.
+How do I handle database changes with Git?
+Git does not track database changes. You should use tools like WP-CLI or WP Migrate DB to sync database dumps between your local and production environments.
+What is the cleanest way to deploy WordPress themes?
+Treat the theme repository as the source of truth, use GitHub Actions for CI/CD, and deploy only the compiled output files to your server.
+Reddit Sources Local Dev With Git (r/Wordpress) Wordpress Version Control (r/Wordpress) Newbie questions (r/Wordpress) WordPress Tips for Freelance Beginners (r/Wordpress) Web Design tips (r/Wordpress) how do you use the staging feature that wordpress provides (r/Wordpress)
+---
+
+---
+title: How to Version Control WordPress with Git
 url: https://wordpress-faq.com/howto/git-wordpress-version-control/
 date: 2026-07-15
 lastmod: 2026-07-15

@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 319 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 174 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
@@ -600,6 +600,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Use WP_Query in WordPress](https://wordpress-faq.com/howto/wp-query-usage/) — Developers must ensure show_in_rest is set to true in their custom post type registration to allow Gutenberg blocks to access the data.
 - [How to Use WP_Query in WordPress](https://wordpress-faq.com/howto/wp-query-wordpress/) — Using WP_Query requires proper REST API configuration and ensuring show_in_rest is enabled for custom post types to appear in block editors.
 - [How to Use WP_Query in WordPress Effectively](https://wordpress-faq.com/howto/wordpress-wp-query-usage/) — WP_Query is the standard way to fetch WordPress content, but it should be used sparingly to avoid performance bottlenecks on large-scale websites.
+- [How to Version Control WordPress with Git](https://wordpress-faq.com/howto/wordpress-git-version-control/) — The community consensus is to use Git exclusively for custom themes and plugins while managing database synchronization separately via external tools.
 - [How to Version Control WordPress with Git](https://wordpress-faq.com/howto/git-wordpress-version-control/) — Using Git for WordPress is highly recommended for professional workflows, though it requires separating code from database and media assets.
 - [How to Version Control WordPress with Git](https://wordpress-faq.com/howto/git-version-control-wordpress/) — Professional WordPress developers should use Git for themes and custom code, while managing database changes via local JSON or PHP array exports.
 - [How to Write SEO Friendly WordPress Posts](https://wordpress-faq.com/howto/seo-wordpress-posts/) — Focus on high-quality content, clean theme selection, and proper technical optimization to ensure your WordPress posts rank well in search results.
