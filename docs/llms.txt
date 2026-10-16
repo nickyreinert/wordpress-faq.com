@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 21 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 319 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 174 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -326,6 +326,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Gravity Forms Review: Features and Common Issues](https://wordpress-faq.com/review/gravity-forms-review/) — Gravity Forms is widely considered the industry standard for advanced WordPress forms despite its premium price point and occasional mobile conflicts.
 - [Gravity Forms Troubleshooting and Configuration Guide](https://wordpress-faq.com/error/gravity-forms-troubleshooting/) — Most Gravity Forms issues are resolved by checking for plugin conflicts, updating PHP versions, or configuring built-in spam protection settings.
 - [GriffinForms WordPress Plugin Review and Features](https://wordpress-faq.com/review/griffinforms-review/) — GriffinForms is considered a reliable and feature-rich form builder with active developer support and helpful AI-assisted building capabilities.
+- [Gutenberg Block Editor and Custom Theme Development](https://wordpress-faq.com/core/gutenberg-theme-development/) — The Gutenberg block editor has become the standard for WordPress theme development, offering deep integration with modern block-based workflows.
 - [Gutenberg Block Editor: New Features and Updates](https://wordpress-faq.com/version/gutenberg-block-editor-features/) — The Gutenberg block editor is consistently evolving with new features that enhance the overall WordPress content creation experience for all users.
 - [Gutenberg Block Editor: New Features and Updates Guide](https://wordpress-faq.com/version/gutenberg-editor-features/) — The Gutenberg block editor continues to evolve as the primary content creation tool for WordPress, offering improved flexibility and block-based design.
 - [Gutenberg vs Classic Editor: Comparison and User Sentiment](https://wordpress-faq.com/comparison/classic-editor-gutenberg/) — Community sentiment remains polarized, with many users preferring the Classic Editor for stability while others adapt to Gutenberg's block-based workflow.

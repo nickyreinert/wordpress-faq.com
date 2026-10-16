@@ -7598,6 +7598,30 @@ Reddit Sources [FREEMIUM] GriffinForms — WordPress form builder with multi-ste
 ---
 
 ---
+title: Gutenberg Block Editor and Custom Theme Development
+url: https://wordpress-faq.com/core/gutenberg-theme-development/
+date: 2026-10-16
+lastmod: 2026-10-16
+verdict: The Gutenberg block editor has become the standard for WordPress theme development, offering deep integration with modern block-based workflows.
+confidence: low
+sources: 1
+schema_type: FAQPage
+tags: gutenberg, performance, page-builder
+faq:
+  - q: Is Gutenberg compatible with custom themes?
+    a: Yes, Gutenberg is designed to work with any theme, though block-based themes offer the most seamless experience for layout customization.
+  - q: How do I add Gutenberg support to my theme?
+    a: You can add support by including theme.json files and registering block styles within your functions.php file.
+The Gutenberg block editor has become the standard for WordPress theme development, offering deep integration with modern block-based workflows. Based on 1 community reports.
+Linked sources: 1.
+Known Issues WYSIWYG editor limitations in custom themes ACF integration complexities Dependency on specific framework modifications Community Q&amp;A Is Gutenberg compatible with custom themes?
+Yes, Gutenberg is designed to work with any theme, though block-based themes offer the most seamless experience for layout customization.
+How do I add Gutenberg support to my theme?
+You can add support by including theme.json files and registering block styles within your functions.php file.
+Reddit Sources Bootstrap vs Tailwind starter theme (r/ProWordPress)
+---
+
+---
 title: Gutenberg Block Editor: New Features and Updates
 url: https://wordpress-faq.com/version/gutenberg-block-editor-features/
 date: 2026-07-15
