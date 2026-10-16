@@ -16341,6 +16341,25 @@ strengthen input validation for unserialize() operations preserve newsletter act
 ---
 
 ---
+title: Ninja Forms 3.15.6 Released
+url: https://wordpress-faq.com/news/ninja-forms-3-15-6-released/
+date: 2026-10-15
+lastmod: 2026-10-16
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ninja-forms, release, changelog, news
+What&rsquo;s new in Ninja Forms 3.15.6 Released: (15 October 2026)
+Active installations: 500,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog protect HTML fields against script injection through query string merge tag values block shortcode execution through submitted field values in Success Message merge tags block shortcode execution through the {wp:user_display_name} merge tag protect stored submission data against cross-site scripting give each Email action CSV attachment its own private file always escape field values in Email and Success Message actions, regardless of how the action was saved restore the Quote Request form template make the resize handle work in the Email action HTML source editor return the correct URL from {wp:post_url} when a form is on the home page remove the “Undefined variable $errors” PHP warning from Confirm fields show Repeatable Fieldset values on the Submissions page after switching forms keep List field values from being copied into new entries when a form has more than one Repeatable Fieldset Previous releases 3.15.5 — (28 September 2026)
+strengthen sanitization of Paragraph Text (Rich Text) field submissions against stored cross-site scripting save File Upload and other fields inside a Repeatable Fieldset correctly remove “Undefined array key fields-save-toggle” PHP warning when saving submissions remove foreach() PHP warnings when a repeatable fieldset is left blank display calculation values with the correct locale separator in form actions 3.15.4 — (21 September 2026)
+strengthen output escaping in admin submission edit screen; responsibly reported by Venkateswara Reddy Challa protect CSV export against object injection in stored submission data enforce server-side option validation for list fields add CSS class setting to Hidden fields make Select Image field mobile responsive Source Ninja Forms on WordPress.org
+---
+
+---
 title: Ninja Forms Review: Features and Common Conflicts
 url: https://wordpress-faq.com/review/ninja-forms-review/
 date: 2026-07-23
@@ -17858,6 +17877,25 @@ Requires PHP 7.4
 Changelog Fix: The “Leave a review” link in Review Request emails opened the customer dashboard instead of the product’s review form. Fix: Hardened data access checks to keep information scoped to the right users (props to Erwan from WPScan). Fix: Improved output escaping and input sanitization in several areas (props to dzaku of PatchStack and UKO – Korea University of Wordfence). Previous releases 4.9.4 — October 9th, 2026
 Improvement: The MCP settings tab now installs the MCP Adapter plugin from WordPress.org, so it appears under Plugins and receives normal updates. Fix: The “Charge tax on this product” toggle showed as off and disabled when opening a product by navigating within the admin instead of loading the page directly. Fix: Refreshing the checkout page after clicking Buy Now no longer loses the checkout. It is now kept in the URL, so a refresh shows the same items instead of an empty checkout or the saved cart. Fix: Hardened handling of stored data to only accept expected formats (props to Ananda Dhakal of PatchStack). Fix: Improved output escaping in an additional area (props to neurotx of PatchStack). 4.9.3 — October 5th, 2026
 Fix: In the customer dashboard, switching plans within an upgrade group did not show the group’s draft (members-only) products to customers who own a product in that group. Source SureCart on WordPress.org
+---
+
+---
+title: SureCart 4.9.6 Released
+url: https://wordpress-faq.com/news/surecart-4-9-6-released/
+date: 2026-10-15
+lastmod: 2026-10-16
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.9.6 Released: October 16th, 2026
+Active installations: 80,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog New: Product variants can now appear as individual listings in Google rich results and Google Merchant Center. Fix: Creating an invoice failed for stores using Shippo, because a phone number was required but there was no field to enter it. Fix: The product page template could put classic themes into quirks mode, causing layout issues. Fix: The checkout now only redirects to a custom success URL on your own site. A success URL on another domain falls back to the form’s success page. Fix: Hardened data access checks to keep information scoped to the right users (props to Erwan from WPScan). Fix: Strengthened security of the passwordless login code flow (props to Wordfence). Previous releases 4.9.5 — October 12th, 2026
+Fix: The “Leave a review” link in Review Request emails opened the customer dashboard instead of the product’s review form. Fix: Hardened data access checks to keep information scoped to the right users (props to Erwan from WPScan). Fix: Improved output escaping and input sanitization in several areas (props to dzaku of PatchStack and UKO – Korea University of Wordfence). 4.9.4 — October 9th, 2026
+Improvement: The MCP settings tab now installs the MCP Adapter plugin from WordPress.org, so it appears under Plugins and receives normal updates. Fix: The “Charge tax on this product” toggle showed as off and disabled when opening a product by navigating within the admin instead of loading the page directly. Fix: Refreshing the checkout page after clicking Buy Now no longer loses the checkout. It is now kept in the URL, so a refresh shows the same items instead of an empty checkout or the saved cart. Fix: Hardened handling of stored data to only accept expected formats (props to Ananda Dhakal of PatchStack). Fix: Improved output escaping in an additional area (props to neurotx of PatchStack). Source SureCart on WordPress.org
 ---
 
 ---
@@ -21549,15 +21587,15 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-10-15
-lastmod: 2026-10-15
+date: 2026-10-16
+lastmod: 2026-10-16
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-15.
-Plugin / theme Version Released Type UpdraftPlus 1.26.10 2026-10-15 plugin Tutor LMS 4.1.3 2026-10-15 plugin Astra 4.14.1 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin SureCart 4.9.5 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin Blocksy 2.1.59 2026-10-08 theme All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Ninja Forms 3.15.5 2026-09-28 plugin Autoptimize 3.1.16 2026-09-26 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-16.
+Plugin / theme Version Released Type UpdraftPlus 1.26.10 2026-10-15 plugin Ninja Forms 3.15.6 2026-10-15 plugin Tutor LMS 4.1.3 2026-10-15 plugin SureCart 4.9.6 2026-10-15 plugin Astra 4.14.1 2026-10-15 theme Blocksy 2.1.60 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin Yoast SEO 28.7 2026-10-13 plugin Polylang 3.8.11 2026-10-12 plugin Contact Form 7 6.2.2 2026-10-11 plugin WooCommerce 11.2.1 2026-10-09 plugin WP Mail SMTP by WPForms 4.10.2 2026-10-08 plugin All-in-One WP Migration and Backup 7.112 2026-10-07 plugin All in One SEO 5.0.3 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin W3 Total Cache 2.10.7 2026-10-01 plugin Wordfence Security 9.0.2 2026-09-30 plugin Fluent Forms 6.2.15 2026-09-30 plugin Autoptimize 3.1.16 2026-09-26 plugin All-In-One Security (AIOS) 5.4.10 2026-09-17 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin LiteSpeed Cache 7.9.1 2026-09-01 plugin Hello Elementor 3.5.1 2026-08-25 theme BuddyPress 14.5.2 2026-07-29 plugin Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
