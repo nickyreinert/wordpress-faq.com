@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 179 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 182 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -712,6 +712,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Sucuri Security 2.8.1 Released](https://wordpress-faq.com/news/sucuri-2-8-1-released/) — <no value>
 - [Sucuri vs Wordfence Security Plugin Review](https://wordpress-faq.com/review/sucuri-wordfence/) — Wordfence is generally preferred for ease of use, while server-level blocking is considered more efficient for high-traffic sites.
 - [Sucuri WordPress Security Review](https://wordpress-faq.com/review/sucuri-review/) — Sucuri is widely regarded as a robust, enterprise-grade security solution that provides excellent protection against malware and brute force attacks.
+- [SureCart 4.10.0 Released](https://wordpress-faq.com/news/surecart-4-10-0-released/) — <no value>
 - [SureCart 4.6.1 Released](https://wordpress-faq.com/news/surecart-4-6-1-released/) — <no value>
 - [SureCart 4.6.2 Released](https://wordpress-faq.com/news/surecart-4-6-2-released/) — <no value>
 - [SureCart 4.6.3 Released](https://wordpress-faq.com/news/surecart-4-6-3-released/) — <no value>
@@ -852,6 +853,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 7.1.1 Maintenance and Security Release](https://wordpress-faq.com/news/wordpress-7-1-1-maintenance-and-security-release/) — <no value>
 - [WordPress 7.1.2 Release](https://wordpress-faq.com/news/wordpress-7-1-2-release/) — <no value>
 - [WordPress 7.1.3 Maintenance and Security Release](https://wordpress-faq.com/news/wordpress-7-1-3-maintenance-and-security-release/) — <no value>
+- [WordPress 7.2 Beta 1 is ready for download and testing!](https://wordpress-faq.com/news/wordpress-7-2-beta-1-is-ready-for-download-and-testing/) — <no value>
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-pros-cons/) — WordPress is the industry standard for ease of use and scalability, though it may be outperformed by custom frameworks for highly specialized projects.
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-advantages-disadvantages/) — WordPress is highly recommended for its vast ecosystem and customization potential, though it demands more technical oversight than closed platforms.
 - [WordPress and WooCommerce Performance Optimization Guide](https://wordpress-faq.com/compatibility/wordpress-woocommerce-performance/) — Performance issues in WooCommerce are typically caused by poor server configuration or plugin bloat rather than the core software itself.
@@ -924,6 +926,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WP Mail SMTP by WPForms 4.10.0 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-10-0-released/) — <no value>
 - [WP Mail SMTP by WPForms 4.10.1 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-10-1-released/) — <no value>
 - [WP Mail SMTP by WPForms 4.10.2 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-10-2-released/) — <no value>
+- [WP Mail SMTP by WPForms 4.10.3 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-10-3-released/) — <no value>
 - [WP Mail SMTP by WPForms 4.9.0 Released](https://wordpress-faq.com/news/wp-mail-smtp-4-9-0-released/) — <no value>
 - [WP Mail SMTP Plugin Review and Email Delivery Guide](https://wordpress-faq.com/review/wp-mail-smtp-review/) — WP Mail SMTP is widely considered the industry standard for ensuring reliable WordPress email delivery through authenticated SMTP connections.
 - [WP Rocket Review: Performance and Caching Analysis](https://wordpress-faq.com/review/wp-rocket-review/) — WP Rocket is widely considered the industry standard for WordPress caching and performance optimization due to its ease of use and effectiveness.
