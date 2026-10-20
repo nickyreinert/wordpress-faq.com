@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 178 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 179 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -796,6 +796,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [UpdraftPlus 1.26.10 Released](https://wordpress-faq.com/news/updraftplus-1-26-10-released/) — <no value>
 - [UpdraftPlus 1.26.11 Released](https://wordpress-faq.com/news/updraftplus-1-26-11-released/) — <no value>
 - [UpdraftPlus 1.26.12 Released](https://wordpress-faq.com/news/updraftplus-1-26-12-released/) — <no value>
+- [UpdraftPlus 1.26.13 Released](https://wordpress-faq.com/news/updraftplus-1-26-13-released/) — <no value>
 - [UpdraftPlus 1.26.6 Released](https://wordpress-faq.com/news/updraftplus-1-26-6-released/) — <no value>
 - [UpdraftPlus 1.26.7 Released](https://wordpress-faq.com/news/updraftplus-1-26-7-released/) — <no value>
 - [UpdraftPlus 1.26.9 Released](https://wordpress-faq.com/news/updraftplus-1-26-9-released/) — <no value>
