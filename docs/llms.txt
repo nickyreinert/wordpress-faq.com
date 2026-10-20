@@ -8,13 +8,13 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 178 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 72 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 41 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -701,6 +701,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Selling Digital Products with WooCommerce](https://wordpress-faq.com/howto/digital-products-woocommerce/) — Selling digital goods requires setting products as virtual to bypass shipping requirements and ensuring proper billing address collection for tax.
 - [SEOPress Plugin Review and Performance Analysis](https://wordpress-faq.com/review/seopress-review/) — SEOPress is widely considered a powerful, lightweight, and cost-effective alternative to other major SEO plugins for WordPress users.
 - [Setting Up Continuous Deployment for WordPress](https://wordpress-faq.com/howto/wordpress-continuous-deployment-setup/) — Automating WordPress deployments via CI/CD pipelines significantly reduces human error and speeds up the release cycle for professional teams.
+- [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/hosting/shared-vps-dedicated-hosting/) — Shared hosting is best for beginners, while VPS and dedicated servers offer superior performance and control for high-traffic professional websites.
 - [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/hosting/dedicated-shared-vps-hosting/) — Shared hosting is ideal for beginners, while VPS and dedicated servers offer superior performance and control for high-traffic or complex websites.
 - [Shared vs VPS vs Dedicated WordPress Hosting Comparison](https://wordpress-faq.com/comparison/dedicated-shared-vps-hosting/) — Shared hosting is ideal for small sites, while VPS and dedicated servers offer the necessary resources and control for high-traffic professional websites.
 - [Shopify vs WooCommerce: Ecommerce Platform Comparison](https://wordpress-faq.com/comparison/shopify-woocommerce-comparison/) — Shopify is best for users seeking a simple, turnkey solution, while WooCommerce is preferred for those requiring full control and flexibility.
