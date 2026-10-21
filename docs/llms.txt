@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress News](https://wordpress-faq.com/news/) — 183 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 182 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -808,6 +808,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [W3 Total Cache 2.10.5 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-5-released/) — <no value>
 - [W3 Total Cache 2.10.6 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-6-released/) — <no value>
 - [W3 Total Cache 2.10.7 Released](https://wordpress-faq.com/news/w3-total-cache-2-10-7-released/) — <no value>
+- [W3 Total Cache 2.11.0 Released](https://wordpress-faq.com/news/w3-total-cache-2-11-0-released/) — <no value>
 - [W3 Total Cache Plugin Review and Performance Analysis](https://wordpress-faq.com/review/w3-total-cache-review/) — The community consensus is that W3 Total Cache is powerful but prone to configuration errors and site-breaking conflicts for many users.
 - [What Happened at WordCamp Europe 2026](https://wordpress-faq.com/news/what-happened-at-wordcamp-europe-2026/) — <no value>
 - [What is WordPress and How Does It Work](https://wordpress-faq.com/core/wordpress-core-overview/) — WordPress is a versatile, database-driven content management system that relies on themes and plugins to extend its core functionality.
