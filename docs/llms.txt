@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 183 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 185 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
@@ -155,10 +155,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Contact Form 7 6.2 Released](https://wordpress-faq.com/news/contact-form-7-6-2-released/) — <no value>
 - [Contact Form 7 6.2.1 Released](https://wordpress-faq.com/news/contact-form-7-6-2-1-released/) — <no value>
 - [Contact Form 7 6.2.2 Released](https://wordpress-faq.com/news/contact-form-7-6-2-2-released/) — <no value>
+- [Contact Form 7 6.2.3 Released](https://wordpress-faq.com/news/contact-form-7-6-2-3-released/) — <no value>
 - [Contact Form 7 Conflict Troubleshooting Guide](https://wordpress-faq.com/compatibility/contact-form-7-conflict/) — Most Contact Form 7 conflicts are caused by using multiple recaptcha versions simultaneously or misconfigured SMTP email settings on your domain host.
 - [Contact Form 7 Fatal Error Troubleshooting](https://wordpress-faq.com/error/contact-form-7-fatal-error/) — Fatal errors with Contact Form 7 are typically caused by PHP 8.x compatibility issues or plugin conflicts requiring a downgrade or code patch.
 - [Contact Form 7 Review and Spam Prevention Guide](https://wordpress-faq.com/review/contact-form-7/) — Contact Form 7 is a highly reliable and flexible plugin that requires additional tools like reCAPTCHA or CleanTalk to effectively manage spam.
 - [Contact Form 7 Review: Features and Security Considerations](https://wordpress-faq.com/review/contact-form-7-review/) — Contact Form 7 remains a reliable, free standard for basic WordPress forms, though it requires additional extensions for advanced features and security.
+- [Critical PHP Security Release](https://wordpress-faq.com/news/critical-php-security-release/) — <no value>
 - [DigitalOcean for WordPress Hosting Review](https://wordpress-faq.com/hosting/digitalocean-wordpress/) — DigitalOcean is a high-performance, cost-effective VPS solution that is best suited for experienced users comfortable with server management.
 - [DigitalOcean vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/digitalocean-siteground/) — SiteGround is recommended for beginners needing managed support, while DigitalOcean is the superior choice for users with technical server expertise.
 - [Divi 5 Alpha Review and Performance Analysis](https://wordpress-faq.com/review/divi-review/) — The community consensus is that Divi 5 shows significant performance gains and a modern architecture that competes well with other page builders.
