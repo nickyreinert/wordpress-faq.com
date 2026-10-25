@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 188 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 189 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
@@ -60,6 +60,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Astra WordPress Theme Review: Features and Performance](https://wordpress-faq.com/review/astra-theme-review/) — Astra is widely considered a fast, lightweight, and highly customizable theme that works exceptionally well with modern block-based page builders.
 - [Autoptimize 3.1.15.1 Released](https://wordpress-faq.com/news/autoptimize-3-1-15-1-released/) — <no value>
 - [Autoptimize 3.1.16 Released](https://wordpress-faq.com/news/autoptimize-3-1-16-released/) — <no value>
+- [Autoptimize 3.1.17 Released](https://wordpress-faq.com/news/autoptimize-3-1-17-released/) — <no value>
 - [Autoptimize WordPress Plugin Review and Performance Guide](https://wordpress-faq.com/review/autoptimize-review/) — Autoptimize is a highly effective free performance plugin, but users must be cautious with minification settings to prevent site layout conflicts.
 - [Avada and Beaver Builder Compatibility Overview](https://wordpress-faq.com/compatibility/avada-beaver-builder/) — While technically compatible, using Beaver Builder alongside Avada's built-in Fusion Builder is generally discouraged due to performance and bloat.
 - [Avada and Divi Compatibility and Comparison](https://wordpress-faq.com/compatibility/avada-divi/) — Both Avada and Divi are considered heavy, feature-bloated page builders that often lead to significant theme lock-in and performance challenges.
