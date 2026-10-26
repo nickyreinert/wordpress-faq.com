@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 189 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 191 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
@@ -46,6 +46,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All In One WP Security Review and Security Best Practices](https://wordpress-faq.com/review/all-in-one-wp-security-review/) — Community consensus suggests that while the plugin provides a solid baseline, it is not a substitute for robust hosting security and regular backups.
 - [All-In-One Security (AIOS) 5.4.10 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-4-10-released/) — <no value>
 - [All-In-One Security (AIOS) 5.4.9 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-4-9-released/) — <no value>
+- [All-In-One Security (AIOS) 5.5.0 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-5-0-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.107 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-107-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.108 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-108-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.109 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-109-released/) — <no value>
@@ -663,6 +664,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Ninja Forms 3.15.4 Released](https://wordpress-faq.com/news/ninja-forms-3-15-4-released/) — <no value>
 - [Ninja Forms 3.15.5 Released](https://wordpress-faq.com/news/ninja-forms-3-15-5-released/) — <no value>
 - [Ninja Forms 3.15.6 Released](https://wordpress-faq.com/news/ninja-forms-3-15-6-released/) — <no value>
+- [Ninja Forms 3.15.7 Released](https://wordpress-faq.com/news/ninja-forms-3-15-7-released/) — <no value>
 - [Ninja Forms Review: Features and Common Conflicts](https://wordpress-faq.com/review/ninja-forms-review/) — Ninja Forms is a capable builder, but users frequently report CSS conflicts with themes and limitations when calculating totals for payment gateways.
 - [Ninja Forms vs WPForms: Form Builder Comparison](https://wordpress-faq.com/comparison/ninja-forms-wpforms/) — Community consensus suggests that while Ninja Forms is powerful, it often suffers from CSS conflicts and complex payment field configurations compared to rivals.
 - [Optimizing Advanced Custom Fields for WordPress Performance](https://wordpress-faq.com/howto/advanced-custom-fields-optimization/) — Community consensus suggests offloading complex queries to Elasticsearch and minimizing field bloat to maintain high site performance.
