@@ -608,6 +608,25 @@ Find and replace on values ending in a backslash. Special thanks to Jack Taylor 
 ---
 
 ---
+title: All-in-One WP Migration and Backup 7.113 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-migration-7-113-released/
+date: 2026-10-27
+lastmod: 2026-10-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-migration, release, changelog, news
+What&rsquo;s new in All-in-One WP Migration and Backup 7.113 Released: 2026-10-27
+Active installations: 5,000,000
+Tested up to WordPress 7.1.3
+Requires PHP 5.3
+Changelog Restoring a backup on sites using SQLite Database Integration could leave the site on an empty or corrupted database Previous releases 7.112
+Scheduled backups stopping without an error on hosts that limit concurrent requests Exported databases with empty binary or blob values could not be read by tools outside the plugin 7.111
+Export and import now require the administrator capability. This closes a missing-authorization issue that allowed authenticated users without administrator privileges to run migrations. Credits to Charles Vosburgh for reporting it Backup actions (list, delete, label, browse, and download) are now restricted to users who can export or import HTTP authentication credentials are no longer captured for users who lack permission to run a migration. Credits to Jakub Herman for reporting it Backup list, archive browser, and downloads now fail closed with a clear error when the session has expired, instead of failing silently Export REST route no longer accepts malformed find-and-replace pairs (previously ignored silently) Source All-in-One WP Migration and Backup on WordPress.org
+---
+
+---
 title: All-in-One WP Migration Plugin Review
 url: https://wordpress-faq.com/review/all-in-one-wp-migration-review/
 date: 2026-06-07
@@ -19716,6 +19735,25 @@ Update: Optimized SQL queries for improved performance in Orders and Analytics. 
 ---
 
 ---
+title: Tutor LMS 4.2.0 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-2-0-released/
+date: 2026-10-27
+lastmod: 2026-10-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.2.0 Released: 27 Oct, 2026
+Active installations: 100,000
+Tested up to WordPress 7.1.3
+Requires PHP 7.4
+Changelog New: Added REST API authentication with personalized access tokens. New: Added endpoint-level authorization to ensure REST API operations follow user roles and capabilities. Update: API key permissions for Read, Write, Delete, and All actions are now enforced across Tutor LMS REST API routes. Update: Sensitive learning content routes now require valid enrollment, public access, or instructor/admin permissions. (Pro) Update: Quiz answers are now verified server-side in Reveal Mode to prevent answer exposure. Update: Optimized loading performance for the course list page in the WordPress admin area. Update: Improved loading performance when exporting Analytics data. (Pro) Update: Optimized the overall Analytics data export process. (Pro) Fix: Fixed an issue where the Logout button was missing on mobile devices. Fix: Fixed an issue where subscription expiration emails were triggered before every renewal email. (Pro) Fix: Fixed a PHP warning appearing in the Courses section after disabling a subscription plan. (Pro) Fix: Fixed skipped Essay questions preventing quiz completion and blocking instructors from manually grading or closing pending attempts. (Pro) Previous releases 4.1.3 — 15 Oct, 2026
+Fix: Patched a security vulnerability. 4.1.2 — 12 Oct, 2026
+Fix: Resolved an issue where zoom &amp; google meeting deleting was not working. (Pro) Fix: Resolved an issue where student wasn’t able to upload assignment attachment. (Pro) Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -21100,6 +21138,21 @@ Source WordPress 7.2 Beta 1 is ready for download and testing! — WordPress.org
 ---
 
 ---
+title: WordPress 7.2 Beta 2
+url: https://wordpress-faq.com/news/wordpress-7-2-beta-2/
+date: 2026-10-27
+lastmod: 2026-10-27
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.2 Beta 2 WordPress 7.2 Beta 2 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, use a test environment or local site to explore the new features. How to Test WordPress 7.2 Beta…
+Announced on the official WordPress.org news blog on 2026-10-27.
+Source WordPress 7.2 Beta 2 — WordPress.org News
+---
+
+---
 title: WordPress Advantages and Disadvantages Explained
 url: https://wordpress-faq.com/comparison/wordpress-pros-cons/
 date: 2026-07-05
@@ -22010,7 +22063,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-27.
-Plugin / theme Version Released Type Yoast SEO 28.8 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin All-In-One Security (AIOS) 5.5.0 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Contact Form 7 6.2.3 2026-10-21 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin SureCart 4.10.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Tutor LMS 4.1.3 2026-10-15 plugin Astra 4.14.1 2026-10-15 theme Blocksy 2.1.60 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin All-in-One WP Migration and Backup 7.112 2026-10-07 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin All-In-One Security (AIOS) 5.5.0 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Contact Form 7 6.2.3 2026-10-21 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin SureCart 4.10.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Astra 4.14.1 2026-10-15 theme Blocksy 2.1.60 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
