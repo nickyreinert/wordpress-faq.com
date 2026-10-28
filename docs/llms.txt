@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 44 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 45 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 196 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
@@ -623,6 +623,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is Hetzner Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hetzner-wordpress-hosting/) — Hetzner is widely considered an excellent, high-performance, and cost-effective choice for WordPress hosting, especially for those comfortable with VPS.
 - [Is Hostinger Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hostinger-wordpress-hosting/) — Hostinger is considered a reliable and easy-to-manage entry-level host, though it may lack the performance required for high-traffic professional sites.
 - [Is Hostinger Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hostinger-wordpress-review/) — Hostinger is widely regarded as a solid, cost-effective entry point for small WordPress sites, though it may lack the power needed for large-scale projects.
+- [Is Kinsta Good for WordPress Hosting?](https://wordpress-faq.com/hosting/kinsta-wordpress-hosting/) — Kinsta is widely considered a high-performance, reliable managed hosting provider, though it comes at a premium price point compared to alternatives.
 - [Is Kinsta Good for WordPress Hosting?](https://wordpress-faq.com/hosting/kinsta-hosting-review/) — Kinsta is widely considered a high-performance, reliable managed hosting solution, though its premium pricing may be prohibitive for smaller budgets.
 - [Is Namecheap Good for WordPress Hosting?](https://wordpress-faq.com/hosting/namecheap-wordpress-hosting/) — Namecheap is considered a functional budget hosting provider, though users often recommend researching specific performance tiers for WordPress.
 - [Is SiteGround Good for WordPress Hosting?](https://wordpress-faq.com/hosting/siteground-wordpress-hosting/) — SiteGround is generally considered a reliable and user-friendly hosting provider with strong support, though some users note price increases.
