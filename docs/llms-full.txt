@@ -19082,6 +19082,34 @@ Reddit Sources Facing performance issues in Dreamhost. Anyone else? (r/Wordpress
 ---
 
 ---
+title: Troubleshooting Slow WordPress Performance on SiteGround
+url: https://wordpress-faq.com/hosting/siteground-wordpress-performance/
+date: 2026-10-28
+lastmod: 2026-10-28
+verdict: Community consensus suggests that slow performance is often caused by heavy themes or plugins rather than the hosting provider itself.
+confidence: medium
+sources: 8
+schema_type: FAQPage
+tags: performance, hosting, speed, images, conflict
+faq:
+  - q: Why is my WordPress site slow on SiteGround?
+    a: Slow performance is typically caused by heavy themes like Elementor, excessive plugin usage, or unoptimized images rather than the host.
+  - q: How can I reduce high CPU usage on SiteGround?
+    a: Check for malicious activity, optimize your database, use caching plugins, and ensure your theme is lightweight to reduce server load.
+  - q: Does changing my WordPress theme improve speed?
+    a: Yes, switching to a lightweight theme like GeneratePress or using the native block editor can significantly improve loading times.
+Community consensus suggests that slow performance is often caused by heavy themes or plugins rather than the hosting provider itself. Based on 8 community reports.
+Linked sources: 9.
+Known Issues High CPU usage on shared hosting Bloated page builder themes Unoptimized image assets Excessive plugin overhead Community Q&amp;A Why is my WordPress site slow on SiteGround?
+Slow performance is typically caused by heavy themes like Elementor, excessive plugin usage, or unoptimized images rather than the host.
+How can I reduce high CPU usage on SiteGround?
+Check for malicious activity, optimize your database, use caching plugins, and ensure your theme is lightweight to reduce server load.
+Does changing my WordPress theme improve speed?
+Yes, switching to a lightweight theme like GeneratePress or using the native block editor can significantly improve loading times.
+Reddit Sources 9 Most Common WordPress Optimization Mistakes I Keep Seeing (And How You Can Fix Them) (r/Wordpress) Start Here: Essential Resources &amp; FAQs (r/Wordpress) Start Here: Essential Resources &amp; FAQs (r/Wordpress) My wordpress is slow, but didn&rsquo;t expect it to be thaat slow any insights on what I could do? (r/Wordpress) Stuck at loading trying to change text on my website (r/Wordpress) Website is loading very slowly (r/Wordpress) 5 Simple Tricks to Speed Up Your WordPress Site 🚀 (r/Wordpress) High CPU usage issue WooCommerce site (r/Wordpress) SiteGround Hosting? (r/Wordpress)
+---
+
+---
 title: Troubleshooting Slow WordPress Sites on Local by Flywheel
 url: https://wordpress-faq.com/error/flywheel-wordpress-performance/
 date: 2026-07-27
