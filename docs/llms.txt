@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 46 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 323 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 196 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 197 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
@@ -873,6 +873,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress 7.1.1 Maintenance and Security Release](https://wordpress-faq.com/news/wordpress-7-1-1-maintenance-and-security-release/) — <no value>
 - [WordPress 7.1.2 Release](https://wordpress-faq.com/news/wordpress-7-1-2-release/) — <no value>
 - [WordPress 7.1.3 Maintenance and Security Release](https://wordpress-faq.com/news/wordpress-7-1-3-maintenance-and-security-release/) — <no value>
+- [WordPress 7.1.4](https://wordpress-faq.com/news/wordpress-7-1-4/) — <no value>
 - [WordPress 7.2 Beta 1 is ready for download and testing!](https://wordpress-faq.com/news/wordpress-7-2-beta-1-is-ready-for-download-and-testing/) — <no value>
 - [WordPress 7.2 Beta 2](https://wordpress-faq.com/news/wordpress-7-2-beta-2/) — <no value>
 - [WordPress Advantages and Disadvantages Explained](https://wordpress-faq.com/comparison/wordpress-pros-cons/) — WordPress is the industry standard for ease of use and scalability, though it may be outperformed by custom frameworks for highly specialized projects.

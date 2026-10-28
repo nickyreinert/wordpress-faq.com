@@ -21343,6 +21343,21 @@ Source WordPress 7.1.3 Maintenance and Security Release — WordPress.org News
 ---
 
 ---
+title: WordPress 7.1.4
+url: https://wordpress-faq.com/news/wordpress-7-1-4/
+date: 2026-10-28
+lastmod: 2026-10-28
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.1.4 This security release features fixes for multiple issues. Because this is a security release, it is recommended that you update your sites immediately. You can download WordPress 7.1.4 from WordPress.org, or visit your WordPress Dashboard, click “Updates”, and then click “Update Now”. If you have sites that support automatic background updates, the update process will…
+Announced on the official WordPress.org news blog on 2026-10-28.
+Source WordPress 7.1.4 — WordPress.org News
+---
+
+---
 title: WordPress 7.2 Beta 1 is ready for download and testing!
 url: https://wordpress-faq.com/news/wordpress-7-2-beta-1-is-ready-for-download-and-testing/
 date: 2026-10-20
