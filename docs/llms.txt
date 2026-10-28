@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 46 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 321 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 322 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 196 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -453,6 +453,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress to Bluehost Hosting](https://wordpress-faq.com/howto/bluehost-migration/) — Migrating to Bluehost requires manual file and database transfers, often complicated by SSL and local environment configuration issues.
 - [How to Migrate WordPress to Bluehost Hosting](https://wordpress-faq.com/howto/migrate-wordpress-bluehost/) — Community consensus suggests using automated migration plugins or professional services to avoid common SSL and database connection errors.
 - [How to Migrate WordPress to Cloudways Hosting](https://wordpress-faq.com/howto/cloudways-migration/) — Migrating to Cloudways is best achieved using their official migration plugin or manual database and file transfers for experienced users.
+- [How to Migrate WordPress to DigitalOcean](https://wordpress-faq.com/howto/migrate-wordpress-digitalocean/) — Successful migration requires careful database handling and verifying server permalink settings to avoid common 404 errors after the move.
 - [How to Migrate WordPress to DigitalOcean](https://wordpress-faq.com/howto/digitalocean-migration/) — Migrating to DigitalOcean is best achieved by using rsync for file transfers and manual database imports or specialized backup plugins for reliability.
 - [How to Migrate WordPress to Dreamhost](https://wordpress-faq.com/howto/migrate-wordpress-dreamhost/) — Migrating to Dreamhost is best achieved using their automated migration plugin or a manual file and database transfer for experienced users.
 - [How to Migrate WordPress to DreamHost](https://wordpress-faq.com/howto/dreamhost-migration/) — Migrating to DreamHost requires careful handling of database credentials and DNS settings to ensure your site remains accessible during the move.
