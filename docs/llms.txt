@@ -8,8 +8,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 43 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 196 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 42 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 320 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -625,6 +625,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is Hostinger Good for WordPress Hosting?](https://wordpress-faq.com/hosting/hostinger-wordpress-review/) — Hostinger is widely regarded as a solid, cost-effective entry point for small WordPress sites, though it may lack the power needed for large-scale projects.
 - [Is Kinsta Good for WordPress Hosting?](https://wordpress-faq.com/hosting/kinsta-hosting-review/) — Kinsta is widely considered a high-performance, reliable managed hosting solution, though its premium pricing may be prohibitive for smaller budgets.
 - [Is Namecheap Good for WordPress Hosting?](https://wordpress-faq.com/hosting/namecheap-wordpress-hosting/) — Namecheap is considered a functional budget hosting provider, though users often recommend researching specific performance tiers for WordPress.
+- [Is SiteGround Good for WordPress Hosting?](https://wordpress-faq.com/hosting/siteground-wordpress-hosting/) — SiteGround is generally considered a reliable and user-friendly hosting provider with strong support, though some users note price increases.
 - [Is SiteGround Good for WordPress Hosting?](https://wordpress-faq.com/hosting/siteground-wordpress/) — SiteGround is widely considered a reliable and user-friendly hosting provider, particularly valued for its excellent customer support and ease of use.
 - [Is SiteGround Good for WordPress Hosting?](https://wordpress-faq.com/hosting/siteground-hosting-review/) — SiteGround is widely considered a reliable and user-friendly hosting provider, though some users note that costs increase after the initial promotional period.
 - [Is WordPress Free to Use? Cost and Licensing Explained](https://wordpress-faq.com/core/wordpress-cost-analysis/) — The WordPress software itself is free, but operating a functional site requires additional costs for hosting, domains, and premium extensions.
