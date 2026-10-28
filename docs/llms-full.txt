@@ -18133,6 +18133,25 @@ Fix: The “Leave a review” link in Review Request emails opened the customer 
 ---
 
 ---
+title: SureCart 4.11.0 Released
+url: https://wordpress-faq.com/news/surecart-4-11-0-released/
+date: 2026-10-28
+lastmod: 2026-10-28
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.11.0 Released: October 28th, 2026
+Active installations: 80,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog New: Advanced filters for Orders, Subscriptions and Customers, including customer, product, coupon, return status and date. Filtered views are saved in the URL. New: Patterns library in the Site Editor with new product page, quick view, sticky purchase and upsell patterns. New: Automatic compatibility with WP Super Cache, Autoptimize, Breeze, Cache Enabler and Hummingbird. No manual cache exclusions needed. New: AI assistant (MCP) order abilities now include the buyer’s name, email and redeemed coupon or promotion code. Fix: Card payments were lost when the checkout page reloaded during 3D Secure approval on mobile devices. Fix: The Shippo fulfillment drawer failed with a generic “Can’t be blank” error when the order had no customer email, with no way to add one. Fix: Admin lists froze for stores with very large totals. Lists with more than 100 pages now use a page number input. Fix: Login code emails are now rate-limited and no longer reveal a user’s email address. Fix: Customer email redirect links can no longer be used to send customers to another site. Previous releases 4.10.0 — October 20th, 2026
+New: A redesigned onboarding helps you create a new store or connect an existing one in a few steps. New: A Setup guide page walks you through adding a product, branding, a test order, connecting your store, payments and launching. New: Browse and import Starter Templates from Settings → Design &amp; Branding. Fix: The Shippo shipping label screen crashed when the order’s shipping method had no description. Fix: The default Checkout page now uses the wide layout, so the two-column checkout form is no longer cramped on block themes. This applies to newly created or restored Checkout pages. 4.9.6 — October 16th, 2026
+New: Product variants can now appear as individual listings in Google rich results and Google Merchant Center. Fix: Creating an invoice failed for stores using Shippo, because a phone number was required but there was no field to enter it. Fix: The product page template could put classic themes into quirks mode, causing layout issues. Fix: The checkout now only redirects to a custom success URL on your own site. A success URL on another domain falls back to the form’s success page. Fix: Hardened data access checks to keep information scoped to the right users (props to Erwan from WPScan). Source SureCart on WordPress.org
+---
+
+---
 title: SureCart 4.6.1 Released
 url: https://wordpress-faq.com/news/surecart-4-6-1-released/
 date: 2026-07-22
@@ -22354,7 +22373,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-28.
-Plugin / theme Version Released Type Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin All-In-One Security (AIOS) 5.5.0 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Contact Form 7 6.2.3 2026-10-21 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin SureCart 4.10.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Astra 4.14.1 2026-10-15 theme Blocksy 2.1.60 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type SureCart 4.11.0 2026-10-28 plugin Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin All-In-One Security (AIOS) 5.5.0 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Contact Form 7 6.2.3 2026-10-21 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Astra 4.14.1 2026-10-15 theme Blocksy 2.1.60 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

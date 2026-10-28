@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 47 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 324 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 197 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 198 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
@@ -731,6 +731,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Sucuri vs Wordfence Security Plugin Review](https://wordpress-faq.com/review/sucuri-wordfence/) — Wordfence is generally preferred for ease of use, while server-level blocking is considered more efficient for high-traffic sites.
 - [Sucuri WordPress Security Review](https://wordpress-faq.com/review/sucuri-review/) — Sucuri is widely regarded as a robust, enterprise-grade security solution that provides excellent protection against malware and brute force attacks.
 - [SureCart 4.10.0 Released](https://wordpress-faq.com/news/surecart-4-10-0-released/) — <no value>
+- [SureCart 4.11.0 Released](https://wordpress-faq.com/news/surecart-4-11-0-released/) — <no value>
 - [SureCart 4.6.1 Released](https://wordpress-faq.com/news/surecart-4-6-1-released/) — <no value>
 - [SureCart 4.6.2 Released](https://wordpress-faq.com/news/surecart-4-6-2-released/) — <no value>
 - [SureCart 4.6.3 Released](https://wordpress-faq.com/news/surecart-4-6-3-released/) — <no value>
