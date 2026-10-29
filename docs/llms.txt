@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 48 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 198 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 199 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -162,6 +162,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Contact Form 7 6.2.1 Released](https://wordpress-faq.com/news/contact-form-7-6-2-1-released/) — <no value>
 - [Contact Form 7 6.2.2 Released](https://wordpress-faq.com/news/contact-form-7-6-2-2-released/) — <no value>
 - [Contact Form 7 6.2.3 Released](https://wordpress-faq.com/news/contact-form-7-6-2-3-released/) — <no value>
+- [Contact Form 7 6.2.4.1 Released](https://wordpress-faq.com/news/contact-form-7-6-2-4-1-released/) — <no value>
 - [Contact Form 7 Conflict Troubleshooting Guide](https://wordpress-faq.com/compatibility/contact-form-7-conflict/) — Most Contact Form 7 conflicts are caused by using multiple recaptcha versions simultaneously or misconfigured SMTP email settings on your domain host.
 - [Contact Form 7 Fatal Error Troubleshooting](https://wordpress-faq.com/error/contact-form-7-fatal-error/) — Fatal errors with Contact Form 7 are typically caused by PHP 8.x compatibility issues or plugin conflicts requiring a downgrade or code patch.
 - [Contact Form 7 Review and Spam Prevention Guide](https://wordpress-faq.com/review/contact-form-7/) — Contact Form 7 is a highly reliable and flexible plugin that requires additional tools like reCAPTCHA or CleanTalk to effectively manage spam.
