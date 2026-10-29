@@ -10,8 +10,8 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 48 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 198 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
