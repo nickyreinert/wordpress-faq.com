@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 48 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 47 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 198 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -154,6 +154,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Cloudways vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-siteground/) — Cloudways offers superior performance and control for advanced users, while SiteGround provides a more managed, beginner-friendly experience.
 - [Cloudways vs WP Engine WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-wpengine/) — Cloudways is generally preferred for flexibility and cost, while WP Engine is criticized for aggressive upsell tactics and billing issues.
 - [Cloudways WordPress Performance and Speed Optimization](https://wordpress-faq.com/hosting/cloudways-wordpress-performance/) — Cloudways generally offers high performance, but users often see speed improvements by switching from the default Breeze plugin to alternatives like WP-Optimize.
+- [Cloudways WordPress Performance and Speed Troubleshooting](https://wordpress-faq.com/hosting/cloudways-performance-optimization/) — Cloudways performance issues are often resolved by switching from the default Breeze plugin to alternatives like WP-Optimize and checking DNS settings.
 - [Configuring WooCommerce Shipping Methods and Plugins](https://wordpress-faq.com/howto/woocommerce-shipping-configuration/) — Community consensus suggests using specialized plugins like PluginHive or EasyPost for complex carrier integrations, while flat rates suffice for simple setups.
 - [Contact Form 7 6.1.6 Released](https://wordpress-faq.com/news/contact-form-7-6-1-6-released/) — <no value>
 - [Contact Form 7 6.1.7 Released](https://wordpress-faq.com/news/contact-form-7-6-1-7-released/) — <no value>
