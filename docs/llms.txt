@@ -8,9 +8,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 47 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 324 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 198 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -453,6 +453,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Migrate WordPress to Bluehost Hosting](https://wordpress-faq.com/howto/bluehost-wordpress-migration/) — Manual migration or using a dedicated plugin is recommended for moving WordPress sites to Bluehost to ensure data integrity.
 - [How to Migrate WordPress to Bluehost Hosting](https://wordpress-faq.com/howto/bluehost-migration/) — Migrating to Bluehost requires manual file and database transfers, often complicated by SSL and local environment configuration issues.
 - [How to Migrate WordPress to Bluehost Hosting](https://wordpress-faq.com/howto/migrate-wordpress-bluehost/) — Community consensus suggests using automated migration plugins or professional services to avoid common SSL and database connection errors.
+- [How to Migrate WordPress to Cloudways Hosting](https://wordpress-faq.com/howto/migrate-wordpress-cloudways/) — Cloudways provides a dedicated migration plugin that simplifies the process, though manual migration is recommended for complex or legacy site setups.
 - [How to Migrate WordPress to Cloudways Hosting](https://wordpress-faq.com/howto/cloudways-migration/) — Migrating to Cloudways is best achieved using their official migration plugin or manual database and file transfers for experienced users.
 - [How to Migrate WordPress to DigitalOcean](https://wordpress-faq.com/howto/migrate-wordpress-digitalocean/) — Successful migration requires careful database handling and verifying server permalink settings to avoid common 404 errors after the move.
 - [How to Migrate WordPress to DigitalOcean](https://wordpress-faq.com/howto/digitalocean-migration/) — Migrating to DigitalOcean is best achieved by using rsync for file transfers and manual database imports or specialized backup plugins for reliability.
