@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 74 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 200 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 48 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 73 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
@@ -133,6 +133,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Blocksy Theme Review: Performance and Customization](https://wordpress-faq.com/review/blocksy-review/) — Blocksy is widely considered a top-tier, lightweight, and highly customizable block-based theme for modern WordPress websites.
 - [Bluehost vs Dreamhost WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-dreamhost/) — Both providers offer reliable entry-level WordPress hosting, though Dreamhost is often preferred for its transparent pricing and better performance.
 - [Bluehost vs Hostinger WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-hostinger/) — Hostinger is generally preferred for better performance and value, while Bluehost is often cited for its beginner-friendly WordPress integration.
+- [Bluehost vs Namecheap WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-namecheap-hosting/) — Both providers offer affordable entry-level shared hosting, but performance and support quality vary significantly based on the specific plan chosen.
 - [Bluehost vs Namecheap WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-namecheap/) — Both providers offer entry-level shared hosting, but performance and support quality vary significantly based on your specific website requirements.
 - [Bluehost vs SiteGround WordPress Hosting Comparison](https://wordpress-faq.com/comparison/bluehost-siteground/) — Both hosts are considered accessible entry-level options for WordPress, though individual performance and support experiences vary widely among users.
 - [Bluehost WordPress Performance and Speed Issues](https://wordpress-faq.com/hosting/bluehost-wordpress-performance/) — Community consensus suggests that Bluehost performance issues are common and often require migrating to a more optimized hosting provider.
