@@ -4921,6 +4921,25 @@ NEW: Abilities – Store data is now registered with WordPress’s Abilities API
 ---
 
 ---
+title: Easy Digital Downloads 3.7.3 Released
+url: https://wordpress-faq.com/news/easy-digital-downloads-3-7-3-released/
+date: 2026-10-29
+lastmod: 2026-10-30
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, easy-digital-downloads, release, changelog, news
+What&rsquo;s new in Easy Digital Downloads 3.7.3 Released: 2026-10-29
+Active installations: 40,000
+Tested up to WordPress 7.0.8
+Requires PHP 8.0
+Changelog NEW: Customers – The customer screen now shows the date and IP address of the customer’s last login, and both are included in personal data exports. Security: Strengthened account verification when completing a PayPal order. Blocks: The Downloads block now validates its featured styling values in the editor, as the front end already did. Blocks: A malformed block editor preview parameter no longer causes a fatal error. Checkout: Personal Info fields on the block checkout no longer disappear when a page builder renders the page’s blocks more than once. Customers: Admins can now verify, or resend verification for, a customer whose user account is still pending. Database: Changing a cached value, no longer leaves the old value in the cache. Orders: Filtered order lists, such as a discount’s orders or a transaction search, now show the right orders on sites with a persistent object cache. Orders: The discount selector on the Add New Order screen is now searchable. Orders: A fee added to a new order now gets the correct tax after toggling “Apply tax to fee” or switching between Fee and Credit. PayPal: Refunds issued from EDD on stores using PayPal’s current onboarding now record the refund transaction and amount, so PayPal’s notifications don’t process the same refund twice. PayPal: Full refunds received through PayPal IPN now mark the order as Refunded instead of Partially Refunded. Previous releases 3.7.2
+Security: Fixed a missing authorization check when sending a test Email Summary. Security: Discount codes with a maximum number of uses are now reserved when checkout starts, so customers checking out at the same time can no longer redeem a code past its limit. Checkout: Fixed the Log in and Register forms not showing on a checkout page built from the Checkout block with no inner blocks. Checkout: Improved order completion speed by deferring total store earnings calculations until after checkout has completed. Database: Database events can now be triggered only by the operations that create them. 3.7.1.1
+Improved: Square orders are now completed only once Square confirms the payment is complete. Source Easy Digital Downloads on WordPress.org
+---
+
+---
 title: Easy Digital Downloads and Elementor Compatibility Guide
 url: https://wordpress-faq.com/compatibility/easy-digital-downloads-elementor/
 date: 2026-05-28
@@ -22440,15 +22459,15 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-10-29
-lastmod: 2026-10-29
+date: 2026-10-30
+lastmod: 2026-10-30
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-29.
-Plugin / theme Version Released Type Contact Form 7 6.2.4.1 2026-10-29 plugin Astra 4.14.2 2026-10-29 theme SureCart 4.11.0 2026-10-28 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin All-In-One Security (AIOS) 5.5.0 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Blocksy 2.1.60 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Easy Digital Downloads 3.7.2 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-30.
+Plugin / theme Version Released Type Contact Form 7 6.2.4.1 2026-10-29 plugin Easy Digital Downloads 3.7.3 2026-10-29 plugin Astra 4.14.2 2026-10-29 theme SureCart 4.11.0 2026-10-28 plugin Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin All-In-One Security (AIOS) 5.5.0 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Blocksy 2.1.60 2026-10-15 theme Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
