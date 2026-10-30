@@ -494,6 +494,25 @@ TWEAK: Added a filter that validates POST requests containing UDRPC messages TWE
 ---
 
 ---
+title: All-In-One Security (AIOS) 5.5.1 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-security-5-5-1-released/
+date: 2026-10-30
+lastmod: 2026-10-30
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-security, release, changelog, news
+What&rsquo;s new in All-In-One Security (AIOS) 5.5.1 Released: 30/Oct/2026
+Active installations: 1,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog FIX: Updated Cloudflare Turnstile key check regex to allow underscores and hyphens. TWEAK: Removed unused lib-central library. TWEAK: Add a Black Friday promo. Previous releases 5.5.0 — 26/Oct/2026
+SECURITY: Prevented unauthorised clearing of login lockouts via an empty aiowps_auth_key parameter by requiring a valid nonce and unlock key. Thanks to Filip Kowalski for disclosing this defect. SECURITY: Do not allow WooCommerce to auto-login a user who has TFA active when they perform a password reset. i.e. On previous versions, if using WooCommerce’s “Lost password” facility, someone with access to the email account to which the password reset link was sent could login without providing a TFA code. SECURITY: On a site where users with lower privilege levels (e.g. subscriber) existed, a lower-privileged user could forge a request and thereby have his own TFA code accepted for someone else’s account. To complete login he would also need to know the password of the account he was logging into. Thanks to Karol Czubernat for the responsible disclosure, via WPScan. FEATURE: Added an Integration settings tab to connect a TeamUpdraft account, providing the authentication used by features that connect to the TeamUpdraft cloud. FEATURE: Added an optional redirect URL to the Rename Login Page feature, so non-logged-in visitors who try to access wp-admin can be sent to a chosen page instead of seeing a “you do not have permission” message. 5.4.10 — 16/Sep/2026
+SECURITY: Login lockout unlock requests allowed users to unlock another account’s lockout because they were validated based only on the IP address, without checking the user account. Thanks to Ananda Dhakal for disclosing this defect. (This would allow an attacker sharing the same IP address as a user with an active lockout to clear that user’s lockout.) Source All-In-One Security (AIOS) on WordPress.org
+---
+
+---
 title: All-in-One WP Migration and Backup 7.107 Released
 url: https://wordpress-faq.com/news/all-in-one-wp-migration-7-107-released/
 date: 2026-07-21
@@ -22491,7 +22510,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-10-30.
-Plugin / theme Version Released Type Blocksy 2.1.61 2026-10-30 theme Contact Form 7 6.2.4.1 2026-10-29 plugin Easy Digital Downloads 3.7.3 2026-10-29 plugin Astra 4.14.2 2026-10-29 theme SureCart 4.11.0 2026-10-28 plugin Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin All-In-One Security (AIOS) 5.5.0 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type All-In-One Security (AIOS) 5.5.1 2026-10-30 plugin Blocksy 2.1.61 2026-10-30 theme Contact Form 7 6.2.4.1 2026-10-29 plugin Easy Digital Downloads 3.7.3 2026-10-29 plugin Astra 4.14.2 2026-10-29 theme SureCart 4.11.0 2026-10-28 plugin Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---

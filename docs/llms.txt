@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 74 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 200 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 201 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 48 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
@@ -47,6 +47,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [All-In-One Security (AIOS) 5.4.10 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-4-10-released/) — <no value>
 - [All-In-One Security (AIOS) 5.4.9 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-4-9-released/) — <no value>
 - [All-In-One Security (AIOS) 5.5.0 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-5-0-released/) — <no value>
+- [All-In-One Security (AIOS) 5.5.1 Released](https://wordpress-faq.com/news/all-in-one-wp-security-5-5-1-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.107 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-107-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.108 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-108-released/) — <no value>
 - [All-in-One WP Migration and Backup 7.109 Released](https://wordpress-faq.com/news/all-in-one-wp-migration-7-109-released/) — <no value>
