@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 223 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 75 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 48 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 22 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -920,6 +920,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Database Optimization and Performance Guide](https://wordpress-faq.com/howto/wordpress-database-optimization/) — Community consensus suggests that database performance is best improved by optimizing data architecture and implementing object caching like Redis.
 - [WordPress Database Optimization Best Practices](https://wordpress-faq.com/howto/database-optimization/) — Regular database cleanup and indexing are essential for maintaining optimal WordPress site performance and preventing long-term bloat issues.
 - [WordPress File Permissions and Security Best Practices](https://wordpress-faq.com/error/wordpress-file-permissions/) — Standard WordPress file permissions should be set to 755 for directories and 644 for files to ensure optimal security and functionality.
+- [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/core/wordpress-beginners-guide/) — Beginners should focus on mastering core WordPress functionality before exploring complex plugins or custom development to ensure site stability.
 - [WordPress for Beginners: Getting Started Guide](https://wordpress-faq.com/howto/wordpress-beginners-guide/) — Beginners should focus on learning core programming languages like PHP or JavaScript while utilizing managed hosting to simplify the initial setup.
 - [WordPress Freelance Business Tips and Pricing Strategies](https://wordpress-faq.com/howto/wordpress-freelance-business-tips/) — Community consensus suggests charging flat fees for projects while maintaining high hourly rates for maintenance to ensure professional credibility.
 - [WordPress Full Site Editing and Gutenberg Explained](https://wordpress-faq.com/core/gutenberg-wordpress-full-site-editing/) — The community remains divided on Gutenberg, with significant debate regarding its usability compared to established page builders like Elementor.
