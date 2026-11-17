@@ -9,9 +9,9 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
+- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 49 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 223 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 75 articles
-- [WordPress Hosting](https://wordpress-faq.com/hosting/) — 48 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
@@ -935,6 +935,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Local Development Setup Guide](https://wordpress-faq.com/howto/wordpress-local-development-setup/) — Community consensus favors lightweight tools like Laravel Valet or Bedrock over legacy stacks like MAMP or XAMPP for modern development workflows.
 - [WordPress Malware Removal Guide](https://wordpress-faq.com/howto/wordpress-malware-removal/) — Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections.
 - [WordPress Malware Removal: Best Practices and Diagnosis](https://wordpress-faq.com/error/wordpress-malware-removal/) — The community consensus is to identify the specific entry point, such as an abandoned plugin or compromised API token, before attempting a full cleanup.
+- [WordPress Market Share and Popularity Analysis](https://wordpress-faq.com/hosting/wordpress-market-share-popularity/) — WordPress remains the most popular CMS due to its massive ecosystem, though hosting quality significantly impacts user satisfaction and site performance.
 - [WordPress Multisite vs Single Site Comparison](https://wordpress-faq.com/comparison/multisite-single-site/) — WordPress Multisite is generally discouraged for most users due to its high maintenance overhead and potential for complex site-wide conflicts.
 - [WordPress Multisite vs Single Site: When to Use Each](https://wordpress-faq.com/comparison/multisite-vs-single-site/) — Use Multisite for managing multiple related sites under one network, while single site is better for independent, standalone website installations.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/core/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog flow.
