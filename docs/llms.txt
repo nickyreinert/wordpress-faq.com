@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 223 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 224 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 75 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
@@ -150,6 +150,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [BuddyPress 14.4.0 Released](https://wordpress-faq.com/news/buddypress-14-4-0-released/) — <no value>
 - [BuddyPress 14.5.2 Released](https://wordpress-faq.com/news/buddypress-14-5-2-released/) — <no value>
 - [BuddyPress 14.5.4 Released](https://wordpress-faq.com/news/buddypress-14-5-4-released/) — <no value>
+- [BuddyPress 14.5.6 Released](https://wordpress-faq.com/news/buddypress-14-5-6-released/) — <no value>
 - [BuddyPress Review: Community Features and Alternatives](https://wordpress-faq.com/review/buddypress-review/) — BuddyPress is a robust but complex solution that frequently necessitates custom development or alternative platforms for modern community needs.
 - [Cloudways vs DigitalOcean WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-digitalocean/) — Cloudways provides a managed interface for DigitalOcean servers, making it the better choice for users who prefer convenience over manual configuration.
 - [Cloudways vs Kinsta Managed WordPress Hosting Comparison](https://wordpress-faq.com/comparison/cloudways-kinsta/) — Cloudways offers superior flexibility and value for developers, while Kinsta provides a premium, fully managed experience for high-traffic sites.
