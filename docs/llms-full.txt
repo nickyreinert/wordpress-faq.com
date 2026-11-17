@@ -31,6 +31,25 @@ Fix – Image and Gallery fields no longer reject SVG files Source Advanced Cust
 ---
 
 ---
+title: Advanced Custom Fields (ACF®) 6.8.11 Released
+url: https://wordpress-faq.com/news/advanced-custom-fields-6-8-11-released/
+date: 2026-11-02
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, advanced-custom-fields, release, changelog, news
+What&rsquo;s new in Advanced Custom Fields (ACF®) 6.8.11 Released: 2026-11-02
+Active installations: 2,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Security – Custom values submitted to Checkbox, Radio, and Select fields with “Save Custom Values” enabled can no longer corrupt the field’s settings or add HTML attributes to the field’s wrapper. The new acf/fields/allow_append_choices filter can be used to restrict who can add new choices to a field. Thanks to Jakub Herman via WPScan for the responsible disclosure Security – ACF now sanitizes field, field group, post type, taxonomy, and options page settings saved by users without the unfiltered_html capability. For those users, a field’s wrapper settings are limited to width, class, and id. Event handler (on*) attributes in a field’s wrapper setting are no longer output for any field, including fields registered in PHP or local JSON Security – Field values of password-protected posts are no longer shown by the [acf] shortcode, block bindings, JSON-LD output, or the REST API until the password is entered. REST responses also no longer expand a referenced password-protected post into a full post object Security – The [acf] shortcode and ACF block bindings now output only user IDs for User fields, rather than personal data such as names and email addresses. The previous output can be restored with the new acf/bindings/allow_user_data filter Security – Files uploaded through the basic uploader by users without the upload_files capability no longer generate PDF preview images or save embedded audio and video cover art. This can be changed with the new acf/upload/generate_previews filter Security – ACF now discards submitted field values unless the field was rendered for the content being saved or its field group’s location rules match it. Inputs outside these rules, such as fields added with JavaScript, can be allowed with the acf/form/{context}/allowed_field_keys and acf/options_page/allowed_field_keys filters. Registration forms no longer save fields from field groups set to “User Form is Add / Edit”. Thanks to vuxvinh via WPScan for the responsible disclosure Security – WordPress’s Custom Fields meta box, its AJAX handler, and XML-RPC can no longer change meta that belongs to ACF fields Security – Basic uploader nonces are now tied to the content being edited Security – The AJAX request that loads field groups while editing a post no longer returns field groups assigned to other content Security – The Relationship, Post Object, and Page Link fields no longer reveal the titles or statuses of posts the current user cannot read, and no longer save newly selected posts the user cannot read. Existing selections the user cannot read are shown as “(Restricted item)” and are kept when the user saves. Thanks to vuxvinh via WPScan for the responsible disclosure Security – Relationship, Post Object, and Page Link values rendered in ACF Blocks now leave out posts the author of the post cannot read, such as another user’s unpublished drafts. This can be disabled with the new acf/fields/relational/hide_unreadable_posts filter Security – Bidirectional fields now only add references to posts the current user can edit, terms they can assign, and users they can edit or set as a post’s author. Saves made with update_field(), WP-CLI, or cron are not checked, and the new acf/bidirectional/can_update_target and acf/is_trusted_save_context filters can adjust this. Thanks to vuxvinh via WPScan for the responsible disclosure Previous releases 6.8.10
+Security – ACF now validates that uploaded PDF files begin with the standard %PDF- header before further processing, rejecting files that do not match the expected format Security – The Relationship, Post Object, Image, Gallery, and File fields now enforce WordPress read permissions on referenced posts and attachments when returned in REST API responses Security – ACF now verifies both preview context and the caller’s edit capability before substituting revision data when field values are retrieved for a post Security – The _acf_form token used by frontend forms now expires and is bound to its issuing render, and acf_encrypt() / acf_decrypt() gain an optional $context argument for domain separation between token uses Security – ACF now consistently runs field validation on frontend form submissions containing field data, ensuring required-field checks and custom acf/validate_value filters cannot be circumvented 6.8.9
+View Release Post Enhancement – ACF Blocks registered via acf_register_block_type() or block.json without an explicit version now default to v3 on WordPress 7.1 or later. Blocks that specify a version continue to use the version they declare, and the default can be customized via the acf/blocks/default_block_version filter Enhancement – ACF Blocks v3 now supports a renderPreview option in block.json. Setting &ldquo;renderPreview&rdquo;: false shows a placeholder with the block’s icon, title, and an “Edit Block” button in the editor instead of rendering the block’s template as a live preview. The block continues to render normally on the front-end, and legacy v2 blocks combining &ldquo;mode&rdquo;: &ldquo;edit&rdquo; with &ldquo;supports&rdquo;: { &ldquo;mode&rdquo;: false } are automatically migrated when upgraded to v3 Fix – Inline editable fields in ACF Blocks V3 no longer require a second click before they can be edited Fix – Radio buttons now appear correctly in ACF admin screens Source Advanced Custom Fields (ACF®) on WordPress.org
+---
+
+---
 title: Advanced Custom Fields (ACF®) 6.8.6 Released
 url: https://wordpress-faq.com/news/advanced-custom-fields-6-8-6-released/
 date: 2026-07-14
@@ -350,6 +369,25 @@ Requires PHP 7.4
 Changelog New: TruSEO now fully supports Elementor, Divi and WPBakery Page Builder: see issues highlighted right in your layout, jump straight to them, fix spelling mistakes in one click and get AI suggestions without leaving the builder. Updated: The AI Suite MCP setup now tells you which security plugin or setting is blocking Application Passwords, and how to turn them back on. Fixed: Page updates could fail and redirect to a 404 page on some sites when TruSEO analysis data grew too large. Fixed: Regex redirects could carry the request’s query string into the target URL regardless of the Query Param setting, and encoded characters in the request weren’t always handled correctly. Fixed: An asterisk in a regex redirect couldn’t be used as a quantifier, so patterns such as \d* matched more than intended. Fixed: Regex redirects now correctly replace capture group placeholders $10 and above. Fixed: Redirects now warns about redirect loops when the target URL includes your site’s full domain. Fixed: The Lite post editor could request a Pro-only Redirects endpoint when a post’s slug or status changed, causing occasional errors. Fixed: The AI Suite (MCP) robots.txt abilities could fail on sites using Crawl-delay or Clean-param rules, and couldn’t create those rules. Fixed: Installing the MCP Adapter could fail on multisite subsites. Fixed: MCP Adapter install and activation errors in AI Suite showed raw HTML tags. Fixed: The Spell Checker flagged all-caps acronyms such as SEO as misspellings, including in words like SEO-friendly. Previous releases 5.0.3
 Updated: SEO Revisions comparisons now show the current value of a smart tag when you hover over it, including Custom Field and Taxonomy Name tags. Updated: Removed unused breadcrumb schema code that ran on every page load. Fixed: AI features now check your available credits before sending a request, and AI schema generation always uses the schema credit cost. Fixed: The AI Bulk Generator and the Media Library’s Generate Alt Text with AI action now tell you when generation fails, for example when you’re out of AI credits. Fixed: Improved security and access protections in the AI Image Generator and Markdown (.md) versions of posts. 5.0.2.1
 Fixed: Improved security protections for shortcodes on search pages. Fixed: The Elementor editor could get stuck on “Loading” on some hosts, such as GoDaddy Managed WordPress, when Redirects was active. Source All in One SEO on WordPress.org
+---
+
+---
+title: All in One SEO 5.0.5.1 Released
+url: https://wordpress-faq.com/news/all-in-one-seo-5-0-5-1-released/
+date: 2026-11-13
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-seo, release, changelog, news
+What&rsquo;s new in All in One SEO 5.0.5.1 Released: 2026-11-13
+Active installations: 2,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Fixed: Improved security protections for breadcrumb labels. Fixed: Improved security protections for the redirect log search in the Abilities API. Previous releases 5.0.5
+Fixed: Visiting a WooCommerce product page could open the slide cart, add the product to the cart or redirect to checkout when FunnelKit Cart, Funnel Builder or CartHopper Skip Cart was active. Fixed: A database update that kept failing could be retried on every page load. Fixed: Robots.txt rules containing colons, line breaks, special characters or a “0” value could look different in the editor preview than in the served file. Fixed: Malformed imported robots.txt rules could break the robots.txt editor or the settings import. Fixed: Improved access protections in the AI Image Generator: it now only deletes AI-generated images and respects the AI off-switch. 5.0.4
+New: TruSEO now fully supports Elementor, Divi and WPBakery Page Builder: see issues highlighted right in your layout, jump straight to them, fix spelling mistakes in one click and get AI suggestions without leaving the builder. Updated: The AI Suite MCP setup now tells you which security plugin or setting is blocking Application Passwords, and how to turn them back on. Fixed: Page updates could fail and redirect to a 404 page on some sites when TruSEO analysis data grew too large. Fixed: Regex redirects could carry the request’s query string into the target URL regardless of the Query Param setting, and encoded characters in the request weren’t always handled correctly. Fixed: An asterisk in a regex redirect couldn’t be used as a quantifier, so patterns such as \d* matched more than intended. Source All in One SEO on WordPress.org
 ---
 
 ---
@@ -3477,6 +3515,25 @@ Release announcement Source Contact Form 7 on WordPress.org
 ---
 
 ---
+title: Contact Form 7 6.2.5 Released
+url: https://wordpress-faq.com/news/contact-form-7-6-2-5-released/
+date: 2026-11-10
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, contact-form-7, release, changelog, news
+What&rsquo;s new in Contact Form 7 6.2.5 Released: 2026-11-10
+Active installations: 10,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 8.3
+Changelog Release announcement Previous releases 6.2.4.1
+FormDataTree-PHP: Upgraded to 2.0.10. 6.2.4
+Release announcement Source Contact Form 7 on WordPress.org
+---
+
+---
 title: Contact Form 7 Conflict Troubleshooting Guide
 url: https://wordpress-faq.com/compatibility/contact-form-7-conflict/
 date: 2026-06-12
@@ -3578,6 +3635,21 @@ No, you should never collect raw credit card data or sensitive PII directly thro
 Can I use Contact Form 7 for WooCommerce?
 While it can be integrated, it is generally recommended to use dedicated WooCommerce form or checkout plugins for better compatibility.
 Reddit Sources Paid in full for a website that was never delivered — developer has gone silent. Looking for advice and possibly help (r/webdev) my full tool stack as a freelance web developer in 2026, ranked (r/webdev) WooCommerce Quick Set-Up | 46+ Essential Checklist (Own Workflow) (r/woocommerce) Customer requires some type of form they can add on the website to collect name and credit card information while remaining PCI Compliant (think credit authorization form) (r/webdev) How to upload and view files from a contact form on a product page (r/woocommerce) An Open Letter to WordPress.org: It’s Time to Make Security a Core Feature (r/ProWordPress) Conditional shipping issues (r/woocommerce)
+---
+
+---
+title: Copy Your WordPress Site with Reprint
+url: https://wordpress-faq.com/news/copy-your-wordpress-site-with-reprint/
+date: 2026-11-13
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+Copy Your WordPress Site with Reprint Reprint is a free, open-source, PHP-based tool that copies a WordPress site’s files and database. The plugin is available in the WordPress.org Plugin Directory, along with the command-line client used to copy the site. WordPress has long let you export your posts and pages. Moving the site itself means bringing along its theme, plugins, uploads,…
+Announced on the official WordPress.org news blog on 2026-11-13.
+Source Copy Your WordPress Site with Reprint — WordPress.org News
 ---
 
 ---
@@ -5159,6 +5231,24 @@ Elementor 3.26 adds an AI writing assistant that can generate text directly in t
 Are there any breaking changes in Elementor 3.26?
 No major breaking changes reported. A few niche compatibility issues with specific third-party Elementor addons have been noted, but the core product appears stable.
 Reddit Sources Start Here: Essential Resources &amp; FAQs (r/Wordpress) WordPress 7.0 ships Thursday with native AI write capabilities. We should probably talk about the safety side of this. (r/Wordpress) I posted my free WordPress theme here yesterday. You roasted it. Here&rsquo;s what I changed and why I&rsquo;m sticking with the rest. (r/Wordpress) WordPress 6.5 Beta 1 now released Download: many new Features - (r/Wordpress) When making changes on pages using Elementor, what is the proper way to view the most current version when using Litespeed Cache plug-in and server, and when using Cloudflare free? (r/Wordpress) WordPress Dashboard Problem (r/Wordpress) How do I make the “service” not clickable? I like the drop-down lists when my cursor is on the service, but I don’t like the “service” to be its own page. If I put my cursor over “service” it is clickable and has its own page. Edited website with with the free version of elementor. (r/Wordpress) next week the first Major release of WP arrives - Version 6.5 - with the brand new Font Library (r/Wordpress) Updated WP, Elementor, ElementsKit, Pro Elements to latest version. Header is very unstable now. (r/Wordpress) Migrate URLs To New Version (r/Wordpress)
+---
+
+---
+title: Elementor Agent Ready Website Builder 4.4.1 Released
+url: https://wordpress-faq.com/news/elementor-4-4-1-released/
+date: 2026-11-16
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Agent Ready Website Builder 4.4.1 Released: 2026-11-16
+Active installations: 10,000,000
+Tested up to WordPress 7.2
+Requires PHP 7.4
+Changelog Tweak: Updated WordPress compatibility to version 7.2 Fix: Improved code security enforcement across attributes, permissions, and data handling Fix: Anchor links scroll to the incorrect section on mobile devices when the page first loads Fix: MCP manual configuration instructions may fail in certain environments Fix: MCP may fail to update valid Atomic elements due to image validation errors Fix: MCP changes to published pages may be lost or overwritten Fix: Improved stability and reliability of Agent Ready features Previous releases 4.4.0 — 2026-11-09
+New: Introducing Agent Ready to help prepare websites for AI agents with readiness scoring, content discovery tools, and bot access controls New: Introducing the SVG Icon Library with Font Awesome 7 support New: Introducing the List element for creating customizable lists with nested items and custom markers New: Introducing the Google Maps element for displaying locations with customizable address and zoom settings Tweak: Added WebMCP support to forms created through Elementor MCP, allowing compatible AI agents to discover and interact with them Source Elementor Agent Ready Website Builder on WordPress.org
 ---
 
 ---
@@ -7451,6 +7541,25 @@ Requires PHP 7.4
 Changelog Adds “Add my past orders” to claim guest orders by email Adds a smart code picker to the Custom HTML field Adds MCP tools to the WordPress Abilities REST API Fixes missing emails on payment forms without a Payment Method field Fixes a fatal error in the [ff_entry] shortcode Fixes entry export including all fields when none are selected Fixes a redundant aria-label on field labels Fixes wrong field types for Dropdown and Simple Text from AI and MCP Restricts [ff_entry] to entry viewers and the submitter Links guest orders only after email confirmation Rejects invalid payment amounts, quantities, and checkbox values Tightens permission checks on theme settings in shortcodes and blocks Previous releases 6.2.15 — (Date: September 30, 2026)
 Adds a Stripe Payment Element option to the inline Stripe field, with Apple Pay and Google Pay Adds an Autocomplete setting on form fields so browsers can fill in details like name, email, and address Adds a Duplicate option for integration feeds Adds an Export option to the Entries page Adds an optional per-form AI Agents (WebMCP) setting that describes your form to AI-powered browsers, turned off by default 6.2.14 — (Date: September 15, 2026)
 Improves Stripe payment confirmation when updates arrive after checkout Improves payment retries and checkout confirmation messages Improves subscription trial, installment, and custom amount processing Improves refund and completed payment consistency Refines payment totals for conditional quantities and inventory-controlled items Source Fluent Forms on WordPress.org
+---
+
+---
+title: Fluent Forms 6.2.17 Released
+url: https://wordpress-faq.com/news/fluent-forms-6-2-17-released/
+date: 2026-11-02
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, fluent-forms, release, changelog, news
+What&rsquo;s new in Fluent Forms 6.2.17 Released: (Date: November 02, 2026)
+Active installations: 800,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Fixes Turnstile sometimes not rendering Fixes Slack and Discord sometimes missing field data on multi-integration submissions Fixes Slack dropping a field answered with “0” Fixes form re-import overwriting forms a manager can’t access Fixes the dashboard widget showing stats from restricted forms Fixes the payment-success email not sending for some free orders Improves security of Mailchimp API key validation Improves manager-permission security so access stays within their assigned forms Improves form-settings security so protected options can’t be saved through the generic settings endpoint Improves global-settings security to keep internal data private Improves entry-view security so external images show as a link instead of loading Improves security of file matching during entry cleanup, avoiding unrelated files with similar names Previous releases 6.2.16 — (Date: October 16, 2026)
+Adds “Add my past orders” to claim guest orders by email Adds a smart code picker to the Custom HTML field Adds MCP tools to the WordPress Abilities REST API Fixes missing emails on payment forms without a Payment Method field Fixes a fatal error in the [ff_entry] shortcode 6.2.15 — (Date: September 30, 2026)
+Adds a Stripe Payment Element option to the inline Stripe field, with Apple Pay and Google Pay Adds an Autocomplete setting on form fields so browsers can fill in details like name, email, and address Adds a Duplicate option for integration feeds Adds an Export option to the Entries page Adds an optional per-form AI Agents (WebMCP) setting that describes your form to AI-powered browsers, turned off by default Source Fluent Forms on WordPress.org
 ---
 
 ---
@@ -16340,6 +16449,25 @@ Bug Fix: Settings and setup no longer fail with a “not a valid JSON response�
 ---
 
 ---
+title: Kadence Security 10.0.6.1 Released
+url: https://wordpress-faq.com/news/ithemes-security-10-0-6-1-released/
+date: 2026-11-16
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ithemes-security, release, changelog, news
+What&rsquo;s new in Kadence Security 10.0.6.1 Released: 2026-11-16
+Active installations: 700,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Security: Improved login lockouts for visitors connecting over IPv6. Previous releases 10.0.6
+Bug Fix: Prevented wp-config.php and .htaccess from being left empty after a server crash or a failed file update. Bug Fix: Resolved an error that broke the Firewall settings tab when IP Detection was set to “Unconfigured”. Bug Fix: Resolved an issue where modals and popovers in the admin UI rendered without their styles. 10.0.5
+Bug Fix: Resolved 404 errors when loading settings for features. Source Kadence Security on WordPress.org
+---
+
+---
 title: Kadence WordPress Theme Compatibility and Conflicts
 url: https://wordpress-faq.com/compatibility/kadence-wordpress-conflict/
 date: 2026-06-10
@@ -16746,6 +16874,25 @@ Forms: Improve handling of pasted wrapper tags in form content. Forms: Remove mc
 ---
 
 ---
+title: MC4WP 4.15.0 Released
+url: https://wordpress-faq.com/news/mailchimp-for-wordpress-4-15-0-released/
+date: 2026-11-03
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, mailchimp-for-wordpress, release, changelog, news
+What&rsquo;s new in MC4WP 4.15.0 Released: 2026-11-03
+Active installations: 1,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Security: Only accept lists from the _mc4wp_lists request parameter when the site owner chose them for that form or integration. A visitor could otherwise subscribe an email address to any audience in the connected Mailchimp account. Thanks to Harry Nguyen and Karthik Ramakrishnan for reporting this. Security: Encode square brackets in the values of dynamic content tags, so that a value like {data key=&quot;&hellip;&quot;} can not run a shortcode when the form is shown with the form block. Thanks to Jakub Herman for reporting this. Security: URL-encode the IDs in all Mailchimp API resource paths. Security: Ignore submissions to sign-up forms that are not published. Security: Escape the Contact Form 7 form title in the admin. Compatibility: Custom HTML that sends _mc4wp_lists to an integration now only works for lists that are selected in the settings of that integration. List choice fields can no longer be added to a form through the mc4wp_form_content filter; add them to the form content instead. Pages that were cached before this update and use a lists attribute on the [mc4wp_form] shortcode subscribe to the lists in the form settings until the cache is cleared. Forms &amp; Integrations: New “Update only empty fields?” setting. When updating an existing subscriber, it keeps the field values that are already set in Mailchimp and only fills in empty fields. Thanks arnelap! Misc: Fix a fatal error when the data for a Mailchimp API request can not be encoded as JSON. The request now fails with an error instead. Thanks Robert Staddon! Misc: The WPML code snippets now also work with language codes that include a country, like en-us. Thanks arnelap! Misc: Bump tested WordPress version to 7.1. Previous releases 4.14.1
+Security: Escape dynamic content tags based on where they appear in the HTML. Values in URL attributes can no longer use a protocol like javascript:, and values in event handler attributes are removed. Integrations: Prosopo Procaptcha now follows the alignment of the surrounding form. Thanks Chris Taylor! Integrations: Fix Prosopo Procaptcha breaking other scripts on the page when the theme wraps the form in paragraph tags. Thanks Chris Taylor! Misc: Fix the Mailchimp Site Tracking Pixel not finding an already connected site for the same domain, for example when it was registered with a www. prefix or on a multisite subdirectory install. Misc: Log the full Mailchimp error message when the Site Tracking Pixel fails to connect. 4.14.0
+Integrations: Show the sign-up checkbox on the admin “Add New User” form. Thanks arnelap! Misc: Add a code snippet for sending the WordPress username to Mailchimp with User Sync. Misc: Update WordPress Coding Standards to 3.4 and fix a few incorrect type annotations. Source MC4WP on WordPress.org
+---
+
+---
 title: MemberPress Review and Membership Plugin Comparison
 url: https://wordpress-faq.com/review/memberpress-review/
 date: 2026-06-11
@@ -16985,6 +17132,25 @@ Requires PHP 7.4
 Changelog verify the license server’s certificate when checking and activating licenses apply the site’s unfiltered HTML restriction to the Not Logged-In and Limit Reached messages show option labels in form builder dropdown settings as plain text harden merge tag handling of submitted values, visitor IP address, referring page and post details enforce the “Require user to be logged in” setting when a form is submitted keep hand-coded tables intact in the Email action message editor load the Email action rich text editor correctly when a message contains older table markup keep Checkbox List calculations working when an option has a blank calc value count only typed characters toward the character limit on fields with an input mask show an error when a favorite field could not be deleted instead of appearing to remove it keep a form’s display name when it is imported fill in {submission:sequence} in emails re-sent from the Submissions page Previous releases 3.15.6 — (15 October 2026)
 protect HTML fields against script injection through query string merge tag values block shortcode execution through submitted field values in Success Message merge tags block shortcode execution through the {wp:user_display_name} merge tag protect stored submission data against cross-site scripting give each Email action CSV attachment its own private file 3.15.5 — (28 September 2026)
 strengthen sanitization of Paragraph Text (Rich Text) field submissions against stored cross-site scripting save File Upload and other fields inside a Repeatable Fieldset correctly remove “Undefined array key fields-save-toggle” PHP warning when saving submissions remove foreach() PHP warnings when a repeatable fieldset is left blank display calculation values with the correct locale separator in form actions Source Ninja Forms on WordPress.org
+---
+
+---
+title: Ninja Forms 3.16.1 Released
+url: https://wordpress-faq.com/news/ninja-forms-3-16-1-released/
+date: 2026-11-09
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, ninja-forms, release, changelog, news
+What&rsquo;s new in Ninja Forms 3.16.1 Released: (09 November 2026)
+Active installations: 500,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog let a form be submitted again after a form-level message, such as a cancelled payment, without reloading the page show a message and release the Submit button when a submission fails because of a lost connection or an unreadable server reply clear a typed date that doesn’t match the field’s format and show the invalid date message, instead of silently changing it to a different date show the invalid date message the first time an invalid date is typed write the long date format in the word order of the site’s language update an HTML field as a Paragraph Text field it shows is typed in, keeping line breaks stop showing a passing checkmark on a required Checkbox List field when no option is ticked apply a field’s custom Element class to each option of Checkbox List, Radio List and Select Image fields move the cursor to the first field of a newly added Repeatable Fieldset set run reCAPTCHA v3 and Akismet spam checks before any other form action, so rejected submissions no longer trigger WP Hook or add-on actions prevent the Public Link page returning a 404 after the site’s permalink rules are rebuilt show the Public Link page without an “Archives” heading on themes that have no page template, such as Twenty Twenty Previous releases 3.16.0 — (02 November 2026)
+show translated text in places that stayed in English because of incorrect text domains or missing script translation folders show Ninja Forms in each user’s profile language when it differs from the site language stop WordPress 6.7 and later logging a “translation loading was triggered too early” notice for Ninja Forms export a Checkbox field value that was saved as a word in another language exactly as it was saved list Timor-Leste once in country lists, and sort countries with accented names in alphabetical order 3.15.7 — (2 November 2026)
+verify the license server’s certificate when checking and activating licenses apply the site’s unfiltered HTML restriction to the Not Logged-In and Limit Reached messages show option labels in form builder dropdown settings as plain text harden merge tag handling of submitted values, visitor IP address, referring page and post details enforce the “Require user to be logged in” setting when a form is submitted Source Ninja Forms on WordPress.org
 ---
 
 ---
@@ -17644,6 +17810,25 @@ Security: Fix deserialization of untrusted data. Reported by Ananda Dhakal (Patc
 ---
 
 ---
+title: Polylang 3.9.2 Released
+url: https://wordpress-faq.com/news/polylang-3-9-2-released/
+date: 2026-11-09
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, polylang, release, changelog, news
+What&rsquo;s new in Polylang 3.9.2 Released: (2026-11-09)
+Active installations: 900,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Security: Fix exposure of some private posts metadata to non-authorized users. Reported by Oly Hossen via Patchstack. Allow using language code in the select layout of the language switcher, via the API #2044 Fix a possible fatal error in the wizard #2045 Fix a fatal error when a language is corrupted in DB #2046 Fix 404 on pages created right after setting up languages with the Wizard #2039 Fix no nav menu displayed before a language location is applied #2040 Previous releases 3.9.1 — (2026-10-21)
+Fix flags of Central African Republic, Honduras and Ukraine. 3.9 — (2026-10-19)
+Require WP 6.8 as minimum version Pro: Allow to manage all Business Pack plugins with a single field for the license key Pro: Allow to manage fallbacks and active languages with the REST API #2947 Pro: Allow to manage locale fallbacks and active status of languages with WP CLI #3007 Pro: Display DeepL billed characters after machine translation #3041 Source Polylang on WordPress.org
+---
+
+---
 title: Polylang WordPress Plugin Review and Community Feedback
 url: https://wordpress-faq.com/review/polylang-review/
 date: 2026-06-07
@@ -17837,6 +18022,23 @@ Active installations: 4,000,000
 Tested up to WordPress 7.1.2
 Requires PHP 7.4
 Changelog Improved Sitemaps can now be fully pre-generated with the wp rankmath sitemap generate WP-CLI command, so large sites serve cached sitemap files instead of building them on every visit. Improved plugin security with additional input validation and output escaping hardening. Fixed Analytics dashboard sections showing N/A after data fetching was completed. Fixed Polylang meta translations that were not showing for secondary languages when Polylang PRO was active. Fixed a database error being logged when saving user profiles with SEO Controls enabled for Author Archives. Source Rank Math SEO on WordPress.org
+---
+
+---
+title: Rank Math SEO 1.0.282 Released
+url: https://wordpress-faq.com/news/rankmath-1-0-282-released/
+date: 2026-11-10
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, rankmath, release, changelog, news
+What&rsquo;s new in Rank Math SEO 1.0.282 Released: [Nov 10, 2026]
+Active installations: 4,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Added [HUGE!] Rank Math Assistant to the Help &amp; Support page with improved safeguards. The assistant helps connected users get instant answers to support questions directly from the plugin. Improved internal code for better performance and stability. Fixed Reject and Undo options in the Fix with AI tool, as they were not restoring the original content or the selected suggestion correctly. Source Rank Math SEO on WordPress.org
 ---
 
 ---
@@ -18310,6 +18512,25 @@ Requires PHP 7.4
 Changelog New: Advanced filters for Orders, Subscriptions and Customers, including customer, product, coupon, return status and date. Filtered views are saved in the URL. New: Patterns library in the Site Editor with new product page, quick view, sticky purchase and upsell patterns. New: Automatic compatibility with WP Super Cache, Autoptimize, Breeze, Cache Enabler and Hummingbird. No manual cache exclusions needed. New: AI assistant (MCP) order abilities now include the buyer’s name, email and redeemed coupon or promotion code. Fix: Card payments were lost when the checkout page reloaded during 3D Secure approval on mobile devices. Fix: The Shippo fulfillment drawer failed with a generic “Can’t be blank” error when the order had no customer email, with no way to add one. Fix: Admin lists froze for stores with very large totals. Lists with more than 100 pages now use a page number input. Fix: Login code emails are now rate-limited and no longer reveal a user’s email address. Fix: Customer email redirect links can no longer be used to send customers to another site. Previous releases 4.10.0 — October 20th, 2026
 New: A redesigned onboarding helps you create a new store or connect an existing one in a few steps. New: A Setup guide page walks you through adding a product, branding, a test order, connecting your store, payments and launching. New: Browse and import Starter Templates from Settings → Design &amp; Branding. Fix: The Shippo shipping label screen crashed when the order’s shipping method had no description. Fix: The default Checkout page now uses the wide layout, so the two-column checkout form is no longer cramped on block themes. This applies to newly created or restored Checkout pages. 4.9.6 — October 16th, 2026
 New: Product variants can now appear as individual listings in Google rich results and Google Merchant Center. Fix: Creating an invoice failed for stores using Shippo, because a phone number was required but there was no field to enter it. Fix: The product page template could put classic themes into quirks mode, causing layout issues. Fix: The checkout now only redirects to a custom success URL on your own site. A success URL on another domain falls back to the form’s success page. Fix: Hardened data access checks to keep information scoped to the right users (props to Erwan from WPScan). Source SureCart on WordPress.org
+---
+
+---
+title: SureCart 4.13.1 Released
+url: https://wordpress-faq.com/news/surecart-4-13-1-released/
+date: 2026-11-16
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.13.1 Released: November 16th, 2026
+Active installations: 70,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog New: Duplicate coupons, order bumps and upsell funnels from their list or edit screen. Duplicated coupons don’t copy promotion codes, and duplicated upsell funnels start disabled. Improvement: The “No Thanks” opt-out link under the checkout email field can now be changed under Settings → Abandoned Checkout → GDPR Settings. Improvement: Shop Managers can now open SureCart Settings and manage store settings. Admin-only tabs such as Connection, Advanced, Payment Processors and AI Assistants stay hidden. Improvement: Shipping labels can be created without a recipient phone number, because some carriers (such as USPS domestic) don’t need one. A note recommends adding it, since most carriers do. Fix: Customer links that include a page path, such as checkout or subscription links from SureCart-powered apps, opened the customer dashboard home instead of the requested page since 4.11.0. Fix: MemberPress members could keep access after their purchase was cancelled or revoked. Fix: A webhook delivered twice at the same moment could be processed twice. Fix: A failed product duplicate left the duplicate dialog stuck loading. Previous releases 4.13.0 — November 11th, 2026
+New: Multiple tax components. A manual tax rate can be split into up to 5 named components (for example GST + PST), and each one shows as its own tax line at checkout and on invoices. New: Agent-Ready Catalog. Your store publishes a public, read-only product list that shopping AIs such as ChatGPT, Gemini, Copilot and Perplexity can read instead of scraping your store. It’s on by default and can be turned off under Settings → AI Assistants, which also has a scan showing what AI shoppers see. New: Connect your AI. A guided 4-step wizard connects Claude, ChatGPT, Cursor, VS Code and other AI assistants to your store, with separate switches for editing and deleting store data. The MCP settings tab is renamed AI Assistants. Improvement: SureCart now works out of the box with WP-Optimize, NitroPack, Fast Velocity Minify, Flying Pages and Asset CleanUp. Dynamic pages like checkout and the customer dashboard are no longer cached or have their scripts delayed, and cached product pages are cleared when stock changes. Fix: Strengthened security of product page and product review form navigation (props to Filip Kowalski from Patchstack). 4.12.2 — November 6th, 2026
+Fix: Strengthened security of product page and product review navigation (props to PatchStack). Fix: Adding to cart from Quick View left the page focusable behind the open cart drawer and dropped keyboard focus. Fix: Screen readers announced a product as added to the cart when the store had rejected it. Source SureCart on WordPress.org
 ---
 
 ---
@@ -20210,6 +20431,25 @@ Fix: Resolved an issue where zoom &amp; google meeting deleting was not working.
 ---
 
 ---
+title: Tutor LMS 4.2.1 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-2-1-released/
+date: 2026-11-09
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.2.1 Released: 09 Nov, 2026
+Active installations: 90,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Update: Improved WPML compatibility. (Pro) Fix: Resolved an issue where post content disappeared when switching from a page builder to the native WordPress editor. Fix: Resolved an issue where period filters were not applied correctly to the earnings graph and dashboard reports. (Pro) Fix: Corrected inaccurate course counts in the course export process. (Pro) Fix: Resolved an issue where students could enroll in paused courses under certain circumstances. (Pro) Fix: Strengthened overall security measures. Previous releases 4.2.0 — 27 Oct, 2026
+New: Added REST API authentication with personalized access tokens. New: Added endpoint-level authorization to ensure REST API operations follow user roles and capabilities. Update: API key permissions for Read, Write, Delete, and All actions are now enforced across Tutor LMS REST API routes. Update: Sensitive learning content routes now require valid enrollment, public access, or instructor/admin permissions. (Pro) Update: Quiz answers are now verified server-side in Reveal Mode to prevent answer exposure. 4.1.3 — 15 Oct, 2026
+Fix: Patched a security vulnerability. Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -20405,6 +20645,24 @@ Tested up to WordPress 7.1.3
 Changelog FEATURE: SFTP/SCP remote storage now supports modern host key algorithms like Ed25519 and also new cryptographies FEATURE: Improve the restoration of the ‘uploads’ entity to be more efficient, and add the ‘UPDRAFTPLUS_RESTORE_DELETE_OLD_UPLOAD_FILES’ constant to allow the deletion of leftover files in the ‘uploads’ directory that are not part of the backup file FIX: Fixed a JS error and incorrect checkbox state handling on the auto-backup before update prompt. FIX: Prevent a fatal TypeError on PHP 8+ when an admin URL contains an “action” query argument as an array. TWEAK: Disabled the option to automatically add websites to UDCentral upon connection by default. Users must now explicitly enable this option if they want websites to be added automatically upon connection. TWEAK: Adjusted the Abort Backup popup icon sizing and added the missing “X” icon to the Close button on the backup completion popup. TWEAK: Avoid warning by handling $_ENV variable. TWEAK: Change the ‘pre_database_backup_setup’ action hook name to ‘updraftplus_pre_database_backup_setup’ TWEAK: Check the existence of the user’s folder before doing any UpdraftVault storage-related oprations to ensure the same directory is used even if the home/site URL has changed from using “www” to without using “www” or vice versa. TWEAK: Enforce the WordPress DISALLOW_FILE_MODS constant to block all restore operations (including database) via the admin UI, WP-CLI, and the core restore method. TWEAK: Ensure SFTP/SCP remote storage works with the phpseclib3 library upgrade, including SCP mode, Ed25519 SSH keys, database restores and rescans TWEAK: Exclude the unused common-libs sub-libraries updraft-tasks and updraft-theme from the build to reduce the plugin size Previous releases 1.26.13 — 19/Oct/2026
 FIX: Properly apply the revocation in 1.26.12 1.26.12 — 19/Oct/2026
 SECURITY: Revokes UpdraftCentral Cloud keys created before the incident described at https://teamupdraft.com/blog/security-incident-october-2026/ . Source UpdraftPlus on WordPress.org
+---
+
+---
+title: UpdraftPlus 1.26.16 Released
+url: https://wordpress-faq.com/news/updraftplus-1-26-16-released/
+date: 2026-11-17
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, updraftplus, release, changelog, news
+What&rsquo;s new in UpdraftPlus 1.26.16 Released: 16/Nov/2026
+Active installations: 4,000,000
+Tested up to WordPress 7.1.4
+Changelog SECURITY: Thanks to Jakub Herman and Wordfence for reporting further related instances of the problem patched in 1.26.9 (which could allow a low-privileged user account to manipulate a restore after inserting long controlled sequences in the database). FEATURE: Search for and use mariadb-dump binaries as well as mysqldump TWEAK: Search/replace of JSON sequences should not allow unwanted changes; thanks to Jakub Herman for reporting this issue. This could rise to a security issue, but only if the attacker (who would need a login) also has a further vulnerable ‘gadget’ on the site to exploit (none are known to exist in default WP + UpdraftPlus installs). TWEAK: Pass –set-gtid-purged=OFF to mysqldump if relevant TWEAK: When logging identified mysqldump, include the full command used TWEAK: Updated bundled certificate authority file TWEAK: Clarify search/replace message when restoring TWEAK: When skipping a table during search/replace, include the table name in the log line TWEAK: Set the connection character set to a UTF8 variant; abort backup upon failure TWEAK: Block restoration if an incompatible connection character set is requested TWEAK: Change link wording to “X/Twitter” TWEAK: Upon restoration failure, log the file/line/trace in the log file without requiring a debug setting Previous releases 1.26.15 — 05/Nov/2026
+FIX: SFTP uploads failed in 1.26.14 when a host key fingerprint was saved, because since the phpseclib3 upgrade the remote directory was not entered on the reconnected session 1.26.14 — 26/Oct/2026
+FEATURE: SFTP/SCP remote storage now supports modern host key algorithms like Ed25519 and also new cryptographies FEATURE: Improve the restoration of the ‘uploads’ entity to be more efficient, and add the ‘UPDRAFTPLUS_RESTORE_DELETE_OLD_UPLOAD_FILES’ constant to allow the deletion of leftover files in the ‘uploads’ directory that are not part of the backup file FIX: Fixed a JS error and incorrect checkbox state handling on the auto-backup before update prompt. FIX: Prevent a fatal TypeError on PHP 8+ when an admin URL contains an “action” query argument as an array. TWEAK: Disabled the option to automatically add websites to UDCentral upon connection by default. Users must now explicitly enable this option if they want websites to be added automatically upon connection. Source UpdraftPlus on WordPress.org
 ---
 
 ---
@@ -21018,6 +21276,23 @@ Changelog Fix – Restore how the classic checkout sends order review and coupon
 ---
 
 ---
+title: WooCommerce 11.3.0 Released
+url: https://wordpress-faq.com/news/woocommerce-11-3-0-released/
+date: 2026-11-11
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, woocommerce, release, changelog, news
+What&rsquo;s new in WooCommerce 11.3.0 Released: 2026-11-11
+Active installations: 7,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Fix – Add the missing space between sentences in the footer of back-in-stock notification emails. #69812 Fix – Align the customer stock notification admin screens with the order screens: even page gutters, a full-width action dropdown, rounded meta box corners, and a right-aligned submit button. #68851 Fix – Allow JavaScript detection to work with nonce-based Content Security Policies. #69811 Fix – Allow mobile zoom in the Core Profiler without triggering automatic input zoom. #68171 Fix – Allow the Order Fulfillments drawer to be scrolled with the mouse wheel on desktop. #69634 Fix – Allow turning off “Stock notifications” for a product that has never had the setting changed. #69497 Fix – Always apply the offline payment methods’ “Enable for shipping methods” setting at checkout, including on requests that reference an order. #68976 Fix – Analytics: add a Status &gt; Tools tool, plus an inbox note pointing to it, that finds and re-imports orders whose partial-then-full refunds were counted twice in the Revenue report’s returns. #66505 Fix – Analytics: fix the custom date range calendar reading out the wrong date to screen reader users. #68514 Fix – Analytics: typed custom dates now follow the format shown in the field hint, so day-first locales get the right dates. #69701 Fix – Analytics: typed dates in the historical data import and advanced date filters now work in Czech, Croatian and other locales. #69745 Fix – Analytics report exports no longer lose rows or skip the download email when their batches finish out of order. #68955 Source WooCommerce on WordPress.org
+---
+
+---
 title: WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable
 url: https://wordpress-faq.com/news/woocommerce-9-8-released/
 date: 2026-05-20
@@ -21265,6 +21540,21 @@ Reddit Sources WooCommerce Subscriptions - Set later payment date (r/Wordpress) 
 ---
 
 ---
+title: WordCamp Asia 2027 Is Coming to Penang
+url: https://wordpress-faq.com/news/wordcamp-asia-2027-is-coming-to-penang/
+date: 2026-11-11
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordCamp Asia 2027 Is Coming to Penang Next year, WordCamp Asia 2027 heads to Penang, Malaysia. From April 9 to 11, the WordPress community will gather at the Penang Waterfront Convention Centre for three days of contribution, learning, and connection. Tickets are on sale and sponsorship applications are open, so now is the time to make your plans. In 2026, WordCamp Asia…
+Announced on the official WordPress.org news blog on 2026-11-11.
+Source WordCamp Asia 2027 Is Coming to Penang — WordPress.org News
+---
+
+---
 title: Wordfence Security 8.2.2 Released
 url: https://wordpress-faq.com/news/wordfence-8-2-2-released/
 date: 2026-05-13
@@ -21341,6 +21631,25 @@ Changelog Change: Changed IPv6 diagnostics result to be informational only Chang
 Improvement: UX enhancements for passkey authentication and general login security Improvement: GeoIP database updated Fix: Improved error handling in WAF request handlers and XML-RPC parser Fix: Fixed an issue with translations not showing on the Login Security Settings tab Fix: Addressed several potential PHP 8.5+ deprecation notices 9.0.0 — August 10, 2026
 Improvement: Added support for passkey authentication Available for both free and premium installations
 Can be enabled for any user role (multisite support is currently limited) WooCommerce integration Support for custom authentication integrations Improvement: GeoIP database updated Source Wordfence Security on WordPress.org
+---
+
+---
+title: Wordfence Security 9.1.1 Released
+url: https://wordpress-faq.com/news/wordfence-9-1-1-released/
+date: 2026-11-10
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wordfence, release, changelog, news
+What&rsquo;s new in Wordfence Security 9.1.1 Released: November 10, 2026
+Active installations: 5,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.0
+Changelog Improvement: Updated bundled cacert.pem Previous releases 9.1.0 — November 9, 2026
+Improvement: Added security news widget to the WordPress and Wordfence dashboards Improvement: Increased frequency of WAF rule update checks Improvement: Added Live Traffic logging for application password and REST API authentication failures Improvement: Added controls for the WAF attack alert threshold and counting window Improvement: Improved attack data synchronization to reduce overhead and avoid cache issues 9.0.2 — September 30, 2026
+Change: Changed IPv6 diagnostics result to be informational only Change: Added help link to increased attack rate emails Improvement: Increased compatibility with WordPress Playground Improvement: Harden REST API user enumeration protection Fix: Upgraded virtualizer dependency to fix Firefox tab crash on screens with a lot of DOM elements (e.g., a running scan) Source Wordfence Security on WordPress.org
 ---
 
 ---
@@ -21624,6 +21933,51 @@ Source WordPress 7.2 Beta 2 — WordPress.org News
 ---
 
 ---
+title: WordPress 7.2 Beta 4
+url: https://wordpress-faq.com/news/wordpress-7-2-beta-4/
+date: 2026-11-03
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.2 Beta 4 WordPress 7.2 Beta 4 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, use a test environment or local site to explore the new features. Wait, what happened to 7.2 Beta…
+Announced on the official WordPress.org news blog on 2026-11-03.
+Source WordPress 7.2 Beta 4 — WordPress.org News
+---
+
+---
+title: WordPress 7.2 Beta 5
+url: https://wordpress-faq.com/news/wordpress-7-2-beta-5/
+date: 2026-11-10
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.2 Beta 5 WordPress 7.2 Beta 5 is ready for download and testing! This beta release is intended for testing and development only. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, use a test environment or local site to explore the new features. How to Test WordPress 7.2 Beta…
+Announced on the official WordPress.org news blog on 2026-11-10.
+Source WordPress 7.2 Beta 5 — WordPress.org News
+---
+
+---
+title: WordPress 7.2 Release Candidate 1
+url: https://wordpress-faq.com/news/wordpress-7-2-release-candidate-1/
+date: 2026-11-17
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.2 Release Candidate 1 The first Release Candidate (“RC1”) for WordPress 7.2 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, it’s recommended to evaluate RC1 on a test server and site. WordPress 7.2 RC1…
+Announced on the official WordPress.org news blog on 2026-11-17.
+Source WordPress 7.2 Release Candidate 1 — WordPress.org News
+---
+
+---
 title: WordPress Advantages and Disadvantages Explained
 url: https://wordpress-faq.com/comparison/wordpress-pros-cons/
 date: 2026-07-05
@@ -21873,6 +22227,21 @@ Yes, using an outdated PHP version like 7.3 or 7.4 poses security risks and may 
 How do I fix the &lsquo;Updating failed. The response is not a valid JSON response&rsquo; error?
 This error is often caused by server configuration issues, conflicting plugins, or incorrect file permissions.
 Reddit Sources I&rsquo;ve been doing WordPress development wrong for 3 years. Here&rsquo;s what I learned the hard way&hellip; (r/Wordpress) &ldquo;Updating failed. The response is not a valid JSON response&rdquo; (r/Wordpress) WordPress front page mysteriously switched to draft – no log entry, any ideas? (r/Wordpress) Installing old wordpress site (r/Wordpress) Website pentested. Help me fix the vulnerabilities found. (r/Wordpress) Question about nested classes in CSS for Wordpress (r/Wordpress) Anyone else getting critical error on site from Gmedia Gallery plugin? (r/Wordpress) Guide to securing your WordPress site (r/Wordpress)
+---
+
+---
+title: WordPress Credits Welcomes More Than 50 Institutions
+url: https://wordpress-faq.com/news/wordpress-credits-welcomes-more-than-50-institutions/
+date: 2026-11-09
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress Credits Welcomes More Than 50 Institutions More than 50 educational institutions have joined WordPress Credits, giving students worldwide a way to earn academic recognition for contributing to WordPress. The program had two participating institutions in September 2025 and four the following month. By June 2026, that number had reached 27, before passing 50 this October. The program launched with the University…
+Announced on the official WordPress.org news blog on 2026-11-09.
+Source WordPress Credits Welcomes More Than 50 Institutions — WordPress.org News
 ---
 
 ---
@@ -22526,15 +22895,15 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-11-02
-lastmod: 2026-11-02
+date: 2026-11-17
+lastmod: 2026-11-17
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-02.
-Plugin / theme Version Released Type All-In-One Security (AIOS) 5.5.1 2026-10-30 plugin Blocksy 2.1.61 2026-10-30 theme Contact Form 7 6.2.4.1 2026-10-29 plugin Easy Digital Downloads 3.7.3 2026-10-29 plugin Astra 4.14.2 2026-10-29 theme SureCart 4.11.0 2026-10-28 plugin Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Tutor LMS 4.2.0 2026-10-27 plugin UpdraftPlus 1.26.14 2026-10-26 plugin Ninja Forms 3.15.7 2026-10-26 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin All in One SEO 5.0.4 2026-10-22 plugin Polylang 3.9.1 2026-10-21 plugin LiteSpeed Cache 7.9.2 2026-10-20 plugin WP Mail SMTP by WPForms 4.10.3 2026-10-20 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Fluent Forms 6.2.16 2026-10-16 plugin Kadence Security 10.0.6 2026-10-14 plugin Sucuri Security 2.8.1 2026-10-14 plugin Elementor Website Builder 4.3.5 2026-10-13 plugin WooCommerce 11.2.1 2026-10-09 plugin Rank Math SEO 1.0.280 2026-10-06 plugin Wordfence Security 9.0.2 2026-09-30 plugin MC4WP 4.14.1 2026-09-16 plugin Advanced Custom Fields (ACF®) 6.8.10 2026-09-10 plugin Hello Elementor 3.5.1 2026-08-25 theme Kadence 1.5.2 2026-07-24 theme GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-17.
+Plugin / theme Version Released Type UpdraftPlus 1.26.16 2026-11-17 plugin Elementor Agent Ready Website Builder 4.4.1 2026-11-16 plugin Kadence Security 10.0.6.1 2026-11-16 plugin SureCart 4.13.1 2026-11-16 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme WooCommerce 11.3.0 2026-11-11 plugin WP Mail SMTP by WPForms 4.10.4 2026-11-11 plugin Contact Form 7 6.2.5 2026-11-10 plugin Wordfence Security 9.1.1 2026-11-10 plugin Rank Math SEO 1.0.282 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin Ninja Forms 3.16.1 2026-11-09 plugin Tutor LMS 4.2.1 2026-11-09 plugin Kadence 1.6.0 2026-11-06 theme LiteSpeed Cache 7.9.3 2026-11-03 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Advanced Custom Fields (ACF®) 6.8.11 2026-11-02 plugin Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-In-One Security (AIOS) 5.5.1 2026-10-30 plugin Yoast SEO 28.8 2026-10-27 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin BuddyPress 14.5.4 2026-10-23 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -23537,6 +23906,25 @@ Requires PHP 7.4
 Changelog Changed: Improved the Setup Wizard steps. Previous releases 4.10.2 — 2026-10-08
 Changed: Setup Wizard now returns to the Dashboard page instead of Settings when it is finished or closed. Changed: Improved translations across the admin area and the emails the plugin sends. Fixed: A “Class not found” fatal error could occur right after updating the plugin on sites with PHP OPcache enabled. 4.10.1 — 2026-10-07
 Changed: Improved security and privacy across the plugin, including temporary file storage and requests to external services. Fixed: Some Setup Wizard labels and the Lite install date in Site Health could not be translated. Fixed: The Posts, Pages and post editor screens failed with a fatal error on hosts without the PHP intl extension when another plugin, such as All in One SEO, used the intl IDN functions while the Gmail mailer was in use. Source WP Mail SMTP by WPForms on WordPress.org
+---
+
+---
+title: WP Mail SMTP by WPForms 4.10.4 Released
+url: https://wordpress-faq.com/news/wp-mail-smtp-4-10-4-released/
+date: 2026-11-11
+lastmod: 2026-11-17
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wp-mail-smtp, release, changelog, news
+What&rsquo;s new in WP Mail SMTP by WPForms 4.10.4 Released: 2026-11-11
+Active installations: 4,000,000
+Tested up to WordPress 7.1.4
+Requires PHP 7.4
+Changelog Changed: Improved the Setup Wizard. Changed: Updated the upgrade flow from WP Mail SMTP Lite to Pro. Previous releases 4.10.3 — 2026-10-20
+Changed: Improved the Setup Wizard steps. 4.10.2 — 2026-10-08
+Changed: Setup Wizard now returns to the Dashboard page instead of Settings when it is finished or closed. Changed: Improved translations across the admin area and the emails the plugin sends. Fixed: A “Class not found” fatal error could occur right after updating the plugin on sites with PHP OPcache enabled. Source WP Mail SMTP by WPForms on WordPress.org
 ---
 
 ---
