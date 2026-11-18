@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 25 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 327 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 328 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 225 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 64 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
@@ -623,6 +623,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Speed Up Your WordPress Site](https://wordpress-faq.com/howto/wordpress-speed-optimization/) — Community consensus suggests prioritizing single-core CPU performance and server-side caching over simply increasing total core counts for better speed.
 - [How to Speed Up Your WordPress Site: Performance Guide](https://wordpress-faq.com/howto/wordpress-speed-optimization-guide/) — Prioritize high single-core CPU performance and optimize your plugin stack before upgrading server resources to achieve the best site speed results.
 - [How to Speed Up Your WordPress Site: Performance Guide](https://wordpress-faq.com/howto/speed-up-wordpress-site/) — Community consensus suggests that switching to high-quality hosting and avoiding heavy page builders are the most effective ways to improve speed.
+- [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-howto/) — Using a CDN like Cloudflare is highly recommended for improving WordPress performance and managing high traffic loads effectively.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-optimization/) — Using a CDN is highly recommended for reducing latency and improving global load times for WordPress websites.
 - [How to Use a CDN with WordPress for Better Performance](https://wordpress-faq.com/howto/cdn-wordpress-integration/) — Using a CDN like Cloudflare or BunnyCDN is the most effective way to improve global site speed and reduce strain on your primary hosting server.
 - [How to Use and Secure the WordPress REST API](https://wordpress-faq.com/howto/wordpress-rest-api-usage/) — Use Application Passwords for secure authentication to avoid exposing your primary login credentials when connecting external services.
