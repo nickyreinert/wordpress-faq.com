@@ -8,13 +8,13 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 134 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 326 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 224 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
-- [WordPress News](https://wordpress-faq.com/news/) — 224 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 75 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
-- [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
@@ -297,6 +297,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Essential WordPress Plugins for Beginners Guide](https://wordpress-faq.com/howto/must-have-wordpress-plugins-beginners/) — Community consensus suggests prioritizing hosting-provided features for backups and performance before installing additional third-party plugins.
 - [Essential WordPress Plugins for Every Website](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching, security, and backup plugins to ensure optimal site performance and data protection.
 - [Essential WordPress Plugins for Performance and Optimization](https://wordpress-faq.com/compatibility/essential-wordpress-performance-plugins/) — Community consensus suggests using Query Monitor for debugging and W3 Total Cache for performance optimization to resolve slow site load times.
+- [Essential WordPress Plugins for Performance and Security](https://wordpress-faq.com/compatibility/essential-wordpress-plugins-performance-security/) — Community consensus suggests that performance and security plugins are essential, but server-side optimization is more critical than plugin bloat.
 - [Essential WordPress Plugins for Performance and Security](https://wordpress-faq.com/howto/essential-wordpress-plugins-performance-security/) — Community consensus emphasizes that server-side caching and robust security monitoring are the most critical components for any WordPress site.
 - [Essential WordPress Plugins for Performance and SEO](https://wordpress-faq.com/howto/essential-wordpress-plugins-guide/) — Community consensus suggests prioritizing caching plugins and query monitoring tools to resolve performance bottlenecks effectively.
 - [Fixing All in One SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/all-in-one-seo-fatal-error/) — Fatal errors in All in One SEO are typically resolved by accessing site files via FTP, cPanel, or SSH to rename or remove the plugin directory.
