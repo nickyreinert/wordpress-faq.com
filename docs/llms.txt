@@ -8,11 +8,11 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 326 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 224 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 75 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 325 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 133 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -945,6 +945,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/comparison/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that exists outside the blog timeline.
 - [WordPress Performance Audit Checklist: Best Practices](https://wordpress-faq.com/howto/wordpress-performance-audit-checklist/) — Community consensus emphasizes that performance optimization requires a holistic approach covering database cleanup, image compression, and caching.
 - [WordPress Plugin & Theme Updates](https://wordpress-faq.com/news/wordpress-plugin-theme-updates/) — <no value>
+- [WordPress Post-Install Configuration Checklist](https://wordpress-faq.com/howto/wordpress-post-install-configuration-checklist/) — Community consensus emphasizes a rigorous pre-launch checklist including security audits, performance testing, and full payment gateway verification.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-post-install-configuration/) — A systematic post-installation checklist covering security, caching, and payment testing is essential for a stable and performant website launch.
 - [WordPress Post-Installation Configuration Checklist](https://wordpress-faq.com/howto/wordpress-configuration-checklist/) — A systematic approach to post-install configuration ensures long-term site stability, security, and optimal performance for your WordPress installation.
 - [WordPress Post-Installation Configuration Guide](https://wordpress-faq.com/howto/wordpress-configuration-guide/) — Community consensus suggests prioritizing performance tuning and security hardening immediately after a fresh WordPress installation.
