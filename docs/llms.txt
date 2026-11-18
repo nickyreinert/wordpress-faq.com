@@ -10,10 +10,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 24 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 327 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 224 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 64 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
@@ -343,6 +343,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Flywheel WordPress Hosting Review and Community Feedback](https://wordpress-faq.com/hosting/flywheel-hosting-review/) — Flywheel is generally considered a capable managed host, though recent forced migrations to WP Engine have caused concern among some users.
 - [Free vs Premium WordPress Plugins: Are They Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-plugins/) — Premium plugins are generally worth the investment for professional support and advanced features, though free versions often suffice for basic needs.
 - [Free vs Premium WordPress Themes: Is It Worth It?](https://wordpress-faq.com/comparison/free-vs-premium-wordpress-themes/) — Premium themes generally offer better support and advanced features, but free themes are often sufficient for simple, lightweight website projects.
+- [Full Site Editing and Gutenberg Explained](https://wordpress-faq.com/core/gutenberg-page-builder/) — Gutenberg offers a modern block-based approach to site building, though it continues to face mixed community reception compared to traditional builders.
 - [Full Site Editing and Gutenberg in WordPress Explained](https://wordpress-faq.com/howto/gutenberg-wordpress-full-site-editing/) — Gutenberg is the core block-based editor for WordPress that has evolved into a comprehensive Full Site Editing experience for modern web design.
 - [Full Site Editing in WordPress Explained](https://wordpress-faq.com/core/full-site-editing-wordpress/) — Full Site Editing provides deep design control through the block editor, though it remains challenging for users accustomed to traditional themes.
 - [Full Site Editing in WordPress Explained](https://wordpress-faq.com/howto/full-site-editing-wordpress/) — Full Site Editing provides a block-based approach to theme customization that replaces traditional customizers for modern WordPress users.

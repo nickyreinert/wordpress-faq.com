@@ -7920,6 +7920,34 @@ Reddit Sources I&rsquo;m Michael Makijenko, the founder of Visual Composer Websi
 ---
 
 ---
+title: Full Site Editing and Gutenberg Explained
+url: https://wordpress-faq.com/core/gutenberg-page-builder/
+date: 2026-11-18
+lastmod: 2026-11-18
+verdict: Gutenberg offers a modern block-based approach to site building, though it continues to face mixed community reception compared to traditional builders.
+confidence: medium
+sources: 5
+schema_type: FAQPage
+tags: gutenberg, page-builder, seo, performance
+faq:
+  - q: What is WordPress Full Site Editing?
+    a: Full Site Editing (FSE) is a collection of features that allow users to edit their entire website, including headers, footers, and templates, using blocks.
+  - q: Is Gutenberg the same as a page builder?
+    a: Gutenberg is the native block editor for WordPress. While it functions similarly to page builders, it is integrated into the core software.
+  - q: Should I use Gutenberg or a third-party page builder?
+    a: Gutenberg is recommended for native performance and long-term compatibility, while third-party builders may offer more advanced design features.
+Gutenberg offers a modern block-based approach to site building, though it continues to face mixed community reception compared to traditional builders. Based on 5 community reports.
+Linked sources: 2.
+Known Issues Steep learning curve for legacy users Mixed user reviews on WordPress.org Compatibility concerns with older themes Community Q&amp;A What is WordPress Full Site Editing?
+Full Site Editing (FSE) is a collection of features that allow users to edit their entire website, including headers, footers, and templates, using blocks.
+Is Gutenberg the same as a page builder?
+Gutenberg is the native block editor for WordPress. While it functions similarly to page builders, it is integrated into the core software.
+Should I use Gutenberg or a third-party page builder?
+Gutenberg is recommended for native performance and long-term compatibility, while third-party builders may offer more advanced design features.
+Reddit Sources As a freelancer, how much should I charge for a page builder built wordpress site? (r/Wordpress) Gutenberg impressions and WordCamp Boston, July 2018 (r/Wordpress)
+---
+
+---
 title: Full Site Editing and Gutenberg in WordPress Explained
 url: https://wordpress-faq.com/howto/gutenberg-wordpress-full-site-editing/
 date: 2026-07-06
