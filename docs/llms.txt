@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 134 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 326 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 327 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 224 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
@@ -320,6 +320,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing WordPress Login Redirect Loop Errors](https://wordpress-faq.com/error/wordpress-login-redirect-loop/) — Most login redirect loops are caused by corrupted .htaccess files, incorrect site URL settings in the database, or SSL/proxy configuration conflicts.
 - [Fixing WordPress Memory Limit Exhausted Errors](https://wordpress-faq.com/error/wordpress-memory-limit-exhausted/) — The consensus is to identify the specific plugin or script causing the memory leak rather than simply increasing the PHP memory limit indefinitely.
 - [Fixing WordPress Parse and Syntax Errors](https://wordpress-faq.com/error/wordpress-parse-syntax-error/) — Most WordPress parse errors are resolved by updating to a supported PHP version or correcting syntax errors in theme or plugin files.
+- [Fixing WordPress Performance Issues Caused by Plugins](https://wordpress-faq.com/howto/performance-speed-optimization/) — Excessive plugin usage is the primary cause of site slowdowns, which can be mitigated by auditing active plugins and upgrading to managed hosting.
 - [Fixing WordPress Stuck in Maintenance Mode](https://wordpress-faq.com/error/wordpress-stuck-in-maintenance-mode/) — The maintenance mode error is typically resolved by manually deleting the .maintenance file from the root directory via FTP or file manager.
 - [Fixing WordPress Too Many Redirects Errors](https://wordpress-faq.com/error/wordpress-too-many-redirects/) — The error is typically caused by SSL configuration mismatches between the server and Cloudflare or incorrect site URL settings in wp-config.php.
 - [Fixing Yoast SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/yoast-seo-fatal-error/) — Fatal errors in Yoast SEO are typically resolved by updating the plugin or manually deleting the plugin folder via FTP to regain site access.
