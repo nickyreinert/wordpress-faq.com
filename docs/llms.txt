@@ -10,7 +10,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 24 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 25 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 327 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 225 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 64 articles
@@ -940,6 +940,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Image Optimization Guide: Best Practices](https://wordpress-faq.com/howto/wordpress-image-optimization-guide/) — Community consensus suggests using server-side WebP conversion and keeping file sizes under 200KB for optimal site performance without extra plugins.
 - [WordPress Internal Linking Strategy and Plugin Guide](https://wordpress-faq.com/howto/internal-linking-strategy/) — Community consensus suggests using dedicated plugins like Link Whisper for automation while focusing on site structure rather than just plugin metrics.
 - [WordPress Internal Linking Strategy and Tools](https://wordpress-faq.com/howto/wordpress-internal-linking-strategy/) — Automated internal linking tools like Link Whisper are highly effective, but manual content structure remains the gold standard for topical authority.
+- [WordPress Lazy Loading Images Guide](https://wordpress-faq.com/core/wordpress-lazy-loading-images/) — Native lazy loading is a safe, effective, and standard practice for improving website performance.
 - [WordPress Lazy Loading Images: Best Practices and Fixes](https://wordpress-faq.com/howto/wordpress-lazy-loading-images/) — Lazy loading significantly improves performance, but ensure your LCP image is excluded to avoid negative impacts on Core Web Vitals scores.
 - [WordPress Local Development Setup Guide](https://wordpress-faq.com/howto/wordpress-local-development-setup/) — Community consensus favors lightweight tools like Laravel Valet or Bedrock over legacy stacks like MAMP or XAMPP for modern development workflows.
 - [WordPress Malware Removal Guide](https://wordpress-faq.com/howto/wordpress-malware-removal/) — Manual cleanup via file replacement and database sanitization is the most reliable method for removing WordPress malware infections.
