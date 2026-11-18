@@ -11,6 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 327 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 224 articles
+- [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 63 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 75 articles
@@ -18,7 +19,6 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
 - [Performances](https://wordpress-faq.com/performance/) — 1 articles
-- [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 62 articles
 
 
 ## All pages
@@ -326,6 +326,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Fixing WordPress Too Many Redirects Errors](https://wordpress-faq.com/error/wordpress-too-many-redirects/) — The error is typically caused by SSL configuration mismatches between the server and Cloudflare or incorrect site URL settings in wp-config.php.
 - [Fixing Yoast SEO Fatal Errors in WordPress](https://wordpress-faq.com/error/yoast-seo-fatal-error/) — Fatal errors in Yoast SEO are typically resolved by updating the plugin or manually deleting the plugin folder via FTP to regain site access.
 - [Flatsome Theme Review and Performance Analysis](https://wordpress-faq.com/review/flatsome-review/) — Flatsome remains a top-tier choice for WooCommerce stores due to its deep integration and speed, though it requires careful maintenance of hooks.
+- [Fluent CRM Pro Review for WordPress Bloggers](https://wordpress-faq.com/review/fluent-crm-pro-review/) — Fluent CRM Pro is a powerful email marketing tool, though users should be aware that it has transitioned from lifetime deals to a monthly fee model.
 - [Fluent Forms 6.2.11 Released](https://wordpress-faq.com/news/fluent-forms-6-2-11-released/) — <no value>
 - [Fluent Forms 6.2.12 Released](https://wordpress-faq.com/news/fluent-forms-6-2-12-released/) — <no value>
 - [Fluent Forms 6.2.13 Released](https://wordpress-faq.com/news/fluent-forms-6-2-13-released/) — <no value>
