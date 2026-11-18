@@ -9,12 +9,12 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
+- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 327 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 224 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 64 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 23 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
-- [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 75 articles
 - [WordPress Errors & Fixes](https://wordpress-faq.com/error/) — 67 articles
 - [WordPress Themes](https://wordpress-faq.com/theme/) — 11 articles
 - [WordPress & PHP Versions](https://wordpress-faq.com/version/) — 7 articles
@@ -119,6 +119,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Best WordPress Security Plugins: Expert Recommendations](https://wordpress-faq.com/comparison/wordpress-security-plugins/) — Community consensus suggests that combining a reputable plugin like Wordfence with Cloudflare WAF and proactive maintenance provides the best protection.
 - [Best WordPress Security Plugins: Expert Recommendations](https://wordpress-faq.com/review/wordpress-security-plugins/) — Wordfence is widely considered the most reliable and common security plugin for WordPress sites, though defense-in-depth strategies are essential.
 - [Best WordPress Security Scan Tools and Maintenance Practices](https://wordpress-faq.com/howto/wordpress-security-scan-tools/) — Community consensus suggests that while automated scanners provide convenience, manual database and file integrity checks are essential for security.
+- [Best WordPress SEO Plugin: Community Recommendations](https://wordpress-faq.com/comparison/best-wordpress-seo-plugin/) — Community consensus suggests that while many SEO plugins exist, the best choice depends on your specific needs for automation versus manual control.
 - [Best WordPress SEO Plugins Comparison](https://wordpress-faq.com/comparison/seo-plugins-comparison/) — Rank Math, SEOPress, and The SEO Framework are widely considered the most reliable and feature-rich SEO solutions for WordPress websites today.
 - [Best WordPress SEO Plugins: Comparison and Alternatives](https://wordpress-faq.com/comparison/rankmath-seopress-slimseo/) — Community consensus suggests choosing SEO plugins based on minimal admin noise and specific feature requirements rather than just popularity.
 - [Best WordPress SEO Plugins: Comparison and Recommendations](https://wordpress-faq.com/comparison/best-wordpress-seo-plugins/) — Rank Math is preferred for power users, while SureRank is recommended for lightweight, free, and multilingual-friendly SEO requirements.
