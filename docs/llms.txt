@@ -11,7 +11,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 25 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 328 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 329 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 226 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 64 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
@@ -444,6 +444,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Fix a Hacked WordPress Site](https://wordpress-faq.com/howto/wordpress-hacked-fix/) — Cleaning a hacked site requires removing malicious files, updating all software, and securing server-level access points like FTP and cPanel.
 - [How to Fix a Hacked WordPress Site](https://wordpress-faq.com/error/fix-hacked-wordpress-site/) — The community consensus is that most hacks stem from outdated plugins or poor hosting security, requiring a clean reinstall to fully recover.
 - [How to Fix a Slow WordPress Site: Performance Optimization](https://wordpress-faq.com/howto/wordpress-performance-optimization-guide/) — Community consensus indicates that site slowness is typically caused by bloated themes, excessive plugins, or poor hosting rather than WordPress core.
+- [How to Fix Duplicate Content in WordPress](https://wordpress-faq.com/howto/fix-duplicate-content-wordpress/) — The consensus is to use canonical tags and 301 redirects to consolidate duplicate content and prevent negative impacts on your search engine rankings.
 - [How to Fix Duplicate Content Issues in WordPress](https://wordpress-faq.com/howto/duplicate-content-wordpress/) — Duplicate content is best managed by ensuring correct site URL settings, using canonical tags, and performing database search-replace operations.
 - [How to Fix WordPress 500 Internal Server Error](https://wordpress-faq.com/error/wordpress-500-internal-server-error/) — The consensus is to enable WordPress debug logging to identify the specific root cause, which is often a memory limit issue or a plugin conflict.
 - [How to Fix WordPress Performance Issues Caused by Plugins](https://wordpress-faq.com/howto/wordpress-performance-optimization/) — Excessive use of plugins is the primary cause of WordPress site slowdowns, which can be mitigated through careful selection and managed hosting.
