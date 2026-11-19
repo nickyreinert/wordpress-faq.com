@@ -12128,6 +12128,34 @@ Reddit Sources Migrating Away from WPEngine with a Site that has offloaded media
 
 ---
 title: How to Moderate WordPress Comments Effectively
+url: https://wordpress-faq.com/howto/wordpress-comment-moderation-guide/
+date: 2026-11-19
+lastmod: 2026-11-19
+verdict: Using custom user roles and dedicated plugins provides the most secure and efficient way to manage comment moderation in WordPress.
+confidence: medium
+sources: 5
+schema_type: HowTo
+tags: security, permissions, login
+faq:
+  - q: How can I disable comments on all WordPress posts?
+    a: You can disable comments globally via Settings > Discussion or by using a plugin like Disable Comments to remove them entirely.
+  - q: How do I create a user role that only moderates comments?
+    a: You can use the add_role function in your functions.php file to create a custom role with only the 'moderate_comments' capability.
+  - q: What is the best way to stop comment spam?
+    a: Disable pingbacks, use a dedicated comment management plugin, or turn off comments entirely if they are not required for your site.
+Using custom user roles and dedicated plugins provides the most secure and efficient way to manage comment moderation in WordPress. Based on 5 community reports.
+Linked sources: 5.
+Known Issues Spam accumulation Role permission conflicts Admin access lockout Community Q&amp;A How can I disable comments on all WordPress posts?
+You can disable comments globally via Settings &gt; Discussion or by using a plugin like Disable Comments to remove them entirely.
+How do I create a user role that only moderates comments?
+You can use the add_role function in your functions.php file to create a custom role with only the &lsquo;moderate_comments&rsquo; capability.
+What is the best way to stop comment spam?
+Disable pingbacks, use a dedicated comment management plugin, or turn off comments entirely if they are not required for your site.
+Reddit Sources Hey mods: people preferred the more hands-off moderation approach. Stop laying on the ban hammer. It only makes you look worse. (r/Wordpress) Comment spam (r/Wordpress) Issues With Render Blocking Resources and WP Rocket (r/Wordpress) I can&rsquo;t access admin section of my webpage in order to update wordpress version and edit commenting settings (r/Wordpress) How to have comment moderators without the ability to edit posts? (r/Wordpress)
+---
+
+---
+title: How to Moderate WordPress Comments Effectively
 url: https://wordpress-faq.com/howto/moderate-wordpress-comments/
 date: 2026-08-13
 lastmod: 2026-08-13
@@ -12148,34 +12176,6 @@ You can use the add_role function in your functions.php file to create a custom 
 What is the best way to stop comment spam in WordPress?
 You can disable comments globally in Settings, use a plugin like Disable Comments, or turn off pingbacks to reduce automated spam.
 Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce) Hey mods: people preferred the more hands-off moderation approach. Stop laying on the ban hammer. It only makes you look worse. (r/Wordpress) Comment spam (r/Wordpress) Issues With Render Blocking Resources and WP Rocket (r/Wordpress) I can&rsquo;t access admin section of my webpage in order to update wordpress version and edit commenting settings (r/Wordpress) How to have comment moderators without the ability to edit posts? (r/Wordpress)
----
-
----
-title: How to Moderate WordPress Comments Effectively
-url: https://wordpress-faq.com/howto/wordpress-comment-moderation-guide/
-date: 2026-07-13
-lastmod: 2026-07-13
-verdict: The consensus is to use native WordPress settings combined with a dedicated anti-spam plugin like Akismet for the most efficient moderation workflow.
-confidence: low
-sources: 1
-schema_type: HowTo
-tags: security, performance, widgets
-faq:
-  - q: How do I approve comments in WordPress?
-    a: Navigate to the Comments screen in your dashboard, hover over a comment, and click Approve.
-  - q: How can I stop spam comments on my site?
-    a: Enable comment moderation settings in Discussion settings or install an anti-spam plugin like Akismet.
-  - q: Can I disable comments on specific posts?
-    a: Yes, you can uncheck 'Allow comments' in the Discussion meta box on the individual post edit screen.
-The consensus is to use native WordPress settings combined with a dedicated anti-spam plugin like Akismet for the most efficient moderation workflow. Based on 1 community reports.
-Linked sources: 1.
-Known Issues High volume of spam comments False positives in automated filters Community Q&amp;A How do I approve comments in WordPress?
-Navigate to the Comments screen in your dashboard, hover over a comment, and click Approve.
-How can I stop spam comments on my site?
-Enable comment moderation settings in Discussion settings or install an anti-spam plugin like Akismet.
-Can I disable comments on specific posts?
-Yes, you can uncheck &lsquo;Allow comments&rsquo; in the Discussion meta box on the individual post edit screen.
-Reddit Sources I&rsquo;ve spent the last 4 days doing extreme performance optimization on my site. Insights inside. (r/woocommerce)
 ---
 
 ---
