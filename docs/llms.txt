@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 331 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 332 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 25 articles
@@ -379,6 +379,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Add Custom CSS to WordPress Safely](https://wordpress-faq.com/howto/add-custom-css-wordpress/) — The community recommends using the WordPress Customizer or a child theme to ensure your custom CSS remains intact after theme updates.
 - [How to Add Custom CSS to WordPress Themes](https://wordpress-faq.com/howto/custom-css-wordpress/) — Use browser developer tools to identify correct CSS selectors for specific styling rather than relying on the !important override rule.
 - [How to Add Custom Fields in WordPress Without a Plugin](https://wordpress-faq.com/howto/add-custom-fields-wordpress-no-plugin/) — Adding custom fields manually requires basic PHP knowledge and creating a custom plugin file to register meta boxes and save data securely.
+- [How to Add Custom Fields in WordPress Without Plugins](https://wordpress-faq.com/howto/add-custom-fields-wordpress/) — Adding custom fields manually requires basic knowledge of PHP and the WordPress register_meta function to avoid plugin dependency.
 - [How to Add Custom Fields in WordPress Without Plugins](https://wordpress-faq.com/howto/add-custom-fields-wordpress-without-plugin/) — Adding custom fields manually requires basic PHP knowledge and editing your theme's functions.php file or creating a custom plugin.
 - [How to Add Custom Fields in WordPress Without Plugins](https://wordpress-faq.com/howto/custom-fields-wordpress-no-plugin/) — Adding custom fields manually requires basic PHP knowledge and editing your theme's functions.php file or creating a custom plugin.
 - [How to Add Custom Fonts to WordPress](https://wordpress-faq.com/howto/add-custom-fonts-wordpress/) — The community recommends using a dedicated plugin for ease of use or CSS @font-face for better performance without extra bloat.
