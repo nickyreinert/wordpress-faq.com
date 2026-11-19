@@ -8,10 +8,10 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 26 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 332 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 25 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 226 articles
 - [WordPress Plugin & Tool Reviews](https://wordpress-faq.com/review/) — 64 articles
 - [WordPress Hosting](https://wordpress-faq.com/hosting/) — 50 articles
@@ -954,6 +954,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Market Share and Popularity Analysis](https://wordpress-faq.com/hosting/wordpress-market-share-popularity/) — WordPress remains the most popular CMS due to its massive ecosystem, though hosting quality significantly impacts user satisfaction and site performance.
 - [WordPress Multisite vs Single Site Comparison](https://wordpress-faq.com/comparison/multisite-single-site/) — WordPress Multisite is generally discouraged for most users due to its high maintenance overhead and potential for complex site-wide conflicts.
 - [WordPress Multisite vs Single Site: When to Use Each](https://wordpress-faq.com/comparison/multisite-vs-single-site/) — Use Multisite for managing multiple related sites under one network, while single site is better for independent, standalone website installations.
+- [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/core/pages-vs-posts/) — Posts are for time-sensitive, chronological content while pages are for static, evergreen information that remains constant on your website.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/core/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog flow.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/howto/wordpress-pages-vs-posts/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that remains outside the blog feed.
 - [WordPress Pages vs Posts: Key Differences Explained](https://wordpress-faq.com/comparison/pages-vs-posts-wordpress/) — Posts are for time-sensitive, chronological content, while pages are for static, evergreen information that exists outside the blog timeline.
