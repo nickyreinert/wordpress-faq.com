@@ -9,7 +9,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 ## Sections
 
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 26 articles
-- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 332 articles
+- [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 333 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
 - [WordPress Comparisons](https://wordpress-faq.com/comparison/) — 76 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 226 articles
@@ -464,6 +464,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-site-maintenance/) — Successful maintenance relies on automated backups, regular security audits, and keeping plugin counts low to prevent site regressions.
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance-workflow/) — Successful client site maintenance relies on automated backups, regular security audits, and keeping site-specific logic in micro-plugins.
 - [How to Maintain Client WordPress Sites Effectively](https://wordpress-faq.com/howto/wordpress-client-maintenance/) — Proactive maintenance through security hardening, performance optimization, and standardized workflows is essential for successful client site management.
+- [How to Manage Categories and Tags in WordPress](https://wordpress-faq.com/howto/wordpress-taxonomies-tags/) — Users can manage taxonomies by registering them via code or using plugins to associate tags with multiple custom post types for better organization.
 - [How to Manage Categories and Tags in WordPress](https://wordpress-faq.com/howto/wordpress-categories-tags-management/) — WordPress provides native support for categories and tags, but complex filtering often requires additional plugins or custom taxonomy configurations.
 - [How to Manually Backup and Restore WordPress](https://wordpress-faq.com/howto/wordpress-manual-backup-restore/) — Manual restoration requires correctly mapping your database credentials in wp-config.php and ensuring all site files are properly synced to the server.
 - [How to Manually Migrate a WordPress Site Without Plugins](https://wordpress-faq.com/howto/wordpress-migration-manual/) — Manual migration is a reliable method for experienced users but requires careful handling of database exports and file transfers to avoid errors.

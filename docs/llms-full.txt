@@ -11236,6 +11236,30 @@ Reddit Sources I feel less employable because at work I don&rsquo;t work with Re
 
 ---
 title: How to Manage Categories and Tags in WordPress
+url: https://wordpress-faq.com/howto/wordpress-taxonomies-tags/
+date: 2026-11-19
+lastmod: 2026-11-19
+verdict: Users can manage taxonomies by registering them via code or using plugins to associate tags with multiple custom post types for better organization.
+confidence: medium
+sources: 7
+schema_type: HowTo
+tags: seo, gutenberg, widgets
+faq:
+  - q: How do I associate a taxonomy with multiple custom post types?
+    a: You can associate a taxonomy with multiple post types by using the register_taxonomy function in your theme's functions.php file.
+  - q: Can I remove the default Category and Tag taxonomies?
+    a: Yes, you can unregister default taxonomies using code snippets or plugins to clean up your WordPress admin sidebar interface.
+Users can manage taxonomies by registering them via code or using plugins to associate tags with multiple custom post types for better organization. Based on 7 community reports.
+Linked sources: 7.
+Known Issues Default taxonomies can clutter the admin sidebar Conflicting taxonomy associations across multiple post types Community Q&amp;A How do I associate a taxonomy with multiple custom post types?
+You can associate a taxonomy with multiple post types by using the register_taxonomy function in your theme&rsquo;s functions.php file.
+Can I remove the default Category and Tag taxonomies?
+Yes, you can unregister default taxonomies using code snippets or plugins to clean up your WordPress admin sidebar interface.
+Reddit Sources Can&rsquo;t post with newest WP-Admim site (r/Wordpress) Flower shop SEO &amp; redesign - products question (r/Wordpress) Help on Taxonomies and Relations - How to create global tags to affect multiple CPTs? (r/Wordpress) Paying for a Ecommerce redesign (r/Wordpress) I wanna teach wordpress (r/Wordpress) Remove default &ldquo;Category&rdquo; and &ldquo;Tag&rdquo; taxonomies everywhere, but especially in WordPress Admin Sidebar? (r/Wordpress) Looking to create a cooking website (r/Wordpress)
+---
+
+---
+title: How to Manage Categories and Tags in WordPress
 url: https://wordpress-faq.com/howto/wordpress-categories-tags-management/
 date: 2026-06-02
 lastmod: 2026-06-02
