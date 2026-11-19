@@ -22931,6 +22931,30 @@ Reddit Sources Gutenberg impressions and WordCamp Boston, July 2018 (r/Wordpress
 ---
 
 ---
+title: WordPress Gutenberg and Core Update Features
+url: https://wordpress-faq.com/core/gutenberg-core-update/
+date: 2026-11-19
+lastmod: 2026-11-19
+verdict: Community consensus suggests enabling minor auto-updates for security while manually testing major core releases on complex sites to prevent conflicts.
+confidence: low
+sources: 3
+schema_type: FAQPage
+tags: gutenberg, security, performance, conflict
+faq:
+  - q: Should I enable auto-updates for WordPress core?
+    a: Yes, minor auto-updates are recommended for security, but major versions should be tested on a staging site first.
+  - q: What are the latest features in the Gutenberg editor?
+    a: Recent updates focus on block performance, improved editing workflows, and better integration with modern theme frameworks.
+Community consensus suggests enabling minor auto-updates for security while manually testing major core releases on complex sites to prevent conflicts. Based on 3 community reports.
+Linked sources: 3.
+Known Issues Potential compatibility conflicts with custom themes WYSIWYG editor limitations in specific starter themes Security risks associated with outdated core versions Community Q&amp;A Should I enable auto-updates for WordPress core?
+Yes, minor auto-updates are recommended for security, but major versions should be tested on a staging site first.
+What are the latest features in the Gutenberg editor?
+Recent updates focus on block performance, improved editing workflows, and better integration with modern theme frameworks.
+Reddit Sources Here are 20 tips and tricks for beginners using WordPress: (r/Wordpress) Bootstrap vs Tailwind starter theme (r/ProWordPress) Quick rundown on WordPress 7.0.1: Security patches, fixes, and why it’s worth updating (r/Wordpress)
+---
+
+---
 title: WordPress Gutenberg and Core Update Guide
 url: https://wordpress-faq.com/version/gutenberg-wordpress-updates/
 date: 2026-08-15
