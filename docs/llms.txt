@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress Core & Server](https://wordpress-faq.com/core/) — 26 articles
+- [WordPress Core & Server](https://wordpress-faq.com/core/) — 27 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 334 articles
 - [WordPress News](https://wordpress-faq.com/news/) — 226 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
@@ -931,6 +931,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [WordPress Brute Force Protection: Best Practices](https://wordpress-faq.com/howto/wordpress-brute-force-protection/) — Community consensus suggests combining a robust WAF like Cloudflare with dedicated security plugins for 2FA and login rate limiting to stop attacks.
 - [WordPress Caching Explained: Performance and Optimization](https://wordpress-faq.com/core/wordpress-caching-explained/) — Caching is a critical performance optimization that significantly reduces server load and improves user experience by serving static content.
 - [WordPress Caching Explained: Performance and Speed Basics](https://wordpress-faq.com/howto/wordpress-caching-explained/) — Caching is a critical performance optimization that stores static versions of your site to significantly reduce page load times for visitors.
+- [WordPress Core Update: Changes and Best Practices](https://wordpress-faq.com/core/wordpress-core-update/) — Always test core updates in a staging environment before applying them to your live site to avoid unexpected conflicts or caching issues.
 - [WordPress Core Updates and Version Compatibility](https://wordpress-faq.com/version/wordpress-core-update/) — Keeping WordPress core and PHP versions updated is essential for site security and preventing critical plugin compatibility errors.
 - [WordPress Credits Welcomes More Than 50 Institutions](https://wordpress-faq.com/news/wordpress-credits-welcomes-more-than-50-institutions/) — <no value>
 - [WordPress Database Optimization and Performance Guide](https://wordpress-faq.com/core/wordpress-database-optimization/) — Regular database maintenance and monitoring for autoload bloat are critical for maintaining high performance in large WordPress installations.
