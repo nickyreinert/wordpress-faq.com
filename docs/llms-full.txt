@@ -50,6 +50,25 @@ View Release Post Enhancement – ACF Blocks registered via acf_register_block_t
 ---
 
 ---
+title: Advanced Custom Fields (ACF®) 6.8.12 Released
+url: https://wordpress-faq.com/news/advanced-custom-fields-6-8-12-released/
+date: 2026-11-19
+lastmod: 2026-11-20
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, advanced-custom-fields, release, changelog, news
+What&rsquo;s new in Advanced Custom Fields (ACF®) 6.8.12 Released: 2026-11-19
+Active installations: 2,000,000
+Tested up to WordPress 7.1.5
+Requires PHP 7.4
+Changelog Security – script tags in ACF Block preview HTML, including ones that load an external file, no longer run in the block editor unless the block opts in with allowDangerousPreviewScripts in block.json (or allow_dangerous_preview_scripts in acf_register_block_type()), or the site opts in with the new acf/blocks/allow_dangerous_preview_scripts filter Security – The [acf] shortcode no longer shows fields from draft or private posts referenced by a prefixed ID such as post_123 when used inside an ACF Block, or outside the loop such as in a widget on a 404 or search page Security – Icon Picker fields set to return an icon string no longer reveal the URLs of private Media Library images in the REST API New – ACF now has a new Settings page with a Features tab for turning ACF features on and off without code. In ACF PRO, the License and Updates screens are now tabs on this page. Settings defined in code are shown as “Managed via code” and can’t be changed in the UI New – Developers can add their own tabs, sections and fields to the Settings page with the new acf/settings_page/tabs, acf/settings_page/general/sections and acf/settings_page/general/{$section}/fields filters. The Features tab can be hidden with the new acf/settings/show_settings filter New – ACF Abilities are now enabled by default for all field groups, post types and taxonomies on WordPress 6.9 and later. They can be turned off for each object, or for the whole site from the Settings page. The enable_acf_ai setting has been renamed to enable_abilities, and existing allow_ai_access values are not carried over Enhancement – The “Edit Block” button text on ACF Blocks V3 that turn off the preview with “renderPreview”: false can now be changed with acf.placeholderButtonText in block.json or the new acf/blocks/default_placeholder_button_text filter New – ACF Blocks registered with acf_register_block_type() can now set the InnerBlocks default_block and direct_insert options Enhancement – ACF Abilities now publish valid JSON Schema, so MCP clients such as ChatGPT can discover and use them. Schemas now describe conditional logic, Repeater and Group sub fields, and Flexible Content layouts Enhancement – Breaking change: generated post type and taxonomy ability names now include the object type, so they no longer collide. For example, acf/create-book is now acf/create-book-post and acf/books is now acf/list-book-posts. Agent prompts and MCP configurations that use the old names need updating Enhancement – The acf/field-groups Ability now includes the list of fields within each field group Enhancement – The Date Picker field’s bundled jQuery UI stylesheet has been updated to version 1.14.2 Previous releases 6.8.11
+Security – Custom values submitted to Checkbox, Radio, and Select fields with “Save Custom Values” enabled can no longer corrupt the field’s settings or add HTML attributes to the field’s wrapper. The new acf/fields/allow_append_choices filter can be used to restrict who can add new choices to a field. Thanks to Jakub Herman via WPScan for the responsible disclosure Security – ACF now sanitizes field, field group, post type, taxonomy, and options page settings saved by users without the unfiltered_html capability. For those users, a field’s wrapper settings are limited to width, class, and id. Event handler (on*) attributes in a field’s wrapper setting are no longer output for any field, including fields registered in PHP or local JSON Security – Field values of password-protected posts are no longer shown by the [acf] shortcode, block bindings, JSON-LD output, or the REST API until the password is entered. REST responses also no longer expand a referenced password-protected post into a full post object Security – The [acf] shortcode and ACF block bindings now output only user IDs for User fields, rather than personal data such as names and email addresses. The previous output can be restored with the new acf/bindings/allow_user_data filter Security – Files uploaded through the basic uploader by users without the upload_files capability no longer generate PDF preview images or save embedded audio and video cover art. This can be changed with the new acf/upload/generate_previews filter 6.8.10
+Security – ACF now validates that uploaded PDF files begin with the standard %PDF- header before further processing, rejecting files that do not match the expected format Security – The Relationship, Post Object, Image, Gallery, and File fields now enforce WordPress read permissions on referenced posts and attachments when returned in REST API responses Security – ACF now verifies both preview context and the caller’s edit capability before substituting revision data when field values are retrieved for a post Security – The _acf_form token used by frontend forms now expires and is bound to its issuing render, and acf_encrypt() / acf_decrypt() gain an optional $context argument for domain separation between token uses Security – ACF now consistently runs field validation on frontend form submissions containing field data, ensuring required-field checks and custom acf/validate_value filters cannot be circumvented Source Advanced Custom Fields (ACF®) on WordPress.org
+---
+
+---
 title: Advanced Custom Fields (ACF®) 6.8.6 Released
 url: https://wordpress-faq.com/news/advanced-custom-fields-6-8-6-released/
 date: 2026-07-14
@@ -21720,6 +21739,23 @@ Changelog Fix – Add the missing space between sentences in the footer of back-
 ---
 
 ---
+title: WooCommerce 11.3.1 Released
+url: https://wordpress-faq.com/news/woocommerce-11-3-1-released/
+date: 2026-11-19
+lastmod: 2026-11-20
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, woocommerce, release, changelog, news
+What&rsquo;s new in WooCommerce 11.3.1 Released: 2026-11-19
+Active installations: 7,000,000
+Tested up to WordPress 7.1.5
+Requires PHP 7.4
+Changelog Fix – Apply offline payment gateway shipping method and virtual order restrictions when paying for an existing order through the Store API. Fix – Apply state shipping zones and state tax rates on the classic checkout when the state is entered by name instead of its code. Fix – Apply the right state tax and shipping rates to block checkout orders, and reject states and postcodes that are not valid for the country. Fix – Calculate shipping at checkout when the address town or state is 0. Fix – Checkout link URLs now carry a token that only copies the cart to another browser, without the shopper’s details. Fix – Check that order items match their expected type when updating orders via the REST API. Fix – Correct order detail template version numbers for WooCommerce 11.3.1. Fix – Do not name unpublished products, or their attributes, in add to cart errors Fix – Email confirmation links in My Account now ask for the account password before confirming an address. Fix – Ignore user role, capability, and session keys sent as customer metadata through the REST API. Fix – Improve how coupon usage limits per user are counted at checkout. Fix – Improve how the product page reads variation attribute values. Source WooCommerce on WordPress.org
+---
+
+---
 title: WooCommerce 9.8 Released: HPOS Becomes Default and Checkout Blocks Stable
 url: https://wordpress-faq.com/news/woocommerce-9-8-released/
 date: 2026-05-20
@@ -23497,15 +23533,15 @@ Reddit Sources A checklist I use before launching any new WordPress site (r/Word
 ---
 title: WordPress Plugin & Theme Updates
 url: https://wordpress-faq.com/news/wordpress-plugin-theme-updates/
-date: 2026-11-19
-lastmod: 2026-11-19
+date: 2026-11-20
+lastmod: 2026-11-20
 verdict: <no value>
 confidence: high
 sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
-Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-19.
-Plugin / theme Version Released Type Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin BuddyPress 14.5.6 2026-11-17 plugin Elementor Agent Ready Website Builder 4.4.1 2026-11-16 plugin Kadence Security 10.0.6.1 2026-11-16 plugin SureCart 4.13.1 2026-11-16 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme WooCommerce 11.3.0 2026-11-11 plugin WP Mail SMTP by WPForms 4.10.4 2026-11-11 plugin Contact Form 7 6.2.5 2026-11-10 plugin Wordfence Security 9.1.1 2026-11-10 plugin Rank Math SEO 1.0.282 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin Ninja Forms 3.16.1 2026-11-09 plugin Tutor LMS 4.2.1 2026-11-09 plugin Kadence 1.6.0 2026-11-06 theme LiteSpeed Cache 7.9.3 2026-11-03 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Advanced Custom Fields (ACF®) 6.8.11 2026-11-02 plugin Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-20.
+Plugin / theme Version Released Type WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin BuddyPress 14.5.6 2026-11-17 plugin Elementor Agent Ready Website Builder 4.4.1 2026-11-16 plugin Kadence Security 10.0.6.1 2026-11-16 plugin SureCart 4.13.1 2026-11-16 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme WP Mail SMTP by WPForms 4.10.4 2026-11-11 plugin Contact Form 7 6.2.5 2026-11-10 plugin Wordfence Security 9.1.1 2026-11-10 plugin Rank Math SEO 1.0.282 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin Ninja Forms 3.16.1 2026-11-09 plugin Tutor LMS 4.2.1 2026-11-09 plugin Kadence 1.6.0 2026-11-06 theme LiteSpeed Cache 7.9.3 2026-11-03 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
