@@ -16863,6 +16863,21 @@ Reddit Sources Expert Legal Analysis Of WP vs WPE (r/Wordpress) I Made a Free e-
 ---
 
 ---
+title: Join the WordPress 7.2 Release Celebration Livestream
+url: https://wordpress-faq.com/news/join-the-wordpress-7-2-release-celebration-livestream/
+date: 2026-11-23
+lastmod: 2026-11-23
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+Join the WordPress 7.2 Release Celebration Livestream On December 8, 2026, at 16:00 UTC, contributors to WordPress 7.2 will livestream the release, and you’re invited. Expect demos of what’s new and time to hear from the contributors themselves. Anyone can watch and ask questions. WordPress 7.2 will introduce Ipsum, a new default theme, and a new way to discover posts with /random…
+Announced on the official WordPress.org news blog on 2026-11-23.
+Source Join the WordPress 7.2 Release Celebration Livestream — WordPress.org News
+---
+
+---
 title: Kadence Security 10.0.2 Released
 url: https://wordpress-faq.com/news/ithemes-security-10-0-2-released/
 date: 2026-05-28

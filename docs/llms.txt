@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 233 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 234 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 28 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 334 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
@@ -674,6 +674,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Is WP Engine Good for WordPress Hosting?](https://wordpress-faq.com/hosting/wpengine-hosting/) — WP Engine is considered a reliable managed hosting provider, though some users report frustrations with recent changes to their support services.
 - [iThemes Security Plugin Review and Security Analysis](https://wordpress-faq.com/review/ithemes-security-review/) — iThemes Security is a reliable security plugin, but it must be paired with strong password policies and regular backups to ensure complete site safety.
 - [Jetpack Plugin Review and Performance Analysis](https://wordpress-faq.com/review/jetpack-review/) — Community consensus suggests avoiding Jetpack due to its heavy code footprint, performance degradation, and poor customer support experiences.
+- [Join the WordPress 7.2 Release Celebration Livestream](https://wordpress-faq.com/news/join-the-wordpress-7-2-release-celebration-livestream/) — <no value>
 - [Kadence Security 10.0.2 Released](https://wordpress-faq.com/news/ithemes-security-10-0-2-released/) — <no value>
 - [Kadence Security 10.0.6 Released](https://wordpress-faq.com/news/ithemes-security-10-0-6-released/) — <no value>
 - [Kadence Security 10.0.6.1 Released](https://wordpress-faq.com/news/ithemes-security-10-0-6-1-released/) — <no value>
