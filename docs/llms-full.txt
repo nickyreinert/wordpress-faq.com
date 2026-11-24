@@ -21002,6 +21002,25 @@ Fix: Patched a security vulnerability. Source Tutor LMS on WordPress.org
 ---
 
 ---
+title: Tutor LMS 4.2.2 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-2-2-released/
+date: 2026-11-24
+lastmod: 2026-11-24
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.2.2 Released: 24 Nov, 2026
+Active installations: 90,000
+Tested up to WordPress 7.1.5
+Requires PHP 7.4
+Changelog New: Added a Membership tab to display all courses purchased through membership plans. (Pro) Update: Assignments, comments, and Q&amp;A now show users’ WordPress display names instead of their usernames. Update: Improved translation coverage and compatibility. Update: Optimized overall performance and implemented additional security enhancements. Fix: Fixed an issue where Range-type questions became inaccessible and prevented learners from exiting quizzes after switching from the Modern to Legacy layout. (Pro) Fix: Fixed incorrect learner profile links in Instructor Analytics. (Pro) Fix: Corrected inaccurate refund and discount totals in the Frontend Analytics graph. (Pro) Fix: Prevented unapproved and blocked instructors from submitting withdrawal requests or accessing restricted dashboard sections. (Pro) Fix: Fixed an issue where minimum coupon requirements could be bypassed during checkout. Fix: Fixed a division-by-zero error that occurred when processing orders with a total of $0. Fix: Fixed an issue where clearing a logged-in device from the WordPress login page did not work as expected. (Pro) Fix: Fixed a layout alignment issue caused by category text. Previous releases 4.2.1 — 09 Nov, 2026
+Update: Improved WPML compatibility. (Pro) Fix: Resolved an issue where post content disappeared when switching from a page builder to the native WordPress editor. Fix: Resolved an issue where period filters were not applied correctly to the earnings graph and dashboard reports. (Pro) Fix: Corrected inaccurate course counts in the course export process. (Pro) Fix: Resolved an issue where students could enroll in paused courses under certain circumstances. (Pro) 4.2.0 — 27 Oct, 2026
+New: Added REST API authentication with personalized access tokens. New: Added endpoint-level authorization to ensure REST API operations follow user roles and capabilities. Update: API key permissions for Read, Write, Delete, and All actions are now enforced across Tutor LMS REST API routes. Update: Sensitive learning content routes now require valid enrollment, public access, or instructor/admin permissions. (Pro) Update: Quiz answers are now verified server-side in Reveal Mode to prevent answer exposure. Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -22562,6 +22581,21 @@ Source WordPress 7.2 Release Candidate 1 — WordPress.org News
 ---
 
 ---
+title: WordPress 7.2 Release Candidate 3
+url: https://wordpress-faq.com/news/wordpress-7-2-release-candidate-3/
+date: 2026-11-24
+lastmod: 2026-11-24
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, core, news, release
+WordPress 7.2 Release Candidate 3 Release Candidate 3 (“RC3”) for WordPress 7.2 is ready for download and testing! This version of the WordPress software is still under development. Please do not install, run, or test this version of WordPress on production or mission-critical websites. Instead, it’s recommended to evaluate RC3 on a test server and site. Wait, what happened to…
+Announced on the official WordPress.org news blog on 2026-11-24.
+Source WordPress 7.2 Release Candidate 3 — WordPress.org News
+---
+
+---
 title: WordPress Advantages and Disadvantages Explained
 url: https://wordpress-faq.com/comparison/wordpress-pros-cons/
 date: 2026-07-05
@@ -23662,7 +23696,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-24.
-Plugin / theme Version Released Type Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin SureCart 4.13.2 2026-11-20 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin BuddyPress 14.5.6 2026-11-17 plugin Kadence Security 10.0.6.1 2026-11-16 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme WP Mail SMTP by WPForms 4.10.4 2026-11-11 plugin Wordfence Security 9.1.1 2026-11-10 plugin Rank Math SEO 1.0.282 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin Tutor LMS 4.2.1 2026-11-09 plugin LiteSpeed Cache 7.9.3 2026-11-03 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin LiteSpeed Cache 7.9.4 2026-11-24 plugin WP Mail SMTP by WPForms 4.10.5 2026-11-24 plugin Tutor LMS 4.2.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin SureCart 4.13.2 2026-11-20 plugin WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin BuddyPress 14.5.6 2026-11-17 plugin Kadence Security 10.0.6.1 2026-11-16 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme Wordfence Security 9.1.1 2026-11-10 plugin Rank Math SEO 1.0.282 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
@@ -24712,6 +24746,25 @@ Requires PHP 7.4
 Changelog Changed: Improved the Setup Wizard. Changed: Updated the upgrade flow from WP Mail SMTP Lite to Pro. Previous releases 4.10.3 — 2026-10-20
 Changed: Improved the Setup Wizard steps. 4.10.2 — 2026-10-08
 Changed: Setup Wizard now returns to the Dashboard page instead of Settings when it is finished or closed. Changed: Improved translations across the admin area and the emails the plugin sends. Fixed: A “Class not found” fatal error could occur right after updating the plugin on sites with PHP OPcache enabled. Source WP Mail SMTP by WPForms on WordPress.org
+---
+
+---
+title: WP Mail SMTP by WPForms 4.10.5 Released
+url: https://wordpress-faq.com/news/wp-mail-smtp-4-10-5-released/
+date: 2026-11-24
+lastmod: 2026-11-24
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, wp-mail-smtp, release, changelog, news
+What&rsquo;s new in WP Mail SMTP by WPForms 4.10.5 Released: 2026-11-24
+Active installations: 4,000,000
+Tested up to WordPress 7.1.5
+Requires PHP 7.4
+Changelog Changed: Improved input sanitization and output escaping across admin screens. Previous releases 4.10.4 — 2026-11-11
+Changed: Improved the Setup Wizard. Changed: Updated the upgrade flow from WP Mail SMTP Lite to Pro. 4.10.3 — 2026-10-20
+Changed: Improved the Setup Wizard steps. Source WP Mail SMTP by WPForms on WordPress.org
 ---
 
 ---
