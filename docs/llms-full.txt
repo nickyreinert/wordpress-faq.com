@@ -5365,6 +5365,25 @@ New: Introducing Agent Ready to help prepare websites for AI agents with readine
 ---
 
 ---
+title: Elementor Agent Ready Website Builder 4.4.2 Released
+url: https://wordpress-faq.com/news/elementor-4-4-2-released/
+date: 2026-11-24
+lastmod: 2026-11-24
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, elementor, release, changelog, news
+What&rsquo;s new in Elementor Agent Ready Website Builder 4.4.2 Released: 2026-11-24
+Active installations: 10,000,000
+Tested up to WordPress 7.2
+Requires PHP 7.4
+Changelog Fix: Cached Markdown content may appear instead of the website’s regular pages when Generate website markdown is activated (#37853) Fix: Logged-in users may be unexpectedly redirected to the login page after content changes when Agent Ready is enabled (#38189) Fix: SVG Icon Library picker closes when searching for a different icon in grid view Previous releases 4.4.1 — 2026-11-16
+Tweak: Updated WordPress compatibility to version 7.2 Fix: Improved code security enforcement across attributes, permissions, and data handling Fix: Anchor links scroll to the incorrect section on mobile devices when the page first loads Fix: MCP manual configuration instructions may fail in certain environments Fix: MCP may fail to update valid Atomic elements due to image validation errors 4.4.0 — 2026-11-09
+New: Introducing Agent Ready to help prepare websites for AI agents with readiness scoring, content discovery tools, and bot access controls New: Introducing the SVG Icon Library with Font Awesome 7 support New: Introducing the List element for creating customizable lists with nested items and custom markers New: Introducing the Google Maps element for displaying locations with customizable address and zoom settings Tweak: Added WebMCP support to forms created through Elementor MCP, allowing compatible AI agents to discover and interact with them Source Elementor Agent Ready Website Builder on WordPress.org
+---
+
+---
 title: Elementor and All in One SEO Compatibility Guide
 url: https://wordpress-faq.com/compatibility/all-in-one-seo-elementor/
 date: 2026-05-28
@@ -23643,7 +23662,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-24.
-Plugin / theme Version Released Type Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin SureCart 4.13.2 2026-11-20 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin BuddyPress 14.5.6 2026-11-17 plugin Elementor Agent Ready Website Builder 4.4.1 2026-11-16 plugin Kadence Security 10.0.6.1 2026-11-16 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme WP Mail SMTP by WPForms 4.10.4 2026-11-11 plugin Wordfence Security 9.1.1 2026-11-10 plugin Rank Math SEO 1.0.282 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin Tutor LMS 4.2.1 2026-11-09 plugin LiteSpeed Cache 7.9.3 2026-11-03 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin SureCart 4.13.2 2026-11-20 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin BuddyPress 14.5.6 2026-11-17 plugin Kadence Security 10.0.6.1 2026-11-16 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme WP Mail SMTP by WPForms 4.10.4 2026-11-11 plugin Wordfence Security 9.1.1 2026-11-10 plugin Rank Math SEO 1.0.282 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin Tutor LMS 4.2.1 2026-11-09 plugin LiteSpeed Cache 7.9.3 2026-11-03 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
