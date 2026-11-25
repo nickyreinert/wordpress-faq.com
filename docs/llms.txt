@@ -8,7 +8,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 
 ## Sections
 
-- [WordPress News](https://wordpress-faq.com/news/) — 238 articles
+- [WordPress News](https://wordpress-faq.com/news/) — 239 articles
 - [WordPress Core & Server](https://wordpress-faq.com/core/) — 28 articles
 - [WordPress How-To Guides](https://wordpress-faq.com/howto/) — 334 articles
 - [Plugin Compatibility](https://wordpress-faq.com/compatibility/) — 135 articles
@@ -679,6 +679,7 @@ This site aggregates community knowledge about WordPress. Answers reflect real-w
 - [Kadence Security 10.0.2 Released](https://wordpress-faq.com/news/ithemes-security-10-0-2-released/) — <no value>
 - [Kadence Security 10.0.6 Released](https://wordpress-faq.com/news/ithemes-security-10-0-6-released/) — <no value>
 - [Kadence Security 10.0.6.1 Released](https://wordpress-faq.com/news/ithemes-security-10-0-6-1-released/) — <no value>
+- [Kadence Security 10.0.7 Released](https://wordpress-faq.com/news/ithemes-security-10-0-7-released/) — <no value>
 - [Kadence WordPress Theme Compatibility and Conflicts](https://wordpress-faq.com/compatibility/kadence-wordpress-conflict/) — Kadence is generally stable, but users should monitor for plugin conflicts when using multiple modular features alongside other heavy page builders.
 - [Kadence WordPress Theme Review and Performance Analysis](https://wordpress-faq.com/review/kadence-review/) — Kadence is widely considered a top-tier, lightweight, and highly flexible block-based theme suitable for both beginners and advanced developers.
 - [Kim Parsell Memorial Scholarship Opens for WordCamp US 2026](https://wordpress-faq.com/news/kim-parsell-memorial-scholarship-opens-for-wordcamp-us-2026/) — <no value>
