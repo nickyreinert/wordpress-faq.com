@@ -410,6 +410,25 @@ New: TruSEO now fully supports Elementor, Divi and WPBakery Page Builder: see is
 ---
 
 ---
+title: All in One SEO 5.0.6.1 Released
+url: https://wordpress-faq.com/news/all-in-one-seo-5-0-6-1-released/
+date: 2026-11-25
+lastmod: 2026-11-25
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-seo, release, changelog, news
+What&rsquo;s new in All in One SEO 5.0.6.1 Released: 2026-11-25
+Active installations: 2,000,000
+Tested up to WordPress 7.2
+Requires PHP 7.4
+Changelog Fixed: Google Search Console no longer reports an “Invalid XML tag” error for sitemaps. Previous releases 5.0.6
+Updated: Sitemaps keep their styled, readable browser view now that Chrome is removing XSLT support, and no longer trigger Chrome’s XSLT warning. Updated: The deprecated static sitemap option has been removed, so all sitemaps are now generated dynamically, and “Delete Static Files” now only removes AIOSEO’s own sitemap files. Updated: Importing post and term meta from Yoast SEO now resets AIOSEO fields that were left on Yoast’s defaults (after a confirmation prompt), so they match Yoast. Updated: AI-generated image alt text now uses your site language. Updated: Removed the TruSEO Word complexity check, which always passed and inflated readability scores. 5.0.5.1
+Fixed: Improved security protections for breadcrumb labels. Fixed: Improved security protections for the redirect log search in the Abilities API. Source All in One SEO on WordPress.org
+---
+
+---
 title: All in One SEO Review: Features and Community Consensus
 url: https://wordpress-faq.com/review/all-in-one-seo-review/
 date: 2026-07-22
@@ -3208,6 +3227,25 @@ Requires PHP 5.6
 Changelog See: https://codex.buddypress.org/releases/version-14-5-6/ Previous releases 14.5.4
 See: https://codex.buddypress.org/releases/version-14-5-4/ 14.5.3
 See: https://codex.buddypress.org/releases/version-14-5-3/ Source BuddyPress on WordPress.org
+---
+
+---
+title: BuddyPress 14.5.7 Released
+url: https://wordpress-faq.com/news/buddypress-14-5-7-released/
+date: 2026-11-25
+lastmod: 2026-11-25
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, buddypress, release, changelog, news
+What&rsquo;s new in BuddyPress 14.5.7 Released: 2026-11-25
+Active installations: 90,000
+Tested up to WordPress 7.1.5
+Requires PHP 5.6
+Changelog See: https://codex.buddypress.org/releases/version-14-5-7/ Previous releases 14.5.6
+See: https://codex.buddypress.org/releases/version-14-5-6/ 14.5.4
+See: https://codex.buddypress.org/releases/version-14-5-4/ Source BuddyPress on WordPress.org
 ---
 
 ---
@@ -23732,7 +23770,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-25.
-Plugin / theme Version Released Type Rank Math SEO 1.0.283 2026-11-25 plugin Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin LiteSpeed Cache 7.9.4 2026-11-24 plugin WP Mail SMTP by WPForms 4.10.5 2026-11-24 plugin Kadence Security 10.0.7 2026-11-24 plugin Tutor LMS 4.2.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin SureCart 4.13.2 2026-11-20 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin BuddyPress 14.5.6 2026-11-17 plugin All in One SEO 5.0.5.1 2026-11-13 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme Wordfence Security 9.1.1 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type Rank Math SEO 1.0.283 2026-11-25 plugin All in One SEO 5.0.6.1 2026-11-25 plugin BuddyPress 14.5.7 2026-11-25 plugin Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin LiteSpeed Cache 7.9.4 2026-11-24 plugin WP Mail SMTP by WPForms 4.10.5 2026-11-24 plugin Kadence Security 10.0.7 2026-11-24 plugin Tutor LMS 4.2.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin SureCart 4.13.2 2026-11-20 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme Wordfence Security 9.1.1 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
