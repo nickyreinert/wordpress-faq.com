@@ -722,6 +722,25 @@ Export and import now require the administrator capability. This closes a missin
 ---
 
 ---
+title: All-in-One WP Migration and Backup 7.114 Released
+url: https://wordpress-faq.com/news/all-in-one-wp-migration-7-114-released/
+date: 2026-11-26
+lastmod: 2026-11-26
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, all-in-one-wp-migration, release, changelog, news
+What&rsquo;s new in All-in-One WP Migration and Backup 7.114 Released: 2026-11-26
+Active installations: 5,000,000
+Tested up to WordPress 7.2
+Requires PHP 5.3
+Changelog Improved access checks on admin pages. Credits to Gen Sato for reporting it Some settings could break after import when they contained the database table prefix. Credits to Jakub Herman for reporting it Search and replace could break or empty some stored settings. Credits to Jakub Herman for reporting it Backups in subfolders could not be managed through the REST API Previous releases 7.113
+Restoring a backup on sites using SQLite Database Integration could leave the site on an empty or corrupted database 7.112
+Scheduled backups stopping without an error on hosts that limit concurrent requests Exported databases with empty binary or blob values could not be read by tools outside the plugin Source All-in-One WP Migration and Backup on WordPress.org
+---
+
+---
 title: All-in-One WP Migration Plugin Review
 url: https://wordpress-faq.com/review/all-in-one-wp-migration-review/
 date: 2026-06-07
@@ -21114,6 +21133,25 @@ New: Added REST API authentication with personalized access tokens. New: Added e
 ---
 
 ---
+title: Tutor LMS 4.2.3 Released
+url: https://wordpress-faq.com/news/tutor-lms-4-2-3-released/
+date: 2026-11-26
+lastmod: 2026-11-26
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, tutor-lms, release, changelog, news
+What&rsquo;s new in Tutor LMS 4.2.3 Released: 26 Nov, 2026
+Active installations: 90,000
+Tested up to WordPress 7.1.5
+Requires PHP 7.4
+Changelog Fix: Resolved an issue where students were unable to access the discussion page. Previous releases 4.2.2 — 24 Nov, 2026
+New: Added a Membership tab to display all courses purchased through membership plans. (Pro) Update: Assignments, comments, and Q&amp;A now show users’ WordPress display names instead of their usernames. Update: Improved translation coverage and compatibility. Update: Optimized overall performance and implemented additional security enhancements. Fix: Fixed an issue where Range-type questions became inaccessible and prevented learners from exiting quizzes after switching from the Modern to Legacy layout. (Pro) 4.2.1 — 09 Nov, 2026
+Update: Improved WPML compatibility. (Pro) Fix: Resolved an issue where post content disappeared when switching from a page builder to the native WordPress editor. Fix: Resolved an issue where period filters were not applied correctly to the earnings graph and dashboard reports. (Pro) Fix: Corrected inaccurate course counts in the course export process. (Pro) Fix: Resolved an issue where students could enroll in paused courses under certain circumstances. (Pro) Source Tutor LMS on WordPress.org
+---
+
+---
 title: Two-Factor Authentication for WordPress Security
 url: https://wordpress-faq.com/compatibility/two-factor-authentication-wordpress/
 date: 2026-08-12
@@ -23808,7 +23846,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-26.
-Plugin / theme Version Released Type W3 Total Cache 2.11.1 2026-11-26 plugin SureCart 4.14.0 2026-11-26 plugin Rank Math SEO 1.0.283 2026-11-25 plugin All in One SEO 5.0.6.1 2026-11-25 plugin BuddyPress 14.5.7 2026-11-25 plugin Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin LiteSpeed Cache 7.9.4 2026-11-24 plugin WP Mail SMTP by WPForms 4.10.5 2026-11-24 plugin Kadence Security 10.0.7 2026-11-24 plugin Tutor LMS 4.2.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme Wordfence Security 9.1.1 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type All-in-One WP Migration and Backup 7.114 2026-11-26 plugin W3 Total Cache 2.11.1 2026-11-26 plugin Tutor LMS 4.2.3 2026-11-26 plugin SureCart 4.14.0 2026-11-26 plugin Rank Math SEO 1.0.283 2026-11-25 plugin All in One SEO 5.0.6.1 2026-11-25 plugin BuddyPress 14.5.7 2026-11-25 plugin Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin LiteSpeed Cache 7.9.4 2026-11-24 plugin WP Mail SMTP by WPForms 4.10.5 2026-11-24 plugin Kadence Security 10.0.7 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme Wordfence Security 9.1.1 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin Autoptimize 3.1.17 2026-10-25 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
