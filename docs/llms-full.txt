@@ -19160,6 +19160,25 @@ New: Multiple tax components. A manual tax rate can be split into up to 5 named 
 ---
 
 ---
+title: SureCart 4.14.0 Released
+url: https://wordpress-faq.com/news/surecart-4-14-0-released/
+date: 2026-11-26
+lastmod: 2026-11-26
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, surecart, release, changelog, news
+What&rsquo;s new in SureCart 4.14.0 Released: November 26th, 2026
+Active installations: 70,000
+Tested up to WordPress 7.2
+Requires PHP 7.4
+Changelog New: International Shippo shipping labels now include a customs declaration, so they can be bought. Products and variants have new HS code, country of origin and manufacturer code fields. New: Each price can set its own proration method, which decides how much credit customers get for their current plan when they switch to that price. Admins can override it for a single immediate update on the subscription edit screen. Improvement: Removed Premium tags and upgrade prompts from the WordPress admin, so every feature can be used without unlocking it first. Improvement: New installs use the customizable, block-based Instant Checkout by default. Existing stores keep their current setting. Improvement: The setup guide’s “Add a product” step now completes for stores that keep priced products as drafts and sell through buy links. Improvement: Failed media uploads now show the reason, for example when the file is too large, and the media library links to the storage limits. Improvement: The proration line item is now labeled “Proration Credit” in orders, invoices and the customer dashboard. Improvement: Blocks and admin screens are ready for React 19. Fix: Closing a Stripe QR payment window (such as PayNow, PromptPay or WeChat Pay) without paying showed the order success screen. Fix: Quick Add buttons, product review buttons and other blocks could stop working on WordPress 7.2. Fix: Tutor LMS students could get duplicate enrollment emails after a purchase. Fix: A purchase on a Classic buy page could leave an extra test mode draft checkout. Previous releases 4.13.2 — November 20th, 2026
+Fix: Searchable dropdown selectors in the admin could stop working on WordPress 7.1.5. 4.13.1 — November 16th, 2026
+New: Duplicate coupons, order bumps and upsell funnels from their list or edit screen. Duplicated coupons don’t copy promotion codes, and duplicated upsell funnels start disabled. Improvement: The “No Thanks” opt-out link under the checkout email field can now be changed under Settings → Abandoned Checkout → GDPR Settings. Improvement: Shop Managers can now open SureCart Settings and manage store settings. Admin-only tabs such as Connection, Advanced, Payment Processors and AI Assistants stay hidden. Improvement: Shipping labels can be created without a recipient phone number, because some carriers (such as USPS domestic) don’t need one. A note recommends adding it, since most carriers do. Fix: Customer links that include a page path, such as checkout or subscription links from SureCart-powered apps, opened the customer dashboard home instead of the requested page since 4.11.0. Source SureCart on WordPress.org
+---
+
+---
 title: SureCart 4.6.1 Released
 url: https://wordpress-faq.com/news/surecart-4-6-1-released/
 date: 2026-07-22
@@ -21526,6 +21545,25 @@ Fix: Database Cluster: Restore placeholder unescape so admin searches with wildc
 ---
 
 ---
+title: W3 Total Cache 2.11.1 Released
+url: https://wordpress-faq.com/news/w3-total-cache-2-11-1-released/
+date: 2026-11-26
+lastmod: 2026-11-26
+verdict: <no value>
+confidence: high
+sources: 1
+schema_type: NewsArticle
+tags: wordpress, w3-total-cache, release, changelog, news
+What&rsquo;s new in W3 Total Cache 2.11.1 Released: 2026-11-26
+Active installations: 800,000
+Tested up to WordPress 7.2
+Requires PHP 7.4
+Changelog Feature: CDN: Sign S3 Compatible requests with Signature Version 4 Enhancement: CDN: Default new FTP CDN configurations to FTPS Enhancement: Object Cache: Skip Redis when it is down or misconfigured and replay skipped invalidations after it recovers Enhancement: Memcached: Keep cache item keys within driver length limits Enhancement: Lazy Load: Leave fetchpriority=”high” images out of lazy load by default Enhancement: Developers: Apply the w3tc_environment_get_required_rules filter to Minify cache rules Fix: Page Cache: Skip page cache writes for 403 responses Fix: Page Cache: Match cookie group expressions the same way in PHP, Apache, and Nginx rules and keep the first matching group Fix: Page Cache: Apply accept and reject URI rules to the request path Fix: Page Cache: Skip shared caching for responses that set cookies and for requests that carry HTTP authorization headers Fix: Page Cache: Count the HTML browser lifetime from cache hit time Fix: Page Cache: Keep identical Disk: Enhanced HTML in place so browsers do not download an unchanged page again Previous releases 2.11.0
+Feature: Extensions: Add the CloudLinux Max Cache extension Update: Licensing: Store the license JWT and call the v2 APIs Fix: REST API Cache: Clear a retained REST cache mode when Pro is inactive Fix: Minify: Keep automatic minify file names to the hash and extension Fix: Minify: Use a per-request id for HTML minify placeholders 2.10.7
+Feature: Minify: Cache selected external scripts locally for auto minify Feature: Page Cache: Add a one-pass mode for sitemap cache preload Enhancement: Developers: Add a generated reference of supported actions and filters Fix: Browser Cache: Constrain unquoted URL rewriting when removing query strings from static resources Fix: Page Cache: Remove the expired role-cookie compatibility path and skip caching for rejected roles Source W3 Total Cache on WordPress.org
+---
+
+---
 title: W3 Total Cache Plugin Review and Performance Analysis
 url: https://wordpress-faq.com/review/w3-total-cache-review/
 date: 2026-06-07
@@ -23770,7 +23808,7 @@ sources: 1
 schema_type: CollectionPage
 tags: wordpress, plugins, themes, updates, news
 Latest versions of popular WordPress plugins and themes Version data pulled directly from the WordPress.org API on 2026-11-26.
-Plugin / theme Version Released Type Rank Math SEO 1.0.283 2026-11-25 plugin All in One SEO 5.0.6.1 2026-11-25 plugin BuddyPress 14.5.7 2026-11-25 plugin Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin LiteSpeed Cache 7.9.4 2026-11-24 plugin WP Mail SMTP by WPForms 4.10.5 2026-11-24 plugin Kadence Security 10.0.7 2026-11-24 plugin Tutor LMS 4.2.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin SureCart 4.13.2 2026-11-20 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme Wordfence Security 9.1.1 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin W3 Total Cache 2.11.0 2026-10-20 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
+Plugin / theme Version Released Type W3 Total Cache 2.11.1 2026-11-26 plugin SureCart 4.14.0 2026-11-26 plugin Rank Math SEO 1.0.283 2026-11-25 plugin All in One SEO 5.0.6.1 2026-11-25 plugin BuddyPress 14.5.7 2026-11-25 plugin Elementor Agent Ready Website Builder 4.4.2 2026-11-24 plugin LiteSpeed Cache 7.9.4 2026-11-24 plugin WP Mail SMTP by WPForms 4.10.5 2026-11-24 plugin Kadence Security 10.0.7 2026-11-24 plugin Tutor LMS 4.2.2 2026-11-24 plugin Contact Form 7 6.2.6 2026-11-23 plugin Ninja Forms 3.16.2 2026-11-23 plugin Kadence 1.6.0.1 2026-11-20 theme WooCommerce 11.3.1 2026-11-19 plugin Advanced Custom Fields (ACF®) 6.8.12 2026-11-19 plugin Yoast SEO 28.9 2026-11-18 plugin UpdraftPlus 1.26.16 2026-11-18 plugin All-In-One Security (AIOS) 5.5.1 2026-11-18 plugin Blocksy 2.1.62 2026-11-13 theme Astra 4.14.3 2026-11-12 theme Wordfence Security 9.1.1 2026-11-10 plugin Polylang 3.9.2 2026-11-09 plugin MC4WP 4.15.0 2026-11-03 plugin Hello Elementor 3.5.2 2026-11-03 theme Fluent Forms 6.2.17 2026-11-02 plugin Easy Digital Downloads 3.7.3 2026-11-02 plugin All-in-One WP Migration and Backup 7.113 2026-10-27 plugin Autoptimize 3.1.17 2026-10-25 plugin Sucuri Security 2.8.1 2026-10-14 plugin GeneratePress 3.6.1 2025-12-01 theme Source WordPress.org Plugin Directory WordPress.org Theme Directory
 ---
 
 ---
