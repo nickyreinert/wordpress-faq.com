@@ -11969,6 +11969,30 @@ Reddit Sources Moving our website to wordpress.org AND changing the domain (r/Wo
 
 ---
 title: How to Migrate WordPress to Flywheel Hosting
+url: https://wordpress-faq.com/howto/migrate-wordpress-to-flywheel/
+date: 2026-11-28
+lastmod: 2026-11-28
+verdict: Migrating to Flywheel is best achieved using their dedicated migration plugin or by contacting their support team for a seamless site transfer process.
+confidence: low
+sources: 1
+schema_type: HowTo
+tags: migration, hosting, database
+faq:
+  - q: How do I migrate my WordPress site to Flywheel?
+    a: You can use the Flywheel Migrations plugin or request a free migration from their support team by providing your current site credentials.
+  - q: Do I need to manually move my database to Flywheel?
+    a: No, Flywheel's migration service handles the database transfer automatically to ensure all site settings and content are preserved correctly.
+Migrating to Flywheel is best achieved using their dedicated migration plugin or by contacting their support team for a seamless site transfer process. Based on 1 community reports.
+Linked sources: 1.
+Known Issues Database connection errors during manual migration Potential multisite configuration conflicts Community Q&amp;A How do I migrate my WordPress site to Flywheel?
+You can use the Flywheel Migrations plugin or request a free migration from their support team by providing your current site credentials.
+Do I need to manually move my database to Flywheel?
+No, Flywheel&rsquo;s migration service handles the database transfer automatically to ensure all site settings and content are preserved correctly.
+Reddit Sources Noob Question - Design around active DB? (r/webdev)
+---
+
+---
+title: How to Migrate WordPress to Flywheel Hosting
 url: https://wordpress-faq.com/howto/flywheel-migration/
 date: 2026-10-28
 lastmod: 2026-10-28
